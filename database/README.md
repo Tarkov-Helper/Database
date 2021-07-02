@@ -1,0 +1,1 @@
+This directory was downloaded from [Single Player Tarkov](https://www.sp-tarkov.com/#download) and I do not take any credit from it 
