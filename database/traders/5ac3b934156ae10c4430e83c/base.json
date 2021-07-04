@@ -1,5 +1,6 @@
 {
     "_id": "5ac3b934156ae10c4430e83c",
+    "working": true,
     "customization_seller": true,
     "name": "Аршавир Саркисович",
     "surname": "Абрамян",
@@ -9,12 +10,12 @@
     "balance_rub": 80000000,
     "balance_dol": 0,
     "balance_eur": 0,
-    "unlockedByDefault": true,
+    "display": true,
     "discount": 0,
     "discount_end": 0,
     "buyer_up": false,
     "currency": "RUB",
-    "nextResupply": 1615141448,
+    "supply_next_time": 1615141448,
     "repair": {
         "availability": false,
         "quality": "1",
@@ -34,48 +35,53 @@
     },
     "medic": false,
     "gridHeight": 200,
-    "loyaltyLevels": [
-        {
-            "minLevel": 1,
-            "minSalesSum": 0,
-            "minStanding": 0,
-            "buy_price_coef": 38,
-            "repair_price_coef": 175,
-            "insurance_price_coef": 10,
-            "exchange_price_coef": 0,
-            "heal_price_coef": 0
-        },
-        {
-            "minLevel": 15,
-            "minSalesSum": 750000,
-            "minStanding": 0,
-            "buy_price_coef": 38,
-            "repair_price_coef": 170,
-            "insurance_price_coef": 9,
-            "exchange_price_coef": 0,
-            "heal_price_coef": 0
-        },
-        {
-            "minLevel": 30,
-            "minSalesSum": 1600000,
-            "minStanding": 0.3,
-            "buy_price_coef": 38,
-            "repair_price_coef": 165,
-            "insurance_price_coef": 8,
-            "exchange_price_coef": 0,
-            "heal_price_coef": 0
-        },
-        {
-            "minLevel": 40,
-            "minSalesSum": 2500000,
-            "minStanding": 0.6,
-            "buy_price_coef": 38,
-            "repair_price_coef": 160,
-            "insurance_price_coef": 7,
-            "exchange_price_coef": 0,
-            "heal_price_coef": 0
+    "loyalty": {
+        "currentLevel": 1,
+        "currentStanding": 0,
+        "currentSalesSum": 0,
+        "loyaltyLevels": {
+            "0": {
+                "minLevel": 1,
+                "minSalesSum": 0,
+                "minStanding": 0,
+                "buy_price_coef": 38,
+                "repair_price_coef": 175,
+                "insurance_price_coef": 10,
+                "exchange_price_coef": 0,
+                "heal_price_coef": 0
+            },
+            "1": {
+                "minLevel": 15,
+                "minSalesSum": 750000,
+                "minStanding": 0,
+                "buy_price_coef": 38,
+                "repair_price_coef": 170,
+                "insurance_price_coef": 9,
+                "exchange_price_coef": 0,
+                "heal_price_coef": 0
+            },
+            "2": {
+                "minLevel": 30,
+                "minSalesSum": 1600000,
+                "minStanding": 0.3,
+                "buy_price_coef": 38,
+                "repair_price_coef": 165,
+                "insurance_price_coef": 8,
+                "exchange_price_coef": 0,
+                "heal_price_coef": 0
+            },
+            "3": {
+                "minLevel": 40,
+                "minSalesSum": 2500000,
+                "minStanding": 0.6,
+                "buy_price_coef": 38,
+                "repair_price_coef": 160,
+                "insurance_price_coef": 7,
+                "exchange_price_coef": 0,
+                "heal_price_coef": 0
+            }
         }
-    ],
+    },
     "sell_category": [
 		"5b47574386f77428ca22b33f"
 	]

@@ -24,8 +24,9 @@
 						"BotDifficulty": "easy",
 						"Experience": -1
 					},
+					"NeedWipe": false,
+					"GlobalWipe": false,
 					"NicknameChangeDate": 0,
-					"IsStreamerModeAvailable": false,
 					"Bans": []
 				},
 				"Customization": {
@@ -2713,7 +2714,7 @@
 					"Notes": []
 				},
 				"Quests": [],
-				"TradersInfo": {},
+				"TraderStandings": {},
 				"RagfairInfo": {
 					"rating": 0.2,
 					"isRatingGrowing": true,
@@ -2756,8 +2757,9 @@
 						"BotDifficulty": "easy",
 						"Experience": -1
 					},
+					"NeedWipe": false,
+					"GlobalWipe": false,
 					"NicknameChangeDate": 0,
-					"IsStreamerModeAvailable": false,
 					"Bans": []
 				},
 				"Customization": {
@@ -5650,7 +5652,7 @@
 					"Notes": []
 				},
 				"Quests": [],
-				"TradersInfo": {},
+				"TraderStandings": {},
 				"RagfairInfo": {
 					"rating": 0.2,
 					"isRatingGrowing": true,
@@ -5695,8 +5697,9 @@
 						"BotDifficulty": "easy",
 						"Experience": -1
 					},
+					"NeedWipe": false,
+					"GlobalWipe": false,
 					"NicknameChangeDate": 0,
-					"IsStreamerModeAvailable": false,
 					"Bans": []
 				},
 				"Customization": {
@@ -8987,7 +8990,7 @@
 					"Notes": []
 				},
 				"Quests": [],
-				"TradersInfo": {},
+				"TraderStandings": {},
 				"RagfairInfo": {
 					"rating": 0.2,
 					"isRatingGrowing": true,
@@ -9030,8 +9033,9 @@
 						"BotDifficulty": "easy",
 						"Experience": -1
 					},
+					"NeedWipe": false,
+					"GlobalWipe": false,
 					"NicknameChangeDate": 0,
-					"IsStreamerModeAvailable": false,
 					"Bans": []
 				},
 				"Customization": {
@@ -12429,7 +12433,7 @@
 					"Notes": []
 				},
 				"Quests": [],
-				"TradersInfo": {},
+				"TraderStandings": {},
 				"RagfairInfo": {
 					"rating": 0.2,
 					"isRatingGrowing": true,
@@ -12474,8 +12478,9 @@
 						"BotDifficulty": "easy",
 						"Experience": -1
 					},
+					"NeedWipe": false,
+					"GlobalWipe": false,
 					"NicknameChangeDate": 0,
-					"IsStreamerModeAvailable": false,
 					"Bans": []
 				},
 				"Customization": {
@@ -16277,7 +16282,7 @@
 					"Notes": []
 				},
 				"Quests": [],
-				"TradersInfo": {},
+				"TraderStandings": {},
 				"RagfairInfo": {
 					"rating": 0.2,
 					"isRatingGrowing": true,
@@ -16320,8 +16325,9 @@
 						"BotDifficulty": "easy",
 						"Experience": -1
 					},
+					"NeedWipe": false,
+					"GlobalWipe": false,
 					"NicknameChangeDate": 0,
-					"IsStreamerModeAvailable": false,
 					"Bans": []
 				},
 				"Customization": {
@@ -20264,7 +20270,7 @@
 					"Notes": []
 				},
 				"Quests": [],
-				"TradersInfo": {},
+				"TraderStandings": {},
 				"RagfairInfo": {
 					"rating": 0.2,
 					"isRatingGrowing": true,
@@ -20309,8 +20315,9 @@
 						"BotDifficulty": "easy",
 						"Experience": -1
 					},
+					"NeedWipe": false,
+					"GlobalWipe": false,
 					"NicknameChangeDate": 0,
-					"IsStreamerModeAvailable": false,
 					"Bans": []
 				},
 				"Customization": {
@@ -24728,7 +24735,7 @@
 					"Notes": []
 				},
 				"Quests": [],
-				"TradersInfo": {},
+				"TraderStandings": {},
 				"RagfairInfo": {
 					"rating": 0.2,
 					"isRatingGrowing": true,
@@ -24771,8 +24778,9 @@
 						"BotDifficulty": "easy",
 						"Experience": -1
 					},
+					"NeedWipe": false,
+					"GlobalWipe": false,
 					"NicknameChangeDate": 0,
-					"IsStreamerModeAvailable": false,
 					"Bans": []
 				},
 				"Customization": {
@@ -29301,7 +29309,7 @@
 					"Notes": []
 				},
 				"Quests": [],
-				"TradersInfo": {},
+				"TraderStandings": {},
 				"RagfairInfo": {
 					"rating": 0.2,
 					"isRatingGrowing": true,

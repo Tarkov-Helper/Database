@@ -1,5 +1,6 @@
 {
     "_id": "579dc571d53a0658a154fbec",
+    "working": true,
     "customization_seller": false,
     "name": "<Настоящее имя неизвестно>",
     "surname": "Fence",
@@ -9,12 +10,12 @@
     "balance_rub": 500000,
     "balance_dol": 0,
     "balance_eur": 0,
-    "unlockedByDefault": true,
+    "display": true,
     "discount": 0,
     "discount_end": 0,
     "buyer_up": true,
     "currency": "RUB",
-    "nextResupply": 1615137683,
+    "supply_next_time": 1615137683,
     "repair": {
         "availability": false,
         "quality": "2",
@@ -34,18 +35,23 @@
     },
     "medic": false,
     "gridHeight": 120,
-    "loyaltyLevels": [
-        {
-            "minLevel": 1,
-            "minSalesSum": 0,
-            "minStanding": 0,
-            "buy_price_coef": 60,
-            "repair_price_coef": 0,
-            "insurance_price_coef": 0,
-            "exchange_price_coef": 0,
-            "heal_price_coef": 0
+    "loyalty": {
+        "currentLevel": 1,
+        "currentStanding": 0,
+        "currentSalesSum": 0,
+        "loyaltyLevels": {
+            "0": {
+                "minLevel": 1,
+                "minSalesSum": 0,
+                "minStanding": 0,
+                "buy_price_coef": 60,
+                "repair_price_coef": 0,
+                "insurance_price_coef": 0,
+                "exchange_price_coef": 0,
+                "heal_price_coef": 0
+            }
         }
-    ],
+    },
     "sell_category": [
 		"5b47574386f77428ca22b33e",
 		"5b47574386f77428ca22b33f",

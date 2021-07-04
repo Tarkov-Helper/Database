@@ -103,8 +103,7 @@
 					},
 					"Radius": 10
 				}
-			},
-			"BotZoneName": ""
+			}
 		},
 		{
 			"Id": "f92541a9-08ab-4c9e-957a-d802e143b705",
@@ -132,8 +131,7 @@
 					},
 					"Radius": 10
 				}
-			},
-			"BotZoneName": ""
+			}
 		},
 		{
 			"Id": "faf351a1-e5f5-4642-8ece-267508fdfea6",
@@ -162,8 +160,7 @@
 					},
 					"Radius": 10
 				}
-			},
-			"BotZoneName": ""
+			}
 		}
 	],
 	"maxItemCountInLocation": [

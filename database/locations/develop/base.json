@@ -78,9 +78,9 @@
 	"GlobalLootChanceModifier": 1,
 	"OldSpawn": true,
 	"NewSpawn": false,
-	"BotMax": 5,
-	"BotStart": 30,
-	"BotStop": 2400,
+	"BotMax": 0,
+	"BotStart": 0,
+	"BotStop": 0,
 	"BotMaxTimePlayer": 0,
 	"BotSpawnTimeOnMin": 0,
 	"BotSpawnTimeOnMax": 0,
@@ -237,8 +237,7 @@
 						"z": 2.14
 					}
 				}
-			},
-			"BotZoneName": ""
+			}
 		},
 		{
 			"Id": "0da5b986-424a-44d1-906a-1d7cc118413a",
@@ -270,8 +269,7 @@
 						"z": 2.14
 					}
 				}
-			},
-			"BotZoneName": ""
+			}
 		},
 		{
 			"Id": "110e3c75-e58d-461c-ab61-9f6a715ca6b1",
@@ -303,8 +301,7 @@
 						"z": 2.14
 					}
 				}
-			},
-			"BotZoneName": ""
+			}
 		},
 		{
 			"Id": "1a40138b-6f65-4866-bad2-64162d7772de",
@@ -336,8 +333,7 @@
 						"z": 2.14
 					}
 				}
-			},
-			"BotZoneName": ""
+			}
 		},
 		{
 			"Id": "3feb492c-8c45-405a-8e7a-8dd903433eb0",
@@ -369,8 +365,7 @@
 						"z": 2.14
 					}
 				}
-			},
-			"BotZoneName": ""
+			}
 		},
 		{
 			"Id": "52d3284b-0e8f-47e8-a7d1-701bf4cd8e5b",
@@ -402,8 +397,7 @@
 						"z": 2.14
 					}
 				}
-			},
-			"BotZoneName": ""
+			}
 		},
 		{
 			"Id": "870629fd-e4d5-4fa1-8274-94c223ad9692",
@@ -435,8 +429,7 @@
 						"z": 2.14
 					}
 				}
-			},
-			"BotZoneName": ""
+			}
 		},
 		{
 			"Id": "93a1c6d6-1379-43e6-99c2-c346178bb3e0",
@@ -468,8 +461,7 @@
 						"z": 2.14
 					}
 				}
-			},
-			"BotZoneName": ""
+			}
 		},
 		{
 			"Id": "971882ef-596f-4419-acfb-ca2bfe52d043",
@@ -497,8 +489,7 @@
 					},
 					"Radius": 4
 				}
-			},
-			"BotZoneName": ""
+			}
 		},
 		{
 			"Id": "cf24125e-1c3a-457e-a024-613a8df98b06",
@@ -530,8 +521,7 @@
 						"z": 2.14
 					}
 				}
-			},
-			"BotZoneName": ""
+			}
 		},
 		{
 			"Id": "d052b031-b477-465f-8913-ae108c9ca2c3",
@@ -563,8 +553,7 @@
 						"z": 2.14
 					}
 				}
-			},
-			"BotZoneName": ""
+			}
 		}
 	],
 	"maxItemCountInLocation": [],

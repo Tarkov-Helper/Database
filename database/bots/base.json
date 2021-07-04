@@ -1,12 +1,12 @@
 {
-	"_id": "60d58d34ecba59663d525521",
+	"_id": "5dcad04b30b2d43eb64ddab1",
 	"aid": 0,
 	"savage": null,
 	"Info": {
-		"Nickname": "Пахан Чебур",
+		"Nickname": "Тимурка Предатель",
 		"LowerNickname": "",
 		"Side": "Savage",
-		"Voice": "Scav_4",
+		"Voice": "Scav_2",
 		"Level": 1,
 		"Experience": 0,
 		"RegistrationDate": 0,
@@ -17,26 +17,24 @@
 		"SavageLockTime": 0,
 		"LastTimePlayedAsSavage": 0,
 		"Settings": {
-			"Role": "marksman",
-			"BotDifficulty": "hard",
+			"Role": "assault",
+			"BotDifficulty": "easy",
 			"Experience": -1
 		},
 		"NeedWipe": false,
 		"GlobalWipe": false,
-		"NicknameChangeDate": 0,
-		"BannedState": false,
-		"BannedUntil": 0
+		"NicknameChangeDate": 0
 	},
 	"Customization": {
 		"Head": "5cc2e4d014c02e000d0115f8",
-		"Body": "5fd22d311add82653b5a704c",
+		"Body": "5cde9f337d6c8b0474535da8",
 		"Feet": "5cde9fb87d6c8b0474535da9",
-		"Hands": "5fd7901bdd870108a754c0e6"
+		"Hands": "5cc2e68f14c02e28b47de290"
 	},
 	"Health": {},
 	"Inventory": {},
 	"Skills": {
-		"Common": [],
+		"Common": null,
 		"Mastering": [],
 		"Points": 0
 	},
@@ -64,8 +62,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 1,
@@ -74,8 +71,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 2,
@@ -84,8 +80,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 3,
@@ -94,8 +89,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 4,
@@ -104,8 +98,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 5,
@@ -114,8 +107,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 6,
@@ -124,8 +116,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 7,
@@ -134,8 +125,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 8,
@@ -144,8 +134,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 9,
@@ -154,8 +143,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 10,
@@ -164,8 +152,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 11,
@@ -174,8 +161,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 12,
@@ -184,8 +170,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 13,
@@ -194,8 +179,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 14,
@@ -204,8 +188,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 15,
@@ -214,8 +197,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 16,
@@ -224,8 +206,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 17,
@@ -234,8 +215,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 18,
@@ -244,8 +224,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 19,
@@ -254,8 +233,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			},
 			{
 				"type": 20,
@@ -264,18 +242,7 @@
 				"passiveBonusesEnabled": true,
 				"completeTime": 0,
 				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
-			},
-			{
-				"type": 21,
-				"level": 0,
-				"active": true,
-				"passiveBonusesEnabled": true,
-				"completeTime": 0,
-				"constructing": false,
-				"slots": [],
-				"lastRecipe": null
+				"slots": []
 			}
 		]
 	},
