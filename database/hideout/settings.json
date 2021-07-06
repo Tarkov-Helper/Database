@@ -1,6 +1,6 @@
 {
-	"generatorSpeedWithoutFuel": 0.1,
-	"generatorFuelFlowRate": 0.0012083333333333,
-	"airFilterUnitFlowRate": 0.0041666666666667,
-	"gpuBoostRate": 0.044225
+	"generatorSpeedWithoutFuel": 0.07,
+	"generatorFuelFlowRate": 0.0013194444444444,
+	"airFilterUnitFlowRate": 0.0047222222222222,
+	"gpuBoostRate": 0.041225
 }

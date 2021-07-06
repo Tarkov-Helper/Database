@@ -1,4 +1,758 @@
 {
+	"60c0c018f7afb4354815096a": {
+        "_id": "60c0c018f7afb4354815096a",
+        "traderId": "5c0647fdd443bc2504c2d371",
+        "location": "55f2d3fd4bdc2d5f408b4567",
+        "image": "/files/quest/icon/5c7eb06188a4504aae56deb7.png",
+        "type": "Elimination",
+        "isKey": false,
+        "restartable": false,
+        "instantComplete": false,
+        "secretQuest": false,
+        "min_level": 1,
+        "canShowNotificationsInGame": true,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SurplusRoubles",
+                    "value": "40000",
+                    "id": "PlaceHolder1",
+                    "type": "Item",
+                    "index": 0,
+                    "items": [
+                        {
+                            "_id": "SurplusRoubles",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40000
+                            }
+                        }
+                    ]
+                },
+                {
+					"value": "7500",
+					"id": "5c989b9d86f7745aa234628c",
+					"type": "Experience",
+					"index": 1
+				},
+				{
+					"target": "5c0647fdd443bc2504c2d371",
+					"value": "0.02",
+					"type": "TraderStanding",
+					"index": 2,
+					"id": "PlaceHolder2"
+				}
+            ],
+            "Fail": []
+        },
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Level",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "value": "1",
+                        "index": 0,
+                        "parentId": "",
+                        "id": "60cfa4cd646f74055e276545"
+                    }
+                }
+            ],
+            "AvailableForFinish": [
+                {
+					"_parent": "CounterCreator",
+					"_props": {
+						"value": "1",
+						"type": "Elimination",
+						"counter": {
+							"id": "CounterTagillaKillID",
+							"conditions": [
+								{
+									"_parent": "Kills",
+									"_props": {
+										"target": "Savage",
+										"compareMethod": ">=",
+										"value": "1",
+										"savageRole": [
+											"bossTagilla"
+										],
+										"id": "TagillaKill"
+									}
+								}
+							]
+						},
+						"index": 0,
+						"parentId": "",
+						"id": "60c0d187938d68438757cda2"
+					}
+				},
+                {
+					"_parent": "FindItem",
+					"_props": {
+						"target": [
+							"60a7acf20c5cb24b01346648"
+						],
+						"value": "1",
+						"minDurability": 0,
+						"index": 0,
+						"parentId": "",
+                        "onlyFoundInRaid": true,
+						"id": "60cfa590f81cc57f471718cc"
+					}
+				},
+				{
+					"_parent": "HandoverItem",
+					"_props": {
+						"target": [
+							"60a7acf20c5cb24b01346648"
+						],
+						"value": "1",
+						"minDurability": 0,
+						"index": 1,
+						"parentId": "",
+                        "onlyFoundInRaid": true,
+						"id": "60cfa5a85f9e6175514de2e3",
+						"visibilityConditions": [
+							{
+								"_parent": "CompleteCondition",
+								"_props": {
+									"target": "60cfa590f81cc57f471718cc",
+									"id": "BossCapHided"
+								}
+							}
+						]
+					}
+				}
+            ],
+            "Fail": []
+        }
+    },
+	"60896888e4a85c72ef3fa300": {
+        "_id": "60896888e4a85c72ef3fa300",
+        "traderId": "5a7c2eca46aef81a7ca2145d",
+        "location": "5704e5fad2720bc05b8b4567",
+        "image": "/files/quest/icon/5a29221d86f77457303da9fa.png",
+        "type": "Exploration",
+        "isKey": false,
+        "restartable": false,
+        "instantComplete": false,
+        "secretQuest": false,
+        "min_level": 1,
+        "canShowNotificationsInGame": true,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SurplusRoubles",
+                    "value": "40000",
+                    "id": "PlaceHolder1",
+                    "type": "Item",
+                    "index": 0,
+                    "items": [
+                        {
+                            "_id": "SurplusRoubles",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40000
+                            }
+                        }
+                    ]
+                },
+                {
+					"value": "7500",
+					"id": "5c989b9d86f7745aa234628c",
+					"type": "Experience",
+					"index": 1
+				},
+				{
+					"target": "5a7c2eca46aef81a7ca2145d",
+					"value": "0.02",
+					"type": "TraderStanding",
+					"index": 2,
+					"id": "PlaceHolder2"
+				}
+            ],
+            "Fail": []
+        },
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Level",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "value": "1",
+                        "index": 0,
+                        "parentId": "",
+                        "id": "60bf74f481c6e80e702ccc0f"
+                    }
+                }
+            ],
+            "AvailableForFinish": [
+                {
+					"_parent": "FindItem",
+					"_props": {
+						"target": [
+							"609267a2bb3f46069c3e6c7d"
+						],
+						"value": "1",
+						"minDurability": 0,
+						"index": 0,
+						"parentId": "",
+						"id": "60929ad46342771d851b827a"
+					}
+				},
+				{
+					"_parent": "HandoverItem",
+					"_props": {
+						"target": [
+							"609267a2bb3f46069c3e6c7d"
+						],
+						"value": "1",
+						"minDurability": 0,
+						"index": 1,
+						"parentId": "",
+						"id": "60929afc35915c62b44fd05c",
+						"visibilityConditions": [
+							{
+								"_parent": "CompleteCondition",
+								"_props": {
+									"target": "60929ad46342771d851b827a",
+									"id": "T90Panel"
+								}
+							}
+						]
+					}
+				}
+            ],
+            "Fail": []
+        }
+    },
+	"60896b7bfa70fc097863b8f5": {
+        "_id": "60896b7bfa70fc097863b8f5",
+        "traderId": "54cb50c76803fa8b248b4571",
+        "location": "5704e5fad2720bc05b8b4567",
+        "image": "/files/quest/icon/60896b7bfa70fc097863b8f5.png",
+        "type": "Exploration",
+        "isKey": false,
+        "restartable": false,
+        "instantComplete": false,
+        "secretQuest": false,
+        "min_level": 1,
+        "canShowNotificationsInGame": true,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "SurplusRoubles",
+                    "value": "40000",
+                    "id": "PlaceHolder1",
+                    "type": "Item",
+                    "index": 0,
+                    "items": [
+                        {
+                            "_id": "SurplusRoubles",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40000
+                            }
+                        }
+                    ]
+                },
+                {
+					"value": "7500",
+					"id": "5c989b9d86f7745aa234628c",
+					"type": "Experience",
+					"index": 1
+				},
+				{
+					"target": "54cb50c76803fa8b248b4571",
+					"value": "0.02",
+					"type": "TraderStanding",
+					"index": 2,
+					"id": "PlaceHolder2"
+				}
+            ],
+            "Fail": []
+        },
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Level",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "value": "1",
+                        "index": 0,
+                        "parentId": "",
+                        "id": "60bf74bb2837926f405dd793"
+                    }
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "target": "60896bca6ee58f38c417d4f2",
+                        "status": [
+                            4
+                        ],
+                        "index": 1,
+                        "parentId": "",
+                        "id": "60bf74c1d4526a054d42e11f"
+                    }
+                }
+            ],
+            "AvailableForFinish": [
+                {
+					"_parent": "FindItem",
+					"_props": {
+						"target": [
+							"60915994c49cf53e4772cc38"
+						],
+						"value": "1",
+						"minDurability": 0,
+						"index": 0,
+						"parentId": "",
+						"id": "60916aeac49cf53e4772cc3c"
+					}
+				},
+				{
+					"_parent": "HandoverItem",
+					"_props": {
+						"target": [
+							"60915994c49cf53e4772cc38"
+						],
+						"value": "1",
+						"minDurability": 0,
+						"index": 1,
+						"parentId": "",
+						"id": "60916b41b89a3c264d7296f9",
+						"visibilityConditions": [
+							{
+								"_parent": "CompleteCondition",
+								"_props": {
+									"target": "6092942fb0f07c6ea1246e3a",
+									"id": "MilitaryDoc1"
+								}
+							}
+						]
+					}
+				},
+                {
+					"_parent": "FindItem",
+					"_props": {
+						"target": [
+							"60a3b6359c427533db36cf84"
+						],
+						"value": "1",
+						"minDurability": 0,
+						"index": 2,
+						"parentId": "",
+						"id": "60ae0dfe2d6a8320983d19ba"
+					}
+				},
+				{
+					"_parent": "HandoverItem",
+					"_props": {
+						"target": [
+							"60a3b6359c427533db36cf84"
+						],
+						"value": "1",
+						"minDurability": 0,
+						"index": 3,
+						"parentId": "",
+						"id": "60ae0f0586046842a754e21e",
+						"visibilityConditions": [
+							{
+								"_parent": "CompleteCondition",
+								"_props": {
+									"target": "6092942fb0f07c6ea1246e3a",
+									"id": "MilitaryDoc2"
+								}
+							}
+						]
+					}
+				},
+                {
+					"_parent": "FindItem",
+					"_props": {
+						"target": [
+							"60a3b65c27adf161da7b6e14"
+						],
+						"value": "1",
+						"minDurability": 0,
+						"index": 4,
+						"parentId": "",
+						"id": "60ae0e2c79e83a2cf96f35ce"
+					}
+				},
+				{
+					"_parent": "HandoverItem",
+					"_props": {
+						"target": [
+							"60a3b65c27adf161da7b6e14"
+						],
+						"value": "1",
+						"minDurability": 0,
+						"index": 5,
+						"parentId": "",
+						"id": "60ae0f17b809a4748759078c",
+						"visibilityConditions": [
+							{
+								"_parent": "CompleteCondition",
+								"_props": {
+									"target": "60ae0e2c79e83a2cf96f35ce",
+									"id": "MilitaryDoc3"
+								}
+							}
+						]
+					}
+				}
+            ],
+            "Fail": []
+        }
+    },
+	"6089732b59b92115597ad789": {
+        "_id": "6089732b59b92115597ad789",
+        "traderId": "5a7c2eca46aef81a7ca2145d",
+        "location": "5704e5fad2720bc05b8b4567",
+        "image": "/files/quest/icon/6089732b59b92115597ad789.png",
+        "type": "Exploration",
+        "isKey": false,
+        "restartable": false,
+        "instantComplete": false,
+        "secretQuest": false,
+        "min_level": 1,
+        "canShowNotificationsInGame": true,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "eLamp",
+                    "value": "1",
+                    "id": "EnergySavingLamp",
+                    "type": "Item",
+                    "index": 0,
+                    "items": [
+                        {
+                            "_id": "eLamp",
+                            "_tpl": "590a3cd386f77436f20848cb",
+                            "upd": {
+                                "StackObjectsCount": 2
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "uLamp",
+                    "value": "2",
+                    "id": "VioletLamp",
+                    "type": "Item",
+                    "index": 1,
+                    "items": [
+                        {
+                            "_id": "uLamp",
+                            "_tpl": "590a3d9c86f774385926e510",
+                            "upd": {
+                                "StackObjectsCount": 2
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "SurplusRoubles",
+                    "value": "40000",
+                    "id": "SurplusGoodRoubles",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "SurplusRoubles",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 40000
+                            }
+                        }
+                    ]
+                },
+                {
+					"value": "7500",
+					"id": "5c989b9d86f7745aa234628c",
+					"type": "Experience",
+					"index": 3
+				},
+				{
+					"target": "5a7c2eca46aef81a7ca2145d",
+					"value": "0.02",
+					"type": "TraderStanding",
+					"index": 4,
+					"id": "SurplusGoodStanding"
+				}
+            ],
+            "Fail": []
+        },
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Level",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "value": "1",
+                        "index": 0,
+                        "parentId": "",
+                        "id": "60bf7364c53a5709996b40bf"
+                    }
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "target": "5ac3477486f7741d651d6885",
+                        "status": [
+                            4
+                        ],
+                        "index": 1,
+                        "parentId": "",
+                        "id": "60bf73682837926f405dd792"
+                    }
+                }
+            ],
+            "AvailableForFinish": [
+                {
+					"_parent": "FindItem",
+					"_props": {
+						"target": [
+							"60c080eb991ac167ad1c3ad4"
+						],
+						"value": "1",
+						"minDurability": 0,
+						"index": 0,
+						"parentId": "",
+						"id": "6092942fb0f07c6ea1246e3a"
+					}
+				},
+				{
+					"_parent": "HandoverItem",
+					"_props": {
+						"target": [
+							"60c080eb991ac167ad1c3ad4"
+						],
+						"value": "1",
+						"minDurability": 0,
+						"index": 1,
+						"parentId": "",
+						"id": "6092947635915c62b44fd05b",
+						"visibilityConditions": [
+							{
+								"_parent": "CompleteCondition",
+								"_props": {
+									"target": "6092942fb0f07c6ea1246e3a",
+									"id": "MBTHidedValidated"
+								}
+							}
+						]
+					}
+				}
+            ],
+            "Fail": []
+        }
+    },
+	"60896e28e4a85c72ef3fa301": {
+        "_id": "60896e28e4a85c72ef3fa301",
+        "traderId": "54cb57776803fa99248b456e",
+        "location": "5704e5fad2720bc05b8b4567",
+        "image": "/files/quest/icon/59c2742286f77475ec568d92.png",
+        "type": "PickUp",
+        "isKey": false,
+        "restartable": false,
+        "instantComplete": false,
+        "secretQuest": false,
+        "min_level": 1,
+        "canShowNotificationsInGame": true,
+        "rewards": {
+            "Started": [],
+            "Success": [
+                {
+                    "target": "GrizzlyReward",
+                    "value": "1",
+                    "id": "Grizzllyyyy",
+                    "type": "Item",
+                    "index": 0,
+                    "items": [
+                        {
+                            "_id": "GrizzlyReward",
+                            "_tpl": "590c657e86f77412b013051d",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Ibuprofen",
+                    "value": "1",
+                    "id": "PAINKILLERS",
+                    "type": "Item",
+                    "index": 1,
+                    "items": [
+                        {
+                            "_id": "Ibuprofen",
+                            "_tpl": "5af0548586f7743a532b7e99",
+                            "upd": {
+                                "StackObjectsCount": 1
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "calokB",
+                    "value": "5",
+                    "id": "Hemostatic",
+                    "type": "Item",
+                    "index": 2,
+                    "items": [
+                        {
+                            "_id": "calokB",
+                            "_tpl": "5e8488fa988a8701445df1e4",
+                            "upd": {
+                                "StackObjectsCount": 5
+                            }
+                        }
+                    ]
+                },
+                {
+                    "target": "Rouuuubles",
+                    "value": "30000",
+                    "id": "RublesAss2",
+                    "type": "Item",
+                    "index": 3,
+                    "items": [
+                        {
+                            "_id": "Rouuuubles",
+                            "_tpl": "5449016a4bdc2d6f028b456f",
+                            "upd": {
+                                "StackObjectsCount": 30000
+                            }
+                        }
+                    ]
+                },
+                {
+					"value": "7200",
+					"id": "5c989b9d86f7745aa234628c",
+					"type": "Experience",
+					"index": 4
+				},
+				{
+					"target": "54cb57776803fa99248b456e",
+					"value": "0.03",
+					"type": "TraderStanding",
+					"index": 5,
+					"id": "TraderStandingAdding"
+				}
+            ],
+            "Fail": []
+        },
+        "conditions": {
+            "AvailableForStart": [
+                {
+                    "_parent": "Level",
+                    "_props": {
+                        "compareMethod": ">=",
+                        "value": "15",
+                        "index": 0,
+                        "parentId": "",
+                        "id": "60bf738b4c8a3800da06e717"
+                    }
+                },
+                {
+                    "_parent": "Quest",
+                    "_props": {
+                        "target": "5969f9e986f7741dde183a50",
+                        "status": [
+                            4
+                        ],
+                        "index": 1,
+                        "parentId": "",
+                        "id": "60bf738e81c6e80e702ccc0e"
+                    }
+                }
+            ],
+            "AvailableForFinish": [
+                {
+					"_parent": "FindItem",
+					"_props": {
+						"target": [
+							"608c22a003292f4ba43f8a1a"
+						],
+						"value": "1",
+						"minDurability": 0,
+						"index": 0,
+						"parentId": "",
+						"onlyFoundInRaid": true,
+						"id": "6091698a30bb620b3239874c"
+					}
+				},
+				{
+					"_parent": "HandoverItem",
+					"_props": {
+						"target": [
+							"608c22a003292f4ba43f8a1a"
+						],
+						"value": "1",
+						"minDurability": 0,
+						"index": 1,
+						"parentId": "",
+						"id": "609169cfeca522371e5725c5",
+						"onlyFoundInRaid": true,
+						"visibilityConditions": [
+							{
+								"_parent": "CompleteCondition",
+								"_props": {
+									"target": "6091698a30bb620b3239874c",
+									"id": "HidedConditionUntilValidated"
+								}
+							}
+						]
+					}
+				},
+                {
+					"_parent": "FindItem",
+					"_props": {
+						"target": [
+							"60a3b5b05f84d429b732e934"
+						],
+						"value": "1",
+						"minDurability": 0,
+						"index": 2,
+						"parentId": "",
+						"onlyFoundInRaid": true,
+						"id": "60ae12ffb809a474875907aa"
+					}
+				},
+				{
+					"_parent": "HandoverItem",
+					"_props": {
+						"target": [
+							"60a3b5b05f84d429b732e934"
+						],
+						"value": "1",
+						"minDurability": 0,
+						"index": 3,
+						"parentId": "",
+						"id": "60ae134cabb9675f0062cf6e",
+						"onlyFoundInRaid": true,
+						"visibilityConditions": [
+							{
+								"_parent": "CompleteCondition",
+								"_props": {
+									"target": "60ae12ffb809a474875907aa",
+									"id": "HidedConditionUntilValidated2"
+								}
+							}
+						]
+					}
+				}
+            ],
+            "Fail": []
+        }
+    },
 	"600302d73b897b11364cd161": {
 		"_id": "600302d73b897b11364cd161",
 		"traderId": "5c0647fdd443bc2504c2d371",

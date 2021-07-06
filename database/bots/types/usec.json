@@ -3234,17 +3234,6 @@
 					"5a0c59791526d8dba737bba7"
 				]
 			},
-			"5648b6ff4bdc2d3d1c8b4581": {
-				"mod_scope": [
-					"584924ec24597768f12ae244",
-					"5c0a2cec0db834001b7ce47d"
-				]
-			},
-			"5ac50da15acfc4001718d287": {
-				"mod_mount": [
-					"5648b6ff4bdc2d3d1c8b4581"
-				]
-			},
 			"59bffc1f86f77435b128b872": {
 				"mod_muzzle": [
 					"59bffbb386f77435b379b9c2"

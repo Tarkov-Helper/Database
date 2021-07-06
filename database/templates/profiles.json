@@ -24,9 +24,8 @@
 						"BotDifficulty": "easy",
 						"Experience": -1
 					},
-					"NeedWipe": false,
-					"GlobalWipe": false,
 					"NicknameChangeDate": 0,
+					"IsStreamerModeAvailable": false,
 					"Bans": []
 				},
 				"Customization": {
@@ -2048,10 +2047,15 @@
 						{
 							"_id": "5fe4977574f15b4ad31b66b7",
 							"_tpl": "5963866286f7747bf429b572"
+						},
+						{
+							"_id": "60dca3da42ad9b706b369aca",
+							"_tpl": "602543c13fee350cd564d032"
 						}
 					],
 					"equipment": "5fe4977574f15b4ad31b6631",
 					"stash": "5fe4977574f15b4ad31b66b6",
+					"sortingTable": "60dca3da42ad9b706b369aca",
 					"questRaidItems": "5fe4977574f15b4ad31b66b7",
 					"questStashItems": "5fe4977574f15b4ad31b66b8",
 					"fastPanel": {}
@@ -2714,7 +2718,7 @@
 					"Notes": []
 				},
 				"Quests": [],
-				"TraderStandings": {},
+				"TradersInfo": {},
 				"RagfairInfo": {
 					"rating": 0.2,
 					"isRatingGrowing": true,
@@ -2757,9 +2761,8 @@
 						"BotDifficulty": "easy",
 						"Experience": -1
 					},
-					"NeedWipe": false,
-					"GlobalWipe": false,
 					"NicknameChangeDate": 0,
+					"IsStreamerModeAvailable": false,
 					"Bans": []
 				},
 				"Customization": {
@@ -4966,10 +4969,15 @@
 						{
 							"_id": "5fe49cdfa19cac3fa9054116",
 							"_tpl": "5963866286f7747bf429b572"
+						},
+						{
+							"_id": "60dca3da42ad9b706b369aca",
+							"_tpl": "602543c13fee350cd564d032"
 						}
 					],
 					"equipment": "5fe49cdfa19cac3fa905407f",
 					"stash": "5fe49cdfa19cac3fa9054115",
+					"sortingTable": "60dca3da42ad9b706b369aca",
 					"questRaidItems": "5fe49cdfa19cac3fa9054116",
 					"questStashItems": "5fe49cdfa19cac3fa9054117",
 					"fastPanel": {}
@@ -5652,7 +5660,7 @@
 					"Notes": []
 				},
 				"Quests": [],
-				"TraderStandings": {},
+				"TradersInfo": {},
 				"RagfairInfo": {
 					"rating": 0.2,
 					"isRatingGrowing": true,
@@ -5697,9 +5705,8 @@
 						"BotDifficulty": "easy",
 						"Experience": -1
 					},
-					"NeedWipe": false,
-					"GlobalWipe": false,
 					"NicknameChangeDate": 0,
+					"IsStreamerModeAvailable": false,
 					"Bans": []
 				},
 				"Customization": {
@@ -8299,10 +8306,15 @@
 						{
 							"_id": "5fe4a9285a72d07b663029e3",
 							"_tpl": "5963866286f7747bf429b572"
+						},
+						{
+							"_id": "60dca3da42ad9b706b369aca",
+							"_tpl": "602543c13fee350cd564d032"
 						}
 					],
 					"equipment": "5fe4a9285a72d07b66302933",
 					"stash": "5fe4a9285a72d07b663029e2",
+					"sortingTable": "60dca3da42ad9b706b369aca",
 					"questRaidItems": "5fe4a9285a72d07b663029e3",
 					"questStashItems": "5fe4a9285a72d07b663029e4",
 					"fastPanel": {}
@@ -8990,7 +9002,7 @@
 					"Notes": []
 				},
 				"Quests": [],
-				"TraderStandings": {},
+				"TradersInfo": {},
 				"RagfairInfo": {
 					"rating": 0.2,
 					"isRatingGrowing": true,
@@ -9033,9 +9045,8 @@
 						"BotDifficulty": "easy",
 						"Experience": -1
 					},
-					"NeedWipe": false,
-					"GlobalWipe": false,
 					"NicknameChangeDate": 0,
+					"IsStreamerModeAvailable": false,
 					"Bans": []
 				},
 				"Customization": {
@@ -11722,10 +11733,15 @@
 						{
 							"_id": "5fe4a9fcf5aec236ec3836f8",
 							"_tpl": "5963866286f7747bf429b572"
+						},
+						{
+							"_id": "60dca3da42ad9b706b369aca",
+							"_tpl": "602543c13fee350cd564d032"
 						}
 					],
 					"equipment": "5fe4a9fcf5aec236ec38363c",
 					"stash": "5fe4a9fcf5aec236ec3836f7",
+					"sortingTable": "60dca3da42ad9b706b369aca",
 					"questRaidItems": "5fe4a9fcf5aec236ec3836f8",
 					"questStashItems": "5fe4a9fcf5aec236ec3836f9",
 					"fastPanel": {}
@@ -12433,7 +12449,7 @@
 					"Notes": []
 				},
 				"Quests": [],
-				"TraderStandings": {},
+				"TradersInfo": {},
 				"RagfairInfo": {
 					"rating": 0.2,
 					"isRatingGrowing": true,
@@ -12478,9 +12494,8 @@
 						"BotDifficulty": "easy",
 						"Experience": -1
 					},
-					"NeedWipe": false,
-					"GlobalWipe": false,
 					"NicknameChangeDate": 0,
+					"IsStreamerModeAvailable": false,
 					"Bans": []
 				},
 				"Customization": {
@@ -15566,10 +15581,15 @@
 						{
 							"_id": "5fe4a66e40ca750fd72b595b",
 							"_tpl": "5963866286f7747bf429b572"
+						},
+						{
+							"_id": "60dca3da42ad9b706b369aca",
+							"_tpl": "602543c13fee350cd564d032"
 						}
 					],
 					"equipment": "5fe4a66e40ca750fd72b5886",
 					"stash": "5fe4a66e40ca750fd72b595a",
+					"sortingTable": "60dca3da42ad9b706b369aca",
 					"questRaidItems": "5fe4a66e40ca750fd72b595b",
 					"questStashItems": "5fe4a66e40ca750fd72b595c",
 					"fastPanel": {}
@@ -16282,7 +16302,7 @@
 					"Notes": []
 				},
 				"Quests": [],
-				"TraderStandings": {},
+				"TradersInfo": {},
 				"RagfairInfo": {
 					"rating": 0.2,
 					"isRatingGrowing": true,
@@ -16325,9 +16345,8 @@
 						"BotDifficulty": "easy",
 						"Experience": -1
 					},
-					"NeedWipe": false,
-					"GlobalWipe": false,
 					"NicknameChangeDate": 0,
+					"IsStreamerModeAvailable": false,
 					"Bans": []
 				},
 				"Customization": {
@@ -19522,10 +19541,15 @@
 						{
 							"_id": "5fe4ab2240ca750fd72bbe1d",
 							"_tpl": "5963866286f7747bf429b572"
+						},
+						{
+							"_id": "60dca3da42ad9b706b369aca",
+							"_tpl": "602543c13fee350cd564d032"
 						}
 					],
 					"equipment": "5fe4ab2240ca750fd72bbd3a",
 					"stash": "5fe4ab2240ca750fd72bbe1c",
+					"sortingTable": "60dca3da42ad9b706b369aca",
 					"questRaidItems": "5fe4ab2240ca750fd72bbe1d",
 					"questStashItems": "5fe4ab2240ca750fd72bbe1e",
 					"fastPanel": {}
@@ -20270,7 +20294,7 @@
 					"Notes": []
 				},
 				"Quests": [],
-				"TraderStandings": {},
+				"TradersInfo": {},
 				"RagfairInfo": {
 					"rating": 0.2,
 					"isRatingGrowing": true,
@@ -20315,9 +20339,8 @@
 						"BotDifficulty": "easy",
 						"Experience": -1
 					},
-					"NeedWipe": false,
-					"GlobalWipe": false,
 					"NicknameChangeDate": 0,
+					"IsStreamerModeAvailable": false,
 					"Bans": []
 				},
 				"Customization": {
@@ -23962,10 +23985,15 @@
 						{
 							"_id": "5fe49444ae6628187a2e78b9",
 							"_tpl": "5963866286f7747bf429b572"
+						},
+						{
+							"_id": "60dca3da42ad9b706b369aca",
+							"_tpl": "602543c13fee350cd564d032"
 						}
 					],
 					"equipment": "5fe49444ae6628187a2e77b8",
 					"stash": "5fe49444ae6628187a2e78b8",
+					"sortingTable": "60dca3da42ad9b706b369aca",
 					"questRaidItems": "5fe49444ae6628187a2e78b9",
 					"questStashItems": "5fe49444ae6628187a2e78ba",
 					"fastPanel": {}
@@ -24735,7 +24763,7 @@
 					"Notes": []
 				},
 				"Quests": [],
-				"TraderStandings": {},
+				"TradersInfo": {},
 				"RagfairInfo": {
 					"rating": 0.2,
 					"isRatingGrowing": true,
@@ -24778,9 +24806,8 @@
 						"BotDifficulty": "easy",
 						"Experience": -1
 					},
-					"NeedWipe": false,
-					"GlobalWipe": false,
 					"NicknameChangeDate": 0,
+					"IsStreamerModeAvailable": false,
 					"Bans": []
 				},
 				"Customization": {
@@ -28525,10 +28552,15 @@
 						{
 							"_id": "5fe49a0e2694b0755a504877",
 							"_tpl": "5963866286f7747bf429b572"
+						},
+						{
+							"_id": "60dca3da42ad9b706b369aca",
+							"_tpl": "602543c13fee350cd564d032"
 						}
 					],
 					"equipment": "5fe49a0e2694b0755a50476c",
 					"stash": "5fe49a0e2694b0755a504876",
+					"sortingTable": "60dca3da42ad9b706b369aca",
 					"questRaidItems": "5fe49a0e2694b0755a504877",
 					"questStashItems": "5fe49a0e2694b0755a504878",
 					"fastPanel": {}
@@ -29309,7 +29341,7 @@
 					"Notes": []
 				},
 				"Quests": [],
-				"TraderStandings": {},
+				"TradersInfo": {},
 				"RagfairInfo": {
 					"rating": 0.2,
 					"isRatingGrowing": true,

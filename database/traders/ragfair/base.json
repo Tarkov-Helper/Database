@@ -1,6 +1,5 @@
 {
 	"_id": "ragfair",
-	"working": false,
 	"customization_seller": false,
 	"name": "<Настоящее имя неизвестно>",
 	"surname": "Unknown",
@@ -10,12 +9,12 @@
 	"balance_rub": 500000,
 	"balance_dol": 0,
 	"balance_eur": 0,
-	"display": false,
+	"unlockedByDefault": true,
 	"discount": 0,
 	"discount_end": 0,
 	"buyer_up": false,
 	"currency": "RUB",
-	"supply_next_time": 1576762923,
+	"nextResupply": 1576762923,
 	"repair": {
 		"availability": false,
 		"quality": "2",
@@ -35,23 +34,18 @@
 	},
 	"medic": false,
 	"gridHeight": 120,
-	"loyalty": {
-		"currentLevel": 1,
-		"currentStanding": 0,
-		"currentSalesSum": 0,
-		"loyaltyLevels": {
-			"0": {
-				"minLevel": 0,
-                "minSalesSum": 0,
-                "minStanding": 0,
-                "buy_price_coef": 40,
-                "repair_price_coef": 0,
-                "insurance_price_coef": 20,
-                "exchange_price_coef": 0,
-                "heal_price_coef": 85
-			}
+	"loyaltyLevels": [
+		{
+			"minLevel": 0,
+			"minSalesSum": 0,
+			"minStanding": 0,
+			"buy_price_coef": 40,
+			"repair_price_coef": 0,
+			"insurance_price_coef": 20,
+			"exchange_price_coef": 0,
+			"heal_price_coef": 85
 		}
-	},
+	],
 	"sell_category": [
 		"5b47574386f77428ca22b33e",
 		"5b47574386f77428ca22b33f",

@@ -1973,19 +1973,6 @@
 					"5a16b672fcdbcb001912fa83"
 				]
 			},
-			"5648b6ff4bdc2d3d1c8b4581": {
-				"mod_scope": [
-					"57ae0171245977343c27bfcf",
-					"570fd79bd2720bc7458b4583",
-					"584924ec24597768f12ae244",
-					"570fd721d2720bc5458b4596"
-				]
-			},
-			"5649af094bdc2df8348b4586": {
-				"mod_mount": [
-					"5648b6ff4bdc2d3d1c8b4581"
-				]
-			},
 			"5cbda392ae92155f3c17c39f": {
 				"mod_foregrip": [
 					"5c1bc5fb2e221602b1779b32"
@@ -3272,11 +3259,6 @@
 					"59e6918f86f7746c9f75e849"
 				]
 			},
-			"59e6449086f7746c9f75e822": {
-				"mod_mount": [
-					"5648b6ff4bdc2d3d1c8b4581"
-				]
-			},
 			"59e6152586f77473dc057aa1": {
 				"mod_charge": [
 					"5648ac824bdc2ded0b8b457d"
@@ -3509,16 +3491,6 @@
 			"5ac50c185acfc400163398d4": {
 				"mod_stock": [
 					"5a0c59791526d8dba737bba7"
-				]
-			},
-			"5ac50da15acfc4001718d287": {
-				"mod_mount": [
-					"5648b6ff4bdc2d3d1c8b4581"
-				]
-			},
-			"59bffc1f86f77435b128b872": {
-				"mod_muzzle": [
-					"59bffbb386f77435b379b9c2"
 				]
 			},
 			"5ac66d015acfc400180ae6e4": {
