@@ -1,4 +1,5 @@
 {
+    "5448ba0b4bdc2d02308b456c": [],
     "5672c92d4bdc2d180f8b4567": [
         "Two [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)s in a clothes cabinet."
     ],
@@ -19,6 +20,9 @@
         "Loose loot ([Ammunition](https://escapefromtarkov.fandom.com/wiki/Ammunition))",
         "Possible [Dorm room 203 Key](https://escapefromtarkov.fandom.com/wiki/Dorm_room_203_Key) in the red mug "
     ],
+    "5780cf9e2459777df90dcb73": [
+        "Loose loot ([Weapon](https://escapefromtarkov.fandom.com/wiki/Weapon), [Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods))"
+    ],
     "5780cfa52459777dfb276eb1": [
         "Two quest items for [Chemical - Part 2](https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_2) ([Sealed letter (TerraGroup)](https://escapefromtarkov.fandom.com/wiki/Sealed_letter_(TerraGroup)) & [Sliderkey Secure Flash drive](https://escapefromtarkov.fandom.com/wiki/Sliderkey_Secure_Flash_drive))",
         "[Key ZB-014](https://escapefromtarkov.fandom.com/wiki/Key_ZB-014), on the table",
@@ -26,7 +30,22 @@
         "[Duffle bag](https://escapefromtarkov.fandom.com/wiki/Duffle_bag)",
         "Loose loot ([Roubles](https://escapefromtarkov.fandom.com/wiki/Roubles))"
     ],
-    "Gas station office key": [],
+    "5780d0532459777a5108b9a2": [
+        "x1 [Sport bag](https://escapefromtarkov.fandom.com/wiki/Sport_bag)",
+        "x3 [PC block](https://escapefromtarkov.fandom.com/wiki/PC_block)s",
+        "x1 [Safe](https://escapefromtarkov.fandom.com/wiki/Safe)",
+        "x1 [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)",
+        "x1 [Flyye MBSS Backpack](https://escapefromtarkov.fandom.com/wiki/Flyye_MBSS_Backpack) spawn",
+        "x1 [PACA Soft Armor](https://escapefromtarkov.fandom.com/wiki/PACA_Soft_Armor) spawn",
+        "x1 [Folder with intelligence|Folder with Intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawn",
+        "Loose loot"
+    ],
+    "5780d0652459777df90dcb74": [
+        "One [Safe](https://escapefromtarkov.fandom.com/wiki/Safe)",
+        "One Pistol spawn on the desk",
+        "[Gas station storage room key](https://escapefromtarkov.fandom.com/wiki/Gas_station_storage_room_key) spawn, under the table",
+        "Loose loot ([currency](https://escapefromtarkov.fandom.com/wiki/currency), [Ammunition|ammo](https://escapefromtarkov.fandom.com/wiki/Ammunition) )"
+    ],
     "5780d07a2459777de4559324": [
         "Three [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)s",
         "Loose loot"
@@ -35,6 +54,7 @@
         "Loose loot (misc)"
     ],
     "Trailer park portable cabin key": [],
+    "VAZ car key": [],
     "59136a4486f774447a1ed172": [
         "1 x Weapon rack",
         "1 x [Weapon box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
@@ -55,6 +75,10 @@
     "591383f186f7744a4c5edcf3": [
         "One [Toolbox](https://escapefromtarkov.fandom.com/wiki/Toolbox)",
         "Two jackets"
+    ],
+    "5913877a86f774432f15d444": [
+        "x1 [Medbag SMU06|Medbag](https://escapefromtarkov.fandom.com/wiki/Medbag_SMU06)",
+        "x1 [Medcase](https://escapefromtarkov.fandom.com/wiki/Medcase)"
     ],
     "5913915886f774123603c392": [
         "One Weapon rack",
@@ -77,6 +101,9 @@
         "Loose loot on the shelf"
     ],
     "5937ee6486f77408994ba448": [],
+    "5938144586f77473c2087145": [
+        "1 x [Weapon box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))"
+    ],
     "5938504186f7740991483f30": [
         "One [Sport bag](https://escapefromtarkov.fandom.com/wiki/Sport_bag)"
     ],
@@ -101,6 +128,11 @@
     "5a0dc45586f7742f6b0b73e3": [
         "Loose Loot ([Medical|Meds](https://escapefromtarkov.fandom.com/wiki/Medical), [Currency](https://escapefromtarkov.fandom.com/wiki/Currency))",
         "1 x [LEDX Skin Transilluminator|LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn",
+        "[Lab. Blue keycard|Blue keycard](https://escapefromtarkov.fandom.com/wiki/Lab._Blue_keycard) spawn location"
+    ],
+    "5a0dc95c86f77452440fc675": [
+        "Loose Loot ([Provisions](https://escapefromtarkov.fandom.com/wiki/Provisions)) on the table left of the door ",
+        "Two [Sport bag](https://escapefromtarkov.fandom.com/wiki/Sport_bag)s",
         "[Lab. Blue keycard|Blue keycard](https://escapefromtarkov.fandom.com/wiki/Lab._Blue_keycard) spawn location"
     ],
     "5a0ea64786f7741707720468": [
@@ -179,6 +211,7 @@
     "Health Resort east wing room 216 key": [],
     "5a0eeb1a86f774688b70aa5c": [],
     "5a0eeb8e86f77461257ed71a": [],
+    "5a0eebed86f77461230ddb3d": [],
     "5a0eec9686f77402ac5c39f2": [
         "Two [Sport bag|Sport Bags](https://escapefromtarkov.fandom.com/wiki/Sport_bag)",
         "Rare loose Loot ([Physical bitcoin|Bitcoins](https://escapefromtarkov.fandom.com/wiki/Physical_bitcoin), [Golden neck chain|Gold Chains](https://escapefromtarkov.fandom.com/wiki/Golden_neck_chain) etc...)"
@@ -247,6 +280,19 @@
         "Loose loot ([Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Ammunition|Ammo](https://escapefromtarkov.fandom.com/wiki/Ammunition), [Medical|Meds](https://escapefromtarkov.fandom.com/wiki/Medical))",
         "One [Armor vests|Armor vest](https://escapefromtarkov.fandom.com/wiki/Armor_vests) spawn"
     ],
+    "5a13ef7e86f7741290491063": [
+        "Room 301:",
+        "Loose loot",
+        "1 x [Graphics card](https://escapefromtarkov.fandom.com/wiki/Graphics_card) spawn",
+        "*1 x [LEDX Skin Transilluminator|LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn on the white crates.",
+        "Room 304:",
+        "One [Weapon box (5x5)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x5))",
+        "Two [PC block|PC's](https://escapefromtarkov.fandom.com/wiki/PC_block)",
+        "Loose loot (Computer parts, [Medical|Meds](https://escapefromtarkov.fandom.com/wiki/Medical), [Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency))",
+        "1 x [Graphics card](https://escapefromtarkov.fandom.com/wiki/Graphics_card) spawn",
+        "One Weapon Spawn ([SV-98](https://escapefromtarkov.fandom.com/wiki/SV-98))",
+        "*2 x [LEDX Skin Transilluminator|LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawns on table next to the computer."
+    ],
     "5a13f24186f77410e57c5626": [
         "Room 222:",
         "One [Weapon box (6x3)|Weapon Box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
@@ -276,6 +322,11 @@
         "One [Toolbox](https://escapefromtarkov.fandom.com/wiki/Toolbox)",
         "Rare item spawn",
         "Three weapon spawns (one [RSASS](https://escapefromtarkov.fandom.com/wiki/RSASS), one [SV-98 bolt-action sniper rifle](https://escapefromtarkov.fandom.com/wiki/SV-98_bolt-action_sniper_rifle) and one [MP5](https://escapefromtarkov.fandom.com/wiki/MP5))"
+    ],
+    "5a13f46386f7741dd7384b04": [
+        "Loose loot ([Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Medical|Meds](https://escapefromtarkov.fandom.com/wiki/Medical))",
+        "Two [Dead Scav|dead scavs](https://escapefromtarkov.fandom.com/wiki/Dead_Scav)",
+        "One Weapon Spawn ([M4A1](https://escapefromtarkov.fandom.com/wiki/M4A1))"
     ],
     "5a144bdb86f7741d374bbde0": [
         "Room 205: ",
@@ -351,6 +402,11 @@
         "Loose loot"
     ],
     "5ad5d20586f77449be26d877": [],
+    "5ad5d49886f77455f9731921": [
+        "[MP-153](https://escapefromtarkov.fandom.com/wiki/MP-153)",
+        "[Wooden crate](https://escapefromtarkov.fandom.com/wiki/Wooden_crate)",
+        "[Weapon box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))"
+    ],
     "5ad5d64486f774079b080af8": [
         "Loose [Medical|medical loot](https://escapefromtarkov.fandom.com/wiki/Medical) ",
         "[Hydrogen peroxide](https://escapefromtarkov.fandom.com/wiki/Hydrogen_peroxide)",
@@ -387,7 +443,9 @@
     "TerraGroup Labs keycard (Red)": [],
     "TerraGroup Labs keycard (Black)": [],
     "TerraGroup Labs Manager office room key": [],
+    "TerraGroup Labs Weapons testing area key": [],
     "TerraGroup Labs keycard (Violet)": [],
+    "TerraGroup Labs Arsenal storage room key": [],
     "TerraGroup Labs access keycard": [],
     "5d08d21286f774736e7c94c3": [
         "1 x [Common fund stash](https://escapefromtarkov.fandom.com/wiki/Common_fund_stash)"
