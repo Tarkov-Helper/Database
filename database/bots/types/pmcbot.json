@@ -26,12 +26,13 @@
 	"experience": {
 		"level": {
 			"min": 0,
-			"max": 0
+			"max": 1
 		},
 		"reward": {
 			"min": 500,
 			"max": 500
-		}
+		},
+		"standingForKill": 0
 	},
 	"health": {
 		"Hydration": {
@@ -197,7 +198,14 @@
 				"5f36a0e5fbf956000b716b65",
 				"5a17f98cfcdbcb0980087290"
 			],
-			"Scabbard": []
+			"Scabbard": [],
+			"Pockets": [
+				"557ffd194bdc2d28148b457f"
+			],
+			"SecuredContainer": [
+				"5857a8bc2459772bad15db29",
+				"5c0a794586f77461c458f892"
+			]
 		},
 		"mods": {
 			"5a7828548dc32e5a9c28b516": {
@@ -1211,7 +1219,24 @@
 				"5c5970672e221602b21d7855",
 				"56dff061d2720bb5668b4567"
 			],
-			"Pockets": [],
+			"Pockets": [
+				"5c0d591486f7744c505b416f",
+				"5710c24ad2720bc3458b45a3",
+				"557ffd194bdc2d28148b457f",
+				"5e32f56fcb6d5863cc5e5ee4",
+				"5a0c27731526d80618476ac4",
+				"5e81f423763d9f754677bf2e",
+				"5f3e77b26cda304dcc634057",
+				"573719762459775a626ccbc1",
+				"5a17fb03fcdbcbcae668728f",
+				"544fb3f34bdc2d03748b456a",
+				"5448be9a4bdc2dfd2f8b456a",
+				"58dd3ad986f77403051cba8f",
+				"5df8f535bb49d91fb446d6b0",
+				"56d59d3ad2720bdb418b4577",
+				"5a718b548dc32e000d46d262",
+				"560d5e524bdc2d25448b4571"
+			],
 			"Backpack": [
 				"5ab8ebf186f7742d8b372e80",
 				"60194943740c5d77f6705eea",
@@ -1264,7 +1289,33 @@
 				"60a2828e8689911a226117f9",
 				"59e7635f86f7742cbf2c1095"
 			],
-			"SecuredContainer": []
+			"SecuredContainer": [
+				"5c0d591486f7744c505b416f",
+				"5857a8bc2459772bad15db29",
+				"54527ac44bdc2d36668b4567",
+				"5ba2678ad4351e44f824b344",
+				"5fbe3ffdf8b6a877a729ea82",
+				"5e81f423763d9f754677bf2e",
+				"5a3c16fe86f77452b62de32a",
+				"573719762459775a626ccbc1",
+				"5c0d5ae286f7741e46554302",
+				"56dff3afd2720bba668b4567",
+				"56dff2ced2720bb4668b4567",
+				"5737218f245977612125ba51",
+				"54527a984bdc2d4e668b4567",
+				"5cc80f38e4a949001152b560",
+				"58dd3ad986f77403051cba8f",
+				"59e0d99486f7744a32234762",
+				"58864a4f2459770fcc257101",
+				"56d59d3ad2720bdb418b4577",
+				"59e6906286f7746c9f75e847",
+				"5c0a794586f77461c458f892",
+				"5c3df7d588a4501f290594e5",
+				"5ba26835d4351e0035628ff5",
+				"5c0d668f86f7747ccb7f13b2",
+				"56dff061d2720bb5668b4567",
+				"560d5e524bdc2d25448b4571"
+			]
 		}
 	},
 	"firstName": [
@@ -1787,7 +1838,9 @@
 			"FirstPrimaryWeapon": 100,
 			"SecondPrimaryWeapon": 0,
 			"Holster": 18,
-			"Scabbard": 0
+			"Scabbard": 0,
+			"Pockets": 100,
+			"SecuredContainer": 100
 		},
 		"mods": {
 			"mod_muzzle": 67,

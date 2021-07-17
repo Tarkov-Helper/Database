@@ -428,7 +428,7 @@
 		{
 			"Name": "RUAF Roadblock",
 			"EntryPoints": "Boiler Tanks",
-			"Chance": 50,
+			"Chance": 0,
 			"MinTime": 0,
 			"MaxTime": 0,
 			"PlayersCount": 0,
@@ -539,7 +539,7 @@
 		},
 		{
 			"BossName": "bossBully",
-			"BossChance": 38,
+			"BossChance": 33,
 			"BossZone": "ZoneDormitory,ZoneGasStation,ZoneScavBase",
 			"BossPlayer": false,
 			"BossDifficult": "normal",
@@ -7092,7 +7092,7 @@
 	],
 	"maxItemCountInLocation": [
 		{
-			"TemplateId": "",
+			"TemplateId": "54009119af1c881c07000029",
 			"Value": 0
 		}
 	],

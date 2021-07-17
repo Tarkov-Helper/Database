@@ -858,7 +858,7 @@
 		"GlobalItemPriceModifier": 1,
 		"TradingUnlimitedItems": false,
 		"MaxLoyaltyLevelForAll": false,
-		"GlobalLootChanceModifier": 0.2,
+		"GlobalLootChanceModifier": 0.18,
 		"TimeBeforeDeploy": 20,
 		"TimeBeforeDeployLocal": 10,
 		"LoadTimeSpeedProgress": 1,
@@ -3175,8 +3175,8 @@
 		"WAVE_COEF_HORDE": 10,
 		"Stamina": {
 			"Capacity": 100,
-			"SprintDrainRate": 4,
-			"BaseRestorationRate": 4.5,
+			"SprintDrainRate": 4.1,
+			"BaseRestorationRate": 4.4,
 			"JumpConsumption": 16,
 			"GrenadeHighThrow": 11,
 			"GrenadeLowThrow": 8,
@@ -3184,23 +3184,23 @@
 			"OxygenCapacity": 300,
 			"OxygenRestoration": 4,
 			"WalkOverweightLimits": {
-				"x": 35,
-				"y": 80,
+				"x": 42,
+				"y": 75,
 				"z": 0
 			},
 			"BaseOverweightLimits": {
-				"x": 30,
-				"y": 75,
+				"x": 28,
+				"y": 70,
 				"z": 0
 			},
 			"SprintOverweightLimits": {
-				"x": 35,
-				"y": 65,
+				"x": 28,
+				"y": 60,
 				"z": 0
 			},
 			"WalkSpeedOverweightLimits": {
-				"x": 40,
-				"y": 75,
+				"x": 32,
+				"y": 70,
 				"z": 0
 			},
 			"CrouchConsumption": {
@@ -3253,8 +3253,8 @@
 				"z": 0
 			},
 			"ExhaustedMeleeSpeed": 0.65,
-			"FatigueRestorationRate": 0.3,
-			"FatigueAmountToCreateEffect": 30,
+			"FatigueRestorationRate": 0.42,
+			"FatigueAmountToCreateEffect": 15,
 			"ExhaustedMeleeDamageMultiplier": 0.33,
 			"FallDamageMultiplier": 3.9,
 			"SafeHeightOverweight": 1.75,
@@ -4046,7 +4046,7 @@
 		},
 		"TestValue": 3
 	},
-	"time": 1625074818,
+	"time": 1626441800,
 	"bot_presets": [
 		{
 			"UseThis": true,
@@ -4071,7 +4071,7 @@
 			"HearingSense": 0.75,
 			"SCATTERING_DIST_MODIF": 0.6,
 			"MAX_AIMING_UPGRADE_BY_TIME": 0.7,
-			"FIRST_CONTACT_ADD_SEC": 0.15,
+			"FIRST_CONTACT_ADD_SEC": 0.1,
 			"COEF_IF_MOVE": 1.3
 		},
 		{
@@ -4105,12 +4105,12 @@
 			"Role": "marksman",
 			"BotDifficulty": "easy",
 			"VisibleAngle": 160,
-			"VisibleDistance": 175,
-			"ScatteringPerMeter": 0.18,
+			"VisibleDistance": 200,
+			"ScatteringPerMeter": 0.045,
 			"HearingSense": 0.7,
 			"SCATTERING_DIST_MODIF": 0.5,
 			"MAX_AIMING_UPGRADE_BY_TIME": 0.7,
-			"FIRST_CONTACT_ADD_SEC": 0.15,
+			"FIRST_CONTACT_ADD_SEC": 0.05,
 			"COEF_IF_MOVE": 1
 		},
 		{
@@ -4118,11 +4118,11 @@
 			"Role": "marksman",
 			"BotDifficulty": "normal",
 			"VisibleAngle": 160,
-			"VisibleDistance": 210,
-			"ScatteringPerMeter": 0.12,
+			"VisibleDistance": 220,
+			"ScatteringPerMeter": 0.045,
 			"HearingSense": 0.7,
 			"SCATTERING_DIST_MODIF": 0.5,
-			"MAX_AIMING_UPGRADE_BY_TIME": 0.55,
+			"MAX_AIMING_UPGRADE_BY_TIME": 0.5,
 			"FIRST_CONTACT_ADD_SEC": 0.05,
 			"COEF_IF_MOVE": 1
 		},
@@ -4132,7 +4132,7 @@
 			"BotDifficulty": "hard",
 			"VisibleAngle": 180,
 			"VisibleDistance": 240,
-			"ScatteringPerMeter": 0.09,
+			"ScatteringPerMeter": 0.045,
 			"HearingSense": 0.9,
 			"SCATTERING_DIST_MODIF": 0.5,
 			"MAX_AIMING_UPGRADE_BY_TIME": 0.3,

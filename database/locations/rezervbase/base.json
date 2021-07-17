@@ -353,7 +353,7 @@
 	"BossLocationSpawn": [
 		{
 			"BossName": "bossGluhar",
-			"BossChance": 100,
+			"BossChance": 28,
 			"BossZone": "ZoneRailStrorage,ZoneRailStrorage,ZoneRailStrorage,ZonePTOR1,ZonePTOR2,ZoneBarrack,ZoneBarrack,ZoneBarrack,ZoneSubStorage",
 			"BossPlayer": false,
 			"BossDifficult": "normal",
@@ -389,7 +389,7 @@
 		},
 		{
 			"BossName": "pmcBot",
-			"BossChance": 60,
+			"BossChance": 30,
 			"BossZone": "ZoneRailStrorage",
 			"BossPlayer": false,
 			"BossDifficult": "normal",
@@ -403,7 +403,7 @@
 		},
 		{
 			"BossName": "pmcBot",
-			"BossChance": 100,
+			"BossChance": 45,
 			"BossZone": "ZoneRailStrorage",
 			"BossPlayer": false,
 			"BossDifficult": "normal",

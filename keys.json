@@ -12,9 +12,7 @@
     "5780cf722459777a5108b9a1": [
         "Loose loot ([Roubles](https://escapefromtarkov.fandom.com/wiki/Roubles))"
     ],
-    "5780cf7f2459777de4559322": [
-        "Loose loot (multiple very rare items and weapon spawns)"
-    ],
+    "Dorm room 314 marked key": [],
     "5780cf942459777df90dcb72": [
         "One [Safe](https://escapefromtarkov.fandom.com/wiki/Safe)",
         "Loose loot ([Ammunition](https://escapefromtarkov.fandom.com/wiki/Ammunition))",
@@ -60,13 +58,20 @@
         "1 x [Weapon box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
         "2 x [Wooden ammo box](https://escapefromtarkov.fandom.com/wiki/Wooden_ammo_box)es",
         "Loose loot ([Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods) on the table)",
-        "[Dorm room 104 Key](https://escapefromtarkov.fandom.com/wiki/Dorm_room_104_Key) and [Dorm room 105 Key](https://escapefromtarkov.fandom.com/wiki/Dorm_room_105_Key) in the wall key holder"
+        "[Dorm room 104 Key](https://escapefromtarkov.fandom.com/wiki/Dorm_room_104_Key) and [Dorm room 105 Key](https://escapefromtarkov.fandom.com/wiki/Dorm_room_105_Key) in the wall key holder",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[cs:Klíč od vrátnice ubytovny]]",
+        "[[de:Wohnheim Wachraumschlüssel]]",
+        "[[fr:Clé de la loge du gardien du dortoir]]"
     ],
     "59136e1e86f774432f15d133": [
         "One [Safe](https://escapefromtarkov.fandom.com/wiki/Safe)",
         "Possible [Fuel conditioner](https://escapefromtarkov.fandom.com/wiki/Fuel_conditioner), [Metal fuel tank](https://escapefromtarkov.fandom.com/wiki/Metal_fuel_tank), [Secure Flash drive](https://escapefromtarkov.fandom.com/wiki/Secure_Flash_drive) and [Diary](https://escapefromtarkov.fandom.com/wiki/Diary) spawn (on the bed). Possible Car Battery on the bed-side table."
     ],
-    "59136f6f86f774447a1ed173": [],
+    "59136f6f86f774447a1ed173": [
+        "N/A."
+    ],
     "591382d986f774465a6413a7": [
         "One [Safe](https://escapefromtarkov.fandom.com/wiki/Safe)",
         "[Provisions](https://escapefromtarkov.fandom.com/wiki/Provisions) on the bed",
@@ -98,9 +103,12 @@
     "591afe0186f77431bd616a11": [
         "One [Weapon box (5x5)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x5))",
         "[60-round 6L31 5.45x39 magazine for AK-74 and compatibles|60-round 6L31 5.45x39 magazines](https://escapefromtarkov.fandom.com/wiki/60-round_6L31_5.45x39_magazine_for_AK-74_and_compatibles) on top of the barrels, and sometimes on the floor near the barrels",
-        "Loose loot on the shelf"
+        "Loose loot on the shelf",
+        "Additionally, this lock opens the occasional \"ZB-014\" extraction. You can tell if the extraction is open by looking for the green light above the door in the locked room, if it is on, the extraction is available. "
     ],
-    "5937ee6486f77408994ba448": [],
+    "5937ee6486f77408994ba448": [
+        "Empty, unless the quest [[Checking]] is active. If so, a [[Bronze pocket watch on a chain]] will spawn on the floor."
+    ],
     "5938144586f77473c2087145": [
         "1 x [Weapon box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))"
     ],
@@ -110,7 +118,9 @@
     "593858c486f774253a24cb52": [
         "Loose loot (misc)"
     ],
-    "5938603e86f77435642354f4": [],
+    "5938603e86f77435642354f4": [
+        "This room can contain [[0.6L water bottle]]s, [[Water bottle with a filter Aquamari]], and [[Water filter]]s."
+    ],
     "59387a4986f77401cc236e62": [
         "One [Medcase](https://escapefromtarkov.fandom.com/wiki/Medcase)",
         "One [Safe](https://escapefromtarkov.fandom.com/wiki/Safe)",
@@ -120,7 +130,14 @@
     "5938994586f774523a425196": [
         "All kinds of [provisions](https://escapefromtarkov.fandom.com/wiki/provisions)"
     ],
-    "593962ca86f774068014d9af": [],
+    "593962ca86f774068014d9af": [
+        "Nothing unless the quest [[The Extortionist]] is active.",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[cs:Neznámý klíč]]",
+        "[[de:Unbekannter Schlüssel]]",
+        "[[fr:Clé inconnue]]"
+    ],
     "593aa4be86f77457f56379f8": [
         "One [Wooden crate](https://escapefromtarkov.fandom.com/wiki/Wooden_crate)",
         "Loose loot ([Weapons](https://escapefromtarkov.fandom.com/wiki/Weapons))"
@@ -143,17 +160,26 @@
         "One [Graphics card|Graphics Card](https://escapefromtarkov.fandom.com/wiki/Graphics_card) spawn",
         "Loose loot ([Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Medical|Meds](https://escapefromtarkov.fandom.com/wiki/Medical), [Loot|Electronics](https://escapefromtarkov.fandom.com/wiki/Loot))"
     ],
-    "5a0ea69f86f7741cd5406619": [],
+    "5a0ea69f86f7741cd5406619": [
+        "N/A."
+    ],
     "5a0ea79b86f7741d4a35298e": [
+        "Room next to West 227:",
         "One industrial shelf",
         "One key rack",
         "One [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)",
+        "Room next to West 327:",
         "One industrial shelf",
+        "Room next to East 328:",
         "One table with rare loot",
-        "Access to [East wing room 328 key|East wing room 328](https://escapefromtarkov.fandom.com/wiki/East_wing_room_328_key) through the balcony"
+        "Access to [Health Resort east wing room 328 key|East wing room 328](https://escapefromtarkov.fandom.com/wiki/Health_Resort_east_wing_room_328_key) through the balcony"
     ],
     "5a0eb38b86f774153b320eb0": [
-        "Loose loot ([Roubles](https://escapefromtarkov.fandom.com/wiki/Roubles), [Provisions](https://escapefromtarkov.fandom.com/wiki/Provisions))"
+        "Loose loot ([Roubles](https://escapefromtarkov.fandom.com/wiki/Roubles), [Provisions](https://escapefromtarkov.fandom.com/wiki/Provisions))",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:SMW Autoschlüssel]]",
+        "[[fr:Clé de voiture SMW]]"
     ],
     "5a0eb6ac86f7743124037a28": [
         "One [PC block](https://escapefromtarkov.fandom.com/wiki/PC_block)",
@@ -168,7 +194,9 @@
         "One [LEDX Skin Transilluminator|LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn",
         "Loose loot ([Medical|meds](https://escapefromtarkov.fandom.com/wiki/Medical), [Provisions|food](https://escapefromtarkov.fandom.com/wiki/Provisions))."
     ],
-    "5a0ec70e86f7742c0b518fba": [],
+    "5a0ec70e86f7742c0b518fba": [
+        "N/A."
+    ],
     "5a0ee30786f774023b6ee08f": [
         "1 x [Weapon box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
         "1 x [Weapon box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4))",
@@ -180,9 +208,17 @@
     "5a0ee34586f774023b6ee092": [
         "One [Weapon box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4))",
         "Two [Weapon box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
-        "Rare Loose Loot ([Physical bitcoin|Bitcoins](https://escapefromtarkov.fandom.com/wiki/Physical_bitcoin), [Golden neck chain|Gold Chains](https://escapefromtarkov.fandom.com/wiki/Golden_neck_chain) etc...)"
+        "Rare Loose Loot ([Physical bitcoin|Bitcoins](https://escapefromtarkov.fandom.com/wiki/Physical_bitcoin), [Golden neck chain|Gold Chains](https://escapefromtarkov.fandom.com/wiki/Golden_neck_chain) etc...)",
+        "<li style=\"display: inline-block;\"><gallery widths=\"300\" heights=\"169\" mode=\"packed\">",
+        "File:West Wing 220 2018 11 28.png|",
+        "</gallery></li>",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:Westflügel-Zimmerschlüssel 220]]",
+        "[[fr:Clé de la chambre 220 aile ouest]]"
     ],
     "5a0ee37f86f774023657a86f": [
+        "One big weapons crate, loose money on the TV table, loose medical supplies on the crates behind the lootable one.",
         "One [Weapon box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
         "Loose loot ([Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency))",
         "One Weapon spawn ([M4A1](https://escapefromtarkov.fandom.com/wiki/M4A1), [M1A](https://escapefromtarkov.fandom.com/wiki/M1A))"
@@ -201,7 +237,9 @@
         "One Weapon Spawn ([AKM](https://escapefromtarkov.fandom.com/wiki/AKM))",
         "Another Weapon Spawn ([AKS-74UB](https://escapefromtarkov.fandom.com/wiki/AKS-74UB))"
     ],
-    "5a0ee62286f774369454a7ac": [],
+    "5a0ee62286f774369454a7ac": [
+        "N/A."
+    ],
     "5a0ee72c86f77436955d3435": [
         "One [Weapon box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
         "One [Weapon box (5x5)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x5))",
@@ -209,10 +247,22 @@
         "One [Medbag SMU06|Medbag](https://escapefromtarkov.fandom.com/wiki/Medbag_SMU06)"
     ],
     "Health Resort east wing room 216 key": [],
-    "5a0eeb1a86f774688b70aa5c": [],
-    "5a0eeb8e86f77461257ed71a": [],
-    "5a0eebed86f77461230ddb3d": [],
+    "5a0eeb1a86f774688b70aa5c": [
+        "N/A.",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:Westflügel-Zimmerschlüssel 303]]",
+        "[[fr:Clé de la chambre 303 aile ouest]]",
+        "[[ru:Ключ от номера 303 западного крыла]]"
+    ],
+    "5a0eeb8e86f77461257ed71a": [
+        "N/A."
+    ],
+    "5a0eebed86f77461230ddb3d": [
+        "N/A."
+    ],
     "5a0eec9686f77402ac5c39f2": [
+        "Lootable Items:",
         "Two [Sport bag|Sport Bags](https://escapefromtarkov.fandom.com/wiki/Sport_bag)",
         "Rare loose Loot ([Physical bitcoin|Bitcoins](https://escapefromtarkov.fandom.com/wiki/Physical_bitcoin), [Golden neck chain|Gold Chains](https://escapefromtarkov.fandom.com/wiki/Golden_neck_chain) etc...)"
     ],
@@ -225,7 +275,8 @@
         "Room 314:",
         "One [Weapon box (5x2)|Weapon Box 5x2](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
         "One Weapon Spawn",
-        "Loose Loot ([Medical|Meds](https://escapefromtarkov.fandom.com/wiki/Medical), [Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods), [Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency))"
+        "Loose Loot ([Medical|Meds](https://escapefromtarkov.fandom.com/wiki/Medical), [Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods), [Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency))",
+        "Be careful about jumping on the boxes and laying down, you will become stuck and unable to crouch / get off the boxes."
     ],
     "5a0eed4386f77405112912aa": [
         "Room 314:",
@@ -236,10 +287,14 @@
         "1x [Weapon box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
         "1x [Medbag SMU06](https://escapefromtarkov.fandom.com/wiki/Medbag_SMU06)",
         "1x [LEDX Skin Transilluminator|LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn located on the top of the boxes",
-        "Loose Loot ([Medical|Meds](https://escapefromtarkov.fandom.com/wiki/Medical), [Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods), [Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency))"
+        "Loose Loot ([Medical|Meds](https://escapefromtarkov.fandom.com/wiki/Medical), [Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods), [Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency))",
+        "Be careful about jumping on the boxes and laying down, you will become stuck and unable to crouch / get off the boxes."
     ],
-    "5a0eedb386f77403506300be": [],
+    "5a0eedb386f77403506300be": [
+        "N/A."
+    ],
     "5a0eee1486f77402aa773226": [
+        "Lootable Items:",
         "One [PC block|PC Block](https://escapefromtarkov.fandom.com/wiki/PC_block)",
         "One [Sport bag|Sport Bag](https://escapefromtarkov.fandom.com/wiki/Sport_bag)",
         "One [LEDX Skin Transilluminator|LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn",
@@ -250,19 +305,44 @@
         "Access to adjoining utility room through the balcony"
     ],
     "5a0eff2986f7741fd654e684": [
-        "The contents of the [safe](https://escapefromtarkov.fandom.com/wiki/safe)."
+        "The contents of the [safe](https://escapefromtarkov.fandom.com/wiki/safe).",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:Resortzimmer 321 – Tresorschlüssel]]",
+        "[[fr:Clé du coffre-fort de la chambre 321 de la station thermale]]"
     ],
-    "5a0f006986f7741ffd2fe484": [],
-    "5a0f045e86f7745b0f0d0e42": [],
+    "5a0f006986f7741ffd2fe484": [
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:Wetterstation Tresorschlüssel]]",
+        "[[fr:Clé du coffre-fort de la station météo]]"
+    ],
+    "5a0f045e86f7745b0f0d0e42": [
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:Tankstellentresorschlüssel]]",
+        "[[fr:Clé du coffre-fort de la station-service]]",
+        "[[ru:Ключ от сейфа на заправке]]"
+    ],
     "5a0f068686f7745b0d4ea242": [
         "One [Safe](https://escapefromtarkov.fandom.com/wiki/Safe)"
     ],
-    "5a0f075686f7745bcc42ee12": [],
+    "5a0f075686f7745bcc42ee12": [
+        "N/A"
+    ],
     "5a0f08bc86f77478f33b84c2": [
-        "The content of the [safe](https://escapefromtarkov.fandom.com/wiki/safe)"
+        "The content of the [safe](https://escapefromtarkov.fandom.com/wiki/safe)",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:Schlüssel zum Tresor im Resort-Verwaltungsbüro]]",
+        "[[fr:Clé du coffre-fort du bureau de la direction de la station thermale]]"
     ],
     "5a0f0f5886f7741c4e32a472": [
-        "One [Safe](https://escapefromtarkov.fandom.com/wiki/Safe)."
+        "One [Safe](https://escapefromtarkov.fandom.com/wiki/Safe).",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:Tresorschlüssel für das Lagerhaus im Resort]]",
+        "[[fr:Clé du coffre-fort de l’entrepôt de la station thermale]]"
     ],
     "5a13ee1986f774794d4c14cd": [
         "One Weapon cabinet",
@@ -284,14 +364,14 @@
         "Room 301:",
         "Loose loot",
         "1 x [Graphics card](https://escapefromtarkov.fandom.com/wiki/Graphics_card) spawn",
-        "*1 x [LEDX Skin Transilluminator|LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn on the white crates.",
+        "1 x [LEDX Skin Transilluminator|LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn on the white crates.",
         "Room 304:",
         "One [Weapon box (5x5)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x5))",
         "Two [PC block|PC's](https://escapefromtarkov.fandom.com/wiki/PC_block)",
         "Loose loot (Computer parts, [Medical|Meds](https://escapefromtarkov.fandom.com/wiki/Medical), [Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency))",
         "1 x [Graphics card](https://escapefromtarkov.fandom.com/wiki/Graphics_card) spawn",
         "One Weapon Spawn ([SV-98](https://escapefromtarkov.fandom.com/wiki/SV-98))",
-        "*2 x [LEDX Skin Transilluminator|LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawns on table next to the computer."
+        "2 x [LEDX Skin Transilluminator|LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawns on table next to the computer."
     ],
     "5a13f24186f77410e57c5626": [
         "Room 222:",
@@ -303,18 +383,18 @@
         "Three weapon spawns (one [RSASS](https://escapefromtarkov.fandom.com/wiki/RSASS), one [SV-98 bolt-action sniper rifle](https://escapefromtarkov.fandom.com/wiki/SV-98_bolt-action_sniper_rifle) and one [MP5](https://escapefromtarkov.fandom.com/wiki/MP5))",
         "Room 226:",
         "One [Weapon box (6x3)|Weapon Box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
-        "*One Gun Locker (on Balcony shared with Room 222)",
+        "One Gun Locker (on Balcony shared with Room 222)",
         "Multiple [LEDX Skin Transilluminator|LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawns",
         "One [MP-153 12ga semi-automatic shotgun](https://escapefromtarkov.fandom.com/wiki/MP-153_12ga_semi-automatic_shotgun) spawn",
-        "*Loose loot ([Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Provisions|Food](https://escapefromtarkov.fandom.com/wiki/Provisions))"
+        "Loose loot ([Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Provisions|Food](https://escapefromtarkov.fandom.com/wiki/Provisions))"
     ],
     "5a13f35286f77413ef1436b0": [
         "Room 226: ",
-        "*One [Weapon box (6x3)|Weapon Box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
-        "*One Gun Locker (on Balcony shared with Room 222)",
+        "One [Weapon box (6x3)|Weapon Box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
+        "One Gun Locker (on Balcony shared with Room 222)",
         "Multiple [LEDX Skin Transilluminator|LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawns",
         "One [MP-153 12ga semi-automatic shotgun](https://escapefromtarkov.fandom.com/wiki/MP-153_12ga_semi-automatic_shotgun) spawn",
-        "*Loose loot ([Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Provisions|Food](https://escapefromtarkov.fandom.com/wiki/Provisions), [Medical](https://escapefromtarkov.fandom.com/wiki/Medical))",
+        "Loose loot ([Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Provisions|Food](https://escapefromtarkov.fandom.com/wiki/Provisions), [Medical](https://escapefromtarkov.fandom.com/wiki/Medical))",
         "Room 222 :",
         "One [Weapon box (6x3)|Weapon Box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
         "One Weapon Rack",
@@ -324,6 +404,7 @@
         "Three weapon spawns (one [RSASS](https://escapefromtarkov.fandom.com/wiki/RSASS), one [SV-98 bolt-action sniper rifle](https://escapefromtarkov.fandom.com/wiki/SV-98_bolt-action_sniper_rifle) and one [MP5](https://escapefromtarkov.fandom.com/wiki/MP5))"
     ],
     "5a13f46386f7741dd7384b04": [
+        "Accesses two rooms",
         "Loose loot ([Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Medical|Meds](https://escapefromtarkov.fandom.com/wiki/Medical))",
         "Two [Dead Scav|dead scavs](https://escapefromtarkov.fandom.com/wiki/Dead_Scav)",
         "One Weapon Spawn ([M4A1](https://escapefromtarkov.fandom.com/wiki/M4A1))"
@@ -377,14 +458,15 @@
         "One Weapon Rack ",
         "One Weapon Spawn ",
         "One [Medcase](https://escapefromtarkov.fandom.com/wiki/Medcase)",
-        "*Loose loot ([Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Provisions|Food](https://escapefromtarkov.fandom.com/wiki/Provisions))",
+        "Loose loot ([Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Provisions|Food](https://escapefromtarkov.fandom.com/wiki/Provisions))",
         "Room 306:",
         "[DVL-10 Saboteur sniper rifle|DVL-10](https://escapefromtarkov.fandom.com/wiki/DVL-10_Saboteur_sniper_rifle) Spawn",
+        "Possible [LEDX Skin Transilluminator](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn",
         "Four [PC block|PC Blocks](https://escapefromtarkov.fandom.com/wiki/PC_block)",
         "One [Weapon box (4x4)|Weapon Box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4))",
         "Rare Spawn",
         "One [Flyye MBSS Backpack](https://escapefromtarkov.fandom.com/wiki/Flyye_MBSS_Backpack) spawn",
-        "*Loose loot ([Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Provisions|Food](https://escapefromtarkov.fandom.com/wiki/Provisions))"
+        "Loose loot ([Currency|Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Provisions|Food](https://escapefromtarkov.fandom.com/wiki/Provisions))"
     ],
     "5a145ebb86f77458f1796f05": [
         "One [Weapon box (6x3)|Weapon Box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
@@ -395,31 +477,73 @@
     ],
     "5ad5ccd186f774446d5706e9": [
         "One [PC block|PC](https://escapefromtarkov.fandom.com/wiki/PC_block)",
-        "Loose loot"
+        "Loose loot",
+        "<li style=\"display: inline-block;\"><gallery widths=\"300\" heights=\"169\" mode=\"packed\">",
+        "File:OLI Admin Inside.png|Inside the room",
+        "</gallery></li>",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:Schlüssel zum Büro des OLI-Geschäftsführers]]",
+        "[[fr:Clé du bureau du directeur du OLI]]"
     ],
     "5ad5cfbd86f7742c825d6104": [
         "One [PC block|PC](https://escapefromtarkov.fandom.com/wiki/PC_block)",
-        "Loose loot"
+        "Loose loot",
+        "<li style=\"display: inline-block;\"><gallery widths=\"300\" heights=\"169\" mode=\"packed\">",
+        "File:InsideOliLogisticsOffice.png|Inside the office",
+        "</gallery></li>",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[fr:Clé du bureau du département logistique du OLI]]"
     ],
-    "5ad5d20586f77449be26d877": [],
+    "5ad5d20586f77449be26d877": [
+        "<li style=\"display: inline-block;\"><gallery widths=\"300\" heights=\"169\" mode=\"packed\">",
+        "File:OLI Utility Inside.png|Inside the room",
+        "</gallery></li>",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[fr:Clé du local de service du magasin OLI]]"
+    ],
     "5ad5d49886f77455f9731921": [
         "[MP-153](https://escapefromtarkov.fandom.com/wiki/MP-153)",
         "[Wooden crate](https://escapefromtarkov.fandom.com/wiki/Wooden_crate)",
-        "[Weapon box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))"
+        "[Weapon box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
+        "<li style=\"display: inline-block;\"><gallery widths=\"300\" heights=\"169\" mode=\"packed\">",
+        "File:TarkovUtility153.jpg|MP-153 in the center of the cabin",
+        "</gallery></li>",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[fr:Clé du local de service de la station électrique]]"
     ],
     "5ad5d64486f774079b080af8": [
         "Loose [Medical|medical loot](https://escapefromtarkov.fandom.com/wiki/Medical) ",
         "[Hydrogen peroxide](https://escapefromtarkov.fandom.com/wiki/Hydrogen_peroxide)",
         "[Saline solution](https://escapefromtarkov.fandom.com/wiki/Saline_solution)",
-        "[LEDX Skin Transilluminator](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn"
+        "[LEDX Skin Transilluminator](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn",
+        "<li style=\"display: inline-block;\"><gallery widths=\"300\" heights=\"169\" mode=\"packed\">",
+        "File:Interchange Pharmacy 2.png",
+        "File:Interchange Pharmacy 4.png",
+        "</gallery></li>",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[fr:Clé de la pharmacie]]"
     ],
-    "5ad5d7d286f77450166e0a89": [],
+    "5ad5d7d286f77450166e0a89": [
+        "A second locked grate door that requires the [[Key to KIBA Outlet grate door]] to be opened.",
+        "Visit the Grate key page for details of Loot available in the store."
+    ],
     "EMERCOM medical unit key": [],
     "5ad7217186f7746744498875": [
-        "The content of 18x [Cash register TAR2-2](https://escapefromtarkov.fandom.com/wiki/Cash_register_TAR2-2)"
+        "The content of 18x [Cash register TAR2-2](https://escapefromtarkov.fandom.com/wiki/Cash_register_TAR2-2)",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[fr:Clé des caisses enregistreuses du OLI]]"
     ],
     "5ad7242b86f7740a6a3abd43": [
-        "The content of 20x [Cash register TAR2-2](https://escapefromtarkov.fandom.com/wiki/Cash_register_TAR2-2)"
+        "The content of 20x [Cash register TAR2-2](https://escapefromtarkov.fandom.com/wiki/Cash_register_TAR2-2)",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[fr:Clé des caisses enregistreuses du IDEA]]"
     ],
     "5ad7247386f7747487619dc3": [
         "The content of 30x [Cash register TAR2-2](https://escapefromtarkov.fandom.com/wiki/Cash_register_TAR2-2)"
@@ -435,7 +559,376 @@
         "One possible [DVL-10 Saboteur sniper rifle|DVL-10](https://escapefromtarkov.fandom.com/wiki/DVL-10_Saboteur_sniper_rifle) in standing weapon locker.",
         "Multiple possible [F-1](https://escapefromtarkov.fandom.com/wiki/F-1) and [M67](https://escapefromtarkov.fandom.com/wiki/M67) grenades on top of the wooden crate, and inside the broken crate beside it.",
         "Two loose [Currency](https://escapefromtarkov.fandom.com/wiki/Currency) stacks",
-        "A very large amount of loose [Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods) and [Ammunition](https://escapefromtarkov.fandom.com/wiki/Ammunition)."
+        "A very large amount of loose [Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods) and [Ammunition](https://escapefromtarkov.fandom.com/wiki/Ammunition).",
+        "{|class=\"wikitable\"",
+        "! colspan=\"6\" |Possible Weapon Spawns",
+        "|-",
+        "!Icon",
+        "!Weapon",
+        "!Ammunition",
+        "!Mods",
+        "|-",
+        "![[File:AK-105 5.45x39 icon.png|frameless]]",
+        "|[[AK-105]]",
+        "! -",
+        "|",
+        "<div style=\"display:table\"><tabber>Gas block=",
+        "[[File:ak74.png]] {{59c6633186f7740cf0493bb9}}",
+        "|-|Muzzle=",
+        "[[File:6P44 0-20Icon.png]] {{5ac72e945acfc43f3b691116}}",
+        "|-|Pistol grip=",
+        "[[File:6p1sb.8.png]] {{5649ade84bdc2d1b2b8b4587}}",
+        "|-|Receiver=",
+        "[[File:6p340-1icon.png]] {{5ac50da15acfc4001718d287}}",
+        "|-|Rear sight=",
+        "[[File:Tt01icon.png]] {{5ac733a45acfc400192630e2}}",
+        "|-|Stock=",
+        "[[File:6p45sb15icon.png]] {{5ac50c185acfc400163398d4}}",
+        "|-|Magazine=",
+        "[[File:30-round 6L23 5.45x39 magazine icon.gif]]{{55d480c04bdc2d1d4e8b456a}}",
+        "|-|Handguard=",
+        "[[File:Polymer AK-74 foregrip icon.gif]] {{5648b1504bdc2d9d488b4584}}",
+        "</tabber></div>",
+        "|-",
+        "![[File:AK105KIBA.png|frameless]]",
+        "|[[AK-105]]",
+        "! -",
+        "|",
+        "<div style=\"display:table\"><tabber>Gas block=",
+        "[[File:ak74.png]] {{59c6633186f7740cf0493bb9}}",
+        "|-|Muzzle=",
+        "[[File:6P44 0-20Icon.png]] {{5ac72e945acfc43f3b691116}}",
+        "|-|Pistol grip=",
+        "[[File:6p1sb.8.png]] {{5649ade84bdc2d1b2b8b4587}}",
+        "|-|Receiver=",
+        "[[File:6p340-1icon.png]] {{5ac50da15acfc4001718d287}}",
+        "|-|Rear sight=",
+        "[[File:6p44icon.png]] {{5ac733a45acfc400192630e2}}",
+        "|-|Stock=",
+        "[[File:6p45sb15icon.png]] {{5ac50c185acfc400163398d4}}<br/>",
+        "[[File:akbuttpadicon.png]] {{5a0c59791526d8dba737bba7}}",
+        "|-|Magazine=",
+        "[[File:30-round 6L23 5.45x39 magazine icon.gif]]{{55d480c04bdc2d1d4e8b456a}}",
+        "|-|Handguard=",
+        "[[File:caars47.png]] {{5648ae314bdc2d3d1c8b457f}}",
+        "|-|Foregrip=",
+        "[[File:BGV MK46 Icon.gif]] {{558032614bdc2de7118b4585}}",
+        "|-|Scope=",
+        "[[File:pk-06icon.png|frameless]] {{57ae0171245977343c27bfcf}}",
+        "|-|Mount=",
+        "[[File:25mm.png|frameless]] {{57d17e212459775a1179a0f5}}",
+        "|-|Tactical=",
+        "[[File:Predator icon.png|frameless]] {{59d790f486f77403cb06aec6}}",
+        "</tabber></div>",
+        "|-",
+        "![[File:KIBA AK-102.png|frameless]]",
+        "|[[AK-102]]",
+        "![[File:556warmageicon.png|link=5.56x45mm Warmageddon]]",
+        "|",
+        "<div style=\"display:table\"><tabber>Gas block=",
+        "[[File:ak74.png]] {{59c6633186f7740cf0493bb9}}",
+        "|-|Muzzle=",
+        "[[File:CNC Warrior Icon.png]] {{5e21ca18e4d47f0da15e77dd}}<br/> [[File:223CB Icon.PNG]] {{5d440625a4b9361eec4ae6c5}} <br/> [[File:Ultra 5 Icon.PNG]] {{5d44064fa4b9361e4f6eb8b5}}",
+        "|-|Pistol grip=",
+        "[[File:KGB MG-47 pistol grip for AK icon.gif]] {{5e2192a498a36665e8337386}}",
+        "|-|Receiver=",
+        "[[File:TWS Dog leg rail dust cover for AK.png]] {{5d2c772c48f0355d95672c25}}",
+        "|-|Rear sight=",
+        "-",
+        "|-|Stock=",
+        "[[File:CAA AKTS AK-74 Buffer Tube for AK (foldable) icon.png]] {{5cf50fc5d7f00c056c53f83c}}<br/>",
+        "[[File:Viperstockicon.png]] {{5c793fde2e221601da358614}}",
+        "|-|Magazine=",
+        "[[File:Cwpmagicon.png]]{{5c0548ae0db834001966a3c2}}",
+        "|-|Handguard=",
+        "[[File:AKM-L Icon.gif]] {{5d4aaa54a4b9365392071170}}",
+        "|-|Foregrip=",
+        "[[File:Magpul MLOK 4 1 inch rail Icon.png]] {{5b7be4895acfc400170e2dd5}} <br/> [[File:Cobra Grip Icon.png]] {{5c791e872e2216001219c40a}}",
+        "|-|Scope=",
+        "[[File:Dlocird.png|frameless]] {{5a1ead28fcdbcb001912fa9f}} <br/> [[File:Thermalicon.png]] {{5a1eaa87fcdbcb001865f75e}}",
+        "|-|Mount=",
+        "[[File:Magpul MLOK 2 5 inch rail Icon.png|frameless]] {{5b7be47f5acfc400170e2dd2}}",
+        "|-|Tactical=",
+        "[[File:ZenitPerst3Icon.png|frameless]] {{5c5952732e2216398b5abda2}}",
+        "</tabber></div>",
+        "|-",
+        "![[File:Kiba-AK-74N.png|frameless]]",
+        "|[[AK-74N]]",
+        "! -",
+        "|",
+        "<div style=\"display:table\"><tabber>Gas block=",
+        "[[File:ak74.png]] {{59c6633186f7740cf0493bb9}}",
+        "|-|Muzzle=",
+        "[[File:DTK-1.png|frameless]] {{5649ab884bdc2ded0b8b457f}}",
+        "|-|Pistol grip=",
+        "[[File:rk-3.png]] {{5649ae4a4bdc2d1b2b8b4588}}",
+        "|-|Receiver=",
+        "[[File:6p1 0-1akn.png|frameless]] {{5649af094bdc2df8348b4586}}",
+        "|-|Rear sight=",
+        "[[File:tt01icon.png]] {{5649d9a14bdc2d79388b4580}}",
+        "|-|Stock=",
+        "[[File:Me4icon.png|frameless]] {{5649b2314bdc2d79388b4576}}<br/>",
+        "[[File:Cstbuffertubeicon.png]] {{5649be884bdc2d79388b4577}}<br/>",
+        "[[File:Stock ar15 magpul moe carbine fde icon.png]] {{58d2946386f774496974c37e}}<br/>",
+        "[[File:M4buttpadicon.png]] {{58d2912286f7744e27117493}}",
+        "|-|Magazine=",
+        "[[File:6L31-60-mag icon.png|frameless]] {{55d482194bdc2d1d4e8b456b}}",
+        "|-|Handguard=",
+        "[[File:Handguard ak magpul moe ak od icon.png|frameless]] {{57cffddc24597763133760c6}}",
+        "|-|Foregrip=",
+        "[[File:Magpul M-LOK AFG Tactical grip FDE icon.png]] {{57cffcd624597763133760c5}}",
+        "|-|Scope=",
+        "[[File:xps3-0icon.png|frameless]] {{58491f3324597764bc48fa02}}",
+        "</tabber></div>",
+        "|-",
+        "![[File:M4A1 SAI Kiba.png|frameless]]",
+        "|[[M4A1]]",
+        "![[File:M855ICON.png|link=5.56x45mm M855]]",
+        "|",
+        "|-",
+        "![[File:M4A1 SOPMOD II.png|framelss]]",
+        "|[[M4A1]]",
+        "! -",
+        "|",
+        "<div style=\"display:table\"><tabber>Gas Block=",
+        "[[File:Mk12.png]] {{56eabcd4d2720b66698b4574}}",
+        "|-|Muzzle=",
+        "[[File:Kac.png]] {{56ea8180d2720bf2698b456a}}<br/>",
+        "[[File:NT-4 black icon.png]] {{57da93632459771cb65bf83f}}",
+        "|-|Pistol grip=",
+        "[[File:Ecsfde.png]] {{571659bb2459771fb2755a12}}",
+        "|-|Receiver=",
+        "[[File:M4upper.png]] {{55d355e64bdc2d962f8b4569}}",
+        "|-|Stock=",
+        "[[File:Cstbuffertubeicon.png]] {{5649be884bdc2d79388b4577}}<br/>",
+        "[[File:Stock ar15 magpul moe carbine fde icon.png]] {{58d2946386f774496974c37e}}<br/>",
+        "[[File:M4buttpadicon.png]] {{58d2912286f7744e27117493}}",
+        "|-|Magazine=",
+        "[[File:PMAG30Window Icon.gif]] {{55802d5f4bdc2dac148b458e}}",
+        "|-|Handguard=",
+        "[[File:RIS II FDE icon.png]] {{55f84c3c4bdc2d5f408b4576}}",
+        "|-|Foregrip=",
+        "[[File:BGV Stubby FDE icon.png]] {{58c157be86f77403c74b2bb6}}",
+        "|-|Charge handle=",
+        "[[File:Botlicon.png]] {{56ea7165d2720b6e518b4583}}",
+        "|-|Mount=",
+        "[[File:Mpr45.png]] {{5649a2464bdc2d91118b45a8}}<br/>",
+        "[[File:25mm.png]] {{57d17e212459775a1179a0f5}}<br/>",
+        "[[File:Amm.png]] {{58d39d3d86f77445bb794ae7}}",
+        "|-|Tactical=",
+        "[[File:Peq.png]] {{544909bb4bdc2d6f028b4577}}<br/>",
+        "[[File:WF501BIcon.png]] {{57d17c5e2459775a5c57d17d}}",
+        "|-|Scope=",
+        "[[File:Elcan Spectre FDE.png]] {{57aca93d2459771f2c7e26db}}<br/>",
+        "[[File:T-1icon.png]] {{58d399e486f77442e0016fe7}}",
+        "|-|Barrel=",
+        "[[File:260mmm4icon.png]] {{55d35ee94bdc2d61338b4568}}",
+        "</tabber></div>",
+        "|-",
+        "![[File:KibaM4A1.png|frameless]]",
+        "|[[M4A1]]",
+        "! -",
+        "|",
+        "<div style=\"display:table\"><tabber>Gas Block=",
+        "[[File:M4frontsighticon.png|frameless]] {{5ae30e795acfc408fb139a0b}}",
+        "|-|Muzzle=",
+        "[[File:Usgia2.png|frameless]] {{544a38634bdc2d58388b4568}}",
+        "|-|Pistol grip=",
+        "[[File:A2m4standard.png|frameless]] {{55d4b9964bdc2d1d4e8b456e}}",
+        "|-|Receiver=",
+        "[[File:m4upper.png|frameless]] {{55d355e64bdc2d962f8b4569}}",
+        "|-|Stock=",
+        "[[File:Cstbuffertubeicon.png]] {{5649be884bdc2d79388b4577}}<br/>",
+        "[[File:MOE Stock black.png]] {{56eabf3bd2720b75698b4569}}",
+        "|-|Magazine=",
+        "[[File:PMAG30Window Icon.gif|frameless]] {{55802d5f4bdc2dac148b458e}}",
+        "|-|Handguard=",
+        "[[File:kacris.png|frameless]] {{55d459824bdc2d892f8b4573}}",
+        "|-|Foregrip=",
+        "[[File:BGV Stubby Black icon.png|frameless]] {{558032614bdc2de7118b4585}}",
+        "|-|Charge handle=",
+        "[[File:Ar15handleicon.png|frameless]] {{55d44fd14bdc2d962f8b456e}}",
+        "|-|Mount=",
+        "[[File:LaRuePicatinnyLT-101icon.png|frameless]] {{5c064c400db834001d23f468}}",
+        "|-|Tactical=",
+        "[[File:Predator icon.png|frameless]] {{59d790f486f77403cb06aec6}}<br/>",
+        "[[File:25mm.png|frameless]] {{57d17e212459775a1179a0f5}}",
+        "|-|Scope=",
+        "[[File:mrsicon.png|frameless]] {{570fd721d2720bc5458b4596}}",
+        "|-|Barrel=",
+        "[[File:260mmm4icon.png|frameless]] {{55d35ee94bdc2d61338b4568}}",
+        "</tabber></div>",
+        "|-",
+        "![[File:Kiba-MPX.png|frameless]]",
+        "|[[MPX]]",
+        "! -",
+        "|",
+        "<div style=\"display:table\"><tabber>Barrel=",
+        "[[File:165mmmpxicon.png]] {{58aeaaa886f7744fc1560f81}}",
+        "|-|Muzzle=",
+        "[[File:Mpx-sdicon.png]] {{58aeac1b86f77457c419f475}}",
+        "|-|Handguard=",
+        "[[File:Mpxgen1.png]] {{5894a42086f77426d2590762}}",
+        "|-|Rear Sight=",
+        "[[File:Mpxrearicon.png]] {{5894a81786f77427140b8347}}",
+        "|-|Front Sight=",
+        "[[File:Mpxfronticon.png]] {{5894a73486f77426d259076c}}",
+        "|-|Mount=",
+        "[[File:2ingen1.png]] {{58a56f8d86f774651579314c}}<br/>",
+        "[[File:4ingen1.png]] {{58a5c12e86f7745d585a2b9e}}",
+        "|-|Pistol grip=",
+        "[[File:Mpxgrip.png]] {{5894a51286f77426d13baf02}}",
+        "|-|Magazine=",
+        "[[File:Mpxmagicon.png]] {{5894a05586f774094708ef75}}",
+        "|-|Receiver=",
+        "[[File:Mpx1gen..png]] {{5894a5b586f77426d2590767}}",
+        "|-|Stock=",
+        "[[File:Mpxadaptericon.png]] {{58ac1bf086f77420ed183f9f}}<br/>",
+        "[[File:Baskakstockicon.png]] {{57ade1442459771557167e15}}",
+        "|-|Charge handle=",
+        "[[File:Mpxhandleicon.png]] {{58949fac86f77409483e16aa}}",
+        "</tabber></div>",
+        "|-",
+        "![[File:Kiba-MP5.png|frameless]]",
+        "|[[MP5]]",
+        "! -",
+        "|",
+        "<div style=\"display:table\"><tabber>Magazine=",
+        "[[File:Mp5drumicon.png|frameless]] {{5a351711c4a282000b1521a4}}",
+        "|-|Handguard=",
+        "[[File:Mp5sdhg.png|frameless]] {{5926f34786f77469195bfe92}}",
+        "|-|Stock=",
+        "[[File:Hka3stock.png|frameless]] {{5926d40686f7740f152b6b7e}}",
+        "|-|Muzzle=",
+        "[[File:MP5SDsuppressoricon.png|frameless]] {{5926d33d86f77410de68ebc0}}",
+        "|-|Mount=",
+        "[[File:Mfihkmou.png|frameless]] {{5926dad986f7741f82604363}}<br/>",
+        "[[File:sdtrr.png|frameless]] {{59c63b4486f7747afb151c1c}}",
+        "|-|Scope=",
+        "[[File:xps3-0icon.png|frameless]] {{58491f3324597764bc48fa02}}",
+        "|-|Receiver=",
+        "[[File:Mp5sdupper.png|frameless]] {{5926f2e086f7745aae644231}}",
+        "|-|Tactical=",
+        "[[File:klesch.png|frameless]] {{560d657b4bdc2da74d8b4572}}",
+        "|-|Charge handle=",
+        "[[File:Mp5handleicon.png|frameless]] {{5926c32286f774616e42de99}}",
+        "</tabber></div>",
+        "|-",
+        "![[File:Kiba-MR133.png|frameless]]",
+        "|[[MP-133]]",
+        "! -",
+        "|",
+        "<div style=\"display:table\"><tabber>Barrel=",
+        "[[File:510mmmp133normal.png|frameless]] {{55d4491a4bdc2d882f8b456e}}",
+        "|-|Muzzle=",
+        "[[File:Choke12ga.png|frameless]] {{560838c94bdc2d77798b4569}}",
+        "|-|Handguard=",
+        "[[File:Custommp133.png|frameless]] {{55d45f484bdc2d972f8b456d}}",
+        "|-|Foregrip=",
+        "[[File:Magpul-afg-black.png|frameless]] {{588226d124597767ad33f787}}",
+        "|-|Magazine=",
+        "[[File:Mp153x6.png|frameless]] {{5882163824597757561aa922}}",
+        "|-|Stock=",
+        "[[File:Shottyplasticstock.png|frameless]] {{56083be64bdc2d20478b456f}}",
+        "|-|Mount=",
+        "[[File:Sprm.png|frameless]] {{55d48a634bdc2d8b2f8b456a}}<br/>",
+        "|-|Tactical=",
+        "[[File:Predator icon.png|frameless]] {{59d790f486f77403cb06aec6}}<br/>",
+        "[[File:25mm.png|frameless]] {{57d17e212459775a1179a0f5}}",
+        "|-|Scope=",
+        "[[File:Rm33.png|frameless]] {{5a33b2c9c4a282000c5a9511}}<br/>",
+        "[[File:rmricon.png|frameless]] {{5a32aa8bc4a2826c6e06d737}}",
+        "</tabber></div>",
+        "|-",
+        "![[File:Kiba-RSASS.png|frameless]]",
+        "|[[RSASS]]",
+        "![[File:M80ICON.png|link=7.62x51mm M80]]",
+        "|",
+        "<div style=\"display:table\"><tabber>Barrel=",
+        "[[File:22inchrsassicon.png|frameless]] {{5a34fae7c4a2826c6e06d760}}",
+        "|-|Muzzle=",
+        "[[File:blackout.png|frameless]]{{5a34fd2bc4a282329a73b4c5}}",
+        "|-|Gas Block=",
+        "[[File:jpgs6.png|frameless]]{{5a34fbadc4a28200741e230a}}",
+        "|-|Handguard=",
+        "[[File:Rsasshg.png|frameless]] {{5a329052c4a28200741e22d3}}",
+        "|-|Magazine=",
+        "[[File:Rsassmag.png|frameless]] {{5a3501acc4a282000d72293a}}",
+        "|-|Pistol grip=",
+        "[[File:Miad.png|frameless]] {{5a339805c4a2826c6e06d73d}}",
+        "|-|Stock=",
+        "[[File:Ca2buffertubeicon.png|frameless]] {{5a33ca0fc4a282000d72292f}}<br/>",
+        "[[File:Prsgen2icon.png|frameless]] {{5947eab886f77475961d96c5}}",
+        "</tabber></div>",
+        "|-",
+        "![[File:VSS icon.png|frameless|link=VSS]]",
+        "|[[VSS]]",
+        "! -",
+        "|<div style=\"display:table\"><tabber>Magazine=",
+        "[[File:Vss10rnd.png|frameless]] {{57838f0b2459774a256959b2}}",
+        "|-|Muzzle=",
+        "[[File:Vsssuppressoricon.png|frameless]] {{57838c962459774a1651ec63}}",
+        "|-|Receiver=",
+        "[[File:Vssdust.png|frameless]] {{578395402459774a256959b5}}",
+        "|-|Stock=",
+        "[[File:Vssstockicon.png|frameless]] {{578395e82459774a0e553c7b}}",
+        "</tabber></div>",
+        "|-",
+        "![[File:BossGuardAK74-M.png|frameless]]",
+        "|[[AK-74M]]",
+        "![[File:74BTICON.png|link=5.45x39_mm_BT]]",
+        "|",
+        "<div style=\"display:table\"><tabber>Gas block=",
+        "[[File:ak74.png]] {{59c6633186f7740cf0493bb9}}",
+        "|-|Muzzle=",
+        "[[File:DTK-1.png|frameless]] {{5649ab884bdc2ded0b8b457f}}",
+        "|-|Pistol grip=",
+        "[[File:rk-3.png]] {{5649ae4a4bdc2d1b2b8b4588}}",
+        "|-|Receiver=",
+        "[[File:b-33.png|frameless]] {{5649af884bdc2d1b2b8b4589}}",
+        "|-|Stock=",
+        "[[File:6p45sb15icon.png|frameless]] {{5ac50c185acfc400163398d4}}",
+        "|-|Magazine=",
+        "[[File:30-round 6L23 5.45x39 magazine icon.gif|frameless]] {{55d480c04bdc2d1d4e8b456a}}",
+        "|-|Charging Handle=",
+        "[[File:rp-1icon.png|frameless]] {{5648ac824bdc2ded0b8b457d}}",
+        "|-|Handguard=",
+        "[[File:b10m.png|frameless]] {{5648b4534bdc2d3d1c8b4580}}",
+        "|-|Tactical Device=",
+        "[[File:x400.png|frameless]] {{56def37dd2720bec348b456a}}",
+        "|-|Scope=",
+        "[[File:okp-7icon.png|frameless]] {{570fd79bd2720bc7458b4583}}",
+        "</tabber></div>",
+        "|-",
+        "![[File:KibaAKS-74N.png|frameless]]",
+        "|[[AKS-74N]]",
+        "!-",
+        "|",
+        "<div style=\"display:table\"><tabber>Gas block=",
+        "[[File:ak74.png]] {{59c6633186f7740cf0493bb9}}",
+        "|-|Muzzle=",
+        "[[File:DTK-1.png|frameless]] {{5649ab884bdc2ded0b8b457f}}",
+        "|-|Pistol grip=",
+        "[[File:rk-3.png]] {{5649ae4a4bdc2d1b2b8b4588}}",
+        "|-|Receiver=",
+        "[[File:b-33.png|frameless]] {{5649af884bdc2d1b2b8b4589}}",
+        "|-|Stock=",
+        "[[File:PT74SIcon.png|frameless]] {{59ecc28286f7746d7a68aa8c}} <br/>",
+        "[[File:pt3stockicon.png|Frameless]] {{59ecc3dd86f7746dc827481c}}",
+        "|-|Magazine=",
+        "[[File:6L31-60-mag icon.png|framless]] {{55d482194bdc2d1d4e8b456b}}",
+        "|-|Handguard=",
+        "[[File:b10m.png|frameless]] {{5648b4534bdc2d3d1c8b4580}}",
+        "|-|Foregrip=",
+        "[[File:RVG Icon.gif|frameless]] {{59fc48e086f77463b1118392}}",
+        "|-|Scope=",
+        "[[File:553icon.png|frameless]] {{570fd6c2d2720bc6458b457f}}",
+        "</tabber></div>",
+        "|}",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[fr:Clé de la porte grillagée du magasin KIBA]]",
+        "[[ru:Ключ от решетчатой двери магазина KIBA]]"
     ],
     "TerraGroup Labs keycard (Blue)": [],
     "TerraGroup Labs keycard (Yellow)": [],
@@ -448,24 +941,34 @@
     "TerraGroup Labs Arsenal storage room key": [],
     "TerraGroup Labs access keycard": [],
     "5d08d21286f774736e7c94c3": [
-        "1 x [Common fund stash](https://escapefromtarkov.fandom.com/wiki/Common_fund_stash)"
+        "1 x [Common fund stash](https://escapefromtarkov.fandom.com/wiki/Common_fund_stash)",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[cs:Shturmanův klíč]]",
+        "[[de:Shturman Schlüssel]]",
+        "[[fr:Clé Shturman]]"
     ],
-    "5d80c60f86f77440373c4ece": [
-        "Rare loose [Loot](https://escapefromtarkov.fandom.com/wiki/Loot)",
-        "Multiple [Weapon](https://escapefromtarkov.fandom.com/wiki/Weapon) spawns",
-        "Possible spawn of certain [Containers](https://escapefromtarkov.fandom.com/wiki/Containers)"
-    ],
-    "5d80c62a86f7744036212b3f": [
-        "Marked circle -  Valuable Loot Spawn",
-        "[Virtex programmable processor](https://escapefromtarkov.fandom.com/wiki/Virtex_programmable_processor) spawns"
-    ],
+    "RB-BK marked key": [],
+    "RB-VO marked key": [],
     "5d80c66d86f774405611c7d6": [
         "5 x Weapon racks ([AK-74N](https://escapefromtarkov.fandom.com/wiki/AK-74N), [AKS-74U](https://escapefromtarkov.fandom.com/wiki/AKS-74U), [AKS-74N](https://escapefromtarkov.fandom.com/wiki/AKS-74N), [AKS-74UB](https://escapefromtarkov.fandom.com/wiki/AKS-74UB), [AKS-74UN](https://escapefromtarkov.fandom.com/wiki/AKS-74UN))",
-        "Loose loot ([Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods))"
+        "Loose loot ([Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods))",
+        "<li style=\"display: inline-block;\"><gallery widths=\"300\" heights=\"169\" mode=\"packed\">",
+        "File:RB-AO.png|Various AKs on gun racks",
+        "</gallery></li>",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:RB-AO Schlüssel]]",
+        "[[fr:Clé RB-AO]]"
     ],
     "5d80c6c586f77440351beef1": [
         "One [Drawer](https://escapefromtarkov.fandom.com/wiki/Drawer)",
-        "[Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawn on Desk"
+        "[Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawn on Desk",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:RB-OB Schlüssel]]",
+        "[[fr:Clé RB-OB]]",
+        "[[ru:Ключ РБ-ОБ]]"
     ],
     "5d80c6fc86f774403a401e3c": [
         "3 Weapon racks ([AK-74N](https://escapefromtarkov.fandom.com/wiki/AK-74N), [AKS-74U](https://escapefromtarkov.fandom.com/wiki/AKS-74U), [AKS-74N](https://escapefromtarkov.fandom.com/wiki/AKS-74N), [AKS-74UB](https://escapefromtarkov.fandom.com/wiki/AKS-74UB), [AKS-74UN](https://escapefromtarkov.fandom.com/wiki/AKS-74UN))",
@@ -476,7 +979,6 @@
         "Loose tech loot",
         "One [Sport bag|Sport Bag](https://escapefromtarkov.fandom.com/wiki/Sport_bag)",
         "[Virtex programmable processor](https://escapefromtarkov.fandom.com/wiki/Virtex_programmable_processor) spawns",
-        "[Graphics card](https://escapefromtarkov.fandom.com/wiki/Graphics_card) spawns",
         "[Tetriz portable game|Tetriz](https://escapefromtarkov.fandom.com/wiki/Tetriz_portable_game) spawns",
         "[Phased array element](https://escapefromtarkov.fandom.com/wiki/Phased_array_element) spawns",
         "Several ammo box spawns"
@@ -493,7 +995,12 @@
     "5d80c8f586f77440373c4ed0": [
         "[Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawn on Desk",
         "One [Drawer](https://escapefromtarkov.fandom.com/wiki/Drawer)",
-        "Valuables spawn on shelf"
+        "Valuables spawn on shelf",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:RB-OP Schlüssel]]",
+        "[[fr:Clé RB-OP]]",
+        "[[ru:Ключ РБ-ОП]]"
     ],
     "5d80c93086f7744036212b41": [
         "One [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)",
@@ -515,7 +1022,13 @@
         "One [Toolbox](https://escapefromtarkov.fandom.com/wiki/Toolbox)",
         "One [Weapon box (4x4)|Weapon Box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4))",
         "[Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawn on desk & on cabinets.",
-        "[6-STEN-140-M military battery](https://escapefromtarkov.fandom.com/wiki/6-STEN-140-M_military_battery) spawn (On the table to the right of the door.)"
+        "[6-STEN-140-M military battery](https://escapefromtarkov.fandom.com/wiki/6-STEN-140-M_military_battery) spawn (On the table to the right of the door.)",
+        "[[File:Skærmbillede (62).png|frameless]]",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:RB-MP21 Schlüssel]]",
+        "[[fr:Clé RB-MP21]]",
+        "[[ru:Ключ РБ-МП21]]"
     ],
     "5d80cab086f77440535be201": [
         "Two Weapon racks ([AK-74N](https://escapefromtarkov.fandom.com/wiki/AK-74N), [AKS-74U](https://escapefromtarkov.fandom.com/wiki/AKS-74U), [AKS-74N](https://escapefromtarkov.fandom.com/wiki/AKS-74N), [AKS-74UB](https://escapefromtarkov.fandom.com/wiki/AKS-74UB), [AKS-74UN](https://escapefromtarkov.fandom.com/wiki/AKS-74UN))",
@@ -534,9 +1047,16 @@
     "5d80cb5686f77440545d1286": [
         "Two [Medical supply crate|Medical Supply Crates](https://escapefromtarkov.fandom.com/wiki/Medical_supply_crate)",
         "One [Ration supply crate|Ration Supply Crate](https://escapefromtarkov.fandom.com/wiki/Ration_supply_crate)",
-        "One [Technical supply crate|Technical Supply Crate](https://escapefromtarkov.fandom.com/wiki/Technical_supply_crate)"
+        "One [Technical supply crate|Technical Supply Crate](https://escapefromtarkov.fandom.com/wiki/Technical_supply_crate)",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:RB-PS81 Schlüssel]]",
+        "[[fr:Clé RB-PS81]]",
+        "[[ru:Ключ РБ-ПСВ1]]"
     ],
-    "5d80cb8786f774405611c7d9": [],
+    "5d80cb8786f774405611c7d9": [
+        "N/A   "
+    ],
     "5d80cbd886f77470855c26c2": [
         "Loose loot ([Loot|Tools](https://escapefromtarkov.fandom.com/wiki/Loot))",
         "One [drawer](https://escapefromtarkov.fandom.com/wiki/drawer)",
@@ -547,22 +1067,50 @@
         "3 Weapon racks ([AK-74N](https://escapefromtarkov.fandom.com/wiki/AK-74N), [AKS-74U](https://escapefromtarkov.fandom.com/wiki/AKS-74U), [AKS-74N](https://escapefromtarkov.fandom.com/wiki/AKS-74N), [AKS-74UB](https://escapefromtarkov.fandom.com/wiki/AKS-74UB), [AKS-74UN](https://escapefromtarkov.fandom.com/wiki/AKS-74UN))",
         "Loose loot ([Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods), [Ammunition](https://escapefromtarkov.fandom.com/wiki/Ammunition))",
         "Two [Drawer](https://escapefromtarkov.fandom.com/wiki/Drawer)s",
-        "[Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawn on ground"
+        "[Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawn on ground",
+        "<li style=\"display: inline-block;\"><gallery widths=\"300\" heights=\"169\" mode=\"packed\">",
+        "File:Screenshot 2019-10-29 19.22.50.png",
+        "</gallery></li>",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:RB-ORB1 Schlüssel]]",
+        "[[fr:Clé RB-ORB1]]",
+        "[[ru:Ключ РБ-ОРБ1]]"
     ],
     "5d80ccdd86f77474f7575e02": [
         "Loose loot ([Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods), [Ammunition](https://escapefromtarkov.fandom.com/wiki/Ammunition))",
         "One [Drawer](https://escapefromtarkov.fandom.com/wiki/Drawer)s",
         "One [Weapon box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4))",
-        "One [Weapon box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))"
+        "One [Weapon box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:RB-ORB2 Schlüssel]]",
+        "[[fr:Clé RB-ORB2]]",
+        "[[ru:Ключ РБ-ОРБ2]]"
     ],
     "5d80cd1a86f77402aa362f42": [
         "3 Weapon racks ([AK-74N](https://escapefromtarkov.fandom.com/wiki/AK-74N), [AKS-74U](https://escapefromtarkov.fandom.com/wiki/AKS-74U), [AKS-74N](https://escapefromtarkov.fandom.com/wiki/AKS-74N), [AKS-74UB](https://escapefromtarkov.fandom.com/wiki/AKS-74UB), [AKS-74UN](https://escapefromtarkov.fandom.com/wiki/AKS-74UN))",
         "Loose loot ([Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods), [Ammunition](https://escapefromtarkov.fandom.com/wiki/Ammunition))",
-        "Two [Drawer](https://escapefromtarkov.fandom.com/wiki/Drawer)s"
+        "Two [Drawer](https://escapefromtarkov.fandom.com/wiki/Drawer)s",
+        "<li style=\"display: inline-block;\"><gallery widths=\"300\" heights=\"169\" mode=\"packed\">",
+        "File:Reserve_-_RB-ORB3_key_-_inside_(1).png",
+        "File:Reserve_-_RB-ORB3_key_-_inside_(2).png",
+        "</gallery></li>",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:RB-ORB3 Schlüssel]]",
+        "[[fr:Clé RB-ORB3]]",
+        "[[ru:Ключ РБ-ОРБ3]]"
     ],
     "5d8e0db586f7744450412a42": [
         "Two [Drawer](https://escapefromtarkov.fandom.com/wiki/Drawer)s",
-        "[Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawns on desk and on top of the two drawers."
+        "[Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawns on desk and on top of the two drawers.",
+        "[[File:RB-KORL Inside.png|450x450px|left|frameless]]",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:RB-KORL Schlüssel]]",
+        "[[fr:Clé RB-KORL]]",
+        "[[ru:Ключ РБ-КОРЛ]]"
     ],
     "5d8e0e0e86f774321140eb56": [
         "One Standing Weapon Safe",
@@ -570,32 +1118,69 @@
         "One Weapon Cabinet",
         "One [Weapon box (5x2)|Weapon Box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
         "One small safe under desk",
-        "One [Folder with intelligence|intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawn, on the desk"
+        "One [Folder with intelligence|intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawn, on the desk",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:RB-KPRL Schlüssel]]",
+        "[[fr:Clé RB-KPRL]]",
+        "[[ru:Ключ РБ-КПРЛ]]"
     ],
     "5d8e15b686f774445103b190": [
         "One [Weapon box (5x5)|Weapon box](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x5))",
         "One [Weapon box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4))",
         "One [Weapon box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
         "One [Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawn on the small wooden desk in the corner",
-        "Loose [Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods) on the small wooden desk in the corner"
+        "Loose [Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods) on the small wooden desk in the corner",
+        "<li style=\"display: inline-block;\"><gallery widths=\"300\" heights=\"169\" mode=\"packed\">",
+        "Key to HEP station storage inside.png",
+        "</gallery></li>",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:Schlüssel zum Lager des Wasserkraftwerks]]",
+        "[[fr:Clé du local de la station hydroélectrique]]",
+        "[[ru:Ключ от склада ГЭС]]"
     ],
     "5d8e3ecc86f774414c78d05e": [
         "Two [Toolbox](https://escapefromtarkov.fandom.com/wiki/Toolbox)es",
         "Possible spawn of [FP-100 filter absorber](https://escapefromtarkov.fandom.com/wiki/FP-100_filter_absorber)",
         "Possible spawn of [6-STEN-140-M military battery](https://escapefromtarkov.fandom.com/wiki/6-STEN-140-M_military_battery)",
-        "Possible spawn of [Old firesteel](https://escapefromtarkov.fandom.com/wiki/Old_firesteel)"
+        "Possible spawn of [Old firesteel](https://escapefromtarkov.fandom.com/wiki/Old_firesteel)",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:RB-GN Schlüssel]]",
+        "[[fr:Clé RB-GN]]",
+        "[[ru:Ключ РБ-ГН]]"
     ],
     "5d947d3886f774447b415893": [
         "Medical Supplies",
-        "[Ophthalmoscope](https://escapefromtarkov.fandom.com/wiki/Ophthalmoscope) spawns"
+        "[Ophthalmoscope](https://escapefromtarkov.fandom.com/wiki/Ophthalmoscope) spawns",
+        "[LEDX Skin Transilluminator|LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) Spawn",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:RB-SMP Schlüssel]]",
+        "[[fr:Clé RB-SMP]]",
+        "[[ru:Ключ РБ-СМП]]"
     ],
     "5d947d4e86f774447b415895": [
         "Loose loot (Medical Supplies)",
-        "One [Sport bag|Sports bag](https://escapefromtarkov.fandom.com/wiki/Sport_bag)"
+        "One [Sport bag|Sports bag](https://escapefromtarkov.fandom.com/wiki/Sport_bag)",
+        "<li style=\"display: inline-block;\"><gallery widths=\"300\" heights=\"169\" mode=\"packed\">",
+        "File:RB-KSM Room View.png",
+        "</gallery></li>",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:RB-KSM Schlüssel]]",
+        "[[fr:Clé RB-KSM]]",
+        "[[ru:Ключ РБ-КСМ]]"
     ],
     "5d95d6be86f77424444eb3a7": [
         "Three [Medical supply crate](https://escapefromtarkov.fandom.com/wiki/Medical_supply_crate)s",
-        "One [Technical supply crate](https://escapefromtarkov.fandom.com/wiki/Technical_supply_crate)"
+        "One [Technical supply crate](https://escapefromtarkov.fandom.com/wiki/Technical_supply_crate)",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:RB-PS82 Schlüssel]]",
+        "[[fr:Clé RB-PS82]]",
+        "[[ru:Ключ РБ-ПСВ2]]"
     ],
     "5d95d6fa86f77424484aa5e9": [
         "One [Medical supply crate|Medical Supply Crate](https://escapefromtarkov.fandom.com/wiki/Medical_supply_crate)",
@@ -617,7 +1202,12 @@
     ],
     "5da46e3886f774653b7a83fe": [
         "Two [Toolbox](https://escapefromtarkov.fandom.com/wiki/Toolbox)es.",
-        "Loose tech loot."
+        "Loose tech loot",
+        "{{Navbox keys}}",
+        "[[Category:Keys]]",
+        "[[de:RB-RS Schlüssel]]",
+        "[[fr:Clé RB-RS]]",
+        "[[ru:Ключ РБ-РС]]"
     ],
     "5da5cdcd86f774529238fb9b": [
         "Weapon rack spawn",
@@ -628,21 +1218,16 @@
         "1st room",
         "One [Weapon box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
         "One [Weapon box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4))",
-        "*One [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)",
+        "One [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)",
         "2nd room",
         "Two [Weapon box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4)) (At the same location)",
         "One [Wooden crate|Wooden crate (5x2)](https://escapefromtarkov.fandom.com/wiki/Wooden_crate)",
-        "*Loose loot ([barter items](https://escapefromtarkov.fandom.com/wiki/barter_items))"
+        "Loose loot ([barter items](https://escapefromtarkov.fandom.com/wiki/barter_items))"
     ],
     "ULTRA medical storage key": [],
     "Object #11SR keycard": [],
     "Object #21WS keycard": [],
-    "5ede7a8229445733cb4c18e2": [
-        "[Horse figurine](https://escapefromtarkov.fandom.com/wiki/Horse_figurine)s, [Chainlet](https://escapefromtarkov.fandom.com/wiki/Chainlet)s, [Golden neck chain](https://escapefromtarkov.fandom.com/wiki/Golden_neck_chain)s, [Bronze lion](https://escapefromtarkov.fandom.com/wiki/Bronze_lion)s.",
-        "Three sets of [Drawer](https://escapefromtarkov.fandom.com/wiki/Drawer)s",
-        "Multiple [Weapon](https://escapefromtarkov.fandom.com/wiki/Weapon) spawns",
-        "[Keytool](https://escapefromtarkov.fandom.com/wiki/Keytool) spawn"
-    ],
+    "RB-PKPM marked key": [],
     "5ede7b0c6d23e5473e6e8c66": [
         "Loose loot ([Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods), [Ammunition](https://escapefromtarkov.fandom.com/wiki/Ammunition))",
         "Three [Drawer](https://escapefromtarkov.fandom.com/wiki/Drawer)s",

@@ -471,7 +471,7 @@
 	"BossLocationSpawn": [
 		{
 			"BossName": "bossKilla",
-			"BossChance": 38,
+			"BossChance": 33,
 			"BossZone": "ZoneCenterBot",
 			"BossPlayer": false,
 			"BossDifficult": "normal",
@@ -539,7 +539,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneCenter"
 		},
 		{
 			"Id": "03b999f1-ac1a-4c44-ad73-8ef61626863e",
@@ -659,7 +659,7 @@
 					"Radius": 90
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneCenterBot"
 		},
 		{
 			"Id": "07aa3c3a-8edb-4fe3-8c05-891f8c8d68b0",
@@ -688,7 +688,7 @@
 					"Radius": 90
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGoshan"
 		},
 		{
 			"Id": "09b578e9-c71f-439f-a015-ec2f4fc38b82",
@@ -778,7 +778,7 @@
 					"Radius": 90
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneCenterBot"
 		},
 		{
 			"Id": "0d31289d-ac77-4654-b222-fdb8137c130d",
@@ -807,7 +807,7 @@
 					"Radius": 90
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneOLI"
 		},
 		{
 			"Id": "0e691845-e6ba-4c32-8aff-4fd6b769e9a1",
@@ -986,7 +986,7 @@
 					"Radius": 110
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneTrucks"
 		},
 		{
 			"Id": "14527c4f-0ab3-467d-8468-378f5a041b67",
@@ -1045,7 +1045,7 @@
 					"Radius": 90
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneOLI"
 		},
 		{
 			"Id": "15089928-14c7-4d40-b8a5-f4a3f0a5a5af",
@@ -1074,7 +1074,7 @@
 					"Radius": 120
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePowerStation"
 		},
 		{
 			"Id": "161a1ffd-5982-4dfc-80ff-ff8e0fe85503",
@@ -1163,7 +1163,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneOLI"
 		},
 		{
 			"Id": "187ca419-e5cc-4a30-886f-3606ea52caf7",
@@ -1222,7 +1222,7 @@
 					"Radius": 120
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePowerStation"
 		},
 		{
 			"Id": "1a535c95-c1d4-4cfa-9d30-f79b089dec28",
@@ -1251,7 +1251,7 @@
 					"Radius": 75
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIDEA"
 		},
 		{
 			"Id": "1cbb275e-6531-4fa0-ae7a-7f8c728b07d0",
@@ -1400,7 +1400,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneOLI"
 		},
 		{
 			"Id": "299b816e-1141-4002-a741-2f9d94570379",
@@ -1489,7 +1489,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneCenter"
 		},
 		{
 			"Id": "2dcba591-3692-4fc8-90b6-5fb092309d29",
@@ -1548,7 +1548,7 @@
 					"Radius": 90
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGoshan"
 		},
 		{
 			"Id": "332eab7f-251a-4bb0-9bcc-f7cc674d3885",
@@ -1667,7 +1667,7 @@
 					"Radius": 80
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIDEAPark"
 		},
 		{
 			"Id": "34422ffa-a0a0-4172-9181-b8d011227e1c",
@@ -1937,7 +1937,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneCenterBot"
 		},
 		{
 			"Id": "39dab627-f43d-4d3f-a0e9-d4ecf5201cc1",
@@ -1966,7 +1966,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIDEAPark"
 		},
 		{
 			"Id": "3bf7afc7-3d90-48aa-89fb-6f172cd127ea",
@@ -2175,7 +2175,7 @@
 					"Radius": 120
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRoad"
 		},
 		{
 			"Id": "427b2c32-f4fc-4812-a661-f8dd9d539b45",
@@ -2294,7 +2294,7 @@
 					"Radius": 75
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneOLIPark"
 		},
 		{
 			"Id": "4af33c9a-8450-4333-ad21-935fab511c67",
@@ -2323,7 +2323,7 @@
 					"Radius": 90
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIDEA"
 		},
 		{
 			"Id": "4bd264f8-67ef-478a-857a-408fe33d75b0",
@@ -2472,7 +2472,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneCenter"
 		},
 		{
 			"Id": "50570c3b-596f-4bec-b570-9932a29f6923",
@@ -2531,7 +2531,7 @@
 					"Radius": 120
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePowerStation"
 		},
 		{
 			"Id": "561e5fc1-562f-4d4e-bc90-8ff6241fdc6e",
@@ -2560,7 +2560,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneCenter"
 		},
 		{
 			"Id": "575d1452-6afb-458e-b7d8-1d157a56b4bf",
@@ -2679,7 +2679,7 @@
 					"Radius": 75
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIDEA"
 		},
 		{
 			"Id": "5b06ff3c-9fe4-4c1b-bcea-8dc39375eb7d",
@@ -2738,7 +2738,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneOLI"
 		},
 		{
 			"Id": "5cd53406-3c0c-49d5-a563-77de3859056b",
@@ -2797,7 +2797,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIDEAPark"
 		},
 		{
 			"Id": "6148785d-c23d-48f8-918b-cfc34d067a7a",
@@ -3036,7 +3036,7 @@
 					"Radius": 90
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGoshan"
 		},
 		{
 			"Id": "6f6a65db-4fef-423a-9024-c502bb96f3a2",
@@ -3065,7 +3065,7 @@
 					"Radius": 80
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneOLI"
 		},
 		{
 			"Id": "70156248-ead0-4f0e-a52f-0aadec0b0d81",
@@ -3154,7 +3154,7 @@
 					"Radius": 90
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneCenter"
 		},
 		{
 			"Id": "719af8ee-f647-4d8d-9736-c620e5f21f25",
@@ -3333,7 +3333,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneCenter"
 		},
 		{
 			"Id": "75ea0127-0135-4560-a547-6f51d4d32621",
@@ -3422,7 +3422,7 @@
 					"Radius": 80
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneOLI"
 		},
 		{
 			"Id": "7981535e-1f66-4825-978d-4787ca037834",
@@ -3721,7 +3721,7 @@
 					"Radius": 80
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIDEA"
 		},
 		{
 			"Id": "83af2113-328b-45fa-92d9-ab4195d62de3",
@@ -3750,7 +3750,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIDEAPark"
 		},
 		{
 			"Id": "847fd32f-8974-4747-96b7-d4d2fc161499",
@@ -3779,7 +3779,7 @@
 					"Radius": 120
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRoad"
 		},
 		{
 			"Id": "84a861b6-d62e-4a7d-b9d5-f171d5db4340",
@@ -3808,7 +3808,7 @@
 					"Radius": 110
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneTrucks"
 		},
 		{
 			"Id": "858baf83-08ee-4c5c-90b8-32d20e1c7db2",
@@ -3927,7 +3927,7 @@
 					"Radius": 75
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGoshan"
 		},
 		{
 			"Id": "8a58963e-acae-423a-95cd-f599d83134bc",
@@ -4046,7 +4046,7 @@
 					"Radius": 80
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIDEA"
 		},
 		{
 			"Id": "96426e10-91b8-4bc0-bdce-61e0667bd59b",
@@ -4165,7 +4165,7 @@
 					"Radius": 80
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIDEA"
 		},
 		{
 			"Id": "a4123ea9-e12b-4c2c-9ee1-74fad1c3075c",
@@ -4374,7 +4374,7 @@
 					"Radius": 100
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGoshan"
 		},
 		{
 			"Id": "b2b26400-a096-44b1-8f7c-37809a7106da",
@@ -4433,7 +4433,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIDEAPark"
 		},
 		{
 			"Id": "b6dcb022-66f5-4a35-8d7c-d77f1fc38dcc",
@@ -4553,7 +4553,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneCenterBot"
 		},
 		{
 			"Id": "bbb3c805-5135-425c-a032-5cadbc45d73c",
@@ -4642,7 +4642,7 @@
 					"Radius": 110
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneTrucks"
 		},
 		{
 			"Id": "bf26dcac-b23c-474b-8bc7-9dc569e52e6e",
@@ -4701,7 +4701,7 @@
 					"Radius": 90
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneCenter"
 		},
 		{
 			"Id": "c4955fcd-ac95-44de-9901-f7802d19015b",
@@ -4730,7 +4730,7 @@
 					"Radius": 90
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneOLIPark"
 		},
 		{
 			"Id": "c622da3b-f686-462f-8791-df6a918595a1",
@@ -4759,7 +4759,7 @@
 					"Radius": 110
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRoad"
 		},
 		{
 			"Id": "cac3029a-cbad-4827-b9e8-a9222ba23c0e",
@@ -4788,7 +4788,7 @@
 					"Radius": 120
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePowerStation"
 		},
 		{
 			"Id": "cae4f991-b69d-4520-b068-e8b5903ef4c9",
@@ -4847,7 +4847,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneOLIPark"
 		},
 		{
 			"Id": "ce33e4d2-b937-4f4a-9573-4300871cd74e",
@@ -5026,7 +5026,7 @@
 					"Radius": 80
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGoshan"
 		},
 		{
 			"Id": "d63ba590-b4a3-4900-9acc-75676391d134",
@@ -5145,7 +5145,7 @@
 					"Radius": 80
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGoshan"
 		},
 		{
 			"Id": "dadceca6-a380-426d-a5b0-238b76e3ba0f",
@@ -5354,7 +5354,7 @@
 					"Radius": 80
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneOLI"
 		},
 		{
 			"Id": "e1335910-f703-4e5e-b8a4-c1cdcb432a68",
@@ -5383,7 +5383,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneOLI"
 		},
 		{
 			"Id": "e4834439-c939-45e0-beff-d94805204504",
@@ -5502,7 +5502,7 @@
 					"Radius": 120
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRoad"
 		},
 		{
 			"Id": "ebcfec46-fc7c-4ffb-9ae0-cb5faebc4520",
@@ -5562,7 +5562,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneCenterBot"
 		},
 		{
 			"Id": "eef064f2-7daa-41bc-ae11-d5deb297f691",
@@ -5591,7 +5591,7 @@
 					"Radius": 80
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGoshan"
 		},
 		{
 			"Id": "f122d1e7-4430-4b31-88b1-464783b9670c",
@@ -5710,7 +5710,7 @@
 					"Radius": 110
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneTrucks"
 		},
 		{
 			"Id": "f9c5f978-ab8d-459d-a7d3-653117c47a39",
@@ -5799,7 +5799,7 @@
 					"Radius": 90
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGoshan"
 		},
 		{
 			"Id": "fb16c236-0d82-405f-97d3-1311a6c55a1e",
@@ -5858,7 +5858,7 @@
 					"Radius": 80
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIDEA"
 		},
 		{
 			"Id": "fc5ce718-9376-43c8-8ac5-336ce18e688d",

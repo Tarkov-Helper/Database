@@ -2248,13 +2248,13 @@
 					}
 				},
 				{
-					"_parent": "HandoverItem",
+					"_parent": "FindItem",
 					"_props": {
 						"target": [
 							"591afe0186f77431bd616a11"
 						],
 						"value": "1",
-						"index": 0,
+						"index": 2,
 						"parentId": "5968ed3186f77420d2328013",
 						"id": "5967938c86f77468cf5f9f54"
 					}
@@ -2277,7 +2277,7 @@
 								}
 							]
 						},
-						"index": 2,
+						"index": 3,
 						"parentId": "5968ed3186f77420d2328013",
 						"id": "5a3fbe3a86f77414422e0d9b"
 					}
@@ -6785,7 +6785,7 @@
 	"596760e186f7741e11214d58": {
 		"_id": "596760e186f7741e11214d58",
 		"traderId": "54cb57776803fa99248b456e",
-		"location": "any",
+		"location": "55f2d3fd4bdc2d5f408b4567",
 		"image": "/files/quest/icon/5967611386f7741dfe4f46fb.jpg",
 		"type": "PickUp",
 		"isKey": false,
@@ -10129,7 +10129,7 @@
 	"5edaba7c0c502106f869bc02": {
 		"_id": "5edaba7c0c502106f869bc02",
 		"traderId": "54cb57776803fa99248b456e",
-		"location": "any",
+		"location": "5704e554d2720bac5b8b456e",
 		"image": "/files/quest/icon/59c2742286f77475ec568d92.jpg",
 		"type": "Completion",
 		"isKey": false,
@@ -12072,7 +12072,7 @@
 	"596a101f86f7741ddb481582": {
 		"_id": "596a101f86f7741ddb481582",
 		"traderId": "58330581ace78e27b8b10cee",
-		"location": "any",
+		"location": "5704e3c2d2720bac5b8b4567",
 		"image": "/files/quest/icon/59c274ae86f77475060a9341.jpg",
 		"type": "PickUp",
 		"isKey": false,
@@ -12986,7 +12986,7 @@
 	"5979eee086f774311955e614": {
 		"_id": "5979eee086f774311955e614",
 		"traderId": "58330581ace78e27b8b10cee",
-		"location": "any",
+		"location": "56f40101d2720b2a4d8b45d6",
 		"image": "/files/quest/icon/5979ef2a86f77431185415c3.jpg",
 		"type": "Completion",
 		"isKey": false,
@@ -28380,7 +28380,7 @@
 	"5f04886a3937dc337a6b8238": {
 		"_id": "5f04886a3937dc337a6b8238",
 		"traderId": "5a7c2eca46aef81a7ca2145d",
-		"location": "any",
+		"location": "5704e554d2720bac5b8b456e",
 		"image": "/files/quest/icon/5ac4dbb086f7743e7c61ca09.jpg",
 		"type": "Completion",
 		"isKey": false,
@@ -30870,7 +30870,7 @@
 	"5ae449d986f774453a54a7e1": {
 		"_id": "5ae449d986f774453a54a7e1",
 		"traderId": "5ac3b934156ae10c4430e83c",
-		"location": "any",
+		"location": "5714dbc024597771384a510d",
 		"image": "/files/quest/icon/5ae4a74386f7744748710d72.jpg",
 		"type": "PickUp",
 		"isKey": false,
@@ -37896,7 +37896,7 @@
 	"5d25e4ca86f77409dd5cdf2c": {
 		"_id": "5d25e4ca86f77409dd5cdf2c",
 		"traderId": "5c0647fdd443bc2504c2d371",
-		"location": "any",
+		"location": "5704e3c2d2720bac5b8b4567",
 		"image": "/files/quest/icon/5d694cd886f77468c86a6adc.jpg",
 		"type": "Completion",
 		"isKey": false,
@@ -38616,7 +38616,7 @@
 	"5edab4b1218d181e29451435": {
 		"_id": "5edab4b1218d181e29451435",
 		"traderId": "5c0647fdd443bc2504c2d371",
-		"location": "any",
+		"location": "5704e554d2720bac5b8b456e",
 		"image": "/files/quest/icon/5edab4b1218d181e29451435.jpg",
 		"type": "Completion",
 		"isKey": false,

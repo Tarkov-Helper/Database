@@ -75,7 +75,7 @@
 	"MaxBotPerZone": 0,
 	"OpenZones": "BotZoneMain",
 	"OcculsionCullingEnabled": true,
-	"GlobalLootChanceModifier": 0.5,
+	"GlobalLootChanceModifier": 0.37,
 	"OldSpawn": true,
 	"NewSpawn": false,
 	"BotMax": 0,
@@ -227,7 +227,7 @@
 	"BossLocationSpawn": [
 		{
 			"BossName": "pmcBot",
-			"BossChance": 50,
+			"BossChance": 40,
 			"BossZone": "BotZoneFloor1",
 			"BossPlayer": false,
 			"BossDifficult": "normal",
@@ -3818,7 +3818,7 @@
 	],
 	"maxItemCountInLocation": [
 		{
-			"TemplateId": "",
+			"TemplateId": "54009119af1c881c07000029",
 			"Value": 0
 		}
 	],
