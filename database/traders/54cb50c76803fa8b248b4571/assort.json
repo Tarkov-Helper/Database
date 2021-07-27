@@ -66,13 +66,7 @@
             "parentId": "hideout",
             "slotId": "hideout",
             "upd": {
-                "Repairable": {
-                    "MaxDurability": 100,
-                    "Durability": 100
-                },
-                "FireMode": {
-                    "FireMode": "single"
-                },
+                "UnlimitedCount": false,
                 "StackObjectsCount": 20000
             }
         },
@@ -89,14 +83,20 @@
             "slotId": "mod_reciever"
         },
         {
+            "_id": "59cba01f58542bc7826cce38",
+            "_tpl": "602286df23506e50807090c6",
+            "parentId": "72df9cc65cf082729fc1176d",
+            "slotId": "mod_magazine"
+        },
+        {
             "_id": "93abeb46b203469297a85bc1",
-            "_tpl": "60229948cacb6b0506369e27",
-            "parentId": "60228a76d62c9b14ed777a66",
+            "_tpl": "60228a76d62c9b14ed777a66",
+            "parentId": "91278daf4f6add438f23e2c7",
             "slotId": "mod_sight_front"
         },
                 {
             "_id": "99c744c08b05455960e63476",
-            "_tpl": "60228924961b8d75ee233c32",
+            "_tpl": "60229948cacb6b0506369e27",
             "parentId": "91278daf4f6add438f23e2c7",
             "slotId": "mod_sight_rear"
         },

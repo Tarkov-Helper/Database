@@ -71,31 +71,31 @@
 		"BodyParts": {
 			"Head": {
 				"min": 35,
-				"max": 40
+				"max": 35
 			},
 			"Chest": {
 				"min": 85,
-				"max": 100
+				"max": 85
 			},
 			"Stomach": {
 				"min": 70,
-				"max": 100
+				"max": 70
 			},
 			"LeftArm": {
 				"min": 60,
-				"max": 70
+				"max": 60
 			},
 			"RightArm": {
 				"min": 60,
-				"max": 70
+				"max": 60
 			},
 			"LeftLeg": {
 				"min": 65,
-				"max": 80
+				"max": 65
 			},
 			"RightLeg": {
 				"min": 65,
-				"max": 80
+				"max": 65
 			}
 		}
 	},

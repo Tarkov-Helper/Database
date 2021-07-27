@@ -3200,7 +3200,7 @@
 			},
 			"WalkSpeedOverweightLimits": {
 				"x": 32,
-				"y": 70,
+				"y": 65,
 				"z": 0
 			},
 			"CrouchConsumption": {
@@ -4046,7 +4046,7 @@
 		},
 		"TestValue": 3
 	},
-	"time": 1626441800,
+	"time": 1627215452,
 	"bot_presets": [
 		{
 			"UseThis": true,

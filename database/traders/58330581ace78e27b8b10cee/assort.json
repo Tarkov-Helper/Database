@@ -136,13 +136,13 @@
         },
         {
             "_id": "bce29723f148c951fd609ed1",
-            "_tpl": "55d44fd14bdc2d962f8b456e",
+            "_tpl": "6033749e88382f4fab3fd2c5",
             "parentId": "73ea8d89bec493b1b7e0b2a6",
             "slotId": "mod_charge"
         },
         {
             "_id": "c573bb9afa4826b47fffa6f8",
-            "_tpl": "60338ff388382f4fab3fd2c8",
+            "_tpl": "602f85fd9b513876d4338d9c",
             "parentId": "73ea8d89bec493b1b7e0b2a6",
             "slotId": "mod_tactical_000"
         },
