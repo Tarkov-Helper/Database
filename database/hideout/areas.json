@@ -2426,7 +2426,7 @@
 					},
 					{
 						"templateId": "5449016a4bdc2d6f028b456f",
-						"count": 3500000,
+						"count": 2500000,
 						"isFunctional": false,
 						"type": "Item"
 					},
@@ -2500,6 +2500,12 @@
 						"traderId": "5ac3b934156ae10c4430e83c",
 						"loyaltyLevel": 3,
 						"type": "TraderLoyalty"
+					},
+					{
+						"templateId": "590c31c586f774245e3141b2",
+						"count": 7,
+						"isFunctional": false,
+						"type": "Item"
 					}
 				],
 				"bonuses": [
