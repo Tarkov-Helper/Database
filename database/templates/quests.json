@@ -25113,7 +25113,7 @@
 							"compareMethod": ">="
 						},
 						"ergonomics": {
-							"value": 51,
+							"value": 48,
 							"compareMethod": ">="
 						},
 						"baseAccuracy": {
@@ -27591,7 +27591,7 @@
 							"compareMethod": ">="
 						},
 						"ergonomics": {
-							"value": 45,
+							"value": 42,
 							"compareMethod": ">="
 						},
 						"baseAccuracy": {
@@ -28080,7 +28080,7 @@
 							"compareMethod": ">="
 						},
 						"ergonomics": {
-							"value": 48,
+							"value": 43,
 							"compareMethod": ">="
 						},
 						"baseAccuracy": {
@@ -28786,7 +28786,7 @@
 							"compareMethod": ">="
 						},
 						"ergonomics": {
-							"value": 47,
+							"value": 44,
 							"compareMethod": ">="
 						},
 						"baseAccuracy": {
@@ -29254,7 +29254,7 @@
 							"compareMethod": ">="
 						},
 						"ergonomics": {
-							"value": 44,
+							"value": 40,
 							"compareMethod": ">="
 						},
 						"baseAccuracy": {
@@ -36671,7 +36671,10 @@
 											],
 											[
 												"5d5d646386f7742797261fd9"
-											]
+											],
+											["5e4abb5086f77406975c9342"],["6038b4ca92ec1c3103795a0d"],["6038b4b292ec1c3103795a0b"],["60a3c68c37ea821725773ef5"],
+											["5fd4c474dd870108a754b241"],["609e8540d5c319764c2bc2e9"],["60a283193cb70855c43a381d"],["60a3c70cde5f453f634816a3"],
+											["609e860ebd219504d8507525"],["5e4ac41886f77406a511c9a8"],["5d5d87f786f77427997cfaef"]
 										],
 										"id": "5d25af8586f77443fe4569c4"
 									}
