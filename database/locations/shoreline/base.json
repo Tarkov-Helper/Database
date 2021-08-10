@@ -554,7 +554,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGasStation"
 		},
 		{
 			"Id": "04a50f48-34c2-4e5d-9714-06988624c36a",
@@ -613,7 +613,7 @@
 					"Radius": 71.23
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePort"
 		},
 		{
 			"Id": "0801b334-74f5-415e-b1d5-2c22b5d2ce27",
@@ -642,7 +642,7 @@
 					"Radius": 170
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneMeteoStation"
 		},
 		{
 			"Id": "0831ca46-91e2-480c-8434-4bc90e22d9f5",
@@ -671,7 +671,7 @@
 					"Radius": 170
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneMeteoStation"
 		},
 		{
 			"Id": "08475ee7-0dfb-4e8e-82c8-e40283ee7d6c",
@@ -880,7 +880,7 @@
 					"Radius": 170
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneMeteoStation"
 		},
 		{
 			"Id": "0cd882b4-e077-4f54-8d63-e368eb600ba7",
@@ -970,7 +970,7 @@
 					"Radius": 5
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePort"
 		},
 		{
 			"Id": "0e1f629c-42ed-46eb-920a-618a0cdb7781",
@@ -1000,7 +1000,7 @@
 					"Radius": 5
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePort"
 		},
 		{
 			"Id": "0e75428d-8a9e-468b-ba73-1275cd67171d",
@@ -1119,7 +1119,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneSanatorium1"
 		},
 		{
 			"Id": "11941eb6-c3a3-4386-b873-8afa20560fcf",
@@ -1238,7 +1238,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePowerStation"
 		},
 		{
 			"Id": "153e740f-bdd1-4bd7-8a6c-668b14616343",
@@ -1297,7 +1297,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneStartVillage"
 		},
 		{
 			"Id": "183b8bee-e971-4f3b-8ce6-62fd38205327",
@@ -1327,7 +1327,7 @@
 					"Radius": 50
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneSanatorium2"
 		},
 		{
 			"Id": "1888fe5e-df97-4cb6-8e8e-6d0a0f0880cb",
@@ -1356,7 +1356,7 @@
 					"Radius": 170
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneForestTruck"
 		},
 		{
 			"Id": "1aff115b-65d6-4b27-bbe1-4f147541caad",
@@ -1476,7 +1476,7 @@
 					"Radius": 165
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneForestSpawn"
 		},
 		{
 			"Id": "1fd5d815-478b-4cd0-89a4-da65bf71a13d",
@@ -1505,7 +1505,7 @@
 					"Radius": 170
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneMeteoStation"
 		},
 		{
 			"Id": "2257d8d3-56a5-48dc-80bf-4f79f0135606",
@@ -1534,7 +1534,7 @@
 					"Radius": 25
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePowerStationSniper"
 		},
 		{
 			"Id": "23487c2b-3302-4216-afe5-48feddfe82d7",
@@ -1563,7 +1563,7 @@
 					"Radius": 120
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBunker"
 		},
 		{
 			"Id": "2647fdcd-0a7a-4b16-bec8-d918a4db0474",
@@ -1592,7 +1592,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePassFar"
 		},
 		{
 			"Id": "28048da3-ecaa-45a6-8c3c-ff5c2956fe7c",
@@ -1651,7 +1651,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePassFar"
 		},
 		{
 			"Id": "28d0606a-8ce2-4252-86c7-50ad14bb92d7",
@@ -1680,7 +1680,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneSanatorium2"
 		},
 		{
 			"Id": "2c11e954-f7e5-4a67-845c-54328c8b9c27",
@@ -1770,7 +1770,7 @@
 					"Radius": 165
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneForestSpawn"
 		},
 		{
 			"Id": "37094848-6ca3-4b9f-9b06-4abc64e144bf",
@@ -1859,7 +1859,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneTunnel"
 		},
 		{
 			"Id": "3a50464e-38ed-483d-8945-8c43ab5850e6",
@@ -2008,7 +2008,7 @@
 					"Radius": 165
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePassClose"
 		},
 		{
 			"Id": "41603e25-db69-4228-94a6-4d89946538a2",
@@ -2037,7 +2037,7 @@
 					"Radius": 165
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneForestTruck"
 		},
 		{
 			"Id": "4161383c-4c28-487c-a858-7733e662bec4",
@@ -2096,7 +2096,7 @@
 					"Radius": 112
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGreenHouses"
 		},
 		{
 			"Id": "4349ecfb-ccd5-4a68-be17-d7fc1fe7cbb8",
@@ -2185,7 +2185,7 @@
 					"Radius": 220
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneTunnel"
 		},
 		{
 			"Id": "4514864e-beb2-4e98-aa1e-c39d9da1db0c",
@@ -2244,7 +2244,7 @@
 					"Radius": 117
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIsland"
 		},
 		{
 			"Id": "474b3d06-7368-4b8d-9a4d-2c9c223b71b2",
@@ -2363,7 +2363,7 @@
 					"Radius": 71.23
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePort"
 		},
 		{
 			"Id": "4897f155-137b-40a4-b2d5-1b1b96188cde",
@@ -2393,7 +2393,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneForestGasStation"
 		},
 		{
 			"Id": "4b2a193c-2749-4497-93ba-75a8f6a3e218",
@@ -2513,7 +2513,7 @@
 					"Radius": 50
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneSanatorium2"
 		},
 		{
 			"Id": "4f340491-d43e-4fd5-8447-65c925eacce6",
@@ -2602,7 +2602,7 @@
 					"Radius": 130
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBusStation"
 		},
 		{
 			"Id": "50dec41f-4850-4f59-be23-df2acc021286",
@@ -2631,7 +2631,7 @@
 					"Radius": 112
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGreenHouses"
 		},
 		{
 			"Id": "512db93b-1e90-4209-afa2-e08d3ccbcd7e",
@@ -2660,7 +2660,7 @@
 					"Radius": 25
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePowerStationSniper"
 		},
 		{
 			"Id": "5456e9f2-6def-4280-bf5c-4aec633c1d26",
@@ -2690,7 +2690,7 @@
 					"Radius": 5
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGreenHouses"
 		},
 		{
 			"Id": "54571ae3-8329-4326-a812-678b5ead1d2e",
@@ -2779,7 +2779,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRailWays"
 		},
 		{
 			"Id": "56d35730-0f36-4396-858d-b2128289b72a",
@@ -2898,7 +2898,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneSanatorium2"
 		},
 		{
 			"Id": "5c2478d1-5fbb-4750-9fbd-90ebe67cd81b",
@@ -2987,7 +2987,7 @@
 					"Radius": 145.2
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePort"
 		},
 		{
 			"Id": "5ed61a3a-1479-4875-af7a-9d4110220734",
@@ -3076,7 +3076,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRailWays"
 		},
 		{
 			"Id": "62462903-f1aa-4951-9e5b-5316a1eb11a0",
@@ -3255,7 +3255,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneSanatorium2"
 		},
 		{
 			"Id": "6b5f3dea-8c56-4203-a688-fc19b973ccc8",
@@ -3435,7 +3435,7 @@
 					"Radius": 5
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePort"
 		},
 		{
 			"Id": "7416a007-bcd7-4184-a4ba-d2894f273a5d",
@@ -3464,7 +3464,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGasStation"
 		},
 		{
 			"Id": "75c38946-8152-4995-9d27-92bf29808f66",
@@ -3583,7 +3583,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePassFar"
 		},
 		{
 			"Id": "7bbe3e83-685a-4fac-950c-64edb79e9573",
@@ -3642,7 +3642,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBusStation"
 		},
 		{
 			"Id": "7f6f6ea4-f3eb-45d2-9028-2ec37ee7e0de",
@@ -3821,7 +3821,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneTunnel"
 		},
 		{
 			"Id": "826c70a2-7983-49a9-94f1-433b364fa01a",
@@ -3850,7 +3850,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneStartVillage"
 		},
 		{
 			"Id": "842e293c-842b-482b-a9df-8bf374a6811e",
@@ -4059,7 +4059,7 @@
 					"Radius": 98.1
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBunker"
 		},
 		{
 			"Id": "8d0f7f84-2ef1-4779-869e-4e9d8954d0ae",
@@ -4088,7 +4088,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRailWays"
 		},
 		{
 			"Id": "8d83f63c-b4c0-420f-b594-7c55017641ef",
@@ -4117,7 +4117,7 @@
 					"Radius": 117
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIsland"
 		},
 		{
 			"Id": "8f7d2c94-5cc8-490b-895d-4c89092fd9f9",
@@ -4146,7 +4146,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGasStation"
 		},
 		{
 			"Id": "90c561a8-e884-4e68-8846-01a97eb68004",
@@ -4175,7 +4175,7 @@
 					"Radius": 170
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePassClose"
 		},
 		{
 			"Id": "914d1a86-0305-4e7c-b9ab-913ca92c1233",
@@ -4234,7 +4234,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRailWays"
 		},
 		{
 			"Id": "91ecd38d-841e-49fa-8c2c-8edae515393f",
@@ -4324,7 +4324,7 @@
 					"Radius": 165
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneForestSpawn"
 		},
 		{
 			"Id": "92c3485f-0cf2-40f4-8b30-a7bed149d5c1",
@@ -4414,7 +4414,7 @@
 					"Radius": 50
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneSanatorium2"
 		},
 		{
 			"Id": "96ca0195-311a-428c-b617-fc5f1bc21c1b",
@@ -4443,7 +4443,7 @@
 					"Radius": 130
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBusStation"
 		},
 		{
 			"Id": "96d99ac5-c5ec-44c1-9979-f0f548ac56ce",
@@ -4532,7 +4532,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePowerStation"
 		},
 		{
 			"Id": "98684f29-1a14-4872-bfe7-ad4832881a44",
@@ -4741,7 +4741,7 @@
 					"Radius": 117
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIsland"
 		},
 		{
 			"Id": "9bd84efe-dfce-46ed-ab04-60bbba500158",
@@ -4770,7 +4770,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePassFar"
 		},
 		{
 			"Id": "9c654abe-54da-4a4b-8ce2-f09922d84ae2",
@@ -4799,7 +4799,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneSanatorium2"
 		},
 		{
 			"Id": "9c7c5171-f30e-4d4a-958e-04787fcaed11",
@@ -5039,7 +5039,7 @@
 					"Radius": 170
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneForestSpawn"
 		},
 		{
 			"Id": "a2e7aa5f-add8-47a7-9ba6-226b0b57a1a1",
@@ -5068,7 +5068,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneTunnel"
 		},
 		{
 			"Id": "a4da313e-6e8c-4a25-b770-783791b1c38a",
@@ -5187,7 +5187,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePassFar"
 		},
 		{
 			"Id": "a719320f-225f-4ebe-a8cf-0adbcb6a9586",
@@ -5216,7 +5216,7 @@
 					"Radius": 117
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIsland"
 		},
 		{
 			"Id": "a7c7a365-ea94-481f-b15a-c880eb6df6e6",
@@ -5305,7 +5305,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneSanatorium1"
 		},
 		{
 			"Id": "aaeee0f3-0a91-46b0-bc4a-9c6bcc31d097",
@@ -5364,7 +5364,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneSanatorium1"
 		},
 		{
 			"Id": "ab31a334-dc31-4113-96d5-7fdd00a7a84b",
@@ -5423,7 +5423,7 @@
 					"Radius": 212
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneTunnel"
 		},
 		{
 			"Id": "ac818198-061f-473f-8295-a0bb06ac574c",
@@ -5452,7 +5452,7 @@
 					"Radius": 112
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGreenHouses"
 		},
 		{
 			"Id": "afc031e2-8a83-48d7-aabd-991abb6b17b3",
@@ -5481,7 +5481,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRailWays"
 		},
 		{
 			"Id": "b023d356-ee7e-490a-a5fa-0f1cc67bad93",
@@ -5510,7 +5510,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneStartVillage"
 		},
 		{
 			"Id": "b0ca8c3f-6d94-4e03-8e1f-5b3996478e2f",
@@ -5690,7 +5690,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneForestGasStation"
 		},
 		{
 			"Id": "b6842fd6-2a9f-4d1e-a64f-d36188ede81d",
@@ -5719,7 +5719,7 @@
 					"Radius": 112
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGreenHouses"
 		},
 		{
 			"Id": "b7c84f7e-ea0b-471b-8608-df2186e054e0",
@@ -5778,7 +5778,7 @@
 					"Radius": 112
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGreenHouses"
 		},
 		{
 			"Id": "b90ace25-5546-4bf4-9670-b6ac0ac3c476",
@@ -5837,7 +5837,7 @@
 					"Radius": 25
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBunkeSniper"
 		},
 		{
 			"Id": "bbc42143-f4e8-44b3-bd41-90d3d994b402",
@@ -5866,7 +5866,7 @@
 					"Radius": 120
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBunker"
 		},
 		{
 			"Id": "bf0c91c9-6ee4-4fd3-8f03-9c02d79355ce",
@@ -5955,7 +5955,7 @@
 					"Radius": 170
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGasStation"
 		},
 		{
 			"Id": "c018a1cc-6aca-45bf-80b6-b0dacc6b796f",
@@ -6074,7 +6074,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGasStation"
 		},
 		{
 			"Id": "c2b1f531-0bb7-48f1-9ec8-9adf34f5260e",
@@ -6133,7 +6133,7 @@
 					"Radius": 71.23
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePort"
 		},
 		{
 			"Id": "c5425f62-ced4-4198-9a77-dc186b09fee9",
@@ -6222,7 +6222,7 @@
 					"Radius": 117
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIsland"
 		},
 		{
 			"Id": "c8a44191-2caa-4c18-9bc1-872fb21a980e",
@@ -6251,7 +6251,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneSanatorium1"
 		},
 		{
 			"Id": "c9306832-7442-48d8-a3bc-d78fb6ad456a",
@@ -6280,7 +6280,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePassFar"
 		},
 		{
 			"Id": "ccd7a541-5afc-4054-a51a-9979490a2f2e",
@@ -6310,7 +6310,7 @@
 					"Radius": 5
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGreenHouses"
 		},
 		{
 			"Id": "cd50d306-1cfa-4829-a915-043e547288af",
@@ -6369,7 +6369,7 @@
 					"Radius": 117
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneIsland"
 		},
 		{
 			"Id": "ced937d7-c30d-4166-9c22-e1fbbd776604",
@@ -6428,7 +6428,7 @@
 					"Radius": 212
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneTunnel"
 		},
 		{
 			"Id": "d1856a0e-3988-463e-a177-53d1b6673992",
@@ -6457,7 +6457,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRailWays"
 		},
 		{
 			"Id": "d27f5052-b7db-4886-9d49-b8d05d6dc7b1",
@@ -6486,7 +6486,7 @@
 					"Radius": 112
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGreenHouses"
 		},
 		{
 			"Id": "d374eb79-72b6-4bd9-aefc-b19ded42c7f6",
@@ -6515,7 +6515,7 @@
 					"Radius": 71.23
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePort"
 		},
 		{
 			"Id": "d3cd70b1-9a90-4d8f-91bc-28f433a9ef09",
@@ -6544,7 +6544,7 @@
 					"Radius": 25
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBunkeSniper"
 		},
 		{
 			"Id": "d4bc284a-88d8-4f53-a9d4-cc1120c4f908",
@@ -6573,7 +6573,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGasStation"
 		},
 		{
 			"Id": "d6f672ad-ca9a-4437-a517-e02a07840143",
@@ -6602,7 +6602,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBusStation"
 		},
 		{
 			"Id": "d848ab74-083b-4454-94d3-3f5cb54b6f7a",
@@ -6661,7 +6661,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBusStation"
 		},
 		{
 			"Id": "d904fe54-6447-4723-899a-7e14e05ae9a7",
@@ -6690,7 +6690,7 @@
 					"Radius": 98.1
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBunker"
 		},
 		{
 			"Id": "d92df5a8-fe9d-4a40-839f-5f6652251b7d",
@@ -6779,7 +6779,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneSanatorium1"
 		},
 		{
 			"Id": "dd45d07f-ac7b-4aaa-9a2f-643365a0b3d3",
@@ -6839,7 +6839,7 @@
 					"Radius": 5
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneGreenHouses"
 		},
 		{
 			"Id": "de404ee2-edfe-46e3-aa54-473c35e5d226",
@@ -6869,7 +6869,7 @@
 					"Radius": 50
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneSanatorium1"
 		},
 		{
 			"Id": "df0eb3d7-47e4-4d21-8225-fd64893ff772",
@@ -6988,7 +6988,7 @@
 					"Radius": 90
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePowerStation"
 		},
 		{
 			"Id": "e2a13b2e-16d3-420f-af05-905069917b66",
@@ -7047,7 +7047,7 @@
 					"Radius": 131.2
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePort"
 		},
 		{
 			"Id": "e61d1eae-714c-480c-b3fe-035608fbf8a6",
@@ -7077,7 +7077,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneForestGasStation"
 		},
 		{
 			"Id": "e69e6216-1071-4a19-91dc-c3da26f483d6",
@@ -7106,7 +7106,7 @@
 					"Radius": 70
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneSanatorium2"
 		},
 		{
 			"Id": "e72294f1-07bc-4a75-8a10-a49951ab935b",
@@ -7135,7 +7135,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneStartVillage"
 		},
 		{
 			"Id": "e815c01c-4f47-4a3e-9f36-b4ace91d79b4",
@@ -7224,7 +7224,7 @@
 					"Radius": 98.1
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBunker"
 		},
 		{
 			"Id": "eb855092-1185-4ee8-a67f-219238d5b35a",
@@ -7254,7 +7254,7 @@
 					"Radius": 50
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneSanatorium1"
 		},
 		{
 			"Id": "ebc374a7-883a-4769-a1c0-068a707fecee",
@@ -7283,7 +7283,7 @@
 					"Radius": 165
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneForestTruck"
 		},
 		{
 			"Id": "ef21d970-5152-41df-8578-82e053fbc320",
@@ -7313,7 +7313,7 @@
 					"Radius": 50
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneSanatorium1"
 		},
 		{
 			"Id": "ef2f2161-0120-46af-8fe6-06fcf8bbb5f7",
@@ -7552,7 +7552,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneStartVillage"
 		},
 		{
 			"Id": "f67f1b62-76f7-4974-9374-2df04368a862",
@@ -7581,7 +7581,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePowerStation"
 		},
 		{
 			"Id": "f883d201-beea-44b0-981b-3e5416ca1d3d",
@@ -7730,7 +7730,7 @@
 					"Radius": 175
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZonePassClose"
 		}
 	],
 	"maxItemCountInLocation": [],

@@ -3549,6 +3549,26 @@
 			{
 				"TemplateId": "5fca138c2a7b221b2852a5c6",
 				"Value": 3
+			},
+			{
+				"TemplateId": "5c1d0efb86f7744baf2e7b7b",
+				"Value": 2
+			},
+			{
+				"TemplateId": "5e42c81886f7742a01529f57",
+				"Value": 2
+			},
+			{
+				"TemplateId": "5c94bbff86f7747ee735c08f",
+				"Value": 4
+			},
+			{
+				"TemplateId": "5783c43d2459774bbe137486",
+				"Value": 2
+			},
+			{
+				"TemplateId": "5e42c83786f7742a021fdf3c",
+				"Value": 2
 			}
 		],
 		"SkillMinEffectiveness": 0.0001,
@@ -4046,7 +4066,7 @@
 		},
 		"TestValue": 3
 	},
-	"time": 1627998175,
+	"time": 1628603669,
 	"bot_presets": [
 		{
 			"UseThis": true,

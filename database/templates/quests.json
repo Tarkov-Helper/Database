@@ -30555,7 +30555,7 @@
                                 {
                                     "_parent": "VisitPlace",
                                     "_props": {
-                                        "target": "place_pacemaker_SCOUT_01",
+                                        "target": "mechanik_exit_area_1",
                                         "value": "1",
                                         "id": "BackDoorVisitPlaceMarkerNOTWORKY"
                                     }
@@ -41285,7 +41285,7 @@
                                     "_parent": "InZone",
                                     "_props": {
                                         "zoneIds": [
-                                            "huntsman_013"
+                                            "prapor_HQ_area_check_1"
                                         ],
                                         "id": "InZoneID"
                                     }
