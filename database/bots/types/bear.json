@@ -1039,8 +1039,9 @@
     },
     "5fbcc1d9016cce60e8341ab3": {
       "mod_pistol_grip": [
-        "59db3acc86f7742a2c4ab912",
-        "59db3a1d86f77429e05b4e92"
+        "57af48872459771f0b2ebf11",
+        "59db3a1d86f77429e05b4e92",
+        "59db3acc86f7742a2c4ab912"
       ],
       "mod_magazine": [
         "5d1340cad7ad1a0b0b249869",
@@ -1944,16 +1945,16 @@
       "mod_sight_rear": [
         "5abcbb20d8ce87001773e258"
       ],
+      "mod_mount": [
+        "5addbfe15acfc4001a5fc58b",
+        "5addbfef5acfc400185c2857"
+      ],
       "patron_in_weapon": [
         "5a6086ea4f39f99cd479502f",
         "5a608bf24f39f98ffc77720e",
         "58dd3ad986f77403051cba8f",
         "5e023e53d4353e3302577c4c",
         "5efb0c1bd79ff02a1f5e68d9"
-      ],
-      "mod_mount": [
-        "5addbfe15acfc4001a5fc58b",
-        "5addbfef5acfc400185c2857"
       ]
     },
     "5addcce35acfc4001a5fc635": {
@@ -2072,6 +2073,9 @@
         "5aaa4194e5b5b055d06310a5",
         "5bed61680db834001d2c45ab"
       ],
+      "mod_charge": [
+        "5648ac824bdc2ded0b8b457d"
+      ],
       "patron_in_weapon": [
         "5c0d5e4486f77478390952fe",
         "56dfef82d2720bbd668b4567",
@@ -2087,10 +2091,9 @@
       ],
       "mod_mount_000": [
         "57486e672459770abd687134",
-        "5947db3f86f77447880cf76f"
-      ],
-      "mod_charge": [
-        "5648ac824bdc2ded0b8b457d"
+        "5947db3f86f77447880cf76f",
+        "5c61a40d2e2216001403158d",
+        "5c90c3622e221601da359851"
       ]
     },
     "5bb2475ed4351e00853264e3": {
@@ -2407,8 +2410,7 @@
       ],
       "mod_magazine": [
         "5aaa4194e5b5b055d06310a5",
-        "55d480c04bdc2d1d4e8b456a",
-        "55d482194bdc2d1d4e8b456b"
+        "55d480c04bdc2d1d4e8b456a"
       ],
       "mod_muzzle": [
         "5649ab884bdc2ded0b8b457f",
@@ -2416,7 +2418,6 @@
         "564caa3d4bdc2d17108b458e"
       ],
       "mod_reciever": [
-        "57dc334d245977597164366f",
         "5839a7742459773cf9693481"
       ],
       "mod_gas_block": [
@@ -2933,6 +2934,9 @@
       ],
       "mod_stock": [
         "57dc347d245977596754e7a1"
+      ],
+      "mod_charge": [
+        "5648ac824bdc2ded0b8b457d"
       ],
       "mod_magazine": [
         "564ca99c4bdc2d16268b4589",
@@ -3620,18 +3624,21 @@
       "mod_pistol_grip": [
         "55802f5d4bdc2dac148b458f",
         "602e71bd53a60014f9705bfa",
-        "57c55efc2459772d2c6271e7"
+        "57c55efc2459772d2c6271e7",
+        "5a339805c4a2826c6e06d73d"
       ],
       "mod_magazine": [
         "5aaa5dfee5b5b000140293d3",
         "5c6d46132e221601da357d56",
-        "5c6d450c2e221600114c997d"
+        "5c6d450c2e221600114c997d",
+        "5c05413a0db834001c390617"
       ],
       "mod_reciever": [
         "5d4405aaa4b9361e6a4e6bd3"
       ],
       "mod_stock": [
-        "5649be884bdc2d79388b4577"
+        "5649be884bdc2d79388b4577",
+        "5c793fb92e221644f31bfb64"
       ],
       "mod_charge": [
         "5d44334ba4b9362b346d1948",
@@ -4172,7 +4179,8 @@
         "5bfe86df0db834001b734685",
         "58d2947686f774485c6a1ee5",
         "5fce16961f152d4312622bc9",
-        "56eabf3bd2720b75698b4569"
+        "56eabf3bd2720b75698b4569",
+        "58d2946386f774496974c37e"
       ]
     },
     "5fb65363d1409e5ca04b54f5": {
@@ -4356,7 +4364,7 @@
     "5fbcc3e4d6fa9c00c571bb58": {
       "mod_scope": [
         "570fd79bd2720bc7458b4583",
-        "544a3a774bdc2d3a388b4567",
+        "60a23797a37c940de7062d02",
         "58491f3324597764bc48fa02"
       ],
       "mod_barrel": [
@@ -4393,7 +4401,7 @@
     "59e0bdb186f774156f04ce82": {
       "mod_tactical": [
         "5a800961159bd4315e3a1657",
-        "560d657b4bdc2da74d8b4572",
+        "5cc9c20cd7f00c001336c65d",
         "5b07dd285acfc4001754240d"
       ]
     },
@@ -4454,6 +4462,7 @@
         "5648b1504bdc2d9d488b4584",
         "5648b0744bdc2d363b8b4578",
         "5cbda392ae92155f3c17c39f",
+        "5d4aaa73a4b9365392071175",
         "5648ae314bdc2d3d1c8b457f",
         "5a9d56c8a2750c0032157146",
         "5d1b198cd7ad1a604869ad72",
@@ -4598,6 +4607,7 @@
     "5c90c3622e221601da359851": {
       "mod_scope": [
         "570fd79bd2720bc7458b4583",
+        "584984812459776a704a82a6",
         "57ac965c24597706be5f975c"
       ]
     },
@@ -4939,6 +4949,7 @@
         "57ac965c24597706be5f975c",
         "570fd79bd2720bc7458b4583",
         "570fd721d2720bc5458b4596",
+        "59f9d81586f7744c7506ee62",
         "584984812459776a704a82a6",
         "5c07dd120db834001c39092d",
         "570fd6c2d2720bc6458b457f",
@@ -5065,15 +5076,24 @@
         "5ab3afb2d8ce87001660304d"
       ]
     },
-    "5aafa1c2e5b5b00015042a56": {
-      "mod_sight_front": [
-        "5addba3e5acfc4001669f0ab"
+    "5addbfe15acfc4001a5fc58b": {
+      "mod_scope": [
+        "584984812459776a704a82a6",
+        "570fd721d2720bc5458b4596",
+        "57adff4f24597737f373b6e6"
       ]
     },
-    "5ab24ef9e5b5b00fe93c9209": {
+    "5aafa1c2e5b5b00015042a56": {
+      "mod_sight_front": [
+        "5addba3e5acfc4001669f0ab",
+        "5aafa49ae5b5b00015042a58"
+      ]
+    },
+    "5addbfef5acfc400185c2857": {
       "mod_scope": [
-        "58491f3324597764bc48fa02",
-        "5649a2464bdc2d91118b45a8"
+        "5c1cdd302e221602b3137250",
+        "5c0517910db83400232ffee5",
+        "60a23797a37c940de7062d02"
       ]
     },
     "5ab3afb2d8ce87001660304d": {
@@ -5084,18 +5104,33 @@
         "5b7d693d5acfc43bca706a3d"
       ],
       "mod_sight_front": [
-        "5addba3e5acfc4001669f0ab"
+        "5addba3e5acfc4001669f0ab",
+        "5aafa49ae5b5b00015042a58"
       ]
     },
-    "5addbfe15acfc4001a5fc58b": {
+    "5c1cdd302e221602b3137250": {
       "mod_scope": [
-        "570fd721d2720bc5458b4596",
-        "57adff4f24597737f373b6e6"
+        "5c05293e0db83400232fff80"
+      ]
+    },
+    "5c05293e0db83400232fff80": {
+      "mod_mount": [
+        "5c05295e0db834001a66acbb"
+      ]
+    },
+    "5ab24ef9e5b5b00fe93c9209": {
+      "mod_scope": [
+        "60a23797a37c940de7062d02"
       ]
     },
     "5c7954d52e221600106f4cc7": {
       "mod_muzzle": [
         "5c7955c22e221644f31bfd5e"
+      ]
+    },
+    "57adff4f24597737f373b6e6": {
+      "mod_scope": [
+        "57ae0171245977343c27bfcf"
       ]
     },
     "5addc00b5acfc4001669f144": {
@@ -5116,12 +5151,7 @@
         "5addbfd15acfc40015621bde"
       ],
       "mod_tactical": [
-        "544909bb4bdc2d6f028b4577"
-      ]
-    },
-    "5addbfd15acfc40015621bde": {
-      "mod_scope": [
-        "558022b54bdc2dac148b458d"
+        "560d657b4bdc2da74d8b4572"
       ]
     },
     "5dff8db859400025ea5150d4": {
@@ -5214,15 +5244,17 @@
         "5cf78720d7f00c06595bc93e"
       ]
     },
+    "5d4aaa73a4b9365392071175": {
+      "mod_foregrip": [
+        "5b7be4895acfc400170e2dd5"
+      ]
+    },
     "5648b4534bdc2d3d1c8b4580": {
       "mod_foregrip": [
         "588226d124597767ad33f787",
         "59f8a37386f7747af3328f06",
         "5c1cd46f2e22164bef5cfedb",
         "5c7fc87d2e221644f31c0298"
-      ],
-      "mod_scope": [
-        "58491f3324597764bc48fa02"
       ],
       "mod_tactical_001": [
         "5d2369418abbc306c62e0c80"
@@ -5628,9 +5660,9 @@
         "5c1bc5fb2e221602b1779b32",
         "5c1bc5af2e221602b412949b",
         "588226dd24597767ad33f789",
-        "5cf4fb76d7f00c065703d3ac",
         "558032614bdc2de7118b4585",
-        "5b057b4f5acfc4771e1bd3e9"
+        "5b057b4f5acfc4771e1bd3e9",
+        "5cf4fb76d7f00c065703d3ac"
       ],
       "mod_tactical_000": [
         "5c06595c0db834001a66af6c",
@@ -5986,11 +6018,6 @@
         "5c07c5ed0db834001b73571c"
       ]
     },
-    "5addbfef5acfc400185c2857": {
-      "mod_scope": [
-        "60a23797a37c940de7062d02"
-      ]
-    },
     "5d4405aaa4b9361e6a4e6bd3": {
       "mod_scope": [
         "58491f3324597764bc48fa02",
@@ -6009,8 +6036,16 @@
     },
     "5fbc22ccf24b94483f726483": {
       "mod_muzzle_000": [
-        "5fbcbd10ab884124df0cd563",
+        "5fbcbcf593164a5b6278efb2",
         "5fbcbd02900b1d5091531dd3"
+      ]
+    },
+    "5efaf417aeb21837e749c7f2": {
+      "mod_foregrip": [
+        "5c1cd46f2e22164bef5cfedb"
+      ],
+      "mod_tactical_001": [
+        "5d2369418abbc306c62e0c80"
       ]
     }
   },
