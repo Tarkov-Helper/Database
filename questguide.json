@@ -1,0 +1,3222 @@
+{
+    "Debut": {
+        "steps": [
+            "Enter the map [[Customs]] and search for and kill five [[Scavs]] whom can be found throughout the map. Be sure to check if they have the [[MP-133 12ga shotgun]]s. This shotgun can be found on Scavs, inside various [[Looting#Searchable Containers|Searchable Containers]], or simply lying around.  They must be in a functional state to be handed in. To hand over the shotguns, go to the Traders menu, then to [[Prapor]] and click on the \"Tasks\" tab. Here you should see the \"Turn In\" button to hand over the shotguns."
+        ],
+        "images": []
+    },
+    "Checking": {
+        "steps": [
+            "Head into the map [[Customs]]. The [[Machinery key]] is required to access the [[Bronze pocket watch on a chain|Bronze pocket watch]] so if you do not yet have it, head to room 205 located on the second floor of the three-story dorm building.<br> ",
+            "To enter the room you'll need to jump on top of debris blocking the hall and crouch to get inside the doorway of the room. The [[Machinery key]] can be found within the [[Jacket|brown jacket]] beside the dresser. ",
+            "After obtaining this key, head south to the fuel tanker beside the construction site. The driver side door of the cab can be unlocked with the [[Machinery key]].",
+            "Inside, the [[Bronze pocket watch on a chain|Bronze pocket watch]] is found sitting on the floor in front of the seat. ",
+            "After picking up the pocket watch it will be placed in your quest items inventory. You must successfully extract with the pocket watch to hand it in. If you die before extraction, you will have to retrieve it again. Hand the pocket watch over to [[Prapor]] to complete the quest."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f2/Checking_Map.png",
+                "text": ""
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/Dorms.png",
+                "text": ""
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a2/Machinery_Key_Door.png",
+                "text": ""
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/82/Machinery_key_inside.png",
+                "text": ""
+            }
+        ]
+    },
+    "Shootout picnic": {
+        "steps": [
+            "[[Woods]] is a wide and open map. To make this quest easier it's recommended that you use a long ranged weapon to take out [[Scavs]]. An [[OP-SKS]] with a scope or a [[Mosin bolt-action sniper rifle]] are fairly cheap ways to complete this quest. The lumber mill and Scav house, as well as the two villages by the river and the radio tower, will usually be populated with [[Scavengers]]. These locations are where you will find most of your kills.",
+            "Below is a map with yellow circles indicating where to find scavs"
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/05/Glory4lyfeWoods_map_v4_marked.png"
+            }
+        ]
+    },
+    "Delivery from the past": {
+        "steps": [
+            "To begin, you need to have the [[Tarcone Director's office key]]. If you do not have one, you can find it within [[drawer]]s or from [[Scavs]]. It can also be bartered for with [[Therapist]]. Once you have obtained one, head to [[Customs]]. The first place you want to head is to the red Paradigm warehouse on the west side of the map. The office is found at the top of the metal stairs. After unlocking the door there will be two rooms. The second room is the one containing the documents. Be warned though, to enter this room the door must be breached, which will create a lot of noise. After entering the room go to the wooden desk and look just under the table top, on top of the drawers. Leaning may help you to see it. Extract from [[Customs]]. If you die at any point after picking up the documents and you still have them in your in raid quest inventory, they will be lost and must be reacquired.",
+            "'Note: If you don't want to do the second part of the quest immediately, you can move the documents into your off-raid quest inventory in the character menu under the \"tasks\" tab.'",
+            "It's time to head to [[Factory]]. You can complete this during the daytime or nighttime. With the documents in your in raid quest inventory, head towards the open extraction, also known as \"Gate 3\". To the left of the extraction is a short metal staircase leading to a sheet metal room. This is where you must place the documents. When placing them you must hold down your use key (default <code>F</code>) for 10 seconds. For safety, you should lie down when placing them to be out of sight from the doorway and windows. If you die before the timer finishes, you need to retrieve the documents again. Hence, try to make sure nobody is around to disturb while you place the documents (i.e. either kill all other PMCs or wait until they have left the raid). After placing them you then must survive and extract. You do not have to survive and extract on the same raid that you planted the documents, it can be done on any [[Factory]] raid."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4a/Delivery_from_the_past_Customs.png",
+                "text": "Warehouse marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8a/Customs-Factory1-Outside-3.png",
+                "text": "The Warehouse"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/45/CustomsOffice.png",
+                "text": "The Office"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e2/Docs_0022-Delivery_From_the_Past.png",
+                "text": "Docs 0022 is under the desk, on top of the drawers"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cf/Delivery_from_the_past_Factory.png",
+                "text": "Docs 0022 placement location"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/Delivery_from_the_past_dropoff.png",
+                "text": "The room where the documents have to be placed"
+            }
+        ]
+    },
+    "BP depot": {
+        "steps": [
+            "Upon accepting the quest, the player will get 4x [[MS2000 Marker]] through the messenger.",
+            "Note that what you have to mark are the orange fuel tanker trucks, not actual tanks.",
+            "The markers can be placed in any order over any number of raids. You do not need to place all four markers in the same raid. The markers can be used from your [[Secure containers|Secure Container]], so it's a good idea to keep them there in the event that you die so that you do not need to purchase additional markers to complete the quest.",
+            "After placing a marker, the player must stay alive for 30 seconds or they will have to place another marker on the tanker.",
+            "You do NOT need to be around the truck after the marker has been placed - only players can destroy the markers, and it is extremely rare for someone to look for them. Go and hide, as death will result in you losing the marker and having to buy a new one from [[Prapor]].",
+            "Fuel Tank №1 is at the new gas station.",
+            "Fuel Tank №2 is at the construction site (where you get the [[Bronze pocket watch on a chain]]).",
+            "Fuel Tank №3 is at the old gas station.",
+            "Fuel Tank №4 is on the road between the Crossroads and Trailer Park extractions."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/57/BP_Depot_Marked_Map.jpg",
+                "text": "Tankers marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/51/BPTanker.png",
+                "text": "Appearance of the Tankers"
+            }
+        ]
+    },
+    "Bad rep evidence": {
+        "steps": [
+            "The [[Portable bunkhouse key]] is required for this quest. It can sometimes be found at the ground under a jacket in the locked room ([[Factory Emergency Exit Key]] required) next to the office on [[Factory]], or on [[Scavs]]. ",
+            "Once you have obtained the key head to [[Customs]]. The room you have to unlock is near the center of the map, south of the dorms in the construction zone. There will be 2 cabins stacked on top of each other with a staircase leading up to the second one. The documents can be found in the right room of this cabin on the table. In the left room is a [[Weapon box (5x2)]]. Survive and extract from [[Customs]] to complete the quest."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/92/Bad_Rep_Evidence_Locked_Factory_room_Map.jpg",
+                "text": "Locked room location marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/FactoryLockedRoom.png",
+                "text": "The locked door"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/15/Bad_Rep_Evidence_Locked_Factory_Room_Inside.png",
+                "text": "The jacket the key spawns below"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c7/Bad_Rep_Evidence_Customs.png",
+                "text": "Cabin location marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8c/The_Portable_cabins_by_construction_on_Customs.png",
+                "text": "The Portable cabin where the document is located"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/Customs-Portable-cabin-key-door.png",
+                "text": "The door that needs to be unlocked"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/af/Docs_0031_location.png",
+                "text": "The document is located on the table"
+            }
+        ]
+    },
+    "Ice cream cones": {
+        "steps": [
+            "For this task, you have to find 3 [[60-round 6L31 5.45x39 magazine for AK-74 and compatibles|60-round 6L31 5.45x39 magazines]]. ",
+            "• These magazines have a chance to spawn in the locked room inside the [[Key ZB-014|ZB-014]] bunker on [[Woods]]. A [[Key ZB-014|ZB-014 key]] is needed to access the room. You can find them on top of the barrels, and sometimes on the floor near the barrels.",
+            "• You can find the magazines inside [[Looting#Searchable Containers|weapon boxes]] and [[wooden crate]]s.",
+            "• [[Scav Raiders]] on [[Reserve]] and [[The Lab]] have a chance to spawn with these magazines, along with [[Killa]], [[Glukhar|Glukhar's]] guards, [[Sanitar|Sanitar's]] guards, and [[Cultists]]. Taking out any of these bosses is very difficult however can sometimes lead to multiple magazines off of a single body.",
+            "• You can also build these magazines in Level 2 Lavatory.",
+            "•  Unlike many other quests, the activation of this quest does not guarantee the required items to spawn in the listed location.",
+            "•  You can also extract from [[Key ZB-014]] if there are green flares near the entrance to the bunker and if it is listed as an available extraction."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9a/IceCreamConesWoods.png",
+                "text": "ZB-014 bunker location marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/29/ZB-014-Bunker.png",
+                "text": "Bunker entrance "
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/27/ZB-014-Door.png",
+                "text": "Locked door "
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fb/IceCreamConseLoc.jpg",
+                "text": "Spawn location for the magazines"
+            }
+        ]
+    },
+    "Postman Pat": {
+        "steps": [
+            "Head to the [[Factory]] to begin the quest. The letter is located in a small bunker on the main floor. In this bunker is a corpse. The letter is found tucked into the collar of the shirt of the body and is NOT located in the body's searchable container.",
+            "The letter must be handed over to [[Therapist]] in [[Postman Pat - Part 2]] before this quest can be completed."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/PostmanPat1_Factory.png",
+                "text": "Body and letter location"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cb/Postman_Pat_Letter_building.bmp",
+                "text": "Room the body is located in"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a6/Postman_Pat_Letter_Location.png",
+                "text": "The letter is in the shirt collar"
+            }
+        ]
+    },
+    "Shaking up teller": {
+        "steps": [
+            "[[Dorm room 203 Key]] is required for this quest. It has a chance to spawn in [[Dorm room 214 Key|Dorm room 214]] which is locked with the [[Dorm room 214 Key]] or it can be found in [[drawer]]s.",
+            "After you have obtained [[Dorm room 203 Key]] head to the second floor of the three-story dorms on [[Customs]]. Go into dorm room 203 and look under the bed. The quest item is a large metal suitcase. After obtaining the [[Bank case]] head to your extraction and hand over the case to complete the quest."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8c/Shaking_up_teller_customs_map.png",
+                "text": "Room 203 location marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/91/Bank_case_location.png",
+                "text": "Under the bed in room 203"
+            }
+        ]
+    },
+    "Perfect mediator": {
+        "steps": [],
+        "images": []
+    },
+    "Grenadier": {
+        "steps": [
+            "Breaking someones leg or waiting until they're lying down before throwing a grenade reduces your opponents chance to get away from your grenade. If your opponent is in a small room throw a grenade inside and quickly close the door, locking them in with the explosion."
+        ],
+        "images": []
+    },
+    "Insomnia": {
+        "steps": [
+            "Because [[Factory]] night raid time is set to 3:28:00, all PMC kills will be counted for the quest and there is no need to wait for the correct time range."
+        ],
+        "images": []
+    },
+    "Test drive. Pt. 1": {
+        "steps": [
+            "It's possible to use a compact reflex sight mounted on a [[NcStar MPR45 Backup mount|canted rail]] instead of the [[Trijicon REAP-IR thermal riflescope|Trijicon REAP-IR thermal scope]] to obtain the kills. The scope just needs to be installed to count towards the quest."
+        ],
+        "images": []
+    },
+    "The Punisher - Part 1": {
+        "steps": [],
+        "images": []
+    },
+    "The Punisher - Part 2": {
+        "steps": [
+            "Enter the map [[Shoreline]] and search for and kill 12 [[Scavs]] whom can be found throughout the map. ",
+            "Scavs can typically be found in the red marked areas during a raid:",
+            "Care should be taken when engaging Scavs at the extraction points as players may accidentally stumble on you and surprise you. This is especially true for the rock passage area since players in the resort will hear gunshots clearly and know exactly where you are."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1e/Shoreline_Scavs.png",
+                "text": ""
+            }
+        ]
+    },
+    "The Punisher - Part 3": {
+        "steps": [
+            "All variants of the [[AKS-74U]] including the [[AKS-74UB]] and [[AKS-74UN]] can be be used for this quest.",
+            "Enter [[Customs]] and kill 25 [[Scavs]]. They can be found more commonly in the areas marked red below:",
+            "Because of the large amount of recoil, using the AKS-74U in full-auto at any distance besides point-blank is not recommended."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/Customsscavnew.jpeg",
+                "text": ""
+            }
+        ]
+    },
+    "The Punisher - Part 4": {
+        "steps": [
+            "Only [[Weapons#Shotguns|shotguns]] using [[12x70mm]] can be used for the Scav kills in the Woods part of the quest. ",
+            "•  The [[MP-153 12ga semi-automatic shotgun|MP-153]], [[MP-155 12ga semi-automatic shotgun|MP155]] and [[Saiga 12ga ver. 10 12/76 shotgun|Saiga 12ga]] semi-auto shotguns may be the better choice to use over the pump shotguns like the [[MP-133 12ga shotgun|MP-133]], [[590A1]] and [[Remington Model 870 12ga shotgun|M870]].",
+            "•  Cost-performance wise vs [[Scavs]], the Buckshot shells may be the best to use. However, this would leave the player in a very disadvantageous state against well-armed and armored players.",
+            "•  Bosses, such as [[Shturman]] and his guards, count as Scav kills.",
+            "•  The [[Bars A-2607- 95x18]] knives are very commonly carried by [[Scavs]]. Be careful which knives you collect as the [[Bars A-2607- Damascus]] knife looks very similar but has a grey handle. ",
+            "•  PMCs on [[Shoreline]] can commonly be found passing by the gas station/marina and the hydroelectric power station, as well as inside of the health resort. [[Scavs]] on [[Woods]] can commonly be found in the areas marked with a red X on the map below.",
+            "• You can not use the Shattered mask anymore."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/05/Glory4lyfeWoods_map_v4_marked.png"
+            }
+        ]
+    },
+    "The Punisher - Part 5": {
+        "steps": [
+            "To hand over a weapon it must be in usable condition. If a weapon is red, it is missing vital parts and is not in a usable condition.",
+            "Quest rewards count as [[found in raid]] so you can turn in the M4A1 from other quest rewards (e.g. [[The Punisher - Part 4]]). ",
+            "PM pistols are commonly found on scavs and shouldn't be much trouble. The PM(t) pistol doesn't count and cannot be turned in for this quest."
+        ],
+        "images": []
+    },
+    "The Punisher - Part 6": {
+        "steps": [
+            "The [[Dogtag]]s can be obtained in a number of ways. The first way is by killing PMC's and taking the dogtag from their corpse. The dogtags for this quest do not need to be from your kills, they can be from anybody's kills. This means you can also take them off of any PMC corpse [[found in raid]].",
+            "Even if the objective says you need [[Dogtag]]s [[found in raid]] you can turn in ones that aren't found in raid."
+        ],
+        "images": []
+    },
+    "Shortage": {
+        "steps": [
+            "The following areas have a reasonable chance to spawn [[Salewa FIRST AID KIT]]s:",
+            "•  In the south-eastern part of the storage area, there is a car trunk that spawns medical items. The storage room on the opposite side contains a [[Medbag SMU06|Medbag]].",
+            "•  The ambulance in front of the gas station can spawn medical items (and the [[Key to EMERCOM medical unit]] as a bonus).",
+            "•  Mantis has several containers and loose spawns (shelves, tables and beds) that can spawn [[Salewa FIRST AID KIT|Salewas]]. Keep in mind that Mantis is one of the hottest areas on the whole map.",
+            "•  Emercom contains several spawns, but requires the [[Key to EMERCOM medical unit]] to unlock.",
+            "•  The upstairs pharmacy on the opposite side of Techlight as well as the locked storage room (requires power + [[ULTRA medical storage key]]). Same as Mantis: Danger zone!",
+            "•  There are four ambulances along the western side of the map, which can spawn [[Salewa FIRST AID KIT|Salewas]] in the back.",
+            "•  The White Bishop building contains a medical room on the ground floor towards the train tracks.",
+            "•  The second floor of the Black Pawn building has a medical section with a [[Medbag SMU06|Medbag]] and loose spawns.",
+            "•  The forklift near the helicopter in the courtyard has loaded a [[Medical supply crate]].",
+            "•  Inside the White King building there is a  [[Medbag SMU06|Medbag]] in the first room after the stairs outside of the gym with the military tents.",
+            "•  The health resort, while being a high traffic area, contains a large amount of [[Medbag SMU06|Medbags]] and [[Medcase]]s.",
+            "•  There are two ambulances near the tunnel exfil and one directly outside of the resort.",
+            "•  The scav/treasure island (near tunnel exfil, past a beached barge) has a wooden shed that contains two [[Medbag SMU06|Medbags]]."
+        ],
+        "images": []
+    },
+    "Sanitary Standards - Part 1": {
+        "steps": [
+            "'*Both keys give you access to the pumping station, so only one of the two keys is required.'",
+            "While [[gas analyzer]]s have a chance to spawn in the pumping station on [[Factory]], as suggested by the Therapist, they are much more common to find on the map [[Interchange]]. The OLI store as well as the smaller electronics stores will sometimes even yield you multiple [[gas analyzer]]s in a single raid. Another way of acquiring gas analyzers are in jackets, toolboxes, cabinets, and stashes on any of the maps that have them.",
+            "The pumping station is located in the hall that leads to the standard extraction."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f9/Pumping_Station.png",
+                "text": "Pumping station with the 2 unlockable doors"
+            }
+        ]
+    },
+    "Sanitary Standards - Part 2": {
+        "steps": [
+            "'*Both keys give you access to the pumping station'",
+            "The pumping station is located in the hall that leads to the standard extraction. You need to get into it to complete the first objective.",
+            "While [[gas analyzer]]s have a chance to spawn in the pumping station on [[Factory]], as suggested by the Therapist, they are much more common to find on the map [[Interchange]]. By searching the shelving of all the electronics stores, multiple [[gas analyzer]]s can be found in a single raid."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f9/Pumping_Station.png",
+                "text": "Pumping station with the 2 unlockable doors"
+            }
+        ]
+    },
+    "Painkiller": {
+        "steps": [
+            "One of the best places to find [[Morphine injector|morphine]] is at the Health Resort on [[Shoreline]] as it has a large amount of [[Medbag SMU06]] and [[Medcase]]s. Another great spot for morphine is in the medical building on [[Customs]] on the 2nd floor of the building."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/85/Shortage_Shorline.png",
+                "text": "Health Resort"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6d/Medical_building.png",
+                "text": "Medical Building on Customs"
+            }
+        ]
+    },
+    "Pharmacist": {
+        "steps": [
+            "First off, you'll need [[Dorm room 114 Key]]. Go to the map [[Customs]] and head towards the military checkpoint on the road on the side of the map with the boilers. In the opened trunk of a blue car parked at it is a [[Jacket (114 key)|blue jacket]]. ",
+            "Assuming it hasn't already been looted, [[Dorm room 114 Key]] can be found inside the jacket but is not guaranteed. It can also be found on scavs, file cabinets, or other jackets. After retrieving it, move to the two-story dorm building. On the first floor, room 114 can be found. ",
+            "After unlocking the door, check on top of the safe/desk to locate the [[Carbon case]]. Time to extract."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ab/Pharmacist_Customs.png",
+                "text": "Dorm room 114 key spawn location"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/01/Bluecar114.png",
+                "text": "Blue jacket in the trunk of blue car at checkpoint"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7a/Carbon_Case_Location.png",
+                "text": ""
+            }
+        ]
+    },
+    "Supply plans": {
+        "steps": [
+            "The documents are located at the lumber camp on [[Woods]], under a bed in the Nr. 3 wooden cabin. "
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cf/SupplyPlansMap.png",
+                "text": "Map with cabin location marked"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/49/SecureDocs0052Iso.png",
+                "text": "The cabin with the case"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/Cabins_in_the_lumber_yard.png",
+                "text": "The cabins inside the lumber yard"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3f/Docs_0052_Location.png",
+                "text": "The Docs under the bed of cabin Nr. 3"
+            }
+        ]
+    },
+    "Kind of sabotage": {
+        "steps": [
+            "The documents are located at the lumber camp on [[Woods]], under a bed in the wooden cabin Nr. 3. "
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/Cabins_in_the_lumber_yard.png",
+                "text": "The cabins inside the lumber yard"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3f/Docs_0052_Location.png",
+                "text": "The Docs under the bed of cabin 3"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cf/SupplyPlansMap.png",
+                "text": "Docs 0052 location"
+            }
+        ]
+    },
+    "General wares": {
+        "steps": [
+            "•  A high amount of Tushonka can be found inside the shopping mall on [[Interchange]]. Particularly, the \"Goshan\" (written \"гошан\" on its signs) supermarket stores a very large amount on its shelves. However, this is a hot-spot for players as many wish to take the Tushonka or loot the registers, so it should be approached with care.",
+            "•  Tushonka is also commonly found in \"Ration supply crates\" near tanks on [[Reserve]], however like Goshan, [[Reserve]] is a highly populated map, with many threats, so it should be approached with care.",
+            "•  Tushonka can be crafted in the [[Hideout]] at the Nutrition unit Lvl 1."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/89/NewKIBALocation1.png",
+                "text": "Goshan Store"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e0/Location_of_a_ration_supply_crate.png",
+                "text": "The location of a [[Ration supply crate]] next to a tank on [[Reserve]]"
+            }
+        ]
+    },
+    "Car repair": {
+        "steps": [
+            "[[Interchange]] is great place to go for this quest:",
+            "•  OLI (home improvement store) very commonly spawns car batteries and spark plugs on its shelves.",
+            "•  Goshan / гошан (grocery store) commonly spawns car batteries on the store shelves located south of the big fire."
+        ],
+        "images": []
+    },
+    "Health Care Privacy - Part 1": {
+        "steps": [
+            "The needed [[MS2000 Marker]]s can be bought from [[Prapor]] LL1.",
+            "Two of the wanted Ambulances are located near the Tunnel exit. The third one is located at the health resort near the helicopter."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/56/HCPP1.png",
+                "text": "Ambulance locations"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/57/Ambulance1.png",
+                "text": "Ambulance 1 at the tunnel exit"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/23/Ambulance2.png",
+                "text": "Ambulance 2 at the tunnel exit"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/Ambulance3.png",
+                "text": "Ambulance 3 at the Resort"
+            }
+        ]
+    },
+    "Health Care Privacy - Part 2": {
+        "steps": [
+            "The [[Secure case for documents 0060]] can be found on [[Shoreline]], in Room 306 of the West wing at the Resort, located on a windowsill."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6d/Inside_West_wing_room_306.png",
+                "text": "The info is on the windowsill by the Chair"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4b/HealthCarePrivacyPart2Docs.png",
+                "text": "Close up of the info"
+            }
+        ]
+    },
+    "Health Care Privacy - Part 3": {
+        "steps": [
+            "The wanted minivan is located at the shore on the Eastern side of the lake on [[Woods]]. The blood sample needs to be taken from the right sliding door. "
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/dc/WoodsVanLocation.png",
+                "text": "Minivan location marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/77/BloodSampleISO.png",
+                "text": "Close-up view on the minivan"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/11/The_car_by_the_lake.png",
+                "text": "Minivan by the lake"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cd/The_blood_sample.png",
+                "text": "Blood sample location"
+            }
+        ]
+    },
+    "Health Care Privacy - Part 4": {
+        "steps": [],
+        "images": []
+    },
+    "Health Care Privacy - Part 5": {
+        "steps": [
+            "The required room is the \"Breach Room\" on Factory. Place 3x [[Gunpowder \"Kite\"]] while 'night time' there.",
+            "The \"Breach Room\" is the room between the office and the locked room on the third floor. Each [[Gunpowder \"Kite\"]] takes 30 seconds to place, leading to a total placement time of 90 seconds. Closing the door to the breach room is recommended while placing them, as Scavs will wander down the hallway periodically. If you wish to complete this quest with little to no resistance it is recommended to bring a squad to defend you as you plant the items."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/HCPP5.png",
+                "text": "Location marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a0/The_breach_room.png",
+                "text": "The \"breach\" room where you plant the [[Gunpowder \"Kite\"]]"
+            }
+        ]
+    },
+    "Decontamination Service": {
+        "steps": [
+            "Player must be wearing [[Respirator]], [[GP-5 gasmask|GP-5 gasmask,]] or [[GP-7 gasmask]] to achieve progress. These can be found being worn by [[Scav]]s."
+        ],
+        "images": []
+    },
+    "Private clinic": {
+        "steps": [
+            "•  In Shoreline",
+            "•  In [[Dead Scav]]s",
+            "•  In [[Ground cache]]s",
+            "•  In [[Medbag SMU06]]",
+            "•  In [[Medcase]]s",
+            "•  In [[Medical supply crate]]s",
+            "•  In [[Plastic suitcase]]s",
+            "•  In [[Sport bag]]s",
+            "•  Everywhere other medical supplies can spawn, examples below:",
+            "•  Inside the orange dome in the Main Working Area of [[The Lab]]:",
+            "• * On top of one of the barrels near the left rear side of the dome from the entrance",
+            "• * On the barrel in front of the forklift",
+            "• * On top of a barrel just to the right of the entrance",
+            "•  In the server room office (B12), next to the leftmost laptop",
+            "•  Inside the round shaped metal box in [[Lab. Green keycard|Laboratory block (G22)]]",
+            "•  On the metal shelf(s) in Quarantine Zone at [[Lab. Blue keycard|Laboratory block (G11)]]",
+            "•  [[Health Resort west wing room 205 key|West wing room 205]] on nightstand ([[Health Resort west wing room 203 key]] allows access to room 205)",
+            "•  [[Health Resort west wing room 216 key|West wing room 216]]",
+            "•  [[Health Resort west wing room 301 key|West wing room 301]] on the top of the white cans (can also be found in the room attached via balcony on desk or on the bed)",
+            "•  [[Health Resort east wing office room 107 key|Office 107 East wing]]",
+            "•  [[Health Resort west wing office room 104 key|West wing room 104]]",
+            "•  [[Health Resort east wing room 110 key with a blue tape|East wing room 110]] ([[Sanitar]]'s office)",
+            "•  [[Health Resort east wing room 222 key|East wing room 222]]",
+            "•  [[Health Resort east wing room 226 key|East wing room 226]] on the shelves in the dresser behind the door",
+            "•  East wing room 227 (top of washer/dryer)",
+            "•  [[Health Resort east wing room 306 key|East wing room 306]]",
+            "•  [[Health Resort east wing room 313 key|East wing room 313]] on the top of boxes ([[Health Resort east wing room 314 key]] allows access to room 313)",
+            "•  [[Health Resort east wing room 328 key|East wing room 328]]",
+            "•  Admin Building, on top of metal cart next to cafeteria tray",
+            "•  In the back of the ambulance outside the front of the resort building",
+            "•  In the [[NecrusPharm pharmacy key|Pharmacy]]",
+            "•  In the [[Key to EMERCOM medical unit|EMERCOM medical unit]]",
+            "•  In the [[ULTRA medical storage key|ULTRA medical storage room]]",
+            "•  Can be found in the back of an ambulance, west entrance to the mall",
+            "•  On tables in the \"Mantis\" Store",
+            "•  On the medical table in the back of Goshan",
+            "•  In [[Buried barrel cache]]s",
+            "•  In [[Dead Scav]]s",
+            "•  In [[Ground cache]]s",
+            "•  In [[Medbag SMU06]]",
+            "•  In [[Medcase]]s",
+            "•  In [[Medical supply crate]]s",
+            "•  In [[Sport bag]]s",
+            "•  In the [[Lab. Green keycard|laboratory block]] on the second floor.",
+            "•  In the [[TerraGroup Labs Arsenal storage room key|Arsenal storage room]].",
+            "•  In any medical loot spawn room the resort such as room 301 West wing and also room 226 east wing.",
+            "•  In [[RB-SMP key|RB-SMP]] on the shelves.",
+            "•  In Mantis and in [[ULTRA medical storage key|ULTRA medical storage]].",
+            "•  In the back of a silver corpse disposal container in the Emercom camp, on and under the small table.",
+            "• On shelves in the Emercom camp.",
+            "•  Under the Bloody stretcher in the USEC camp."
+        ],
+        "images": []
+    },
+    "Athlete": {
+        "steps": [],
+        "images": []
+    },
+    "Supplier": {
+        "steps": [],
+        "images": []
+    },
+    "The Extortionist": {
+        "steps": [
+            "A single copy of the [[Unknown key]] is guaranteed to spawn on the hidden body each raid, regardless of whether or not a player in the raid has the quest The Extortionist active."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/Customs.PNG",
+                "text": "Body and cabin marked on the map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2f/The_bush_where_the_hidden_body_is.png",
+                "text": "Bush near the \"Welcome to Tarkov\" truck with the body where you find the Unknown key."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a6/The_cabin_that_is_opened_by_the_unknown_key.png",
+                "text": "Cabin that is opened with the Unknown key."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c0/Docs_0048-The_Extortionist.png",
+                "text": "The document is under the jacket"
+            }
+        ]
+    },
+    "What's on the flash drive?": {
+        "steps": [
+            "•  The Flash Drive sometimes spawns inside of the tent near the logging camp on [[Woods]] and in [[Dorm room 110 Key|dorm room 110 (locked)]] on the bed on [[Customs]]. It can also be found plugged into the front of [[PC block]]s.",
+            "•  It's also a good idea to search for Flash Drives on [[Interchange]], as it has many computers that may spawn USBs. The Oli, Idea and Goshan offices are good places to look, containing several PCs each. ",
+            "•  They commonly spawn in the [[drawer]]s of filing cabinets as well.",
+            "•  A good way to find Flash Drives is to go to Reserve to the [[RB-KPRL key|RB-KPRL]] Room and the one next to it, as you can find 3 Safes there.",
+            "•  The quest [[Huntsman path - Evil watchman|Evil watchman]] rewards 2 flash drives as a quest reward, which is an option for players who are unable to find flash drives elsewhere.",
+            "•  The easiest way to get Secure Flash drives is to craft them on [[Hideout#Modules .28available.29|Intelligence Center level 2]] (Requires Mechanic Level 2). They will have an attribute \"[[found in raid]]\", and so are suitable for quest completion.",
+            "• * NOTE: If you have completed [[Operation Aquarius - Part 1]] and [[Operation Aquarius - Part 2]] you will not have enough reputation for Skier Level 2 required for Medstation Level 3 to build [[Hideout#Modules .28available.29|Intelligence Center level 2]]. For this you need  to complete other quests that give reputation with him([[Stirrup]], [[Kind of sabotage]], [[Rigged game]], The Punisher - part 3 and 6).",
+            "You must have both flash drives before you can hand them in to [[Skier]]. They cannot be handed in one at a time, unlike many other quests."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/USB_Tent_Location.png",
+                "text": "USB tent marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/74/USB_Location.png",
+                "text": "USB drive inside the tent"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/34/Drive-in-PC.png",
+                "text": "USB plugged into a [[PC block"
+            }
+        ]
+    },
+    "Golden swag": {
+        "steps": [
+            "The [[Gilded Zibbo lighter]] can be found on the desk in room 303 of the 3-story dorm on [[Customs]]. You need a [[Dorm room 303 Key]] to access it. ",
+            "After picking up the [[Gilded Zibbo lighter]] it will be placed in your quest inventory (accessible through the 'Tasks' tab<!-- You can also extract with the item and then place it in your special quest item stash (hideout) so that you won't lose it when you die.  -->). If you die while it's in your inventory, you will need to re-retrieve it.",
+            "Next, head to the cabin south of the large red Paradigm warehouse in a parking area. You'll need the [[Trailer park portable cabin key]] which you were given at the beginning of the quest. ",
+            "After unlocking the cabin you'll be prompted to place the [[Gilded Zibbo lighter]]. To place the lighter in the cabin, you must stay in it holding down your use key (default <code>F</code>) for 30 seconds. ",
+            "If you release the key or are otherwise interrupted, the timer will reset. After placing the lighter the player does not need to extract, the quest is completed whether you die or not."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/GoldenSwagMarkedMap.jpeg",
+                "text": "Locations marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Gilded-Zibbo-Location.png",
+                "text": "The lighter on the table in room 303"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/84/GoldenSwagCabin.png",
+                "text": "The wanted cabin at the trailer park"
+            }
+        ]
+    },
+    "Chemical - Part 1": {
+        "steps": [
+            "The [[Secure case for documents 0013|Docs 0013]] is located inside of a train car on the eastern \"Boiler Tanks\" section of the map.",
+            "To retrieve [[Secure case for documents 0013|Docs 0013]], the player may have to lie down to access the prompt to pick up the documents. After grabbing the documents, the player must successfully extract from the map. If killed, they will lose the documents.",
+            "When this quest is active, the [[Secure case for documents 0013|Docs 0013]] can also be found in the room with the blue barrels in the Resort East Wing on Shoreline used for [[Cargo X - Part 2]]. It can also be retrieved from there and turned in."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/69/Chemical1_Traincar_Map.png",
+                "text": "Train car marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fc/Chemical1Traincar.png",
+                "text": "The train car"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9c/Docs_0013-Location.png",
+                "text": "Doc in the northeastern corner of the train car, between the pallet and the wall"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1a/Dorms220_KeySpawn.png",
+                "text": "Dorm room 220 Key spawns under the pants close to the Doc"
+            }
+        ]
+    },
+    "Chemical - Part 2": {
+        "steps": [
+            "You'll need to have the [[Dorm room 220 Key]], which Skier provides when accepting this quest, to enter the room in the three-story dorms. The key itself can spawn under a pair of pants inside a train car, near the warehouses by Boiler spawn.",
+            "After entering dorm room 220 in the three-story dorms, look on the desk for a laptop. The [[Sliderkey Secure Flash drive]] should be plugged into the right side of the laptop. Note that the [[Sliderkey Secure Flash drive]] is unique to this quest and is a different item than the [[Secure Flash drive]]. ",
+            "The [[Sealed letter (TerraGroup)|Sealed letter]] is located above the desk on the metal bookshelf. It's sticking out from between the row of binders by the left end of the bookshelf. After retrieving both items the player must successfully extract from the map."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/69/Chemical1_Traincar_Map.png",
+                "text": "Location of the Train Car with Dorm room 220 key."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fc/Chemical1Traincar.png",
+                "text": "The train car from far away."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1a/Dorms220_KeySpawn.png",
+                "text": "Close up view of the key, somewhat hidden under the pants."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/25/Sealed_Letter_Location.png",
+                "text": "On the shelving of dorm room 220"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/65/Sliderkey_Location.png",
+                "text": "Plugged into the laptop in dorm room 220"
+            }
+        ]
+    },
+    "Chemical - Part 3": {
+        "steps": [
+            "The [[Syringe with a chemical|syringe]] is located in the Factory offices behind a door which must be breached. On the right side of the room is a filing cabinet; the syringe is tucked in the left side of a partially open drawer of that cabinet. "
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/HCPP5.png",
+                "text": "Location marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a0/The_breach_room.png",
+                "text": "The \"breach\" room where you find the syringe"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/69/Syringe_with_a_chemical_Location.png",
+                "text": "Syringe in the filing cabinet"
+            }
+        ]
+    },
+    "Chemical - Part 4": {
+        "steps": [
+            "If you do not have one already, purchase a [[MS2000 Marker]] from [[Prapor]].",
+            "After placing the marker, the player must stay alive for 30 seconds or they will have to place another beacon in the van. You do not need to be near the van after the marker has been placed. Find a nearby hiding spot and wait until the timer is complete.",
+            "•  You can buy additional [[MS2000 Marker]]s from [[Prapor]] if needed.",
+            "•  It is recommended that the player keeps the [[MS2000 Marker]]s in their pouch so they are not lost in the event of their death.",
+            "•  The [[MS2000 Marker]]s will automatically be used out of the players' inventory when needed, similar to how keys work."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ed/BigCustomerMap.jpg",
+                "text": "Warehouse marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/64/Depot-building_customs.png",
+                "text": "The warehouse with the vehicle inside."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/45/The_van_inside_the_depot-building.png",
+                "text": "The vehicle where the beacon is placed."
+            }
+        ]
+    },
+    "Vitamins - Part 1": {
+        "steps": [
+            "The first container can be found in room 112 of the Resort west wing on [[Shoreline]]. [[Health Resort west wing office room 112 key]] needed.",
+            "The second container can be found in the \"EMERCOM medical unit\" on [[Interchange]]. [[Key to EMERCOM medical unit]] needed.",
+            "The third container can be found in the \"Mantis\" store on [[Interchange]] in a round tin in the back-middle of the store."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/Vitamins1_Shoreline_outdoor_map.png",
+                "text": "Shoreline map showing health resort location"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/11/Vitamins1_Shoreline_Indoor_map.png",
+                "text": "Shoreline indoor health resort map showing where room 112 is located"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/71/Vitamins_Room2.png",
+                "text": "Little more light showing where the container is located in the room."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/50/Vitamins1_112_room_container2.png",
+                "text": "A close-up of the Room 112 container"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/52/Vitamins1_Interchange1_floor_rmap.png",
+                "text": "Interchange floor 1 map where Mantis and the Emercom are located"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Vitamins1_Emercom_container.png",
+                "text": "The Emercom container is located in a round tin, on a table in the middle of the Emercom"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0f/Vitamins1_Emercom_container2.png",
+                "text": "A close-up of the Emercom container"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/52/Vitamins1_Interchange1_floor_rmap.png",
+                "text": "Interchange floor 1 map where Mantis and the Emercom are located"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bb/Vitamins1_MantisStoreContainer.jpg",
+                "text": "The Mantis container is located in a round tin, on a table in the back right section of the Mantis store"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/51/Vitamins1_MantisStoreContainer_Closeup.jpg",
+                "text": "A close-up of the Mantis container"
+            }
+        ]
+    },
+    "Vitamins - Part 2": {
+        "steps": [
+            "Medical bloodsets can be found in medical places (Emercom, Mantis, chemistry...) and medical containers "
+        ],
+        "images": []
+    },
+    "Friend from the West - Part 1": {
+        "steps": [
+            "The [[Dogtag]]s can be obtained in a number of ways. The first way is by killing PMC's and taking the dogtag from their corpse. The dogtags for this quest do not need to be from your kills, they can be from anybody's kills. This means you can also take them off of any PMC corpse found in raid."
+        ],
+        "images": []
+    },
+    "Friend from the West - Part 2": {
+        "steps": [
+            "Simply give $6,000 to [[Skier]]. [[Dollars]] can be acquired by selling items to [[Peacekeeper]], purchasing them in exchange for [[Roubles]], or can be found as loot throughout Tarkov."
+        ],
+        "images": []
+    },
+    "Lend lease - Part 1": {
+        "steps": [
+            "'*Both keys give you access to the joint balcony, so only one of the two keys is required.'",
+            "The 'first controller' can be found in the center console of a black SUV at the checkpoint west of the lumber camp.",
+            "The 'first gyroscope' can be found in an open black box located in the back of a cyan pickup at the lumber camp.",
+            "The 'second controller' can be found near the \"Road to Customs\" extraction. Start by finding the car trailer near the Radar Antenna. You should see it near the railroad tracks.",
+            "Jump onto the trailer and then look at the corner shown in the picture below, facing away from the radar station. You want to start from this corner and run directly straight ahead.",
+            "After a few seconds of running, you should bump right into the box that contains the Controller.",
+            "Another way is to start at the crashed drone near the \"Road to Customs\" extract. Stay right next to the rock nearby, facing the drone, turn a bit right and you can see the wooden box with the second controller in it.",
+            "The 'third controller' is located in the health resort. Head to room 306 in the east wing of the resort. You either need a [[Health Resort east wing room 306 key]] or a [[Health Resort east wing room 308 key]] to gain access to the room. Once inside room 306, go to the balcony where the controller can be found inside of a cardboard box.",
+            "The 'second gyroscope' is also located in the health resort. Head to room 216 in the west wing of the resort. You need a [[Health Resort west wing room 216 key]] to enter it. After entering the room, immediately turn left. There will be a metal cabinet with a slightly opened door in front of you. Look through this door and you'll be able to grab the gyroscope."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b4/Woods_Land_Lease.png",
+                "text": "Map with location marked"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d3/LandLease_MotorCont1.png",
+                "text": "Black SUV with the Motor controller outlined in green"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0d/Controller-Woods.png",
+                "text": "Close-up"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b4/Woods_Land_Lease.png",
+                "text": "Map with location marked "
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/LandLease_Gyroscope.png",
+                "text": "Box with the gyroscope on the back of the cyan pickup truck"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/68/Map_Shorline_Motor_Controller2.png",
+                "text": "Map with location marked"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/75/LandLease_Cart.png",
+                "text": "This cart will act as the starting point for finding the box"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/99/LandLease_Cart_Directions.png",
+                "text": "Standing on top, look at where these arrows line up (facing away from the radar station, which is to our right) and head in this direction. The compass heading is 170°."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/LandLease_Box_Neon.png",
+                "text": "The box with the second controller in it"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b2/Shoreline_wood_item.png",
+                "text": "Box with radar tower in the background for orientation"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/dc/Second_Controller_Box.png",
+                "text": "Controller in the box"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Drone_Map_Land_Lease.jpg",
+                "text": "Drone location marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/82/View_from_the_drone.jpg",
+                "text": "The view from the drone"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7a/Room_306_item.png",
+                "text": "Controller location on the balcony"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6e/Land_lease_Box.png",
+                "text": "Box with the controller"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f2/Room_216_item.png",
+                "text": "The metal cabinet"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/61/Second_Gyro_Closet.png",
+                "text": "Close-up of the container"
+            }
+        ]
+    },
+    "Lend lease - Part 2": {
+        "steps": [
+            "Both items can be found in [[The Lab]] in the Main Working Area (O11). The processors are found on a pedestal inside a cage with an orange robotic arm and the transmitters on a desk behind it. They can also be crafted in the [[Hideout]] (Intelligence Center lv. 2)."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/VirtexSpawn.png",
+                "text": "Virtex programmable processor spawn"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d6/TransmitterSpawn.png",
+                "text": "Military COFDM wireless Signal Transmitter spawn"
+            }
+        ]
+    },
+    "Peacekeeping mission": {
+        "steps": [
+            "The specified UN armor needs to be used while making the [[Scav]] kills with an [[M4A1]], You can mod the M4A1 and bring additional items to what is required. If you lose the initial set of gear, you can purchase all the specified gear from [[Peacekeeper]]. "
+        ],
+        "images": []
+    },
+    "Informed means armed": {
+        "steps": [
+            "Placing each camera requires you to be stationary for 20 seconds, so be sure to secure the area first. ",
+            "The first camera needs to be placed on top of a box in the \"Brutal\" Store on [[Interchange]].",
+            "Killa is able to spawn inside and around the Brutal store, so caution is necessary. In addition to Killa, players frequently rush this area. It is recommended to wait 5-10 minutes before entering the area.",
+            "The second camera needs to be placed near the pier on a pile of wood in [[Woods]].",
+            "The third camera needs to be placed in a bush near the sniper roadblock exit on [[Customs]]."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7a/Kiba_Arms_store_camera_Interhange_map.png",
+                "text": "Map with \"Brutal\" store camera location"
+            },
+            {
+                "text": "Box where the camera needs to be placed as seen from Kiba door."
+            },
+            {
+                "text": "Placement, looking out on Kiba"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ed/Pier_camera_Woods_map.png",
+                "text": "Map with pier camera location"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f2/Pier.png",
+                "text": "Pile of wood near the pier where the camera needs to be placed"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/76/Road_to_port_camera_Customs_map.png",
+                "text": "Map with \"Road to port\" camera location"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c6/Informed_Armed_WIfiCustoms1.png",
+                "text": "Arrow shows where to walk to place the camera"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/07/Informed_Armed_WIfiCustoms2.png",
+                "text": "The green circle shows the exact spot where the WI-FI Camera needs to be placed"
+            }
+        ]
+    },
+    "Chumming": {
+        "steps": [
+            "The \"mattress next to the BTR-80A\" is located on a bed in the \"Generic\" Store on [[Interchange]].",
+            "The \"microwave on the 3rd floor of dorms\" is located in the \"Kitchen\" (Big room without door) in the 3 story dorms on [[Customs]].",
+            "The \"middle accommodation unit of the sawmill\" means the wooden cabin number 2 in the lumber yard on [[Woods]].",
+            "From 06:00 is day break with full daylight being present from 08:00 for those less comfortable with night time raids."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/df/ChummingsInterchange.png",
+                "text": "Interchange floor 1 Map with location marked"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/47/ChummingBed.png",
+                "text": "Bed where the goldchains need to be placed"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c8/Dorm_3.png",
+                "text": "Dorms 3rd floor location"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/Chumm_micro.png",
+                "text": "Microwave where the goldchains need to be placed"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/Wood_Cabin_nr_2.jpg",
+                "text": "Cabin marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ab/Chumm_woods.png",
+                "text": "Book where the goldchains need to be placed"
+            }
+        ]
+    },
+    "Silent caliber": {
+        "steps": [
+            "This Quest can be done with any [[Weapons#Shotguns|shotgun]] that uses [[12x70mm|12x70mm ammunition]]. If kills don't count, reattach the silencer in raid.",
+            "It is recommended to do this task alongside [[Setup]] as you will be hunting for PMC's anyways."
+        ],
+        "images": []
+    },
+    "Flint": {
+        "steps": [],
+        "images": []
+    },
+    "Bullshit": {
+        "steps": [
+            "Before starting your trip to the 3-story dorms on [[Customs]], you need to acquire the [[False flash drive]]. It can be found in the trunk of a red burnt-out car on the main bridge that is located on the eastern side of the map. You can extract with the False flash drive and plant it in another raid.",
+            "For the duration of this quest you are only allowed to kill PMC's, not any Scavs (including bosses). With this in mind it's recommended that you bring a suppressed weapon to deal with PMC's so as not to attract Scavs and [[Zarya stun grenade]]s to deal with Scavs. Doing this quest in the night time also helps, as Scavs have a harder time detecting you. Be sure to put the [[Roler submariner gold wrist watch]] in your [[Secure containers|secure container]] so you don't lose it if you die. It also helps to bring a friend along to cover you while you plant the items as you will be exposed the entire time. Now that you're all ready it's time to head to the 3-story dorms and get up to the 3rd floor. In the middle of the 3rd floor, right across from the staircase is the trash pile where you need to plant the items. You do not need to plant all the items in the same raid and they can be planted in any order. Once all items are placed you have completed the quest, you do not need to survive after planting the items.",
+            "'Note': Even after placing all the items killing any scavs during the raid will result in a failure. Do not kill any scavs until you have extracted from the raid and turned in the quest for completion.",
+            "'Note': If you fail this quest, you must RESTART the quest by talking to Skier again. Don't end up in Dorms with an SV-98 and Roler with no prompt to stash them..."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1f/BullshitFlashDriveCarMap.jpg",
+                "text": "Car location marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2a/BullshitFlashDriveCar.png",
+                "text": "The car that contains the flash drive"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/23/Bullshit_False_FD_Location.png",
+                "text": "Flash drive in the right hand side of the trunk"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bf/Bullshit-Dropoff.png",
+                "text": "Trash pile where the items need to be placed"
+            }
+        ]
+    },
+    "Setup": {
+        "steps": [
+            "•  The kills need to be done with an [[MP-133]], an [[MP-153]] or an [[MP-155]]",
+            "•  Need to wear [[Ushanka ear-flap cap]]",
+            "•  Need to wear [[Scav Vest]]"
+        ],
+        "images": []
+    },
+    "Fishing Gear": {
+        "steps": [
+            "•  After accepting the quest you will be sent an [[SV-98 bolt-action sniper rifle]] and a [[Leatherman Multitool]].",
+            "•  It is recommended to remove all attachments from the [[SV-98 bolt-action sniper rifle|SV-98]] and insure it when attempting this quest. Only the base weapon itself is required, and the attachments can then be sold.",
+            "•  Place the [[Leatherman Multitool|multitool]] in your secure container so it is not lost if you die during this quest.",
+            "Take these two items with you to [[Shoreline]] and navigate to the small rowboat on the beach by the gas station (pictured below). Once there, go up to the rowboat and hold down your interact key. This will start a countdown of 30 seconds. Once the 30 seconds are up, one of the two items will be removed from your inventory. 'Both items are not removed at the same time.' Repeat this again to place the second item. Once you have placed the second item and extracted, the quest is complete. Extraction does not need to occur in the same raid you place the items in."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f9/FishingGear.png",
+                "text": "The \"secret spot\" is found by the water next to the gas station on Shoreline. The related quest items need to be placed in the fishing boat. "
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6e/Map_Shorline-Fishing-Gear.png",
+                "text": "Drop off location marked on the beach. "
+            }
+        ]
+    },
+    "Tigr Safari": {
+        "steps": [
+            "MS2000 Markers can be purchased from Prapor."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/41/Markedcustoms.jpg",
+                "text": "Vehicle locations marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fa/TigerSafari2.png",
+                "text": "First Tigr vehicle"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3d/TigerSafari3.png",
+                "text": "Second Tigr vehicle"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/32/TigerSafari1.png",
+                "text": "Third Tigr vehicle"
+            }
+        ]
+    },
+    "Scrap Metal": {
+        "steps": [
+            "Note that you do NOT have to plant the markers all in one run. As with previous quests, once you have survived the required amount of time after each plant, you can die and do the remaining tasks and extract in subsequent raids."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/70/Scrap_Metal_Locations.jpg",
+                "text": "Tanks marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bd/Secondtankshoreline.png",
+                "text": "The First tank is located next to the bunker near the rock passage extraction."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/Firsttankshoreline.png",
+                "text": "The Second tank is located on the road that goes from the tunnel extraction through the village."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/47/Thirdtankshoreline.png",
+                "text": "The third tank is located on the bridge between the power station and the weather station. You can find it by following the dirt road."
+            }
+        ]
+    },
+    "Eagle Eye": {
+        "steps": [],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0e/Eagle_Eye_Locations.jpg",
+                "text": "Drones marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5d/Secondshorelineuav.png",
+                "text": "One UAV is located in a field east of the Radar Tower."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c2/Firstshorelineuav.png",
+                "text": "The other UAV is located in a field west of the bunker near the rock passage extraction."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/68/Shorelineuavsidepanel.png",
+                "text": "The SAS disks can be found behind the side panels of the UAVs. Open up the panels to retrieve the disks."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/77/SAS_disk_in_drone.png",
+                "text": "Opened panel with disk"
+            }
+        ]
+    },
+    "Humanitarian Supplies": {
+        "steps": [
+            "•  Keep in mind that Ragman LL2 also has barter-trades for the UNTAR helmet and vest. Purchasing the barter-items needed for these trades could be cheaper than purchasing the armor straight from Peacekeeper or flea market for fresh quality equipment."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ac/Humanitarian_Supplies_Map.png",
+                "text": "Map with truck locations marked."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2d/Secondshorelineuntruck.png",
+                "text": "The first UN truck is located on the north side of the Sanatorium compound."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fa/Firstshorelineuntruck.png",
+                "text": "The second UN truck is located behind the blue fence on the road towards the 'CCP Temp' extraction."
+            }
+        ]
+    },
+    "The Cult - Part 1": {
+        "steps": [
+            "The informant is located in a ruined house in the swamps of [[Shoreline]]. You can find it by locating the church and following a blood trail."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/44/CultPart1Map.jpg",
+                "text": "Church and house marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/35/Shorelinechurch.png",
+                "text": "The church with the ruined house in the background"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d8/Shorelinebloodtrail.png",
+                "text": "The start of the blood trail"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f8/Shorelineinformanthouse.png",
+                "text": "The wanted house"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/Shorelineinformant.png",
+                "text": "The informant inside the house"
+            }
+        ]
+    },
+    "The Cult - Part 2": {
+        "steps": [
+            "The objective of this quest is to plant a [[MS2000 Marker]] at each of the four \"marked\" locations on the maps [[Customs]], [[Woods]], and [[Shoreline]]. These markings look identical to the one shown in the quest banner. These locations are known to have high-value and rare loot, so proceed with caution.",
+            "The first marked spot is located in the \"Marked room\" (dorm room 314) on the third floor of the 3-story dorms on [[Customs]]. The [[Dorm room 314 marked key]] is required to unlock the door. The room is at the end of the hall and easily identified by the lit candle and markings all over and around the door.",
+            "The second and third marked spots are located on [[Woods]]:",
+            "•  One is in the forest west of the lumber camp near the \"Checkpoint\". This spot can easily be located when you go to the \"Checkpoint\", stay at the barrier and line your view up with a big stone south of it. See pictures below.",
+            "•  The other one is located near the [[Cultists]] camp to the north. The Circle itself is north of the church in the backyard of a house located on the map provided.",
+            "The fourth marked spot is located in the \"pig room\" (East Wing Room 321) on the third floor in the health resort on [[Shoreline]]. Like on [[Customs]], the room is easily identified by candles and numerous markings on the door. Inside the room are multiple slaughtered pigs and a [[Dead Scav]] with a pig's head. The spot to plant the [[MS2000 Marker]] surrounds the bathtub with the [[Dead Scav]]."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5f/TheCultPart2DormsMap.png",
+                "text": "Location marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/84/Marked_Room_Door.png",
+                "text": "Door to the \"Marked room\""
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fb/Customsritualsite.png",
+                "text": "Inside the room where the marker needs to be placed"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/53/WoodsRitualSpotMapMarked.png",
+                "text": "The two woods rituals spot locations"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/CheckPointViewToMarkedCircle.png",
+                "text": "View from the Checkpoint towards the circle"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0e/MarkedCircleViewToCheckpoint.png",
+                "text": "View from the circle towards Checkpoint"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f8/The_second_ritual_spot_in_the_Woods.png",
+                "text": "The second ritual spot in the Woods"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d9/HealthResortEastWing.jpg",
+                "text": "Health resort east wing location marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d9/HealthResortEastWingMarkedRoom.png",
+                "text": "Room location marked on east wing map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9e/Shorelineritualsite.png",
+                "text": "The ritual spot where the marker needs to be placed"
+            }
+        ]
+    },
+    "Spa Tour - Part 1": {
+        "steps": [],
+        "images": []
+    },
+    "Spa Tour - Part 2": {
+        "steps": [
+            "MS2000 Markers can be purchased from Prapor."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/Firstshorelineheli.png",
+                "text": "The helicopter is located on the south side of the Sanatorium."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/24/Secondshorelineheli.png",
+                "text": "The safe road is just east of the helicopter."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/22/SpaTourP2Mapped.png",
+                "text": "Mapped Locations"
+            }
+        ]
+    },
+    "Spa Tour - Part 3": {
+        "steps": [
+            "If you want to find these items [[Found in raid|in raid]], or search for them in raid while you're crafting them, these are some spawns for these items.",
+            "A great place to find corrugated hose is on the shelves of Oli, the south shop of the ULTRA shopping mall on [[Interchange]]. ",
+            "Both of these items can be found in the the general store in the village on [[Shoreline]].",
+            "•  The general store on Shoreline is located in the southwest corner of the map in the village.<li style=\"display: inline-block;\"><gallery widths=\"300\" heights=\"169\" mode=\"packed\">",
+            "•  While on interchange looking for corrugated hose, you can commonly find wiper fluid and bleach in the Oli logistics room and the adjacent room.",
+            "•  They can also be found in the \"crack house\" or \"medical building\" on [[Customs]], in the intel room",
+            "WD-40 100ml can be found in [[Toolbox|toolboxes]] all over Tarkov."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d9/Oli_shelve_2.png",
+                "text": "Shelve where corrugated hose can be found."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Oli_shelve_1.png",
+                "text": "Shelve where corrugated hose can be found."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/63/Shoreline_map_general_store.png",
+                "text": "The general store is circled in red."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/06/General_store.png",
+                "text": "The general store from the front."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/34/Wiper_pic.png",
+                "text": ""
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fb/Customs_crack_shack.png",
+                "text": "Crack house location"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Crack_Shack.png",
+                "text": "The crack house from the front."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ea/Intel_room.png",
+                "text": "The intel room."
+            }
+        ]
+    },
+    "Spa Tour - Part 4": {
+        "steps": [
+            "The second set of generators (right) is located in 'room 220' of the resort '<u>east</u> wing'. It is always unlocked."
+        ],
+        "images": []
+    },
+    "Spa Tour - Part 5": {
+        "steps": [
+            "[[The key to the closed premises of the sanatorium]] is located on [[Shoreline]] lying on a chair in the bunker near the Rock Passage extraction. It only spawns while the quest is active. Once retrieved, you must extract and turn in the item to [[Peacekeeper]]. If you die after retrieving it and before turning it in, you will have to go and retrieve it again."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/93/SpaTour5BunkerMap.jpg",
+                "text": "Bunker marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7d/The_bunker_by_rock_passage.png",
+                "text": "The bunker by rock passage"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Sanatorium_Key_Location.png",
+                "text": " The key on the chair"
+            }
+        ]
+    },
+    "Spa Tour - Part 6": {
+        "steps": [
+            "[[Dollars]] can be purchased from [[Peacekeeper]] with [[Roubles]]."
+        ],
+        "images": []
+    },
+    "Spa Tour - Part 7": {
+        "steps": [
+            "The easiest way to complete this task is via utilizing a scav on interchange to loot OLI, as propane tanks and alkali are commonly found on the shelving in the area. To get the morphine and hoses, the crafts in the hideout for them are relatively cheap and easy (you may also find hoses in OLI)."
+        ],
+        "images": []
+    },
+    "Cargo X - Part 1": {
+        "steps": [
+            "'* Both keys give you access to East room 306, so only one of the two keys are required.'",
+            "The laptop can be found in east wing room 306 of the resort, located on a chair. [[Health Resort east wing room 306 key]] needed, alternatively [[Health Resort east wing room 308 key]] gives access to 306 via the balcony."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/24/Cargo_X_Pt_1_Laptop_Location.png",
+                "text": "The laptop on the chair"
+            }
+        ]
+    },
+    "Cargo X - Part 2": {
+        "steps": [],
+        "images": []
+    },
+    "Cargo X - Part 3": {
+        "steps": [
+            "The Cargo is located in the basement of the Resort West Wing, near the pool."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/af/ShorelineCargoXPt3.png",
+                "text": "Map showing the entrance to the large stairs leading to the pool."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e4/CargoXPt3_Guide.png",
+                "text": "Entrance to the pool where the cargo is located."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a7/CargoXPt3Hole.png",
+                "text": "The hole where the cargo is hidden."
+            }
+        ]
+    },
+    "Wet Job - Part 1": {
+        "steps": [],
+        "images": []
+    },
+    "Wet Job - Part 2": {
+        "steps": [
+            "The location for the beacon is on the island after the stranded ship."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/19/WetJob2IslandMap.jpg",
+                "text": "Island marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bd/The_house_on_the_island_with_the_weapon_box_in_it.png",
+                "text": "The house on the island where you need to place the beacon"
+            }
+        ]
+    },
+    "Wet Job - Part 3": {
+        "steps": [
+            "The car is located on the road along the shore, between the barge and the gas station",
+            "It is located between a yellow bus and a police car, beside the heart-shaped pond."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d7/Wet_job_part_3.png",
+                "text": "Location of the car on the map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/25/WetJobPart3QuestLocation.png",
+                "text": "The required yellow car"
+            }
+        ]
+    },
+    "Wet Job - Part 4": {
+        "steps": [
+            "The flash drive with the information can be found in the administration part (theatre wing) of the resort, on a table in an office on the eastern side on the top floor."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4e/ShorelineWetJobPt4Map.png",
+                "text": "Map showing the location of the office"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a8/Health_resort_management_office_safe_key_office.png",
+                "text": "The office (middle room)"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/10/WetJob4OfficeLocation2.png",
+                "text": "The table where the flash drive is located"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5b/Sliderkey_flash_drive_location.png",
+                "text": "The flash drive"
+            }
+        ]
+    },
+    "Wet Job - Part 5": {
+        "steps": [
+            "'*Both keys give you access to East room 328, so only one of the two keys is required.'",
+            "The Item can be found in Room 328 of the East wing at the Resort, located on a PC block. [[Health Resort east wing room 328 key]] or [[Health resort utility room key]] needed."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3e/Placement_of_the_quest_item.png",
+                "text": "The PC under a table"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/96/Pick_up_item.png",
+                "text": "The HDD"
+            }
+        ]
+    },
+    "Wet Job - Part 6": {
+        "steps": [],
+        "images": []
+    },
+    "Psycho Sniper": {
+        "steps": [],
+        "images": []
+    },
+    "The guide": {
+        "steps": [
+            "You must survive a raid at each location consecutively without dying, disconnecting, or running out the timer. If you do any of these you will have to start again. If you extract from the raid with a \"Run Through\" status, you will not reset the quest, but that raid will not count as being completed. To avoid the \"Run Through\" status, gain at least 200 [[EXP]] in raid (by killing or looting) or be in raid for at least 7 minutes before extracting. You do not have to do the maps in order and can be done in any fashion so long as you survive."
+        ],
+        "images": []
+    },
+    "Gunsmith - Part 1": {
+        "steps": [],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/76/Gunsmithpart1Modding2.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6a/Gunsmithpart1Modding.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/Gunsmith1InspectAlternative.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/Gunsmithpart1ModdingAlternative.png"
+            }
+        ]
+    },
+    "Gunsmith - Part 2": {
+        "steps": [],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ec/Gunsmithpart2Modding2.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/36/Gunsmithpart2Modding.png"
+            }
+        ]
+    },
+    "Gunsmith - Part 3": {
+        "steps": [
+            "Parts for converting an [[MP5]] into an [[MP5SD]]:",
+            "{|class=\"wikitable\"",
+            "Combine those three pieces, then remove the original [[HK MP5 Upper receiver]] to replace it with the silenced one you just created. Then transfer the stock and sights over from the old receiver as well. The [[HK MP5 Drum Rearsight]] is necessary to meet the sighting range requirement."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0b/Gunsmithpart3Modding2.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/25/Gunsmithpart3Modding.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fb/Gunsmithpart3ALT.png"
+            }
+        ]
+    },
+    "Gunsmith - Part 4": {
+        "steps": [],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fa/Gunsmith4Inspect.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1e/Gunsmith4Mods.png"
+            }
+        ]
+    },
+    "Gunsmith - Part 5": {
+        "steps": [],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/73/Gunsmith-Pt_5_Inspect_View.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/92/GunsmithPart5Guide.png"
+            }
+        ]
+    },
+    "Gunsmith - Part 6": {
+        "steps": [],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/GunSmithPart6Guide2.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/GunSmithPart6Guide.png"
+            }
+        ]
+    },
+    "Gunsmith - Part 7": {
+        "steps": [],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/22/Gunsmith-Pt_7_Inspect_View.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/Gunsmith7M870.PNG"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f4/GS7-2.png"
+            }
+        ]
+    },
+    "Gunsmith - Part 8": {
+        "steps": [],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f3/Gunsmith-Pt_8_Inspect_View.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4d/Gunsmith8AKM.png"
+            }
+        ]
+    },
+    "Gunsmith - Part 9": {
+        "steps": [],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/25/Gunsmith-Pt_9_Inspect_View.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/Gunsmith9AK74.png"
+            }
+        ]
+    },
+    "Gunsmith - Part 10": {
+        "steps": [
+            "[[AK-105 5.45x39 assault rifle|AK-105]] specifications:",
+            "•  60 Durability",
+            "•  550 or less recoil",
+            "•  43 or more ergonomics",
+            "•  800 or greater sighting range",
+            "•  4.8&nbsp;kg or less weight",
+            "•  8 or fewer cells (<font color=\"red\">Note</font>: You must fold the stock before turning in the gun)",
+            "•  A silencer",
+            "•  [[60-round 6L31 5.45x39 magazine for AK-74 and compatibles]]",
+            "This is one example of many possible configurations."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d6/Gunsmith-Pt_10_Inspect_View.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/88/Gunsmith10AK105.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c7/Gunsmith10ALT.png"
+            }
+        ]
+    },
+    "Gunsmith - Part 11": {
+        "steps": [],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/Gunsmith-Pt_11_Inspect_View.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2d/Gunsmith11ASVAL.png"
+            }
+        ]
+    },
+    "Gunsmith - Part 12": {
+        "steps": [],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/GunsmithPart12Mods.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/93/GunsmithPart12Mods2.png"
+            }
+        ]
+    },
+    "Gunsmith - Part 13": {
+        "steps": [],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f9/GunsmithPart13Mods.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0e/GunsmithPart13Mods2.png"
+            }
+        ]
+    },
+    "Gunsmith - Part 14": {
+        "steps": [],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fc/GunsmithPart14Mods.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3c/GunsmithPart14Mods2.png"
+            }
+        ]
+    },
+    "Gunsmith - Part 15": {
+        "steps": [],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/aa/GunsmithPart15Mods.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/GunsmithPart15Mods2.png"
+            }
+        ]
+    },
+    "Gunsmith - Part 16": {
+        "steps": [
+            "{{Ambox",
+            "}}"
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8b/GunsmithPart16Mods.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bd/GunsmithPart16Mods2.png"
+            }
+        ]
+    },
+    "Signal - Part 1": {
+        "steps": [
+            "'BUG': You may not be notified when you've successfully found the antennas, so check your \"Tasks\" tab to see if the objective has been completed.<br>",
+            "To complete this task, you must simply move into the vicinity of the following antennas:",
+            "The first antenna is located on the roof of the resort west wing. There is a staircase on the north-western side of the west resort building that accesses the appropriate roof.",
+            "The second antenna is located at the Weather Station. It is the antenna closest to the small 2-story building with the red and white radome on its roof.",
+            "Finally, you must extract from [[Shoreline]].",
+            "These tasks can be done in multiple raids and dying will not affect your progress."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/17/SignalPart1Guide.png",
+                "text": "Antennas marked on map "
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/31/Signal1.png",
+                "text": "Antenna 1"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5f/Signal2.png",
+                "text": "Antenna 2 "
+            }
+        ]
+    },
+    "Signal - Part 2": {
+        "steps": [],
+        "images": []
+    },
+    "Signal - Part 3": {
+        "steps": [
+            "The first antenna is located at the radar station.",
+            "The second antenna is located on the roof of the resort West wing.",
+            "The third tower is located on a little hill near the road to customs extraction point. The [[Signal Jammer]] can be placed anywhere on the tower itself.",
+            "After placing each [[Signal Jammer]] you must survive for 10 seconds. It is possible to place them divided through different raids, even without a successful exit. The objective to survive the raid can be achieved independently."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/34/SignalPart3Guide.png",
+                "text": "Antennas marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5f/Signal2.png",
+                "text": "Antenna 1"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/31/Signal1.png",
+                "text": "Antenna 2"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b0/Signal3.png",
+                "text": "Antenna 3"
+            }
+        ]
+    },
+    "Signal - Part 4": {
+        "steps": [],
+        "images": []
+    },
+    "Scout": {
+        "steps": [
+            "All 3 extraction points need to be visited by going near their doors. A [[Factory Emergency Exit Key]] is not needed.",
+            "Doors do not need to be visited in order or in the same raid. Extraction does not need to occur in the same raid.",
+            "'Notes:'",
+            "•  You will always have Gate 0 and Gate 3, but sometimes instead of cellars you will get medical tent gate, visit that instead to get the first extraction point .",
+            "•  The trigger point for the extract at Gate 3 is actually inside the second room, and not at the doorways in middle room.  So you must open the door to the 2nd extract room and enter the room.  You do not have to extract however."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8d/FacExit0.png",
+                "text": "Extraction points marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/26/FacExit2.png",
+                "text": "Extraction point 1 (Cellars)"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/75/FacExit3.png",
+                "text": "Extraction point 2 (Gate 0)"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f2/FacExit1.png",
+                "text": "Extraction point 3 (Gate 3)"
+            }
+        ]
+    },
+    "Insider": {
+        "steps": [],
+        "images": []
+    },
+    "Farming - Part 1": {
+        "steps": [
+            "This quest can be completed on both the day and night variants of [[Factory]].",
+            "Get a hold of two [[A set of tools|sets of tools]] and head to [[Factory]]. You will need to plant each of the two tool sets at panels with blinking lights. There are three locations with blinking lights, but the two you are looking for are on the main floor, not in the tunnels. Each placement takes 20 seconds and the interaction key (default <code>F</code>) must be held down for the duration of the countdown, leaving you exposed. The first location is in the room of yellow forklifts. The second location is in the nearby hallway lined with many small windows in a grid pattern. After both items have been placed survive and exit the [[Factory]] to complete the quest. If you die after repairing one of the two control panels, you do not need to repair them again, simply survive a raid on Factory to complete the \"Survive and leave the area\" objective and complete the quest.",
+            "To do this quest without risking the loss of your [[A set of tools|sets of tools]], only take one set of tools in your secure container and do two [[Factory]] raids, placing one set each raid. This way if you are killed you will not lose them."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/14/FarmingPart1Guide.jpg",
+                "text": "Control boards marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/43/Bilnky-1.png",
+                "text": "Control board 1 near forklift"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/71/Blinky-2.png",
+                "text": "Control board 2 in the glass hallway"
+            }
+        ]
+    },
+    "Farming - Part 2": {
+        "steps": [],
+        "images": []
+    },
+    "Farming - Part 3": {
+        "steps": [
+            "The package is located within the second room (the door must be breached) of the Tarcone Directors office in the red Paradigm warehouse on [[Customs]]. ",
+            "Once you enter the room, look on the floor to your left. You must survive and extract with the package to complete the quest."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9b/Farmingpart3guide.jpg",
+                "text": "Warehouse marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8a/Customs-Factory1-Outside-3.png",
+                "text": "The Warehouse"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/45/CustomsOffice.png",
+                "text": "The Office"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/Farming_part_3.png",
+                "text": "Location of the package "
+            }
+        ]
+    },
+    "Farming - Part 4": {
+        "steps": [
+            "•  [[CPU Fan]]s can be found inside of electronics stores, but are most commonly found inside of [[PC block]]s.",
+            "• [[Graphics card]]s can be found:",
+            "• * In [[PC block]]s",
+            "• * In [[Sport bag]]s",
+            "• * Inside [[Buried barrel cache]]",
+            "• * Inside [[Ground cache]]",
+            "•  Under the PC desk in the Green Screen room",
+            "•  On the left grocery shelf in Gas Station",
+            "•  On the 1st floor sofa in 3-story dorms",
+            "•  On the table in the unlocked room in Gas Station",
+            "•  On the floor in the middle of the second room inside of Big Red",
+            "•  On ground in little garages between crossroads and trailer park.",
+            "•  On shelves of electronics stores (Texho, Techlight, Rasmussen, Germany)",
+            "•  In the [[Key to EMERCOM medical unit|Emercom medical unit]]",
+            "•  In the Idea office",
+            "•  On the tech shelf in the back of Power Station",
+            "•  In [[Health Resort east wing room 222 key|East wing room 222]], [[Health Resort east wing room 328 key|East wing room 328]], [[Health Resort west wing room 216 key|West wing room 216]], [[Health Resort west wing room 301 key|West wing room 301]] and [[Health Resort east wing office room 107 key|East wing office 107]]",
+            "•  On second floor desks of Admin Building",
+            "•  On the second floor of the weather station, in front of the server bay",
+            "•  In the East wing storage room",
+            "•  On counter top in the south most house in village  (Right in front of tank)",
+            "•  In the \"pumping station\"",
+            "•  In the bottom blue container outside Gate 3 (Two stacked blue containers)",
+            "•  On top of one of the yellow cart by pit",
+            "•  Office hallway shelf",
+            "•  Marked circle",
+            "•  As spawn next to dead scav at Dead Man`s Place camp",
+            "•  On floor of buildings in Village",
+            "•  Can be found on server racks inside multiple buildings",
+            "•  In the shelves of [[RB-AK key|RB-AK]] on second floor of the black bishop building, north of the helicopter",
+            "•  In Black Knight on a desk, 3rd room on the left from main entrance",
+            "•  Can be found on the floor of [[RB-BK marked key|RB-BK]] in the basement of black pawn",
+            "•  Can be found on the floor of [[RB-VO marked key|RB-VO]]",
+            "•  Right side of orange dome, on white boxes next to a white shelf",
+            "•  Right side of orange dome, on the last white table before the stairs that go up to management office."
+        ],
+        "images": []
+    },
+    "Import": {
+        "steps": [
+            "Both items can be found on [[The Lab]], one in O11 and the other in R21."
+        ],
+        "images": []
+    },
+    "Fertilizers": {
+        "steps": [],
+        "images": []
+    },
+    "A Shooter Born in Heaven": {
+        "steps": [],
+        "images": []
+    },
+    "Only business": {
+        "steps": [
+            "Buy and sell items at [[Ragman]]. Doing these two actions will build you towards his 750,000 rouble requirement to reach loyalty level 2. There are a few methods to reach this goal quickly. The quickest, but one of the most expensive, is to buy a large amount of one type of item from him, such as a [[Kolpak-1S riot helmet]], and immediately sell them back to him. Repeat this until you're reached the required amount. Doing this will quickly deplete your cash though as you only make about half your money back when buying and selling an item. To obtain 750,000 worth of loyalty, you would lose about one third of the amount with this method.",
+            "Some of the items sold by [[Ragman]] are also bought by [[Skier]] at a higher price. Buying from [[Ragman]] and selling to [[Skier]] will help you retain more money than simply buying and selling to [[Ragman]], but more items will need to be bought from [[Ragman]] to complete the quest as both bought and sold items count towards Loyalty Level 2."
+        ],
+        "images": []
+    },
+    "Big sale": {
+        "steps": [
+            "Walk into each of the stores listed in the quest objectives to complete the quest. This can be done over multiple raids if you're not able to do them at once. All of the required stores are on the first floor. ",
+            "You can survive and leave the area in any raid after entering all the stores. "
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5d/BigSaleMarked.jpg",
+                "text": "Stores marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/44/Avokado.png",
+                "text": "Avokado store"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/bc/Kostin.png",
+                "text": "Kostin store"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/Trend.png",
+                "text": "tRend store"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/Dinoclothes.png",
+                "text": "Dino clothes store"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4e/Topbrand.png",
+                "text": "Top brand store"
+            }
+        ]
+    },
+    "The Blood of War - Part 1": {
+        "steps": [
+            "Note that what you have to mark are the orange fuel tanker trucks, 'not military tanks'. The tankers are located outside the mall.",
+            "The markers can be placed in any order over any number of runs. You do not need to place all three markers in the same run.",
+            "After placing a marker, the player must stay alive for 30 seconds or they will have to place another beacon on the tanker.",
+            "As soon as you press the button to place the marker you can move away from the truck. While the timer is counting down you do NOT need to be near the marker - only players can destroy the markers, and it is extremely rare for someone to look for them. Go and hide, as death will result in you losing the marker and having to buy a new one from [[Prapor]].",
+            "•  'Tanker #1:'  Located directly east of the mall on the road (behind Goshan). There are no [[Scavs]] near this tanker so you'll only need to be cautious of players. Check your surroundings before planting the [[MS2000 Marker]] ",
+            "•  'Tanker #2:' Located on the highway to the west (front) of the mall among the tents. There are frequently Scavs in this area, so be cautious.",
+            "•  'Tanker #3:' Located at the power station on the north-east side of the mall (behind IDEA). The tanker is in the parking lot of this station. Just like the highway, [[Scavs]] frequently roam this area so be cautious. ",
+            "After all three markers have been planted and their 30 second activation periods are complete you have completed three of the four tasks of this quest. The final task is to extract. This can be done during any [[Interchange]] PMC raid, not necessarily the one where you planted the [[MS2000 Marker]]s.",
+            "# Trivia",
+            "•  Additional [[MS2000 Marker]]s can be bought from [[Prapor]] if needed.",
+            "•  It is recommended that the player keeps the [[MS2000 Marker]]s in their secure container so they are not lost in the event of their death.",
+            "•  The [[MS2000 Marker]]s will automatically be used out of the players' inventory when needed, similar to how keys work."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/76/TankerPic.png",
+                "text": "Tankers marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/40/Bloodofwartanker.png",
+                "text": "One of the tankers to be marked"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/04/Blood_of_war_truck.png",
+                "text": ""
+            }
+        ]
+    },
+    "Dressed to kill": {
+        "steps": [
+            "Can be found on [[Scavs]] or on the heads on mannequins on the map [[Interchange]]."
+        ],
+        "images": []
+    },
+    "Database - Part 1": {
+        "steps": [
+            "If retrieving the manifests on different raids, make sure to turn them in before entering another raid, as death will empty your quest inventory.",
+            "Head to the entrance of the IDEA office, on the left immediately after the main entrance. Once in there, look for a document on one of the center desks, perpendicular to the wall.",
+            "Head to the small corridor north of Goshan (left, if entering the store from the front where the cash registers are). There, find the computer room, and look for the manifest on the desk.",
+            "Turn right after entering Oli via the main entrance. Go to the back of the store and look for a cube-shaped desk. The desk is marked by a sign over it, the manifest will be laying on the desk."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9c/Interchange_Database_part_1_Guide.png",
+                "text": "Locations marked on map (Red circles)"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ad/IDEA_Manifest_1_Outside.png",
+                "text": "View of the entrance to the IDEA office, under the main entrance"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/17/IDEA_Manifest_2_inside.png",
+                "text": "The computer room where the manifest is located"
+            },
+            {
+                "text": "The IDEA manifest is on a desk, in the IDEA computer room"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9c/Interchange_Database_part_1_Guide.png",
+                "text": "Locations marked on map (Red circles)"
+            },
+            {
+                "text": "The Goshan manifest is on a desk, in the north Goshan computer room"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9c/Interchange_Database_part_1_Guide.png",
+                "text": "Locations marked on map (Red circles)"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b4/Oli_Manifest2.png",
+                "text": "Top of the escalator after the main entrance to the OLI store"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/45/Oli_Manifest1.png",
+                "text": "View inside of the OLI store, where the cube-shaped desk is located"
+            },
+            {
+                "text": "The OLI manifest is on a desk, in the information booth on the west part of the OLI"
+            }
+        ]
+    },
+    "Database - Part 2": {
+        "steps": [
+            "The [[Key to OLI logistics department office]] can be obtained in a barter from [[Jaeger|Jaeger LL3]].",
+            "It can also be obtained as [[Key_to_OLI_logistics_department_office#Key_Location|a rare world spawn on Customs.]]"
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2f/Interchange_Database_part_2_Guide.png",
+                "text": "Logistics office location marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ef/Database_Part_2_Guide.png",
+                "text": "The documents are located on a shelf, against the left wall of the room when you enter"
+            }
+        ]
+    },
+    "Gratitude": {
+        "steps": [
+            "'DISCLAIMER': Make sure that you have the [[Shemagh (Green)]] and not the [[Shemagh (Tan)]].",
+            "Items do not need to be placed in order and can be placed over several runs.",
+            "Each item takes 20 seconds to place. Your use key must be held down to place each item. Take note that this will leave you very exposed. It's recommended you bring minimal gear and keep the items in your [[Secure containers|secure container]]."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f1/Gratitudemap.png",
+                "text": "Pier marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/04/GratitudeLocation.png",
+                "text": "Pier "
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/GrattitudeBarrels.png",
+                "text": "Barrels where the items need to be placed "
+            }
+        ]
+    },
+    "Sales Night": {
+        "steps": [
+            "Survive 7 raids on [[Interchange]]. Completing a raid with the \"Run Through\" status 'will not' count towards this quests completion. To avoid this, gain at least 200 [[EXP]] in raid (by killing or looting) or be in raid for at least 7 minutes before extracting."
+        ],
+        "images": []
+    },
+    "Supervisor": {
+        "steps": [
+            "The key can be found on [[Customs]] in a white bus near the gas station."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/8d/GoshanKeyLocation.webm"
+            }
+        ]
+    },
+    "Hot Delivery": {
+        "steps": [],
+        "images": []
+    },
+    "Scavenger": {
+        "steps": [],
+        "images": []
+    },
+    "Make ULTRA Great Again": {
+        "steps": [
+            "[[Scavs]] can commonly be found at the front of OLI, Goshan, IDEA. Another spawn is in the main center hall of the mall, near the Kiba gun store. You can find more at power station, and also the road that runs parallel to the mall on the opposite side of the parking lot."
+        ],
+        "images": []
+    },
+    "Minibus": {
+        "steps": [
+            "Two of them are located in the right garage (next to the main entrance of the Super), relatively close to each other. ",
+            "The first one is to the left, at the locked-off down-ramp, and the second one is to the right, past the broken roof/floor, in the back corner. ",
+            "The third one is in the fenced off in area next to Oli."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ab/InterchangeMinibusLocations.jpg",
+                "text": "Locations marked"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/Minibus1.png",
+                "text": "Minibus 1"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/09/Minibus2.png",
+                "text": "Minibus 2"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/77/Minibus3.png",
+                "text": "Minibus 3"
+            }
+        ]
+    },
+    "Sew it good - Part 1": {
+        "steps": [
+            "The [[Ski hat with holes for eyes]] only spawns on [[Scavs]]. The [[Pilgrim tourist backpack]] also only spawns on [[Scavs]], with the exception of very rarely spawning on the table in the old gas station on the map [[Customs]]."
+        ],
+        "images": []
+    },
+    "Sew it good - Part 2": {
+        "steps": [],
+        "images": []
+    },
+    "Sew it good - Part 3": {
+        "steps": [
+            "The first armor should be between 0% and 50% condtion, which is 0 - 42.5 armor points. The second should be between 50% and 100%, which is 42.5 - 85 armor points. ",
+            "Since friendly fire is always active, you can complete the quest with the help of a friend."
+        ],
+        "images": []
+    },
+    "Sew it good - Part 4": {
+        "steps": [
+            "•  Wartech Gear rigs (TV-109, TV-106) are frequently [[found in raid]] on [[Scavs]].",
+            "•  BlackRock Chest Rigs are frequently found in raid on Reshala's Bodyguards in Customs. They can also be crafted in lavatory."
+        ],
+        "images": []
+    },
+    "Charisma brings success": {
+        "steps": [
+            "[[Charisma]] is leveled by picking up items. To quickly level this skill place every item you find inside your inventory, even if you don't intend on keeping it. Because of the large number of items, going to [[Drawer|filing cabinets]] and picking up everything inside them is a good way to gain [[Charisma]] experience. If you don't want the items, simply drop them and this will not slow down your experience gain."
+        ],
+        "images": []
+    },
+    "No fuss needed": {
+        "steps": [],
+        "images": []
+    },
+    "The Blood of War - Part 2": {
+        "steps": [],
+        "images": []
+    },
+    "The Blood of War - Part 3": {
+        "steps": [
+            "The markers can be placed in any order over any number of runs. You do not need to place all three markers in the same run.",
+            "After placing a marker, the player must stay alive for 30 seconds or they will have to place another beacon on the fuel stash .",
+            "You do NOT need to be near the marker after it has been placed - only players can destroy the markers, and it is extremely rare for someone to look for them. Go and hide, as death will result in you losing the marker and having to buy a new one.",
+            "If you extract from the raid with a \"Run Through\" status, the quest will not count as being completed. To avoid the \"Run Through\" status, gain at least 200 [[EXP]] in raid (by killing or looting) or be in raid for at least 7 minutes before extracting."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ae/Blood_of_War_-_Part_3_Map.png",
+                "text": "Locations marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/04/Bow1.png",
+                "text": "Stash 1"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3a/Bow3.png",
+                "text": "Stash 2"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e1/Bow2.png",
+                "text": "Stash 3"
+            }
+        ]
+    },
+    "Living high is not a crime - Part 1": {
+        "steps": [
+            "The statues/figurines can commonly be found in the furniture displays throughout the store IDEA on [[Interchange]]. Alternatively, they, along with the [[Roler submariner gold wrist watch]] can be found in [[Safe]]s. They can also be very rarely be found in other containers such as [[Drawer]]s, [[Sport bag]]s, [[Dead Scav]]s, and more."
+        ],
+        "images": []
+    },
+    "Living high is not a crime - Part 2": {
+        "steps": [],
+        "images": []
+    },
+    "Introduction": {
+        "steps": [
+            "Your task for this quest is to retrieve a message at [[Jaeger]]s hunting stand and return it to [[Mechanic]].",
+            "The message is a white paper below the hunting stand, partially hidden under a fallen makeshift wooden ladder. The hunting stand is located in the eastern half of the map, very close to the crashed plane.",
+            "Once you have retrieved the message, you must extract from the location and hand over it to [[Mechanic]]. This will unlock [[Jaeger]] as a trader and quest giver."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c5/Hunting_Stand_map.png",
+                "text": "\"Jaeger's camp\" marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/41/The_Location_of_the_Hunting_Camp.png",
+                "text": "Location of the hunting stand next to the plane"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b7/The_message_benath_the_Hunting_Stand.png",
+                "text": "Message beneath the hunting stand"
+            }
+        ]
+    },
+    "Acquaintance": {
+        "steps": [
+            "The [[Provisions]] required for this quest have to be [[found in raid]]. These items can be commonly found in many maps such as [[Reserve]], [[Interchange]], and [[Shoreline]].",
+            "Food can be most easily found in the kitchen wing of the black bishop building. In the locked caged rooms in the underground bunker are many loose food item spawns and [[Ration supply crate]]s. These crates spawn a large amount of food. The number of supply crates in each room is written in red on the map below, as well as the location of the kitchen being circled.",
+            "Lots of food items can be found scattered throughout the admin/theatre building at the resort.",
+            "There is a grocery store called Goshan (red on the map) packed with food. Check all the shelving to find it. A flashlight will be helpful for all the dark corners.",
+            "Packs can spawn at the USEC Camp frequently as well as the camp at the south-east of the lake."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cf/3D_Map_by_loweffortsaltbox-FOOD.png",
+                "text": ""
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/92/Map_Shorline-FOOD.png",
+                "text": ""
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/73/Interchange-Map-Small-FOOD.png",
+                "text": ""
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/de/Acquaintance_food_location.png",
+                "text": "Location the USEC camp (bottom arrow)"
+            }
+        ]
+    },
+    "The survivalist path - Unprotected, but dangerous": {
+        "steps": [
+            "This quest takes place on [[Woods]], but before you go there you first need to get your PMC ready. When killing the [[Scavs]] you can't be wearing any [[armor vests]] or [[Chest rigs#Armored|armored chest rigs]] ([[Headwear|helmets]] are allowed). If you want to protect yourself during this quest you can choose to still wear armor, you will only need to remove it before killing a [[Scav]]. To keep yourself safe while doing this quest you should try and remain as far away as possible from the [[Scavs]]. For the highest survivability you should equip a scoped weapon to get kills from afar. "
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/05/Glory4lyfeWoods_map_v4_marked.png"
+            }
+        ]
+    },
+    "The survivalist path - Thrifty": {
+        "steps": [
+            "In both [[Key ZB-014|ZB-014]] and [[ZB-016]] on [[Woods]], look for the broken crate in the first room and a \"place\" marker will come up. You have to place two seperate items per bunker. It takes 20 seconds to place each of the items. If you release the key or are otherwise interrupted, the timer will reset. Additionally, checking exits will interrupt your placement timer. After placing the items the player does not need to extract, the quest is completed whether you die or not."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5e/ZB_Bunker_location.png",
+                "text": "Location of the 2 bunkers on the map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/29/ZB-014-Bunker.png",
+                "text": "ZB-014 Bunker entrance"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/de/The_survivalist_path_-_Thrifty_Crate_overview2.png",
+                "text": "Overview of the ZB-014 crate where to place the items"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/aa/The_survivalist_path_-_Thrifty_Crate_close-up2.png",
+                "text": "Close-up of the ZB-014 crate"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/28/Zb-016_entrance.png",
+                "text": "ZB-016 Bunker entrance"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/65/The_survivalist_path_-_Thrifty_Crate_overview.png",
+                "text": "Overview of the ZB-016 crate where to place the items"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/60/The_survivalist_path_-_Thrifty_Crate_close-up.png",
+                "text": "Close-up of the ZB-016 crate"
+            }
+        ]
+    },
+    "The survivalist path - Zhivchik": {
+        "steps": [
+            "A [[Jar of DevilDog mayo]] gives you -99 hydration, [[Condensed milk]] gives you -65 hydration. [[Analgin painkillers]] give you -17 per use. You can consume them quickly to go into a dehydration state. Using a [[Propital regenerative stimulant injector]] stimulant will heal you enough to last five minutes. Don't forget to bring some extra liquid to continue the raid.",
+            "Alternatively if you play with friends, you can ask them to shoot you in the stomach, you will then quickly dehydrate, you can patch your stomach when you are in the dehydrated state.",
+            "Doing a 'Run-Through' will 'NOT' count towards the \"Survive and extract\" objective. But if that happens, you can survive and extract any raid, in any map, regardless of where and when you did the main objective."
+        ],
+        "images": []
+    },
+    "The survivalist path - Wounded beast": {
+        "steps": [
+            "•  Dehydration and broken bones give pain.",
+            "• Using painkillers, morphine and/or similar medication will only suppress the pain, not remove the status effect, and as such kills will still count towards the quest."
+        ],
+        "images": []
+    },
+    "The survivalist path - Tough guy": {
+        "steps": [
+            "• Do not use any [[Medical]] items while in a raid when the quest is active. If you do you will be required to accept the quest again.",
+            "• If you complete the objective to kill the three scavs without healing the task will still fail if you heal before handing it in. In addition, if you complete the objectives but do not click complete with Jaeger, then healing in a later Woods raid will cause failure of the quest.",
+            "• Surviving the raid is not necessary for the quest to be completed.",
+            "• Off-raid healing does affect this quest.",
+            "• Drinkable Alcohol is a painkiller that will not fail this quest.   "
+        ],
+        "images": []
+    },
+    "Courtesy visit": {
+        "steps": [
+            "•  All houses are located in the swamp"
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7f/Quest_courtesy_visit_map.png",
+                "text": "Houses location"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6a/Fisherman_house.png",
+                "text": "The fisherman's house"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1f/Priest_house.png",
+                "text": "The priest's house"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/95/Chairman_house.png",
+                "text": "The chairman's house"
+            }
+        ]
+    },
+    "Nostalgia": {
+        "steps": [
+            "This quest takes place on [[Shoreline]]. Jaegers' photo album can be found in the resort, 'West wing room 303' in the bottom drawer of the bedside table. The room is unlocked so no key is required."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d4/Jaeger_Photo_Album.png",
+                "text": "Photo album in bottom drawer"
+            }
+        ]
+    },
+    "The Tarkov shooter - Part 1": {
+        "steps": [
+            "To do this task, grab a [[Weapons#Sniper rifles|bolt-action rifle]] and do not attach any scopes or sights. Use only the iron sights. [[Factory]] is not recommended for this quest as there are not many places where you can effectively engage at 40m or further. Only [[Scavs]] count towards this quest, not PMCs. Woods, Shoreline, and Customs are good maps because of the sniper [[Scavs]] that can be spotted from a far distance."
+        ],
+        "images": []
+    },
+    "The Tarkov shooter - Part 2": {
+        "steps": [
+            "For this quest only hits/kills on [[Scavs]] or PMCs with a [[Weapons#Sniper rifles|bolt-action rifle]] count. You can hit the same target multiple times in the leg(s) and it will still count. For easier headshots on moving scavs, shoot them in the leg(s) first to slow them down.",
+            "Good spots to do the quest include:",
+            "•  The rock west of the northern shoreline bunker to shoot the scavs at the bunker. ",
+            "•  The ridge over the tunnel extract to shoot the scavs on the road.",
+            "•  The hill overlooking the shoreline villas (north-east of the villas), you can get a good angle on the scavs patroling the gardens.",
+            "•  You can shoot the gas station scavs from far away while on the highway leading to it.",
+            "•  Its possible to easily find spots to shoot shoreline's sniper scavs from far away (power station and bunker rock scavs).",
+            "•  Bus station scavs from the resort roof.",
+            "•  Sniper tower south of the road to customs extract to snipe scavs at the extract.",
+            "•  The large rock overlooking the lumber yard from the North side.",
+            "•  Anywhere from the SW to W of the cabin near Outskirts extraction. This cabin frequently has multiple [[Scavs]] around it in the open.",
+            "• North or South side of the Town location. Multiple scavs spawn at points in the raid and will walk across the road."
+        ],
+        "images": []
+    },
+    "The Tarkov shooter - Part 3": {
+        "steps": [
+            "To do this task, grab a [[Weapons#Sniper rifles|bolt-action rifle]]. [[Factory]] is recommended for this quest as there are ample opportunities to engage PMC's at 25m or closer. Some close quarters locations you can reliably find and attack PMCs at 25m (or less) are in the office with the safe and the locker room. Using flashbangs such as the [[zarya stun grenade]] or [[23x75mm \"Zvezda\" flashbang round]] rounds may be an effective way to prevent PMCs from firing back, as bolt action rifles have slow fire rates. This can also allow you to complete [[Huntsman path - Controller]] at the same time."
+        ],
+        "images": []
+    },
+    "The Tarkov shooter - Part 4": {
+        "steps": [
+            "Keep in mind that to level up the [[Sniper Rifles|Sniper Rifles skill]] you gain experience per hit, not just kill. With this in mind, you'll level this skill faster by shooting limbs instead of the chest or head as you can land more hits on your target to gain more exp before killing them."
+        ],
+        "images": []
+    },
+    "The Tarkov shooter - Part 5": {
+        "steps": [
+            "Head to [[Customs]] between 21:00 and 5:00. It's recommended that you go into the raid by at least 3:00 so you have time to advance the quest before 5:00. [[Scavs]] can easily be frequently found at the crossroads, construction site, bus depot, and old gas station. Attaching a flashlight to your gun can be very helpful for hunting scavs in the darkness.<br>"
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/Customsscavnew.jpeg"
+            }
+        ]
+    },
+    "The Tarkov shooter - Part 6": {
+        "steps": [
+            "Although they don't spawn 100% of the time, Sniper [[Scav]]s can currently be found in the following locations:",
+            "Generally, Customs is the best location to kill sniper scavs as it has the most. Killing them at night for this quest is recommended as you can quickly run down the main road through the map to see all of them under the cover of darkness. In order from left to right:",
+            "1. Construction Sniper. Spawns extremely frequently.<br>",
+            "2. Vacuum distillation tower. Spawns uncommonly.<br>",
+            "3. Warehouse Rooftop Sniper. Spawns about half the time.<br>",
+            "4. Checkpoint Sniper. Spawns about half the time.<br>",
+            "5. Sniper on rocks above Scav checkpoint. Spawns uncommonly.",
+            "1. Mountain Sniper. Spawns extremely frequently. Easily looted by jumping up the back side of the mountain.<br>",
+            "1. Northern Bunker Lookout Sniper. Spawns about half the time.<br>",
+            "2. Power Station Rooftop Sniper. Spawns extremely frequently.<br>"
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/Sniper-Scavs-Customs.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/69/Sniper-Scavs-Woods.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/03/Sniper-Scavs-Shoreline.png"
+            }
+        ]
+    },
+    "The Tarkov shooter - Part 7": {
+        "steps": [
+            "Maps with a large number of open spaces where you can effectively engage at 45 m or further such as [[Woods]] and [[Shoreline]] are recommended for this quest."
+        ],
+        "images": []
+    },
+    "The Tarkov shooter - Part 8": {
+        "steps": [],
+        "images": []
+    },
+    "The survivalist path - Cold blooded": {
+        "steps": [],
+        "images": []
+    },
+    "Colleagues - Part 2": {
+        "steps": [
+            "•  Sanitar's surgery kit is inside the office building at the pier, on top of one of the shelf units on 2nd floor.",
+            "•  Sanitar's ophthalmoscope can be found inside the locked villa in the western part of the map. You need a [[Shoreline cottage back door key]] to unlock the back door to enter the villa. The ophthalmascope is inside a potted plant on a table, in the left room upstairs."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/9b/Surgery_kit.png",
+                "text": "Sanitar's surgery kit"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/05/Ophtalmoscope.png",
+                "text": "Sanitar's ophtalmoscope"
+            }
+        ]
+    },
+    "Colleagues - Part 3": {
+        "steps": [
+            "•  You can obtain the stimulants from [[Sanitar]], his followers or even regular scavs"
+        ],
+        "images": []
+    },
+    "The survivalist path - Combat medic": {
+        "steps": [
+            "You can raise your Vitality level by:",
+            "•  Taking damage",
+            "•  Bloodloss",
+            "•  Completing the quest [[Ambulance]] (+1 level) ",
+            "You can use a [[eTG-change regenerative stimulant injector]] or a [[Propital regenerative stimulant injector]] and run through fire or obtain a heavy bleed to level up your vitality"
+        ],
+        "images": []
+    },
+    "Ambulance": {
+        "steps": [],
+        "images": []
+    },
+    "Huntsman path - Secured perimeter": {
+        "steps": [
+            "The office area of the Factory is highlighted on this map.",
+            "Only the enemy PMC has to be in the highlighted area for the kill to count towards this quest."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/73/Office_area_of_the_Factory.png"
+            }
+        ]
+    },
+    "Reserve": {
+        "steps": [
+            "Enter the storage warehouses \"Д\", head down into the storage areas and stay to the right. You don't need to survive and extract for this quest. "
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/ba/Reserv_guide.png",
+                "text": "Location of the storage area"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/50/Reservquest2.png",
+                "text": ""
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a1/Reservequest1.png",
+                "text": ""
+            }
+        ]
+    },
+    "Huntsman path - Woods cleaning": {
+        "steps": [],
+        "images": []
+    },
+    "Huntsman path - Controller": {
+        "steps": [
+            "• You do not need to be blinded with flashbang, the target PMCs need to be blinded with the flashbang when you kill them.",
+            "• The [[Zarya stun grenade]] and [[23x75mm \"Zvezda\" flashbang round]] cartridge can both be used to induce the blindness for this quest."
+        ],
+        "images": []
+    },
+    "Huntsman path - Evil watchman": {
+        "steps": [
+            "Kills are counted both inside the buildings of dormitories as well as in the surrounding areas. Kills will still count about 10–15 meters around the buildings as well as between them.",
+            "Both you and the PMC killed must be in the immediate area to contribute to the quest kill counter."
+        ],
+        "images": []
+    },
+    "Fishing place": {
+        "steps": [
+            "•  One quick way to find [[TerraGroup Labs access keycard]]s in raid is to kill and loot any scav [[boss]]"
+        ],
+        "images": []
+    },
+    "Huntsman path - The trophy": {
+        "steps": [
+            "The golden TT must be functional, but does not need to contain all of its original parts, so you can swap the barrel and grips (these must also be [[found in raid]]) out for cheaper alternatives before handing it in."
+        ],
+        "images": []
+    },
+    "Huntsman path - Justice": {
+        "steps": [
+            "The guards wearing a police uniform are [[Reshala]]'s bodyguards."
+        ],
+        "images": []
+    },
+    "Huntsman path - Sellout": {
+        "steps": [],
+        "images": []
+    },
+    "Huntsman path - Woods keeper": {
+        "steps": [],
+        "images": []
+    },
+    "Huntsman path - Eraser - Part 1": {
+        "steps": [],
+        "images": []
+    },
+    "Huntsman path - Eraser - Part 2": {
+        "steps": [
+            "Find and kill 6 [[Scav Raiders]] on [[The Lab]] or [[Reserve]]. [[Scav Bosses]] and their guards do not count."
+        ],
+        "images": []
+    },
+    "Hunting trip": {
+        "steps": [],
+        "images": []
+    },
+    "Operation Aquarius - Part 1": {
+        "steps": [
+            "[[Dorm room 206 Key]] can commonly be found in Scav pockets and [[Backpacks]], as well as a barter with Therapist LL1 (for 7 [[Pile of meds|meds]]). Once you have obtained the key head to the second floor of the two-story dorms on [[Customs]]. After unlocking the door you simply need to walk inside of the room to complete the objective but to finish the quest you must successfully extract from Customs once."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/de/Rom_206_door.png",
+                "text": "Room 206 in the two story dorm"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/99/Inside-Room-206.png",
+                "text": "Inside room 206"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/92/OP_Aquarius1_Customs.png",
+                "text": "Room 206 Location"
+            }
+        ]
+    },
+    "Operation Aquarius - Part 2": {
+        "steps": [
+            "Enter the map [[Customs]] and search for and kill fifteen [[Scavs]] whom can be found throughout the map but the most concentrated source is the construction site, the dorms and at the old gas station."
+        ],
+        "images": []
+    },
+    "Polikhim hobo": {
+        "steps": [
+            "This quest is obtained when accepting the quest [[Chemical - Part 1]].",
+            "This task is removed from Prapor if it is not accepted before completing [[Chemical - Part 1]]. That results in the following task [[Regulated materials]] not showing as well."
+        ],
+        "images": []
+    },
+    "Regulated materials": {
+        "steps": [
+            "The items required for this quest need to be [[found in raid]]. The only map with them is [[Reserve]], but there is a small chance for a scav to have it in their backpack. The [[6-STEN-140-M military battery]] is a large 4x2 slot item that resembles a black/brown box. It can most commonly be found sitting on or near tanks. The [[OFZ 30x160mm shell]]s can be found throughout the [[Reserve]] on tables, shelving and at the rear side of every tank on the map, on the ground. Both of the items required for this quest can also be obtained from the [[Hideout#Scav Case|Scav Case]] in the [[Hideout]].",
+            "A reliably good source for OFZ Shells is the [[RB-BK marked key]] room. A reliably good source for the Tank Battery are the [[RB-ST key|RB-ST]] and the [[RB-GN key|RB-GN]] rooms."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/61/OFZ_30x160mm_shell_location_on_Reserve.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0e/Location_of_a_6-STEN-140-M_military_battery.png"
+            }
+        ]
+    },
+    "Stirrup": {
+        "steps": [
+            "•  It is recommended to do this quest passively, as it can be slowly completed as you progress through others.",
+            "•  [[Factory]] is a good location to complete this task as there are a high amount of PMCs that spawn there in a very small area, leading to fast, close-quarters fights.",
+            "•  Be aware that PMC's will likely equip a [[Visors|Visor]] on a CQB-Map, which can only be reliably penetrated by [[5.7x28mm SS190|SS190]] ammo for the [[FN Five-seveN MK2 5.7x28 pistol|Five-Seven]], [[9x21mm BT gzh|BT gzh]] ammo for the [[9x21 Serdyukov automatic pistol SR1MP Gyurza|SR1MP]] and the [[9x19mm AP 6.3]] ammo.",
+            "•  A reliable alternative would be to prepare an ambush with a pistol shooting [[9x19mm RIP|RIP]] ammunition. Hitting 5 shots onto the legs are sure to bring any player down (as it can equip a Stock, a [[GLOCK 18C 9x19 pistol|GLOCK 18]] might be particularly suited for this play style).",
+            "• Killing teammates does not count towards the quest."
+        ],
+        "images": []
+    },
+    "Mentor": {
+        "steps": [],
+        "images": []
+    },
+    "Bad habit": {
+        "steps": [
+            "All cigarettes can commonly be found inside of:",
+            "•  In [[Buried barrel cache]]s",
+            "•  In [[Dead Scav]]s",
+            "•  In [[Ground cache]]s",
+            "•  In [[Jacket]]s",
+            "•  In [[Plastic suitcase]]s",
+            "•  In [[Ration supply crate]]s",
+            "•  In [[Sport bag]]s"
+        ],
+        "images": []
+    },
+    "The key to success": {
+        "steps": [
+            "The first book is located in a store called \"МУЗЕЙ ИСТОРИИ\" (\"Museum of History\") on the second floor of the shopping mall on [[Interchange]]. It can be found in a pile of books.",
+            "The second book is located in the book store on the first floor of the shopping mall on [[Interchange]]. It can be found on the middle shelf in the lowest row that contains books."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b7/The_key_to_success_Marked.png",
+                "text": "The wanted stores marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/3b/The_key_to_success_Book1Store.png",
+                "text": "The store that contains the first book, arrow marks the pile of books"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/90/The_key_to_success_Book2.png",
+                "text": "First book location"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/62/The_key_to_success_Book2Store.png",
+                "text": "The store that contains the second book, arrow marks the right shelf"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4f/The_key_to_success_Book1.png",
+                "text": "Second book location"
+            }
+        ]
+    },
+    "Shady Business": {
+        "steps": [
+            "• The Flash Drive sometimes spawns inside of the tent near the logging camp on [[Woods]] and in [[Dorm room 110 Key|dorm room 110 (locked)]] on the bed on [[Customs]]. It can also be found plugged into the front of [[PC block]]s.",
+            "• It's also a good idea to search for Flash Drives on [[Interchange]], as it has many computers that may spawn USBs. The Oli, Idea and Goshan offices are good places to look, containing several PCs each. ",
+            "• They commonly spawn in [[drawer]]s as well",
+            "• The quest [[Huntsman path - Evil watchman|Evil watchman]] rewards 2 flash drives as a quest reward, which is an option for players who are unable to find flash drives elsewhere.",
+            "• The easiest way to get Secure Flash drives is to craft them on [[Hideout#Modules .28available.29|Intelligence Center level 2]] (Requires Mechanic Level 3). They will have the \"[[found in raid]]\" mark, being suitable for the quest completion."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/66/USB_Tent_Location.png",
+                "text": "USB tent marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/74/USB_Location.png",
+                "text": "USB drive inside the tent"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/34/Drive-in-PC.png",
+                "text": "USB plugged into a [[PC block"
+            }
+        ]
+    },
+    "Postman Pat - Part 2": {
+        "steps": [
+            "Head to the [[Factory]] to begin the quest. The letter is located in a small bunker on the main floor. In this bunker is a corpse. The letter is found tucked into the collar of the shirt of the body and is NOT located in the body's searchable container."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b1/PostmanPat1_Factory.png",
+                "text": "Body and letter location"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a6/Postman_Pat_Letter_Location.png",
+                "text": "The letter is in the shirt collar"
+            }
+        ]
+    },
+    "Out of curiosity": {
+        "steps": [
+            "You can buy the [[MS2000 Marker]] from [[Prapor]].",
+            "After placing the marker, the player must stay alive for 30 seconds or they will have to place another beacon in the van. You do not need to be near the van after the marker has been placed. Find a nearby hiding spot and wait until the timer is complete."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ed/BigCustomerMap.jpg",
+                "text": "Warehouse marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/64/Depot-building_customs.png",
+                "text": "The warehouse with the vehicle inside."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/45/The_van_inside_the_depot-building.png",
+                "text": "The vehicle where the beacon is placed."
+            }
+        ]
+    },
+    "Big customer": {
+        "steps": [
+            "You can buy the [[MS2000 Marker]] from [[Prapor]].",
+            "After placing the marker, the player must stay alive for 30 seconds or they will have to place another beacon in the van. You do not need to be near the van after the marker has been placed. Find a nearby hiding spot and wait until the timer is complete."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ed/BigCustomerMap.jpg",
+                "text": "Warehouse marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/64/Depot-building_customs.png",
+                "text": "The warehouse with the vehicle inside."
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/45/The_van_inside_the_depot-building.png",
+                "text": "The vehicle where the beacon is placed."
+            }
+        ]
+    },
+    "The survivalist path - Junkie": {
+        "steps": [
+            "•  Be under the effect of any [[Stimulators|stimulant]] (both buffs and debuffs) while killing 15 [[Scavs]] on [[Woods]].",
+            "•  [[Provisions]] that gives skill buffs, such as the [[Hot Rod]] or [[Milk]] can be used.",
+            "• Having the Painkiller effect doesn't count."
+        ],
+        "images": []
+    },
+    "Textile - Part 1": {
+        "steps": [
+            "[[Aramid fiber cloth]] can commonly be found in clothing stores on [[Interchange]]. [[Ripstop cloth]] can be found in the same locations, though more rarely. They can also be found inside of [[Sport bag]]s, [[Buried barrel cache]]s, and [[Ground cache]]s.",
+            "[[Paracord]] can be found in [[Sport bag]]s. They can also be found spawning on the map [[Reserve]]. For more specific spawn locations visit the [[Paracord]] page."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/Textile_1_and_2_locations.png",
+                "text": "Pieces of fabric locations on Interchange"
+            }
+        ]
+    },
+    "Textile - Part 2": {
+        "steps": [
+            "The [[Polyamide fabric Cordura]] and [[Fleece cloth]] can commonly be found in clothing stores on [[Interchange]]. They can also be found inside of [[Sport bag]]s, [[Buried barrel cache]]s, and [[Ground cache]]s.",
+            "[[KEKTAPE duct tape]] can be found anywhere construction supplies spawns, drawers, and inside of [[toolbox]]es."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/98/Textile_1_and_2_locations.png",
+                "text": "Pieces of fabric locations on Interchange"
+            }
+        ]
+    },
+    "Anesthesia": {
+        "steps": [
+            "Mark the three medical trading posts on [[Shoreline]] with the [[MS2000 Marker]]s. They can be found in the following locations:",
+            "The markers can be placed in any order over any number of raids. You do not need to place all three markers in the same raid. The markers can be used from your [[Secure containers|Secure Container]], so it's a good idea to keep them there in the event that you die so that you do not need to purchase additional markers to complete the quest.",
+            "After placing a marker, the player must stay alive for 30 seconds or they will have to place another marker on the trading post.",
+            "You do NOT need to be around the trading post after the marker has been placed - only players can destroy the markers, and it is extremely rare for someone to look for them. Go and hide, as death will result in you losing the marker and having to buy a new one from [[Prapor]]."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6a/Shoreline_Anesthesia.png",
+                "text": "Overview"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/10/18-31.png",
+                "text": "Behind the locked villa"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ac/18-59.png",
+                "text": "In front of the office building at the pier"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/19-03.png",
+                "text": "Next to the ambulance near the front of the resort"
+            }
+        ]
+    },
+    "Colleagues - Part 1": {
+        "steps": [
+            "Locate the three bodies of the people [[Therapist]] hired on [[Shoreline]]. These corpses will be covered with white shrouds. All three corpses must be found in a single raid. If you leave the raid and have only found some of the corpses, the quest will reset. You must extract in the same raid in which you found all the corpses. The three corpses can be found in the following locations:"
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0b/Shoreline_Colleagues-1.png",
+                "text": "Overview"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/9/90/18-39.png",
+                "text": "In the backyard of the locked villa"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/53/17-11.png",
+                "text": "On the outside corner of the offices at the pier"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/45/2020-0.png",
+                "text": "Under the tail of the helicopter in front of the resort"
+            }
+        ]
+    },
+    "Rigged game": {
+        "steps": [
+            "Mark the three medical containers on [[Shoreline]] with the [[MS2000 Marker]]s. They can be found in the following locations:",
+            "The markers can be placed in any order over any number of raids. You do not need to place all three markers in the same raid. The markers can be used from your [[Secure containers|Secure Container]], so it's a good idea to keep them there in the event that you die so that you do not need to purchase additional markers to complete the quest.",
+            "Unlike most quests that require the MS2000 markers, this quest has you \"hide\" the items like [[Fishing Gear]] or [[Delivery from the past]] do.",
+            "Once you are in front of a container, hold down your interact key. This will start a countdown of 15 seconds. Once the timer is up, the marker will be removed from your inventory and the subtask will be completed."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/6a/Shoreline_Anesthesia.png",
+                "text": "Overview"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e3/ResortRigged.png",
+                "text": "Found at Resort"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/db/PierRigged.png",
+                "text": "Boat pier"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/59/Cottage_Rigged.png",
+                "text": "Bench back of locked villa house"
+            }
+        ]
+    },
+    "Chemistry closet": {
+        "steps": [
+            "The [[Health Resort east wing room 110 key with a blue tape]] can commonly be found on [[Sanitar]] and sometimes in [[Jacket]]s or [[Scavs]]. Once you have obtained the key head to health resort east wing first floor, room 110.",
+            "Simply walking into the room will satisfy the first objective. The requirement to extract from Shoreline can be satisfied before or after you find the room, as long as you have the quest active."
+        ],
+        "images": []
+    },
+    "Samples": {
+        "steps": [
+            "The fastest way to acquire all these stimulants is using the [[Key card with a blue marking]] in [[The Lab]]. Alternatively, you could kill [[Sanitar]], although he is not guaranteed to have them."
+        ],
+        "images": []
+    },
+    "TerraGroup employee": {
+        "steps": [
+            "The [[Flash drive marked with blue tape|Flash drive]] is located in Sanitar's room on [[The Lab|Labs]], it is located directly across from the [[Lab. Green keycard]] room.",
+            "In Sanitar's Office, the laptop is on his desk directly across from the door and the [[Flash drive marked with blue tape|flashdrive]] is located in the side of it."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/19/Lab_Lab2_Location.png",
+                "text": "Location marked on map"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/88/Marked_with_tape_flash_drive-position.png",
+                "text": " The [[Flash drive marked with blue tape"
+            }
+        ]
+    },
+    "Huntsman path - Sadist": {
+        "steps": [],
+        "images": []
+    },
+    "The bunker - Part 1": {
+        "steps": [
+            "Start off by going into Black Pawn and go into the basement taking a right to enter a new underground which connects between all of the pawns and the medical building. You will enter a larger room with multiple technical and rations supply crates. Go into a room to the left of the entrance with glass windows and you will finish your quest.",
+            "Best way to complete is by running in with no backpack and extracting at sewer manhole as you need to extract. Dying or disconnecting will make you revisit both task objectives.",
+            "Be advised, raiders or scavs do spawn down there. Proceed with caution.  ",
+            "'Bunker pt.1 Guide Map'"
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b5/Bunker_Part_1_Guide_1.png",
+                "text": ""
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cd/Bunker_pt1.png"
+            }
+        ]
+    },
+    "The bunker - Part 2": {
+        "steps": [
+            "You must locate all five locations and survive in one raid to complete the task. Dying or disconnecting will fail the task and require you to restart. ",
+            "•  Sub-task #1 Walk through (White Bishop)",
+            "•  Sub-task #2 Walk through (Black Bishop)",
+            "{{#ev:youtube|EoBOwfLDxmI|300x169}}",
+            "•  Sub-task #3 Walk through (Black Pawn) ",
+            "{{#ev:youtube|Rk-lw8NC_Qc|300x169}}",
+            "•  Sub-task #4 Walk through (White Pawn) ",
+            "{{#ev:youtube|w_JgkIAfwNg|300x169}}",
+            "•  Sub-task #5 Walk through (White King) ",
+            "{{#ev:youtube|DA_9Hbp9aSM|300x169}}",
+            "'Bunker pt.2 Guide Map'"
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/61/Bunker_pt2.png"
+            }
+        ]
+    },
+    "Search mission": {
+        "steps": [
+            "Quest steps do not need to be completed in succession - It is possible to discover each location in separate raids, however after discovering the 2nd objective extraction is necessary, otherwise progress is reset to only the 1st objective being completed.",
+            "The two objective locations are next to each other in the Northwest corner of the map - The convoy is on the road just South of the radio tower, and the USEC camp is directly West of the convoy in the middle of a rocky area away from any roads.",
+            "Be careful upon approaching the USEC encampment as land mines cover the western and north-western approaches to the location. The mines themselves are not visible and respawn after each detonation, so it is not possible to clear a path through them. The location of the mine fields are indicated only by sign posts along the exterior of the map, and not the approach along the north-west."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f4/Search_Mission_map.png",
+                "text": "Location of both objectives"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0c/Search_Mission_Convoy.png",
+                "text": "Convoy"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/dd/Search_mission_camp.png",
+                "text": "USEC Camp"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/54/North_to_South_USEC_Approach.png",
+                "text": "The view approaching the USEC encampment from the North. Stay to the left when climbing the hill until you can see tree stumps. Do not enter the area with the tree stumps, as this is where the mines are"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5c/USEC_Encampment_Minefield.png",
+                "text": "Past these stumps are mines"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2d/USEC_Encampment_Minefield_2.png",
+                "text": "A view from within the minefield itself. If you can see either of these corpses, take extreme caution as you are likely already within the minefield itself. "
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/77/Northwest_USEC_Approach.png",
+                "text": "The view approaching the USEC encampment from the North-West. Attempting to take this route will result in certain death, as there are landmines littered throughout the area. "
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/02/DANGER_MINES.png",
+                "text": "Signs indicating the presence of a minefield beyond the sign itself."
+            }
+        ]
+    },
+    "The stylish one": {
+        "steps": [
+            "Kill [[Killa]] 100 times.",
+            "Killa can be found on the map [[Interchange]] mainly in the central area of the mall, on the 1st floor, around the Kiba and Mantis stores.",
+            "It is recommended to avoid being spotted by Killa. He has multiple grenades and is generally accurate with his bursts. If you are close to him he will continuously push the player and relentlessly hunt them until he ambushes and assaults them. It is best to attack him with high-penetration ammunition such as [[5.45x39mm BS gs|5.45 BS]], [[5.56x45mm M995|5.56 M995]], or [[7.62x51mm NATO|7.62x51]]. Without proper ammunition to kill him, shredding his [[6B13 M assault armor (tan)|6B13 M]] to low durability or firing solely at his legs are both appropriate, albeit more risky, strategies. Grenades generally won't work to kill him, as he is a highly mobile fighter and will rarely be pinned down long enough for a grenade to stop him. If fighting him with a teammate, attacking him from two different directions and peeking cover is a sound strategy, as he will continue to suppress one of his opponents while the other can safely return fire.",
+            "It is extremely important to utilize cover and stay mobile when fighting him, and to always be mindful of one's ammo count—if he's armed with his [[RPK-16 5.45x39 light machine gun|RPK-16]], he will likely outgun the player with his [[95-round 5.45x39 magazine for RPK-16 and compatibles|95-round drum mag]] and supplementary [[60-round 6L31 5.45x39 magazine for AK-74 and compatibles|60-round magazines]]."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/d/d9/InterchangeKillaPath.jpg"
+            }
+        ]
+    },
+    "The survivalist path - Eagle-owl": {
+        "steps": [
+            "This quest can be completed on any map. You can use a flashlight on your weapon to make this quest easier to complete. Interchange would be a great choice for this quest as inside the mall is almost the same at night and in day. Factory night is also good because it's always 3AM and servers are almost always empty. "
+        ],
+        "images": []
+    },
+    "Collector": {
+        "steps": [
+            "Until April 19, 2019 there was a hidden riddle in the the quest title, dialogue and reward text. ",
+            "=EjNyQzY2MzMjZjM3kjNyIjY2YjM - 3",
+            "31IqhWZ4lGI1hnagwSdytmagYXZgUnZxhXagEH",
+            "31IklHI2JWdph2al9GIiFXdsVHagUmagU3cxJmZg",
+            "31IWc5NXdmlGIxBSa5BSdoVHeqpgZpNGdgQ3Y",
+            "31gMnZvlWZnBybgI2dgQnezdmZpNWbgInY3RHI",
+            "316p3drBSaj1GIscmYvt2ZgYHa3tGI1J2d692cyBiZ",
+            "31zhGdvpgcyVWdnBSZiBichJGIsgXeupGIypnYlB",
+            "31yciBSZiVmcjpncgEXeoJWdmBiZjJ3ZmBCbh5m",
+            "31egomY1pgC0tGe1BCazFGZ3dXa4xGIjBHboBS",
+            "31dkByZ0FnYqNGI0dXaKAiZlJ3b6hWYgcmZlZ3cg",
+            "31IXdnByciBiYqdGIoJGbgcWd0hmYl9GIyFmdzNnT - 2",
+            "mxWZzJXdvlHIlRXY09mcgwCbsV2dgMXYgI",
+            "XZi1WduBiblRHI09mcgMXag4WZlRncphGd - 1",
+            "rebmun eslaf si neetriht taht si hturt dnoces ,6 dna 4 fo mus eht ees",
+            "uoy esab eht ta ,si hturt tsriF",
+            "Solving the riddle starts with the quest description, the first paragraph of the hex encoded text equating to <code>At interchange we were at bash zyxwvutsrqponmlkjihgfedcba pryz1uts8q5onmlkj3hgfe4c2a</code> and the second one to <code>6t th1 1na of 8t 6ll, 2ou must 58ll th1 58ll6 and UrAgCe DEroRRiM</code>. The first uncovered paragraph indicates the existence of Atbash ciphered text, the text <code>zyxwvutsrqponmlkjihgfedcba pryz1uts8q5onmlkj3hgfe4c2a</code> equating to <code>abcdefghijklmnopqrstuvwxyz kiba1fgh8j5lmnopq3stuv4x2z</code>, a clear substitution pattern. Using the aforementioned substitution pattern, we can take the second paragraph found in the quest description and translate it to <code>6t the end of it 6ll, you must kill the kill6</code>, a clue which will become useful later along with the <code>UrAgCe</code> and <code>DEroRRiM</code> texts.  ",
+            "The first operation to be applied to the quest reward text seems obvious, either from the <code>DEroRRiM</code> (<code>MiRRorED</code> if mirrored) text or from the nature of the text, it being a simple mirror of the whole text block. After a mirror, the paragraph <code>First truth is, at the base you see the sum of 4 and 6, second truth is that thirteen is false number</code> is revealed, making us understand that the number 13 should be eliminated in all further findings and that the base being used for them will be 64, instead of the human-used 10. Thus, after removing the already used text, removing the number 13 and decoding the text from Base64, we can observe the following text: <code>thirteen is rot ten number as well, rotate yourself out of it</code> which indicates the use of the rot13 cipher. After another removal of our used text and a rot13 decryption we can observe the following lines: <code>Affine brought you two of the first numbers</code> coupled with <code>vjg pwodgt qh uycp ykvjjqnfu hkxg</code> and <code>how many steps should emperor of rome walk, one or three</code> coupled with <code>bgufs efbmjoh xjui txbot, zpv xjmm gjoe zpvstfmg jo b trvbsf pg gpvs / wkhuh lv d vshfldo sodfh wr uhyhdo brxuvhoi lq d vkdsh ri wxeh, wkh vkruw zdb wx.eh</code> which indicate the Affine and  Caesar ciphers respectively. After decyphering the Affine encoded text with the values <code>a = 1; b = 2</code> we obtain <code>the number of swan withholds five</code> and after decoding the Caesar encoded texts with a shift of 1 and 3 respectively we obtain after dealing with <code>swans, you will find yourself in a square of four / there is a special place to reveal yourself in a shape of tube, the short way tu.be</code>, both clues helping later. ",
+            "To continue, we'll start with the remainder of our quest reward text: <code>266b2269726c336c4261</code> a hex encoded string which we should not decrypt for now. The clue <code>the number of swan withholds five</code> shows that 2 (a number which looks similar to a swan) should be replaced by the number 5, doing so in our hex text and then finally decoding it, indicated by the <code>square of four</code> clue, giving us <code>VkUiul3lEa</code>. Looking closely at the obtained string, we can observe the existence of the word <code>killa</code> within it, the clue <code>6t the end of it 6ll, you must kill the kill6</code> telling us to remove it from the text. Doing so will finally reveal the text <code>VUu3E</code> which if attached to the <code>UrAgCe</code> string obtained earlier, and being added onto a YouTube short link, as indicated by <code>there is a special place to reveal yourself in a shape of tube, the short way tu.be</code> revealing a [https://www.youtube.com/watch?v=UrAgCeVUu3E YouTube video].",
+            "Approximately a week after finding the first YouTube video, a [https://pastebin.com/F9xx5TAs Pastebin link] surfaced in the video description. For ease in describing the decryption progress, we'll split the document in 4 sections, one for each paragraph and will start with the last one since it exposes the 1st step within the process.",
+            "The paragraph is Base64 encoded, but before decoding it, all characters that are found surrounded by a <code>+</code> character need to be deleted and the contents need to be set aside to form the string <code>524f543437</code> which equates to <code>ROT47</code> in hexadecimal. After the removal of the odd characters, the text <code>File119111====T10p2 ...Be advised, we've  got... (transmission interrupted)====end of file</code> is revealed. We can note down the \"file number\" as the rest is just flavor text.",
+            "Using the former ROT47 clue we can solve this paragraph, applying a ROT47 decryption after a Base64 decode yielding the content we need, but slightly malformed. To clear this malformation every 22nd character in the original string needs to be removed (all of the characters being a 0), thus revealing <code>File108070107==== T10p1 Overseer, this is team 8 unit 13 Foreman callsign. We got ambushed, requesting backup.... ====end of file</code>. Like the last paragraph, we can ignore all text besides the file number.",
+            "After a reverse of this paragraph we can observe the string <code>m1560red})>/|:\\<({4lphab3t</code> (originally <code>t3bahpl4{(<\\:|/>)}der0651m</code>) is an outlier and will serve as a clue later, so we can remove it. The rest of the paragraph (still reversed) can simply be Base64 decoded to find <code>File086078121==== OVRp2 ...Possible locals ambush. ====end of file</code>. As with the former paragraphs, keep the file number and ignore the rest.",
+            "As with the former paragraphs we start with a simple Base64 decode. We can now take the <code>m1560red})>/|:\\<({4lphab3t</code> clue and use it as a substitute alphabet while ignoring the importat numbers, giving us the <code>File082056117==== OVRp1 team 10, recon detail, moving to polikhim 1-12. backup call from team 8, unknown detail.... ====end of file</code> string, which again, can be disregarded besides the file number.",
+            "Concatenating all file numbers together yields <code>082056117086078121108070107119111</code>. If we group the characters and get their coresponding ASCII character, we obtain <code>R8uVNylFkwo</code> which leads to the final [https://www.youtube.com/watch?v=R8uVNylFkwo YouTube video]. The video has a few game keys in its description.The key are all activated and not available anymore.",
+            "The second found video is reused into an official short movie called \"[https://www.youtube.com/watch?v=UPnrY5BxddI Raid]\". "
+        ],
+        "images": []
+    },
+    "An apple a day - keeps the doctor away": {
+        "steps": [],
+        "images": []
+    },
+    "Hunter": {
+        "steps": [
+            "[[Shturman]] can be found on the map [[Woods]] in the central area of the wood mill.",
+            "One of the most common areas that Shturman often hides, is near a pile of wood that is between the two largest warehouses, most of his hiding spots are visible from the big rock overlooking the area. It can be very easy to kill him from this position.",
+            "You can often hear Shturman rapidly fire his SVD at times early in the raid to quickly identify if he has spawned."
+        ],
+        "images": []
+    },
+    "No offence": {
+        "steps": [
+            "[[M67 Hand grenade]]s can be bought from [[Peacekeeper]] LL2 after completing his task [[Spa Tour - Part 2]]. Alternatively they can be bartered from [[Peacekeeper]] LL1 for 2 [[Zibbo lighter]] per grenade."
+        ],
+        "images": []
+    },
+    "Trust regain": {
+        "steps": [],
+        "images": []
+    },
+    "Loyalty buyout": {
+        "steps": [
+            "[[Roubles]] can be acquired by selling items to all [[Trading#Dealers|Dealers]] besides [[Peacekeeper]]. They can also be found as loot throughout Tarkov."
+        ],
+        "images": []
+    },
+    "Hippocratic Oath": {
+        "steps": [],
+        "images": []
+    },
+    "Disease history": {
+        "steps": [
+            "This quest takes place on [[Reserve]]. The two locations of the journals are inside of the medical building, White Bishop. The first of these journals is behind the locked room, [[RB-KSM key]] on the second floor. When you enter the room it's located on the right side, between 2 bookshelves. The second journal is also on the second floor, behind a door that can be unlocked with the [[RB-SMP key]]. It's located on the left side of the room on the bottom shelf of the shelving unit."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Disease_history_Journal_1.png",
+                "text": "White Bishop second floor, room [[RB-SMP key"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/46/Disease_history_Journal_2.png",
+                "text": "White Bishop second floor, room [[RB-KSM key"
+            },
+            {
+                "text": "Location of both rooms"
+            }
+        ]
+    },
+    "A fuel matter": {
+        "steps": [
+            "•  Additional [[MS2000 Marker]]s can be bought from [[Prapor]] if needed.",
+            "•  It is recommended that the player keeps the [[MS2000 Marker]]s in their secure container so they are not lost in the event of their death.",
+            "•  Other people can steal your [[MS2000 Marker]]s as long as the timer is going, so be careful and hide it if needed.",
+            "• Getting a Survived Raid status is required to complete the quest. This can be done on any subsequent PMC raid after planting all the markers.<br />"
+        ],
+        "images": [
+            {
+                "text": "First and second group of tankers"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/ff/Tarkovwiki2.png",
+                "text": "Fuel #1 from dome"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/36/Tarkovwiki1.png",
+                "text": "Fuel #1, close to Manhole Exit"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/a4/Tarkovwiki3e.png",
+                "text": "Fuel #2 from White Rook"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c7/Tarkovwiki4e.png",
+                "text": "Fuel #2, behind Red Brick Tower"
+            }
+        ]
+    },
+    "Surplus Goods": {
+        "steps": [
+            "The item is located in one of the boxes leaning up against other boxes:[[File:Surplusitem.png|420px|frameless|left|Item quest]]"
+        ],
+        "images": []
+    },
+    "Back door": {
+        "steps": [
+            "•  This quest requires you to extract with the D-2 Extract on [[Reserve]]. ",
+            "Activating the lever has the chance to make some [[Scav Raiders]] spawn in the underground tunnel system.",
+            "•  Note: You need to exit the raid with Survived status to get the quest complete. Run through status will not complete the quest."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/79/D2_Extract.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cb/D2_Switch.png"
+            }
+        ]
+    },
+    "Revision": {
+        "steps": [
+            "You can do this quest as a \"side quest\" when doing other quests on reserve, you need to go around the maps border and into a locked room so its best to just take your time with it."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/30/Revision_locations.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/e6/Reserve-_Revision_Map_MS2000.png"
+            }
+        ]
+    },
+    "Classified technologies": {
+        "steps": [
+            "Once you have retrieved the package, you must extract from the location and hand it over to [[Peacekeeper]]."
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/Experience_Exchange_-_Package_Location.png",
+                "text": "Location of the T90M Commander control panel package"
+            }
+        ]
+    },
+    "Inventory check": {
+        "steps": [
+            "Related Quest Items",
+            "You can complete this subtask by using the door next to it to push yourself slightly into the wall and then lean farther into the wall.",
+            "You can complete this subtask by going close to the grate door.",
+            "You can complete this subtask by being close to the room while standing on the stairway next to the room, or going into the corner in the classroom next to it.",
+            "• 'First Arsenal Room' 4th floor White Pawn, locked grate door ([[RB-ORB1 key|RB-ORB1]]) on side towards black pawn",
+            "• 'Second Arsenal Room' 2nd floor White Pawn, locked grate door ([[RB-ORB2 key|RB-ORB2]]) on side towards black pawn",
+            "• 'First Arsenal Room' 4th floor Black Pawn, locked grate door on side towards Black bishop (School)",
+            "• 'Duty Room' 3rd floor Black Pawn, locked door ([[RB-OB key|RB-OB]]) on side towards Black bishop (School)",
+            "• 'Second Arsenal Room' 2nd floor Black Pawn, locked grate door ([[RB-ORB3 key|RB-ORB3]]) on side towards Black bishop (School)"
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/4b/InventoryCheck.png"
+            }
+        ]
+    },
+    "No place for renegades": {
+        "steps": [
+            "You are required to kill 5 [[Raiders]] on [[Reserve]] inside of the command area of the underground complex."
+        ],
+        "images": []
+    },
+    "Documents": {
+        "steps": [
+            "All 3 of them are in the underground section of Reserve  ",
+            "One is located in the glassed-in command room,  accessible from the power room, on a desk",
+            "One is located in the room on the other side of the glass command room in the bottom part of a shelf in the corner of the room",
+            "One is located in the large central hallway/bunker room on the middle of the shelf against the wall"
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/64/Military_Document_1.png",
+                "text": "The location of the first documents"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/5f/Military_Document_2.jpg",
+                "text": "The location of the second document"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/7a/Military_Document_3.jpg",
+                "text": "The location of the third document"
+            }
+        ]
+    },
+    "Safe corridor": {
+        "steps": [
+            "• GO to the underground area beneath the \"Bunker Hermetic Door\" extract and kill 10 scavs. ",
+            "• Note: There is usualy between 1-3 scavs in the quest location, meaning you most likely have to do multiple runs. ",
+            "• Note: you can only get this Quest if you turn in Chemical Pt. 4 to Skier."
+        ],
+        "images": []
+    },
+    "Huntsman Path - Factory Chief": {
+        "steps": [],
+        "images": []
+    },
+    "Pest control": {
+        "steps": [],
+        "images": []
+    },
+    "Capturing Outposts": {
+        "steps": [],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/eb/Customs_Capturing_Outpost_Location.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/1/1e/Woods_Capturing_Outposts_Location.png"
+            },
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/6/65/Shoreline_Capturing_Outposts_Location.png"
+            }
+        ]
+    },
+    "Intimidator": {
+        "steps": [],
+        "images": []
+    },
+    "Calibration": {
+        "steps": [],
+        "images": []
+    },
+    "Night Sweep": {
+        "steps": [
+            "See [[Cultists]] page for spawn locations and rates, the Priest and some of the Sektants can carry the [[Cultist's knife]]."
+        ],
+        "images": []
+    },
+    "Swift One": {
+        "steps": [],
+        "images": []
+    },
+    "Crisis": {
+        "steps": [
+            "[[LEDX Skin Transilluminator]] can be found on [[The Lab]] in the center area and within the locked rooms you can open with [[Lab. Blue keycard]] and [[Lab. Green keycard]].",
+            "On [[Shoreline]] they can spawn in the [[LEDX Skin Transilluminator#Location|Resort]] and on [[Sanitar|Sanitars]] body after killing him.",
+            "On [[Interchange]] they also have multiple [[LEDX Skin Transilluminator#Location|spawn locations]], especially in the [[ULTRA medical storage key|ULTRA medical]] store. ",
+            "There is also the option to [[LEDX Skin Transilluminator#Crafting|craft]] them",
+            "The [[Portable defibrillator]] can be found on [[Portable defibrillator#Location|the Lab]] and on [[Portable defibrillator#Location|Interchange]].",
+            "[[Portable defibrillator#Crafting|Crafting]] is also possible.",
+            "For [[Ophthalmoscope]] and [[Pile of meds]] you don't need to look for specific locations since they spawn everywhere where you can find medical items. You can also [[Pile of meds#Crafting|craft]] the [[Pile of meds]]."
+        ],
+        "images": []
+    },
+    "Escort": {
+        "steps": [
+            "You must survive a raid at each location consecutively without dying, disconnecting, or running out the timer. If you do any of these you will have to start again. If you extract from the raid with a \"Run Through\" status, you will not reset the quest, but that raid will not count as being completed. To avoid the \"Run Through\" status, gain at least 200 [[EXP]] in raid (by killing or looting) or be in raid for at least 7 minutes before extracting. You do not have to do the maps in order and can be done in any fashion so long as you survive."
+        ],
+        "images": []
+    },
+    "The Choice": {
+        "steps": [],
+        "images": []
+    },
+    "Long Line": {
+        "steps": [
+            "Any of the 3 levels of the mall will count, so long as the kill takes place within the exterior walls.{{Navbox quests}}"
+        ],
+        "images": []
+    },
+    "Huntsman Path - Relentless": {
+        "steps": [],
+        "images": []
+    },
+    "Booze": {
+        "steps": [],
+        "images": []
+    },
+    "The Courier": {
+        "steps": [
+            "'Notes:'",
+            "•  ?"
+        ],
+        "images": [
+            {
+                "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/58/CourierMap.png",
+                "text": ""
+            }
+        ]
+    }
+}
