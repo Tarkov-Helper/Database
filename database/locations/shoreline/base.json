@@ -124,8 +124,8 @@
 			"number": 9,
 			"time_min": 0,
 			"time_max": 20,
-			"slots_min": 1,
-			"slots_max": 1,
+			"slots_min": 0,
+			"slots_max": 0,
 			"SpawnPoints": "ZonePowerStationSniper",
 			"BotSide": "Savage",
 			"BotPreset": "hard",
@@ -487,7 +487,7 @@
 		{
 			"BossName": "bossSanitar",
 			"BossChance": 32,
-			"BossZone": "ZonePort,ZoneGreenHouses,ZoneSanatorium1,ZoneGreenHouses,ZoneGreenHouses",
+			"BossZone": "ZonePort,ZoneGreenHouses,ZoneSanatorium1,ZoneGreenHouses,ZoneSanatorium2",
 			"BossPlayer": false,
 			"BossDifficult": "normal",
 			"BossEscortType": "followerSanitar",
@@ -967,7 +967,7 @@
 						"y": 0,
 						"z": 0
 					},
-					"Radius": 5
+					"Radius": 95
 				}
 			},
 			"BotZoneName": "ZonePort"
@@ -997,7 +997,7 @@
 						"y": 0,
 						"z": 0
 					},
-					"Radius": 5
+					"Radius": 95
 				}
 			},
 			"BotZoneName": "ZonePort"
@@ -3432,7 +3432,7 @@
 						"y": 0,
 						"z": 0
 					},
-					"Radius": 5
+					"Radius": 95
 				}
 			},
 			"BotZoneName": "ZonePort"

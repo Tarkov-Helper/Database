@@ -188,7 +188,7 @@
 			"slots_max": 2,
 			"SpawnPoints": "",
 			"BotSide": "Savage",
-			"BotPreset": "normal",
+			"BotPreset": "hard",
 			"isPlayers": true,
 			"WildSpawnType": "assault"
 		},
@@ -239,7 +239,7 @@
 	"BotMarksman": 0,
 	"DisabledScavExits": "",
 	"AccessKeys": [],
-	"UnixDateTime": 1624029719,
+	"UnixDateTime": 1626711511,
 	"users_gather_seconds": 0,
 	"users_spawn_seconds_n": 120,
 	"users_spawn_seconds_n2": 200,

@@ -539,7 +539,7 @@
 		},
 		{
 			"BossName": "bossBully",
-			"BossChance": 33,
+			"BossChance": 36,
 			"BossZone": "ZoneDormitory,ZoneGasStation,ZoneScavBase",
 			"BossPlayer": false,
 			"BossDifficult": "normal",

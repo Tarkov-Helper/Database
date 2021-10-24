@@ -578,7 +578,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneClearVill"
 		},
 		{
 			"Id": "027273fa-04bc-48d1-acfb-74f008bb196c",
@@ -637,7 +637,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneClearVill"
 		},
 		{
 			"Id": "046ca3c7-3af3-4557-a5c3-c98262ced461",
@@ -726,7 +726,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneScavBase2"
 		},
 		{
 			"Id": "0629d023-ea80-45cb-8376-9ea211e740f9",
@@ -905,7 +905,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRedHouse"
 		},
 		{
 			"Id": "0b5ae3cc-8779-4679-bd0f-9e6d322b308f",
@@ -934,7 +934,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRedHouse"
 		},
 		{
 			"Id": "0ba5301a-df26-49b5-8ee5-61bd0c1bd808",
@@ -994,7 +994,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "0d4e68ed-06f9-47f5-ab00-77ef4534fee2",
@@ -1023,7 +1023,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRedHouse"
 		},
 		{
 			"Id": "0d6c16ec-adc2-4d80-9daf-96caca9a5b75",
@@ -1052,7 +1052,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneScavBase2"
 		},
 		{
 			"Id": "0dd1d014-6642-4a75-a496-242dd44a855b",
@@ -1141,7 +1141,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneClearVill"
 		},
 		{
 			"Id": "129e73e2-8660-4f9d-bf32-e2a802612a2a",
@@ -1170,7 +1170,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "12b17d88-bc67-4d6a-82fb-e36afe2aa596",
@@ -1199,7 +1199,7 @@
 					"Radius": 192.6
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRoad"
 		},
 		{
 			"Id": "13e379d7-fe3a-4005-bac7-b9b9f4a1d589",
@@ -1228,7 +1228,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "158e0a94-64fb-4555-afa0-90109713db91",
@@ -1377,7 +1377,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneHouse"
 		},
 		{
 			"Id": "1b3e5b5b-a6cc-4702-8b79-d00183af37b6",
@@ -1497,7 +1497,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "1d585de4-8d57-4c18-a56e-4ee90750a8df",
@@ -1526,7 +1526,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRedHouse"
 		},
 		{
 			"Id": "1dfb41ff-4233-47ba-8db1-054dd7923906",
@@ -1585,7 +1585,7 @@
 					"Radius": 250
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRoad"
 		},
 		{
 			"Id": "1e884503-3b3b-4e5b-9da6-974752b21cf5",
@@ -1614,7 +1614,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBigRocks"
 		},
 		{
 			"Id": "1f7d566b-5cce-4a9e-8c22-23b5303c02ed",
@@ -1643,7 +1643,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneWoodCutter"
 		},
 		{
 			"Id": "20ee24e5-1db9-4191-9ba5-444ff4207f2b",
@@ -1732,7 +1732,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBigRocks"
 		},
 		{
 			"Id": "2533a3ec-8812-4546-9e44-d19ae093ef6b",
@@ -1821,7 +1821,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "280011ca-3526-431d-af3d-67fb6312ee98",
@@ -1910,7 +1910,7 @@
 					"Radius": 145
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneMiniHouse"
 		},
 		{
 			"Id": "2a3b365d-78cb-4fe6-9168-e2c7e9099419",
@@ -1939,7 +1939,7 @@
 					"Radius": 250
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRoad"
 		},
 		{
 			"Id": "2b2b5b1e-0bfd-4316-af38-bbefa25ac3b2",
@@ -1998,7 +1998,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRoad"
 		},
 		{
 			"Id": "2d7f7e41-7f75-4d8f-be43-b025bb5078b3",
@@ -2057,7 +2057,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneHouse"
 		},
 		{
 			"Id": "2e52ceb4-5491-4a44-bfe4-a658f87271ff",
@@ -2116,7 +2116,7 @@
 					"Radius": 249.4
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneHouse"
 		},
 		{
 			"Id": "31d3dd12-a1c0-4e5f-a840-ccad3ad9f472",
@@ -2175,7 +2175,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBigRocks"
 		},
 		{
 			"Id": "3245f7f0-21a2-457f-ae32-562f7955d4ae",
@@ -2324,7 +2324,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBigRocks"
 		},
 		{
 			"Id": "381d4cbc-39c8-4765-8d61-5bfe790f34a6",
@@ -2353,7 +2353,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneClearVill"
 		},
 		{
 			"Id": "38280e0c-af89-4081-ab01-5f1494074317",
@@ -2532,7 +2532,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRoad"
 		},
 		{
 			"Id": "3e8f83ba-7706-49ac-b19c-20f90da1309a",
@@ -2591,7 +2591,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneScavBase2"
 		},
 		{
 			"Id": "40e7ee28-23c3-45a7-9c77-ae40e7750429",
@@ -2620,7 +2620,7 @@
 					"Radius": 25
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneHighRocks"
 		},
 		{
 			"Id": "410307e8-cd43-45b4-8fb7-45a576f4f293",
@@ -2679,7 +2679,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBigRocks"
 		},
 		{
 			"Id": "43598be9-9042-4e06-8ee9-11a3d346d570",
@@ -2738,7 +2738,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneWoodCutter"
 		},
 		{
 			"Id": "48e43cdb-f0eb-4d12-9973-f0519c61a480",
@@ -2767,7 +2767,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneHouse"
 		},
 		{
 			"Id": "4bb373ec-a673-4562-9128-6ba8d009acfa",
@@ -2796,7 +2796,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneHouse"
 		},
 		{
 			"Id": "4bef69e6-18dd-4c33-8b74-39eba90908cd",
@@ -2886,7 +2886,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "506b435f-09b7-4abe-9da4-47e0f15632c6",
@@ -2975,7 +2975,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneScavBase2"
 		},
 		{
 			"Id": "50f8a6b8-8fc6-4e3f-8000-39540da348f1",
@@ -3004,7 +3004,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneHouse"
 		},
 		{
 			"Id": "52bd721f-80ea-4c6d-ae97-af9379180a91",
@@ -3093,7 +3093,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRoad"
 		},
 		{
 			"Id": "557d5203-4e7c-4bb7-bb01-f8f2f792f93e",
@@ -3122,7 +3122,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRoad"
 		},
 		{
 			"Id": "57b4786d-ee61-4c7f-b6ef-94467e39a3cf",
@@ -3241,7 +3241,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRedHouse"
 		},
 		{
 			"Id": "5d238d90-a648-4d38-a868-e9eb7add2917",
@@ -3271,7 +3271,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "5e748beb-9aae-41f8-be21-500441518972",
@@ -3330,7 +3330,7 @@
 					"Radius": 250
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRoad"
 		},
 		{
 			"Id": "6767b1b7-da32-4b62-90f0-0d44712a642b",
@@ -3389,7 +3389,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneClearVill"
 		},
 		{
 			"Id": "6969a351-e6f7-4f1a-a109-1e0d0da8f3e7",
@@ -3419,7 +3419,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneMiniHouse"
 		},
 		{
 			"Id": "69a4318c-7522-4738-877a-099b3733ae23",
@@ -3479,7 +3479,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "69c6da14-8dae-4c58-a826-59df5093a19d",
@@ -3598,7 +3598,7 @@
 					"Radius": 249.4
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneHouse"
 		},
 		{
 			"Id": "6f4332cc-f37d-4125-85b3-0cc6b21708f3",
@@ -3627,7 +3627,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneClearVill"
 		},
 		{
 			"Id": "70885532-6518-405f-aeb0-ee7a7f10ea46",
@@ -3686,7 +3686,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBigRocks"
 		},
 		{
 			"Id": "7149b906-da38-46dd-8fc3-6b4d8aca5ad8",
@@ -3746,7 +3746,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "76582ea6-095f-494d-83b8-c9335ba3f14f",
@@ -3865,7 +3865,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneClearVill"
 		},
 		{
 			"Id": "794c2ad7-29fa-4faf-8bcf-649c8925444a",
@@ -3924,7 +3924,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRedHouse"
 		},
 		{
 			"Id": "7a929379-fe61-411a-87b8-aa1184e7f2b6",
@@ -4013,7 +4013,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBigRocks"
 		},
 		{
 			"Id": "7d5a5e57-9a77-4c10-8fda-7fd32771f9ae",
@@ -4042,7 +4042,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneWoodCutter"
 		},
 		{
 			"Id": "7d90e1b9-5aa1-4dcb-80ef-37ffcd141528",
@@ -4132,7 +4132,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneWoodCutter"
 		},
 		{
 			"Id": "831704c9-39ca-4b9c-a23f-c1f4a05f326b",
@@ -4191,7 +4191,7 @@
 					"Radius": 249.4
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneMiniHouse"
 		},
 		{
 			"Id": "86c03175-87d8-4949-af27-f40fd6e9a3bb",
@@ -4220,7 +4220,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRedHouse"
 		},
 		{
 			"Id": "89151e94-ff6e-4ef6-a76d-b1599df0aab7",
@@ -4250,7 +4250,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneWoodCutter"
 		},
 		{
 			"Id": "8b03a106-108f-44e0-a41f-a71118cb8268",
@@ -4369,7 +4369,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "90dfab11-26b8-472e-bd22-21f6171099a0",
@@ -4398,7 +4398,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneWoodCutter"
 		},
 		{
 			"Id": "922c0b4f-5177-448b-8ab3-b8df4f82aa12",
@@ -4487,7 +4487,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneHouse"
 		},
 		{
 			"Id": "92c0f586-3b0e-404a-816c-82531b84c894",
@@ -4516,7 +4516,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneHouse"
 		},
 		{
 			"Id": "9332f801-241b-4383-b8cb-25c6278888e1",
@@ -4635,7 +4635,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneHouse"
 		},
 		{
 			"Id": "95eed7b0-be7e-4c74-92c4-a18135e3f579",
@@ -4664,7 +4664,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneScavBase2"
 		},
 		{
 			"Id": "97782b53-27e6-4943-b75f-7f5bd18703f3",
@@ -4783,7 +4783,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRoad"
 		},
 		{
 			"Id": "9e45bfc7-c9bc-42aa-82fe-72c232e39370",
@@ -4812,7 +4812,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneScavBase2"
 		},
 		{
 			"Id": "9f5da3b8-592e-43aa-8bfd-f2e0710cae63",
@@ -4931,7 +4931,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRoad"
 		},
 		{
 			"Id": "a4b2e037-8469-4547-bea2-348c96ad56e6",
@@ -5110,7 +5110,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRedHouse"
 		},
 		{
 			"Id": "aaab6926-0679-4bd7-94c5-174a437f0a08",
@@ -5169,7 +5169,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRedHouse"
 		},
 		{
 			"Id": "ae63ba35-6701-403b-9803-43a836a08c4b",
@@ -5288,7 +5288,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneScavBase2"
 		},
 		{
 			"Id": "b3697fa5-29af-4a4e-afd1-3cf837b1fdae",
@@ -5347,7 +5347,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneClearVill"
 		},
 		{
 			"Id": "b43bd5a4-aa6c-4dd6-9052-d3359fa6b53c",
@@ -5497,7 +5497,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneWoodCutter"
 		},
 		{
 			"Id": "b93d8187-0ae2-4971-be9c-7839721aeece",
@@ -5587,7 +5587,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "bd0c617a-4288-47f9-ab50-25848294a38e",
@@ -5736,7 +5736,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneWoodCutter"
 		},
 		{
 			"Id": "bf2a6323-087e-4d49-a160-ea86b8295ac0",
@@ -5795,7 +5795,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneWoodCutter"
 		},
 		{
 			"Id": "c047a076-7425-4c63-ac40-75be5226847c",
@@ -5884,7 +5884,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneHouse"
 		},
 		{
 			"Id": "c3c6b35b-4a1b-40ae-af6d-b32fa522aa27",
@@ -5913,7 +5913,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneHouse"
 		},
 		{
 			"Id": "c5021df7-1750-44ff-ae44-137022a8bdac",
@@ -5972,7 +5972,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneScavBase2"
 		},
 		{
 			"Id": "c852e0c0-3bda-4acd-adb3-533373fb342f",
@@ -6002,7 +6002,7 @@
 					"Radius": 249.4
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneMiniHouse"
 		},
 		{
 			"Id": "c880793b-d822-4677-870e-6ffa1c05abd7",
@@ -6271,7 +6271,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneScavBase2"
 		},
 		{
 			"Id": "d044ee6d-4391-4496-8d47-e541ea05e94f",
@@ -6420,7 +6420,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneWoodCutter"
 		},
 		{
 			"Id": "d91c4717-0dd8-48b6-98a7-7eb7219a9647",
@@ -6450,7 +6450,7 @@
 					"Radius": 171
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneMiniHouse"
 		},
 		{
 			"Id": "da037755-e7ae-4738-8be9-be02991b422b",
@@ -6599,7 +6599,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRoad"
 		},
 		{
 			"Id": "e0fb7ebc-0a4c-45a3-b5a3-ba5e6b1456ba",
@@ -6689,7 +6689,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "e54f65a2-bd3f-46d2-806e-5eab29876ea8",
@@ -6718,7 +6718,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "e5754fee-15cb-428d-bf4e-b0e1ae2eaeaf",
@@ -6747,7 +6747,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "e57bbb92-6313-4b7e-8274-6f0ba1638d59",
@@ -6776,7 +6776,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBigRocks"
 		},
 		{
 			"Id": "e62228ab-2453-4e59-b594-b283c787333c",
@@ -6805,7 +6805,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRedHouse"
 		},
 		{
 			"Id": "e79077ff-20e2-401f-8836-87f347497c7d",
@@ -6864,7 +6864,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "e94aee7d-4b61-4214-a68c-498eebdd6574",
@@ -7013,7 +7013,7 @@
 					"Radius": 140
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneWoodCutter"
 		},
 		{
 			"Id": "ec3445e7-00c8-43ba-9a91-69b426d0537e",
@@ -7102,7 +7102,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneClearVill"
 		},
 		{
 			"Id": "ef01d04a-1194-4c95-9487-d699247dc7b6",
@@ -7131,7 +7131,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRedHouse"
 		},
 		{
 			"Id": "f10701b0-ee96-4f9b-94db-8007bc90fb07",
@@ -7191,7 +7191,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "f2ae3edb-47f9-402e-8e4f-de47df81c9ce",
@@ -7310,7 +7310,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBrokenVill"
 		},
 		{
 			"Id": "f4aad71b-7d2f-4d14-90f4-cf400e721ada",
@@ -7339,7 +7339,7 @@
 					"Radius": 250
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneRoad"
 		},
 		{
 			"Id": "f4f8f8c1-7c55-4b68-878f-f631e769ba30",
@@ -7488,7 +7488,7 @@
 					"Radius": 158.9
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneBigRocks"
 		},
 		{
 			"Id": "fb56a4ee-ecf3-4329-ad07-06d5f3b1a371",
@@ -7517,7 +7517,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneScavBase2"
 		},
 		{
 			"Id": "fe5769b5-fb63-42e2-a388-fd84044c08a9",
@@ -7546,7 +7546,7 @@
 					"Radius": 155
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneMiniHouse"
 		},
 		{
 			"Id": "ff7aa61d-d6f0-42c9-8e35-f3c49e33b6a2",
@@ -7575,7 +7575,7 @@
 					"Radius": 60
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "ZoneClearVill"
 		}
 	],
 	"maxItemCountInLocation": [],

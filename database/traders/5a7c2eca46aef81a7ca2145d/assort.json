@@ -27,7 +27,7 @@
 			"slotId": "hideout",
 			"upd": {
 				"UnlimitedCount": false,
-				"StackObjectsCount": 10000,
+				"StackObjectsCount": 11000,
 				"BuyRestrictionMax": 5,
 				"BuyRestrictionCurrent": 0
 			}
@@ -6937,8 +6937,8 @@
 		"1626123f4555617bd92ff69e": [
 			[
 				{
-					"count": 9925,
-					"_tpl": "5449016a4bdc2d6f028b456f"
+					"count": 1,
+					"_tpl": "5e2af51086f7746d3f3c3402"
 				}
 			]
 		],

@@ -471,8 +471,8 @@
 	"BossLocationSpawn": [
 		{
 			"BossName": "bossKilla",
-			"BossChance": 33,
-			"BossZone": "ZoneCenterBot",
+			"BossChance": 40,
+			"BossZone": "ZoneCenterBot,ZoneCenter,ZoneOLI,ZoneIDEA,ZoneGoshan,ZoneIDEAPark,ZoneOLIPark",
 			"BossPlayer": false,
 			"BossDifficult": "normal",
 			"BossEscortType": "followerBully",

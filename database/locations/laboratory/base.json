@@ -507,7 +507,7 @@
 					"Radius": 27
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor2"
 		},
 		{
 			"Id": "01d14f42-45de-45fb-be52-bfff19f3a470",
@@ -652,7 +652,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "07863ac5-27c5-4001-85a2-13356eda6133",
@@ -681,7 +681,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "08633a18-3bbd-4a4b-934a-b51e049817b1",
@@ -739,7 +739,7 @@
 					"Radius": 7
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneGate1"
 		},
 		{
 			"Id": "0d7728c8-59c8-493a-8849-fa22a1346fcd",
@@ -884,7 +884,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "16f8ebd0-39b4-4fe2-8128-ed2bc82008a1",
@@ -971,7 +971,7 @@
 					"Radius": 27
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor2"
 		},
 		{
 			"Id": "1d3d7178-c84f-47b2-9ea6-4cd11449dbfa",
@@ -1261,7 +1261,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "3a7f4c28-ea1f-466d-8920-3f2871d69cf3",
@@ -1290,7 +1290,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "3d6df899-9a65-48d3-9e55-2664c6c6c4c0",
@@ -1348,7 +1348,7 @@
 					"Radius": 27
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor2"
 		},
 		{
 			"Id": "40b7da99-8f93-4ca6-bb33-c94b8a7c92a7",
@@ -1435,7 +1435,7 @@
 					"Radius": 27
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor2"
 		},
 		{
 			"Id": "4e9cd17c-ae56-4408-a308-4b9722e6e344",
@@ -1464,7 +1464,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "50bda7e6-480e-412c-a91c-8dda1faffa45",
@@ -1493,7 +1493,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "51d82d49-97b2-4fba-b1f8-219b20005c17",
@@ -1522,7 +1522,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "52005238-4fb5-4775-9052-c1f52bfd1c94",
@@ -1551,7 +1551,7 @@
 					"Radius": 7
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneGate2"
 		},
 		{
 			"Id": "584031bc-1dbb-4fec-a95f-7297e0b6a540",
@@ -1580,7 +1580,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "5aed643f-3714-49fc-bdf8-00168189da61",
@@ -1870,7 +1870,7 @@
 					"Radius": 27
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor2"
 		},
 		{
 			"Id": "66ea0d24-890a-4a5b-a0d1-2e13629f26b7",
@@ -2044,7 +2044,7 @@
 					"Radius": 7
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneGate2"
 		},
 		{
 			"Id": "707edb2a-0cbb-4c12-9fc5-49a34af4779d",
@@ -2131,7 +2131,7 @@
 					"Radius": 25
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneBasement"
 		},
 		{
 			"Id": "75febbcd-6f56-495e-a74a-e93f0f8b7827",
@@ -2189,7 +2189,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "7a9b1874-adec-4a4a-bcab-04265a114afa",
@@ -2305,7 +2305,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "7ffdd6c9-29dc-43d3-8348-349bbf64c128",
@@ -2334,7 +2334,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "81e2c355-e3dd-4a70-a076-0fea62aec9f1",
@@ -2363,7 +2363,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "8442480f-2fd2-4867-a558-7f95aa75211b",
@@ -2392,7 +2392,7 @@
 					"Radius": 25
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneBasement"
 		},
 		{
 			"Id": "8ae99f32-2b96-4a1a-9ff6-62bbf3f452bb",
@@ -2421,7 +2421,7 @@
 					"Radius": 7
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneGate2"
 		},
 		{
 			"Id": "8f0dd3c2-9339-484e-b4ed-785a7929a545",
@@ -2450,7 +2450,7 @@
 					"Radius": 27
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor2"
 		},
 		{
 			"Id": "9174a2bb-e647-40d2-9f27-b02bb4256e5a",
@@ -2653,7 +2653,7 @@
 					"Radius": 7
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneGate1"
 		},
 		{
 			"Id": "a0fdcb82-40f8-4996-83e5-39389c6b846a",
@@ -2740,7 +2740,7 @@
 					"Radius": 7
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneGate1"
 		},
 		{
 			"Id": "a7c8500d-3a45-4ab4-8bde-4891ebdb33be",
@@ -2769,7 +2769,7 @@
 					"Radius": 7
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneGate1"
 		},
 		{
 			"Id": "a98ef4db-61cc-4588-a8e8-52e59ce8bace",
@@ -2856,7 +2856,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "ad74c165-363f-4706-999c-2d33396865e4",
@@ -2914,7 +2914,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "b53cfa11-2ce4-4a85-a3c2-674068472d58",
@@ -2943,7 +2943,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "b71e139d-c363-4b9a-b87e-1a6bef552641",
@@ -3030,7 +3030,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "bcf0ec7f-9673-4fa1-aede-fdc6d6dd616b",
@@ -3117,7 +3117,7 @@
 					"Radius": 27
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor2"
 		},
 		{
 			"Id": "c260494b-0ace-42f0-9b3c-945cbb77d608",
@@ -3146,7 +3146,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "c3a0e266-3318-4db6-9c31-b7b780686ea8",
@@ -3233,7 +3233,7 @@
 					"Radius": 7
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneGate2"
 		},
 		{
 			"Id": "c7d01076-c9a0-4162-923e-bb2f51248500",
@@ -3320,7 +3320,7 @@
 					"Radius": 27
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor2"
 		},
 		{
 			"Id": "cde4c94f-1f0a-43bc-a0d7-b07758171d61",
@@ -3349,7 +3349,7 @@
 					"Radius": 27
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor2"
 		},
 		{
 			"Id": "cf866867-a4ba-4355-bfac-198ca52e755c",
@@ -3494,7 +3494,7 @@
 					"Radius": 25
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneBasement"
 		},
 		{
 			"Id": "d7eb2d80-10a1-48e1-b214-d7cac5eff13a",
@@ -3697,7 +3697,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "f1cf8f15-cc59-48ef-8d98-840d12972120",
@@ -3726,7 +3726,7 @@
 					"Radius": 35
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneFloor1"
 		},
 		{
 			"Id": "f3b5e0b0-0996-4191-81f3-a709b324d5b9",
@@ -3813,7 +3813,7 @@
 					"Radius": 7
 				}
 			},
-			"BotZoneName": ""
+			"BotZoneName": "BotZoneGate2"
 		}
 	],
 	"maxItemCountInLocation": [
