@@ -16,7 +16,6 @@
             "PriorityScatter1meter": 0.2
         }
     ],
-    "HealthEffect": false,
     "ItemPresets": {
         "5841474424597759ba49be91": {
             "_changeWeaponName": false,
@@ -11569,7 +11568,7 @@
             "balancerRemovePriceCoefficient": 5,
             "balancerUserItemSaleCooldown": 1,
             "balancerUserItemSaleCooldownEnabled": true,
-            "communityItemTax": 5,
+            "communityItemTax": 7,
             "communityRequirementTax": 5,
             "communityTax": 2.5,
             "delaySinceOfferAdd": 0,

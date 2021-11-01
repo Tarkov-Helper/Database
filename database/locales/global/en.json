@@ -640,8 +640,8 @@
         "EAntialiasingMode/TAA_Low": "TAA",
         "EBackendErrorCode/ItemHasBeenSold": "Item has already been sold.",
         "EBackendErrorCode/OfferSold": "Offer is already sold",
-        "ECompareMethod/Less": "less then",
-        "ECompareMethod/More": "more then",
+        "ECompareMethod/Less": "less than",
+        "ECompareMethod/More": "more than",
         "EDIT": "EDIT",
         "EFFECTIVE DISTANCE": "EFFECTIVE DISTANCE",
         "EFenceStandingSource/AggressorKill": "Favors to Scavs",
@@ -2552,6 +2552,7 @@
         "hideout/Enable candles": "Light up the candles",
         "hideout/Enable christmas lights": "Enable christmas lights",
         "hideout/Enable gas lamps": "Enable gas lamps",
+        "hideout/Enable halloween lights": "Enable Halloween decorations",
         "hideout/Enable light bulbs": "Enable light bulbs",
         "hideout/Farming": "Farming",
         "hideout/Fuel": "Fuel",
@@ -3903,7 +3904,9 @@
         "616ea7fe1cc2ca76b450f76c": " ",
         "617000fe9c42dd7cc718a64a": "Gotta do something... Ah, salam, brother. Listen, can you help a brother out? My boys ran into some morons and as always, there was a big mess. Many good guys died, but what’s even worse is that those assholes stole all our looted clothes! Can't leave those fuckers unpunished, right? Go and pop those bitches.",
         "617000ff9c42dd7cc718a64b": "Nice, nice. Here, take this, a little thank you gift.",
-        "6171d8440741080319439d1f": "Bro, listen closely. The textile market's gonna get wrecked pretty soon and fabric prices will skyrocket like Bitcoin in 2017. Long story short — if you wanted to stock up on ripstop, any kind of fleece or whatever, better do it right now. One's always in need of more bandages or something to practice cross stitching on... ha-ha! Don't get angry bro, just kidding. I’m actually trusting you a big secret, like one brother to another, so you'd better not go 'round spilling the beans. You got it, right?"
+        "6171d8440741080319439d1f": "Bro, listen closely. The textile market's gonna get wrecked pretty soon and fabric prices will skyrocket like Bitcoin in 2017. Long story short — if you wanted to stock up on ripstop, any kind of fleece or whatever, better do it right now. One's always in need of more bandages or something to practice cross stitching on... ha-ha! Don't get angry bro, just kidding. I’m actually trusting you a big secret, like one brother to another, so you'd better not go 'round spilling the beans. You got it, right?",
+        "6176f81a6a41377ce8675a1b": "Hello, merc. You've probably noticed garms have been in short supply lately. Had some big trouble with fabric supply, there was literally nothing to sell at all. Well, anyway, now it's getting better, so don't forget Arshavir and visit me more often, right? I don't wanna lose clients for nothing, you know. Lemme give you some advice for the future: if you have good reputation with me, you'll be provided information about similar situations I'm facing in my business field. And you'll get that way in advance in order to be properly prepared.",
+        "6176f8803bf74c074e61786a": "Hey, brother! Remember that fabric shortage I told you about? That's history now so you can finally relax and drop by — the counters are full of goods just waiting for you to buy them! Forewarned, forearmed as they say: if you've got enough rep with your bro Arshavir, you'll never get into a mess. \r\nSee you later!"
     },
     "preset": {
         "579b1eb1d53a0658a154fbe6": {
@@ -21735,6 +21738,16 @@
             "Description": "\"Tarkov fire water\". It is not recommended to consume it in general, alcohol is harmful and all that, but sometimes it is necessary to relax after the battle. No need to raid area 51 to see them aliens after all. Looks like its a batch from 1211 warehouses",
             "Name": "Bottle of Tarkovskaya vodka",
             "ShortName": "Vodka"
+        },
+        "6176a40f0b8c0312ac75a3d3": {
+            "Description": "A rubber mask of Ghoul. If you want to apply some nightmare to Scavs, this mask is for you.",
+            "Name": "Ghoul mask",
+            "ShortName": "Ghoul"
+        },
+        "6176a48d732a664031271438": {
+            "Description": "A scary mask from some famous animated film.",
+            "Name": "Faceless mask",
+            "ShortName": "Faceless"
         }
     },
     "trading": {
