@@ -394,7 +394,7 @@
 		"DistToActivate": 265,
 		"DistToSleep": 300,
 		"MagnetPower": 44,
-		"DistToPersueAxemanCoef": 0.7
+		"DistToPersueAxemanCoef": 1
 	},
 	"exits": [
 		{
@@ -506,7 +506,7 @@
 			"PassageRequirement": "TransferItem",
 			"ExfiltrationType": "SharedTimer",
 			"Id": "5449016a4bdc2d6f028b456f",
-			"Count": 7000,
+			"Count": 5000,
 			"RequirementTip": "EXFIL_Item"
 		},
 		{
@@ -534,7 +534,7 @@
 			"BossDifficult": "normal",
 			"BossEscortType": "sectantWarrior",
 			"BossEscortDifficult": "normal",
-			"BossEscortAmount": "3",
+			"BossEscortAmount": "4",
 			"Time": -1
 		},
 		{

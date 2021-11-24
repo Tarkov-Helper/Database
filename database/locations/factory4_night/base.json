@@ -27,7 +27,7 @@
 		{
 			"number": 0,
 			"time_min": 15,
-			"time_max": 1000,
+			"time_max": 100,
 			"slots_min": 1,
 			"slots_max": 2,
 			"SpawnPoints": "BotZone",
@@ -41,7 +41,7 @@
 			"time_min": -1,
 			"time_max": -1,
 			"slots_min": 1,
-			"slots_max": 2,
+			"slots_max": 4,
 			"SpawnPoints": "BotZone",
 			"BotSide": "Savage",
 			"BotPreset": "normal",
@@ -172,7 +172,7 @@
 		"MagnetPower": 15,
 		"DistToSleep": 120,
 		"DistToActivate": 100,
-		"DistToPersueAxemanCoef": 0.6
+		"DistToPersueAxemanCoef": 0.9
 	},
 	"exits": [
 		{
@@ -2534,13 +2534,24 @@
 	"BossLocationSpawn": [
 		{
 			"BossName": "bossTagilla",
-			"BossChance": 18,
+			"BossChance": 28,
 			"BossZone": "BotZone",
 			"BossPlayer": false,
 			"BossDifficult": "normal",
 			"BossEscortType": "followerBully",
 			"BossEscortDifficult": "normal",
 			"BossEscortAmount": "0",
+			"Time": -1
+		},
+		{
+			"BossName": "sectantPriest",
+			"BossChance": 3,
+			"BossZone": "BotZone",
+			"BossPlayer": false,
+			"BossDifficult": "normal",
+			"BossEscortType": "sectantWarrior",
+			"BossEscortDifficult": "normal",
+			"BossEscortAmount": "2",
 			"Time": -1
 		}
 	],

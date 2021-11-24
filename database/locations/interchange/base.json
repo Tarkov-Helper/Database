@@ -373,7 +373,7 @@
 		"GainSight": 1,
 		"MarksmanAccuratyCoef": 1,
 		"VisibleDistance": 1,
-		"DistToPersueAxemanCoef": 0.7
+		"DistToPersueAxemanCoef": 1
 	},
 	"exits": [
 		{
@@ -419,7 +419,7 @@
 			"RequiredSlot": "FirstPrimaryWeapon",
 			"Id": "5449016a4bdc2d6f028b456f",
 			"RequirementTip": "EXFIL_Item",
-			"Count": 3000
+			"Count": 5000
 		},
 		{
 			"Name": "Saferoom Exfil",
@@ -471,7 +471,7 @@
 	"BossLocationSpawn": [
 		{
 			"BossName": "bossKilla",
-			"BossChance": 40,
+			"BossChance": 35,
 			"BossZone": "ZoneCenterBot,ZoneCenter,ZoneOLI,ZoneIDEA,ZoneGoshan,ZoneIDEAPark,ZoneOLIPark",
 			"BossPlayer": false,
 			"BossDifficult": "normal",

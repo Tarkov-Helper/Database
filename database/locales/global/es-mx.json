@@ -2707,7 +2707,8 @@
 		"captcha/too frequent attempts": "Intentos demasiado frecuentes. El acceso al Tianguis y a los comerciantes no está disponible actualmente. Inténtalo más tarde.",
 		"Ui/Settings/HealthColorScheme": "Color en el esquema de salud",
 		"ragfair/container_must_be_empty_notification": "No puedes entregar un contenedor con objetos en su interior.",
-		"MetabolismPoisonTime": "Reducción del tiempo de acción de los venenos en un [(-{0:0%})]."
+		"MetabolismPoisonTime": "Reducción del tiempo de acción de los venenos en un [(-{0:0%})].",
+		"kr": "Korean"
 	},
 	"enum": [],
 	"error": {

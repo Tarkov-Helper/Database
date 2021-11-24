@@ -2707,7 +2707,8 @@
 		"captcha/too frequent attempts": "Too frequent attempts. Access to flea market and traders are currently unavailable. Try again later",
 		"Ui/Settings/HealthColorScheme": "Health color scheme",
 		"ragfair/container_must_be_empty_notification": "You cant hand over a container with items inside.",
-		"MetabolismPoisonTime": "Reduction of poisons' action time to [(-{0:0%})]"
+		"MetabolismPoisonTime": "Reduction of poisons' action time to [(-{0:0%})]",
+		"kr": "Korean"
 	},
 	"enum": [],
 	"error": {

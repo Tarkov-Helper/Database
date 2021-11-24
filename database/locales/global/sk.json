@@ -2707,7 +2707,8 @@
 		"captcha/too frequent attempts": "Príliš veľa nákupov. Prístup k blšiemu trhu a obchodníkom je dočasne nedostupný. Skúste to neskôr",
 		"Ui/Settings/HealthColorScheme": "Farba schémy zdravia",
 		"ragfair/container_must_be_empty_notification": "Nemôžte predať predmet v ktorom sú uložené ďalšie predmety.",
-		"MetabolismPoisonTime": "Skrátenie času pôsobenia jedov o [(-{0:0%})]"
+		"MetabolismPoisonTime": "Skrátenie času pôsobenia jedov o [(-{0:0%})]",
+		"kr": "Korean"
 	},
 	"enum": [],
 	"error": {

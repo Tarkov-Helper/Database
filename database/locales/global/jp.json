@@ -2707,7 +2707,8 @@
 		"captcha/too frequent attempts": "試行回数が多すぎます。フリーマーケットとトレーダーは現在使用できません。時間をおいてお試しください。",
 		"Ui/Settings/HealthColorScheme": "負傷部位表示の色",
 		"ragfair/container_must_be_empty_notification": "アイテムが入ったコンテナを渡すことはできない",
-		"MetabolismPoisonTime": "毒が作用する時間の短縮 [(-{0:0%})]"
+		"MetabolismPoisonTime": "毒が作用する時間の短縮 [(-{0:0%})]",
+		"kr": "Korean"
 	},
 	"enum": [],
 	"error": {

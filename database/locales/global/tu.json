@@ -2707,7 +2707,8 @@
 		"captcha/too frequent attempts": "Çok sık deneme. Bit pazarına ve tüccarlara erişim şu anda mevcut değil. Daha sonra tekrar deneyin",
 		"Ui/Settings/HealthColorScheme": "Sağlık renk şeması",
 		"ragfair/container_must_be_empty_notification": "Konteyneri içinde eşya varken teslim edemezsin.",
-		"MetabolismPoisonTime": "Zehirlerin etki süresinin azaltılması [(-{0:0%})]\n"
+		"MetabolismPoisonTime": "Zehirlerin etki süresinin azaltılması [(-{0:0%})]\n",
+		"kr": "Korean"
 	},
 	"enum": [],
 	"error": {

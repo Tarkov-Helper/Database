@@ -2707,7 +2707,8 @@
 		"captcha/too frequent attempts": "Túl gyakori próbálkozás. A hozzáférés a bolhapiachoz és a kereskedőkhöz jelenleg nem lehetséges. Próbáld újra később",
 		"Ui/Settings/HealthColorScheme": "Egészség kijelző színséma",
 		"ragfair/container_must_be_empty_notification": "Nem adhatsz át olyan tárolót amiben tárgyak vannak.",
-		"MetabolismPoisonTime": "Csökkenti a mérgek hatóidejét [(-{0:0%})] -al"
+		"MetabolismPoisonTime": "Csökkenti a mérgek hatóidejét [(-{0:0%})] -al",
+		"kr": "Korean"
 	},
 	"enum": [],
 	"error": {

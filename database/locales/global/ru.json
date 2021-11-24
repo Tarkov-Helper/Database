@@ -2707,7 +2707,8 @@
 		"captcha/too frequent attempts": "Достигнут лимит запросов. Доступ к торговцам и на барахолку временно ограничен. Попробуйте позже",
 		"Ui/Settings/HealthColorScheme": "Подсветка состояния здоровья",
 		"ragfair/container_must_be_empty_notification": "Нельзя передать контейнер, содержащий предметы.",
-		"MetabolismPoisonTime": "Уменьшение времени действия ядов до [(-{0:0%})]"
+		"MetabolismPoisonTime": "Уменьшение времени действия ядов до [(-{0:0%})]",
+		"kr": "Korean"
 	},
 	"enum": [],
 	"error": {

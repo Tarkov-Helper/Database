@@ -2707,7 +2707,8 @@
 		"captcha/too frequent attempts": "Troppi tentativi effettuati. L'accesso al mercato delle pulci e ai commercianti non è attualmente disponibile. Prova più tardi",
 		"Ui/Settings/HealthColorScheme": "Combinazione dei colori della salute",
 		"ragfair/container_must_be_empty_notification": "Non puoi consegnare contenitori con oggetti all'interno.",
-		"MetabolismPoisonTime": "Riduzione del tempo di avvelenamento del [(-{0:0%})]"
+		"MetabolismPoisonTime": "Riduzione del tempo di avvelenamento del [(-{0:0%})]",
+		"kr": "Korean"
 	},
 	"enum": [],
 	"error": {

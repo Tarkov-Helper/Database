@@ -16,6 +16,7 @@
             "PriorityScatter1meter": 0.2
         }
     ],
+    "HealthEffect": false,
     "ItemPresets": {
         "5841474424597759ba49be91": {
             "_changeWeaponName": false,
@@ -9901,6 +9902,14 @@
                                 "Duration": 5,
                                 "SkillName": "",
                                 "Value": 1
+                            }, {
+                                "AbsoluteValue": false,
+                                "BuffType": "Contusion",
+                                "Chance": 1,
+                                "Delay": 1,
+                                "Duration": 5,
+                                "SkillName": "",
+                                "Value": 1
                             }
                         ],
                         "BuffsPropital": [{
@@ -10939,6 +10948,32 @@
                                 "Value": 5
                             }
                         ],
+                        "Buffs_food_alyonka": [{
+                                "AbsoluteValue": true,
+                                "BuffType": "SkillRate",
+                                "Chance": 1,
+                                "Delay": 1,
+                                "Duration": 120,
+                                "SkillName": "Attention",
+                                "Value": 2
+                            }, {
+                                "AbsoluteValue": true,
+                                "BuffType": "SkillRate",
+                                "Chance": 1,
+                                "Delay": 1,
+                                "Duration": 120,
+                                "SkillName": "StressResistance",
+                                "Value": 2
+                            }, {
+                                "AbsoluteValue": true,
+                                "BuffType": "SkillRate",
+                                "Chance": 1,
+                                "Delay": 1,
+                                "Duration": 120,
+                                "SkillName": "Intellect",
+                                "Value": 2
+                            }
+                        ],
                         "Buffs_food_borodinskiye": [{
                                 "AbsoluteValue": true,
                                 "BuffType": "HydrationRate",
@@ -10956,15 +10991,23 @@
                                 "Delay": 1,
                                 "Duration": 300,
                                 "SkillName": "Intellect",
-                                "Value": 1
+                                "Value": 3
                             }, {
                                 "AbsoluteValue": true,
-                                "BuffType": "HydrationRate",
+                                "BuffType": "SkillRate",
                                 "Chance": 1,
                                 "Delay": 1,
-                                "Duration": 60,
-                                "SkillName": "",
-                                "Value": -0.25
+                                "Duration": 300,
+                                "SkillName": "Attention",
+                                "Value": 3
+                            }, {
+                                "AbsoluteValue": true,
+                                "BuffType": "SkillRate",
+                                "Chance": 1,
+                                "Delay": 1,
+                                "Duration": 300,
+                                "SkillName": "StressResistance",
+                                "Value": 3
                             }
                         ],
                         "Buffs_food_emelya": [{
@@ -10984,7 +11027,7 @@
                                 "Delay": 1,
                                 "Duration": 300,
                                 "SkillName": "Metabolism",
-                                "Value": -1
+                                "Value": -3
                             }
                         ],
                         "Buffs_food_mre": [{
@@ -10997,21 +11040,39 @@
                                 "Value": 0.1
                             }
                         ],
-                        "Buffs_food_sugar": [{
+                        "Buffs_food_slippers": [{
                                 "AbsoluteValue": true,
-                                "BuffType": "HydrationRate",
+                                "BuffType": "SkillRate",
                                 "Chance": 1,
                                 "Delay": 1,
                                 "Duration": 60,
-                                "SkillName": "",
-                                "Value": -0.25
+                                "SkillName": "Intellect",
+                                "Value": 1
                             }, {
                                 "AbsoluteValue": true,
-                                "BuffType": "StaminaRate",
+                                "BuffType": "SkillRate",
+                                "Chance": 1,
+                                "Delay": 1,
+                                "Duration": 60,
+                                "SkillName": "Attention",
+                                "Value": 1
+                            }, {
+                                "AbsoluteValue": true,
+                                "BuffType": "SkillRate",
+                                "Chance": 1,
+                                "Delay": 1,
+                                "Duration": 60,
+                                "SkillName": "StressResistance",
+                                "Value": 1
+                            }
+                        ],
+                        "Buffs_food_sugar": [{
+                                "AbsoluteValue": true,
+                                "BuffType": "SkillRate",
                                 "Chance": 1,
                                 "Delay": 1,
                                 "Duration": 300,
-                                "SkillName": "",
+                                "SkillName": "Intellect",
                                 "Value": 1
                             }
                         ],
@@ -11040,6 +11101,48 @@
                                 "Chance": 1,
                                 "Delay": 0,
                                 "Duration": 20,
+                                "SkillName": "",
+                                "Value": 0
+                            }
+                        ],
+                        "Buffs_knife": [{
+                                "AbsoluteValue": false,
+                                "BuffType": "DamageModifier",
+                                "Chance": 1,
+                                "Delay": 1,
+                                "Duration": 60,
+                                "SkillName": "",
+                                "Value": 0.5
+                            }, {
+                                "AbsoluteValue": true,
+                                "BuffType": "HealthRate",
+                                "Chance": 1,
+                                "Delay": 1,
+                                "Duration": 60,
+                                "SkillName": "",
+                                "Value": -0.5
+                            }, {
+                                "AbsoluteValue": false,
+                                "BuffType": "Pain",
+                                "Chance": 1,
+                                "Delay": 1,
+                                "Duration": 60,
+                                "SkillName": "",
+                                "Value": 0
+                            }, {
+                                "AbsoluteValue": false,
+                                "BuffType": "QuantumTunnelling",
+                                "Chance": 1,
+                                "Delay": 1,
+                                "Duration": 60,
+                                "SkillName": "",
+                                "Value": 0
+                            }, {
+                                "AbsoluteValue": false,
+                                "BuffType": "HandsTremor",
+                                "Chance": 1,
+                                "Delay": 1,
+                                "Duration": 60,
                                 "SkillName": "",
                                 "Value": 0
                             }
@@ -12546,5 +12649,5 @@
             "limit": 20
         }
     },
-    "time": 1633972113
+    "time": 1636596027
 }

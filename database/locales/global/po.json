@@ -2707,7 +2707,8 @@
 		"captcha/too frequent attempts": "Muitas tentativas frequentes. O acesso ao mercado e mercadores está atualmente indisponível. Tente novamente mais tarde",
 		"Ui/Settings/HealthColorScheme": "Cor da interface de saúde",
 		"ragfair/container_must_be_empty_notification": "Você não pode entregar um recipiente com itens dentro.",
-		"MetabolismPoisonTime": "Redução do tempo de intoxicação em [(-{0:0%})]"
+		"MetabolismPoisonTime": "Redução do tempo de intoxicação em [(-{0:0%})]",
+		"kr": "Korean"
 	},
 	"enum": [],
 	"error": {

@@ -27,7 +27,7 @@
 		{
 			"number": 0,
 			"time_min": 40,
-			"time_max": 600,
+			"time_max": 100,
 			"slots_min": 2,
 			"slots_max": 5,
 			"SpawnPoints": "BotZone",
@@ -40,8 +40,8 @@
 			"number": 1,
 			"time_min": -1,
 			"time_max": -1,
-			"slots_min": 1,
-			"slots_max": 2,
+			"slots_min": 2,
+			"slots_max": 4,
 			"SpawnPoints": "BotZone",
 			"BotSide": "Savage",
 			"BotPreset": "normal",
@@ -172,7 +172,7 @@
 		"DistToSleep": 150,
 		"DistToActivate": 140,
 		"MagnetPower": 15,
-		"DistToPersueAxemanCoef": 0.6
+		"DistToPersueAxemanCoef": 0.9
 	},
 	"exits": [
 		{
@@ -2539,7 +2539,7 @@
 	"BossLocationSpawn": [
 		{
 			"BossName": "bossTagilla",
-			"BossChance": 18,
+			"BossChance": 20,
 			"BossZone": "BotZone",
 			"BossPlayer": false,
 			"BossDifficult": "normal",

@@ -2707,7 +2707,8 @@
 		"captcha/too frequent attempts": "Trop de requêtes successives. L'accès au marché aux puces et aux vendeurs est indisponible. Veuillez réessayer plus tard",
 		"Ui/Settings/HealthColorScheme": "Thème couleur de santé",
 		"ragfair/container_must_be_empty_notification": "Vous ne pouvez pas remettre un conteneur n'étant pas vide.",
-		"MetabolismPoisonTime": "Réduction de la durée d'action des poisons de [(-{0:0%})]"
+		"MetabolismPoisonTime": "Réduction de la durée d'action des poisons de [(-{0:0%})]",
+		"kr": "Korean"
 	},
 	"enum": [],
 	"error": {

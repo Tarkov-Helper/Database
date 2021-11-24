@@ -2707,7 +2707,8 @@
 		"captcha/too frequent attempts": "Příliš mnoho nákupů. Přístup k blešímu trhu a obchodníkům je dočasně nedostupný. Zkuste to později",
 		"Ui/Settings/HealthColorScheme": "Barva schématu zdraví",
 		"ragfair/container_must_be_empty_notification": "Nemůžete předat předmět ve kterém jsou uloženy další předměty.",
-		"MetabolismPoisonTime": "Zkrácení doby působení jedů o [(-{0:0%})]"
+		"MetabolismPoisonTime": "Zkrácení doby působení jedů o [(-{0:0%})]",
+		"kr": "Korean"
 	},
 	"enum": [],
 	"error": {

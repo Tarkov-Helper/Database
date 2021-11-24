@@ -2707,7 +2707,8 @@
 		"captcha/too frequent attempts": "Intentos demasiado frecuentes. El acceso al Mercadillo y los vendedores no está disponible actualmente. Prueba de nuevo más tarde.",
 		"Ui/Settings/HealthColorScheme": "Color de la interfaz de vida",
 		"ragfair/container_must_be_empty_notification": "No puedes entregar un contenedor que tenga objetos en su interior.",
-		"MetabolismPoisonTime": "Reducción del tiempo de acción de los venenos en un [(-{0:0%})]."
+		"MetabolismPoisonTime": "Reducción del tiempo de acción de los venenos en un [(-{0:0%})].",
+		"kr": "Korean"
 	},
 	"enum": [],
 	"error": {

@@ -2707,7 +2707,8 @@
 		"captcha/too frequent attempts": "Zu viele Versuche. Zugriff auf den Flohmarkt und die Händler ist aktuell nicht möglich. Versuche es später erneut",
 		"Ui/Settings/HealthColorScheme": "Farbschema der Gesundheit",
 		"ragfair/container_must_be_empty_notification": "Du kannst keinen Behälter mit Gegenständen darin übergeben.",
-		"MetabolismPoisonTime": "Verringert die Zeit von Vergiftungen auf [(-{0:0%})]"
+		"MetabolismPoisonTime": "Verringert die Zeit von Vergiftungen auf [(-{0:0%})]",
+		"kr": "Korean"
 	},
 	"enum": [],
 	"error": {

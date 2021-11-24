@@ -2707,7 +2707,8 @@
 		"captcha/too frequent attempts": "尝试过于频繁。目前无法访问跳蚤市场和商人。请稍后再试",
 		"Ui/Settings/HealthColorScheme": "健康配色方案",
 		"ragfair/container_must_be_empty_notification": "你无法上交内有物品的容器。",
-		"MetabolismPoisonTime": "毒素作用的持续时间降低[(-{0:0%})]"
+		"MetabolismPoisonTime": "毒素作用的持续时间降低[(-{0:0%})]",
+		"kr": "Korean"
 	},
 	"enum": [],
 	"error": {
