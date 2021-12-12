@@ -6332,5 +6332,1312 @@
         },
         "_proto": "5cc084dd14c02e000b0550a3",
         "_type": "Item"
+    },
+    "617bca4b4013b06b0b78df2a": {
+        "_id": "617bca4b4013b06b0b78df2a",
+        "_name": "top_bear_sumrak",
+        "_parent": "5cc0868e14c02e000c6bea68",
+        "_props": {
+            "BodyPart": "Body",
+            "Description": "DeafaultBearBody",
+            "IntegratedArmorVest": false,
+            "Name": "DeafaultBearBody",
+            "Prefab": {
+                "path": "assets/content/characters/character/prefabs/top_bear_sumrak.bundle",
+                "rcid": ""
+            },
+            "ShortName": "DeafaultBearBody",
+            "Side": ["Bear"],
+            "WatchPosition": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "WatchPrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "WatchRotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "_proto": "5cc0858d14c02e000c6bea66",
+        "_type": "Item"
+    },
+    "617be9e4e02b3b3fa50fa8f2": {
+        "_id": "617be9e4e02b3b3fa50fa8f2",
+        "_name": "bear_lower_sumrak",
+        "_parent": "5cc0869814c02e000a4cad94",
+        "_props": {
+            "BodyPart": "Feet",
+            "Description": "DefaultBeerFeet",
+            "IntegratedArmorVest": false,
+            "Name": "DefaultBeerFeet",
+            "Prefab": {
+                "path": "assets/content/characters/character/prefabs/pants_bear_sumrak.bundle",
+                "rcid": ""
+            },
+            "ShortName": "DefaultBeerFeet",
+            "Side": ["Bear"],
+            "WatchPosition": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "WatchPrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "WatchRotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "_proto": "5cc085bb14c02e000e67a5c5",
+        "_type": "Item"
+    },
+    "617c02e24013b06b0b78df80": {
+        "_id": "617c02e24013b06b0b78df80",
+        "_name": "usec_lower_cereum",
+        "_parent": "5cc0869814c02e000a4cad94",
+        "_props": {
+            "BodyPart": "Feet",
+            "Description": "DefaultUsecFeet",
+            "IntegratedArmorVest": false,
+            "Name": "DefaultUsecFeet",
+            "Prefab": {
+                "path": "assets/content/characters/character/prefabs/pants_usec_cereum.bundle",
+                "rcid": ""
+            },
+            "ShortName": "DefaultUsecFeet",
+            "Side": ["Usec"],
+            "WatchPosition": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "WatchPrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "WatchRotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "_proto": "5cde95ef7d6c8b04713c4f2d",
+        "_type": "Item"
+    },
+    "618109c96d7ca35d076b3363": {
+        "_id": "618109c96d7ca35d076b3363",
+        "_name": "usec_upper_cereum",
+        "_parent": "5cc0868e14c02e000c6bea68",
+        "_props": {
+            "BodyPart": "Body",
+            "Description": "DefaultUsecBody",
+            "IntegratedArmorVest": false,
+            "Name": "DefaultUsecBody",
+            "Prefab": {
+                "path": "assets/content/characters/character/prefabs/top_usec_cereum.bundle",
+                "rcid": ""
+            },
+            "ShortName": "DefaultUsecBody",
+            "Side": ["Usec"],
+            "WatchPosition": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "WatchPrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "WatchRotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "_proto": "5cde95d97d6c8b647a3769b0",
+        "_type": "Item"
+    },
+    "618aeee10a5a59657e5f55ed": {
+        "_id": "618aeee10a5a59657e5f55ed",
+        "_name": "bear_hands_sumrak",
+        "_parent": "5cc086a314c02e000c6bea69",
+        "_props": {
+            "BodyPart": "Hands",
+            "Description": "DefaultBearHands",
+            "IntegratedArmorVest": false,
+            "Name": "DefaultBearHands",
+            "Prefab": {
+                "path": "assets/content/hands/hands_bear_sumrak/hands_bear_sumrak.skin.bundle",
+                "rcid": ""
+            },
+            "ShortName": "DefaultBearHands",
+            "Side": ["Bear"],
+            "WatchPosition": {
+                "x": -0.05769,
+                "y": 0.00035,
+                "z": 0.0414
+            },
+            "WatchPrefab": {
+                "path": "assets/content/hands/bear/bear_watch_traserp66.bundle",
+                "rcid": ""
+            },
+            "WatchRotation": {
+                "x": 1.214923,
+                "y": 6.277458,
+                "z": 2.686083
+            }
+        },
+        "_proto": "5cc0876314c02e000c6bea6b",
+        "_type": "Item"
+    },
+    "618cf9540a5a59657e5f5677": {
+        "_id": "618cf9540a5a59657e5f5677",
+        "_name": "SavageHands_bomber",
+        "_parent": "5cc086a314c02e000c6bea69",
+        "_props": {
+            "BodyPart": "Hands",
+            "Description": "SavageHands1",
+            "IntegratedArmorVest": false,
+            "Name": "SavageHands1",
+            "Prefab": {
+                "path": "assets/content/hands/hands_wild_bomber/hands_wild_bomber.skin.bundle",
+                "rcid": ""
+            },
+            "ShortName": "SavageHands1",
+            "Side": ["Savage"],
+            "WatchPosition": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "WatchPrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "WatchRotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "_proto": "5cc2e68f14c02e28b47de290",
+        "_type": "Item"
+    },
+    "618d1a5574bb2d036a049ea9": {
+        "_id": "618d1a5574bb2d036a049ea9",
+        "_name": "usec_hands_cereum",
+        "_parent": "5cc086a314c02e000c6bea69",
+        "_props": {
+            "BodyPart": "Hands",
+            "Description": "DefaultUsecHands",
+            "IntegratedArmorVest": false,
+            "Name": "DefaultUsecHands",
+            "Prefab": {
+                "path": "assets/content/hands/hands_usec_cereum/hands_usec_cereum.bundle",
+                "rcid": ""
+            },
+            "ShortName": "DefaultUsecHands",
+            "Side": ["Usec"],
+            "WatchPosition": {
+                "x": -0.0805,
+                "y": -0.00675,
+                "z": -0.04166
+            },
+            "WatchPrefab": {
+                "path": "assets/content/hands/usec/usec_watch_garmintactix.bundle",
+                "rcid": ""
+            },
+            "WatchRotation": {
+                "x": 4.175096,
+                "y": -172.2915,
+                "z": -178.331
+            }
+        },
+        "_proto": "5cde95fa7d6c8b04737c2d13",
+        "_type": "Item"
+    },
+    "618d1af10a5a59657e5f56f3": {
+        "_id": "618d1af10a5a59657e5f56f3",
+        "_name": "wild_top_yellowcoat",
+        "_parent": "5cc0868e14c02e000c6bea68",
+        "_props": {
+            "BodyPart": "Body",
+            "Description": "wild_body",
+            "IntegratedArmorVest": false,
+            "Name": "wild_body",
+            "Prefab": {
+                "path": "assets/content/characters/character/prefabs/top_wild_yellowcoat.bundle",
+                "rcid": ""
+            },
+            "ShortName": "wild_body",
+            "Side": ["Savage"],
+            "WatchPosition": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "WatchPrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "WatchRotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "_proto": "5cc2e59214c02e000f16684e",
+        "_type": "Item"
+    },
+    "61922589bb2cea6f7a22d964": {
+        "_id": "61922589bb2cea6f7a22d964",
+        "_name": "wild_pants_yellowcoat",
+        "_parent": "5cc0869814c02e000a4cad94",
+        "_props": {
+            "BodyPart": "Feet",
+            "Description": "wild_feet_1",
+            "IntegratedArmorVest": false,
+            "Name": "wild_feet_1",
+            "Prefab": {
+                "path": "assets/content/characters/character/prefabs/pants_wild_yellowcoat.bundle",
+                "rcid": ""
+            },
+            "ShortName": "wild_feet_1",
+            "Side": ["Savage"],
+            "WatchPosition": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "WatchPrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "WatchRotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "_proto": "5cde9fb87d6c8b0474535da9",
+        "_type": "Item"
+    },
+    "619238266c614e6d15792bca": {
+        "_id": "619238266c614e6d15792bca",
+        "_name": "wild_body_bomber",
+        "_parent": "5cc0868e14c02e000c6bea68",
+        "_props": {
+            "BodyPart": "Body",
+            "Description": "wild_body",
+            "IntegratedArmorVest": false,
+            "Name": "wild_body",
+            "Prefab": {
+                "path": "assets/content/characters/character/prefabs/top_wild_bomber.bundle",
+                "rcid": ""
+            },
+            "ShortName": "wild_body",
+            "Side": ["Savage"],
+            "WatchPosition": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "WatchPrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "WatchRotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "_proto": "5cc2e59214c02e000f16684e",
+        "_type": "Item"
+    },
+    "6193be546e5968395b260157": {
+        "_id": "6193be546e5968395b260157",
+        "_name": "wild_feet_bomber",
+        "_parent": "5cc0869814c02e000a4cad94",
+        "_props": {
+            "BodyPart": "Feet",
+            "Description": "wild_feet_1",
+            "IntegratedArmorVest": false,
+            "Name": "wild_feet_1",
+            "Prefab": {
+                "path": "assets/content/characters/character/prefabs/pants_wild_bomber.bundle",
+                "rcid": ""
+            },
+            "ShortName": "wild_feet_1",
+            "Side": ["Savage"],
+            "WatchPosition": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "WatchPrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "WatchRotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "_proto": "5cde9fb87d6c8b0474535da9",
+        "_type": "Item"
+    },
+    "6197aca964ae5436d76c1f98": {
+        "_id": "6197aca964ae5436d76c1f98",
+        "_name": "SavageHands_yellowcoat",
+        "_parent": "5cc086a314c02e000c6bea69",
+        "_props": {
+            "BodyPart": "Hands",
+            "Description": "SavageHands1",
+            "IntegratedArmorVest": false,
+            "Name": "SavageHands1",
+            "Prefab": {
+                "path": "assets/content/hands/hands_wild_yellowcoat/hands_wild_yellowcoat.skin.bundle",
+                "rcid": ""
+            },
+            "ShortName": "SavageHands1",
+            "Side": ["Savage"],
+            "WatchPosition": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "WatchPrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "WatchRotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "_proto": "5cc2e68f14c02e28b47de290",
+        "_type": "Item"
+    },
+    "619b99ad604fcc392676806c": {
+        "_id": "619b99ad604fcc392676806c",
+        "_name": "bear_kit_lower_sumrak",
+        "_parent": "5cd944d01388ce000a659df9",
+        "_props": {
+            "AvailableAsDefault": false,
+            "Description": "DefaultBearLowerSuite",
+            "Feet": "617be9e4e02b3b3fa50fa8f2",
+            "Name": "DefaultBearLowerSuite",
+            "ShortName": "DefaultBearLowerSuite",
+            "Side": ["Bear"]
+        },
+        "_proto": "5cd946231388ce000d572fe3",
+        "_type": "Item"
+    },
+    "619b99d2d8ed4b751d2606c1": {
+        "_id": "619b99d2d8ed4b751d2606c1",
+        "_name": "usec_kit_lower_cereum",
+        "_parent": "5cd944d01388ce000a659df9",
+        "_props": {
+            "AvailableAsDefault": false,
+            "Description": "DefaultBearLowerSuite",
+            "Feet": "617c02e24013b06b0b78df80",
+            "Name": "DefaultBearLowerSuite",
+            "ShortName": "DefaultBearLowerSuite",
+            "Side": ["Usec"]
+        },
+        "_proto": "5cd946231388ce000d572fe3",
+        "_type": "Item"
+    },
+    "619bf75264927e572d0d5853": {
+        "_id": "619bf75264927e572d0d5853",
+        "_name": "bear_kit_upper_sumrak",
+        "_parent": "5cd944ca1388ce03a44dc2a4",
+        "_props": {
+            "AvailableAsDefault": false,
+            "Body": "617bca4b4013b06b0b78df2a",
+            "Description": "DefaultBearLowerSuite",
+            "Hands": "618aeee10a5a59657e5f55ed",
+            "Name": "DefaultBearLowerSuite",
+            "ShortName": "DefaultBearLowerSuite",
+            "Side": ["Bear"]
+        },
+        "_proto": "5cd946231388ce000d572fe3",
+        "_type": "Item"
+    },
+    "619bf78a64927e572d0d5855": {
+        "_id": "619bf78a64927e572d0d5855",
+        "_name": "usec_kit_upper_cereum",
+        "_parent": "5cd944ca1388ce03a44dc2a4",
+        "_props": {
+            "AvailableAsDefault": false,
+            "Body": "618109c96d7ca35d076b3363",
+            "Description": "DefaultUsecUpperSuite",
+            "Hands": "618d1a5574bb2d036a049ea9",
+            "Name": "DefaultUsecUpperSuite",
+            "ShortName": "DefaultUsecUpperSuite",
+            "Side": ["Usec"]
+        },
+        "_proto": "5cde9ec17d6c8b04723cf479",
+        "_type": "Item"
+    },
+    "619f94f5b90286142b59d45f": {
+        "_id": "619f94f5b90286142b59d45f",
+        "_name": "bear_head_5",
+        "_parent": "5cc085e214c02e000c6bea67",
+        "_props": {
+            "BodyPart": "Head",
+            "Description": "BearHead1",
+            "IntegratedArmorVest": false,
+            "Name": "BearHead1",
+            "Prefab": {
+                "path": "assets/content/characters/character/prefabs/bear_head_slava.bundle",
+                "rcid": ""
+            },
+            "ShortName": "BearHead1",
+            "Side": ["Bear"],
+            "WatchPosition": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "WatchPrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "WatchRotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "_proto": "5cc084dd14c02e000b0550a3",
+        "_type": "Item"
+    },
+    "619f9e338858a474c8685cc9": {
+        "_id": "619f9e338858a474c8685cc9",
+        "_name": "usec_head_6",
+        "_parent": "5cc085e214c02e000c6bea67",
+        "_props": {
+            "BodyPart": "Head",
+            "Description": "usec_head_5",
+            "IntegratedArmorVest": false,
+            "Name": "usec_head_5",
+            "Prefab": {
+                "path": "assets/content/characters/character/prefabs/usec_head_sean.bundle",
+                "rcid": ""
+            },
+            "ShortName": "usec_head_5",
+            "Side": ["Usec"],
+            "WatchPosition": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "WatchPrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "WatchRotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            }
+        },
+        "_proto": "5cc2e4d014c02e000d0115f8",
+        "_type": "Item"
+    },
+    "61a49f549128666d8302b5f1": {
+        "_id": "61a49f549128666d8302b5f1",
+        "_name": "SavageKitUpperYellowcoat",
+        "_parent": "5cd944ca1388ce03a44dc2a4",
+        "_props": {
+            "AvailableAsDefault": false,
+            "Body": "618d1af10a5a59657e5f56f3",
+            "Description": "SavageUpperSuite1",
+            "Hands": "6197aca964ae5436d76c1f98",
+            "Name": "SavageUpperSuite1",
+            "ShortName": "SavageUpperSuite1",
+            "Side": ["Savage"]
+        },
+        "_proto": "5cdea23c7d6c8b04723cf47b",
+        "_type": "Item"
+    },
+    "61a4a06dba63c0388e05613e": {
+        "_id": "61a4a06dba63c0388e05613e",
+        "_name": "scav_kit_lower_yellowcoat",
+        "_parent": "5cd944d01388ce000a659df9",
+        "_props": {
+            "AvailableAsDefault": false,
+            "Description": "SavageLowerSuite2",
+            "Feet": "61922589bb2cea6f7a22d964",
+            "Name": "SavageLowerSuite2",
+            "ShortName": "SavageLowerSuite2",
+            "Side": ["Savage"]
+        },
+        "_proto": "5cdea30c7d6c8b04737c2d15",
+        "_type": "Item"
+    },
+    "61a4a138ba63c0388e056140": {
+        "_id": "61a4a138ba63c0388e056140",
+        "_name": "SavageKitUpperBomber",
+        "_parent": "5cd944ca1388ce03a44dc2a4",
+        "_props": {
+            "AvailableAsDefault": false,
+            "Body": "619238266c614e6d15792bca",
+            "Description": "SavageUpperSuite1",
+            "Hands": "618cf9540a5a59657e5f5677",
+            "Name": "SavageUpperSuite1",
+            "ShortName": "SavageUpperSuite1",
+            "Side": ["Savage"]
+        },
+        "_proto": "5cdea23c7d6c8b04723cf47b",
+        "_type": "Item"
+    },
+    "61a4a1c59128666d8302b5f3": {
+        "_id": "61a4a1c59128666d8302b5f3",
+        "_name": "scav_kit_lower_bomber",
+        "_parent": "5cd944d01388ce000a659df9",
+        "_props": {
+            "AvailableAsDefault": false,
+            "Description": "SavageLowerSuite2",
+            "Feet": "6193be546e5968395b260157",
+            "Name": "SavageLowerSuite2",
+            "ShortName": "SavageLowerSuite2",
+            "Side": ["Savage"]
+        },
+        "_proto": "5cdea30c7d6c8b04737c2d15",
+        "_type": "Item"
     }
+}
+    "Body": "5fd22d311add82653b5a704c",
+                "Hands": "5fd7901bdd870108a754c0e6"
+            },
+            "_proto": "5cdea23c7d6c8b04723cf47b"
+        },
+        "5d1f609d86f7744bca3f1689": {
+            "_id": "5d1f609d86f7744bca3f1689",
+            "_name": "bear_kit_upper_blacklynx",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultBearLowerSuite",
+                "ShortName": "DefaultBearLowerSuite",
+                "Description": "DefaultBearLowerSuite",
+                "Side": ["Bear"],
+                "AvailableAsDefault": false,
+                "Body": "5d1f566d86f7744bcd13459a",
+                "Hands": "5d1f5a9786f7743014162046"
+            },
+            "_proto": "5cd946231388ce000d572fe3"
+        },
+        "5fd7910ae3bfcf6cab4c9f55": {
+            "_id": "5fd7910ae3bfcf6cab4c9f55",
+            "_name": "SavageKitUpperRainparka",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "SavageUpperSuite1",
+                "ShortName": "SavageUpperSuite1",
+                "Description": "SavageUpperSuite1",
+                "Side": ["Savage"],
+                "AvailableAsDefault": false,
+                "Body": "5fd1eb3fbe3b7107d66cb645",
+                "Hands": "5fd78fe9e3bfcf6cab4c9f54"
+            },
+            "_proto": "5cdea23c7d6c8b04723cf47b"
+        },
+        "5cdea3197d6c8b20b577f017": {
+            "_id": "5cdea3197d6c8b20b577f017",
+            "_name": "SavageUpperSuite2",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "SavageUpperSuite2",
+                "ShortName": "SavageUpperSuite2",
+                "Description": "SavageUpperSuite2",
+                "Side": ["Savage"],
+                "AvailableAsDefault": false,
+                "Body": "5cde9f337d6c8b0474535da8",
+                "Hands": "5cde9fff7d6c8b647a3769b1"
+            }
+        },
+        "5cdea23c7d6c8b04723cf47b": {
+            "_id": "5cdea23c7d6c8b04723cf47b",
+            "_name": "SavageUpperSuite1",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "SavageUpperSuite1",
+                "ShortName": "SavageUpperSuite1",
+                "Description": "SavageUpperSuite1",
+                "Side": ["Savage"],
+                "AvailableAsDefault": false,
+                "Body": "5cc2e59214c02e000f16684e",
+                "Hands": "5cc2e68f14c02e28b47de290"
+            }
+        },
+        "5e4bb8e686f77406796b7ba2": {
+            "_id": "5e4bb8e686f77406796b7ba2",
+            "_name": "SavageUpperRussia1",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "SavageUpperSuite1",
+                "ShortName": "SavageUpperSuite1",
+                "Description": "SavageUpperSuite1",
+                "Side": ["Savage"],
+                "AvailableAsDefault": false,
+                "Body": "5e4bb3ee86f77406975c934e",
+                "Hands": "5e4bb49586f77406a313ec5a"
+            },
+            "_proto": "5cdea23c7d6c8b04723cf47b"
+        },
+        "5d1f60b486f7744bcb0adfa8": {
+            "_id": "5d1f60b486f7744bcb0adfa8",
+            "_name": "bear_kit_upper_fsbfastresponse",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultBearLowerSuite",
+                "ShortName": "DefaultBearLowerSuite",
+                "Description": "DefaultBearLowerSuite",
+                "Side": ["Bear"],
+                "AvailableAsDefault": false,
+                "Body": "5d1f568486f7744bca3f0b98",
+                "Hands": "5d1f5ab286f7743f8362bcdd"
+            },
+            "_proto": "5cd946231388ce000d572fe3"
+        },
+        "5df8e5c886f7744a122d6834": {
+            "_id": "5df8e5c886f7744a122d6834",
+            "_name": "bear_kit_upper_zaslon",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultBearLowerSuite",
+                "ShortName": "DefaultBearLowerSuite",
+                "Description": "DefaultBearLowerSuite",
+                "Side": ["Bear"],
+                "AvailableAsDefault": false,
+                "Body": "5df89f1f86f77412631087ea",
+                "Hands": "5df8e76486f7740bfe6df782"
+            },
+            "_proto": "5cd946231388ce000d572fe3"
+        },
+        "5e9dcb8386f774054b6f79a9": {
+            "_id": "5e9dcb8386f774054b6f79a9",
+            "_name": "bear_kit_upper_tiger",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultBearLowerSuite",
+                "ShortName": "DefaultBearLowerSuite",
+                "Description": "DefaultBearLowerSuite",
+                "Side": ["Bear"],
+                "AvailableAsDefault": false,
+                "Body": "5e9d9fa986f774054d6b89f2",
+                "Hands": "5e9da26286f7741d2e3424a5"
+            },
+            "_proto": "5cd946231388ce000d572fe3"
+        },
+        "5f5f45df0bc58666c37e7832": {
+            "_id": "5f5f45df0bc58666c37e7832",
+            "_name": "bear_kit_upper_g99",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultBearLowerSuite",
+                "ShortName": "DefaultBearLowerSuite",
+                "Description": "DefaultBearLowerSuite",
+                "Side": ["Bear"],
+                "AvailableAsDefault": false,
+                "Body": "5f5e401747344c2e4f6c42c5",
+                "Hands": "5f5f3fa30bc58666c37e782e"
+            },
+            "_proto": "5cd946231388ce000d572fe3"
+        },
+        "5d1f60ca86f7743014163025": {
+            "_id": "5d1f60ca86f7743014163025",
+            "_name": "bear_kit_upper_ghostmarksman",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultBearLowerSuite",
+                "ShortName": "DefaultBearLowerSuite",
+                "Description": "DefaultBearLowerSuite",
+                "Side": ["Bear"],
+                "AvailableAsDefault": false,
+                "Body": "5d1f567786f7744bcc04874f",
+                "Hands": "5d1f5ac086f7744bcd1345a0"
+            },
+            "_proto": "5cd946231388ce000d572fe3"
+        },
+        "5d1f60f086f7744bce0ef704": {
+            "_id": "5d1f60f086f7744bce0ef704",
+            "_name": "bear_kit_upper_summerfield",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultBearLowerSuite",
+                "ShortName": "DefaultBearLowerSuite",
+                "Description": "DefaultBearLowerSuite",
+                "Side": ["Bear"],
+                "AvailableAsDefault": false,
+                "Body": "5d1f564b86f7744bcb0acd16",
+                "Hands": "5d1f5aca86f7744bce0ee9f1"
+            },
+            "_proto": "5cd946231388ce000d572fe3"
+        },
+        "619bf75264927e572d0d5853": {
+            "_id": "619bf75264927e572d0d5853",
+            "_name": "bear_kit_upper_sumrak",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultBearLowerSuite",
+                "ShortName": "DefaultBearLowerSuite",
+                "Description": "DefaultBearLowerSuite",
+                "Side": ["Bear"],
+                "AvailableAsDefault": false,
+                "Body": "617bca4b4013b06b0b78df2a",
+                "Hands": "618aeee10a5a59657e5f55ed"
+            },
+            "_proto": "5cd946231388ce000d572fe3"
+        },
+        "6038b228af2e28262649af14": {
+            "_id": "6038b228af2e28262649af14",
+            "_name": "bear_kit_upper_voin",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultBearLowerSuite",
+                "ShortName": "DefaultBearLowerSuite",
+                "Description": "DefaultBearLowerSuite",
+                "Side": ["Bear"],
+                "AvailableAsDefault": false,
+                "Body": "6033a31e9ec839204e6a2f3e",
+                "Hands": "6034d3053903bc73173b0d35"
+            },
+            "_proto": "5cd946231388ce000d572fe3"
+        },
+        "5fd3e8e5bdd50d684f73a51d": {
+            "_id": "5fd3e8e5bdd50d684f73a51d",
+            "_name": "bear_kit_upper_termo",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultBearLowerSuite",
+                "ShortName": "DefaultBearLowerSuite",
+                "Description": "DefaultBearLowerSuite",
+                "Side": ["Bear"],
+                "AvailableAsDefault": false,
+                "Body": "5fce3e0cfe40296c1d5fd782",
+                "Hands": "5fd75289b1f9ad0f60509d25"
+            },
+            "_proto": "5cd946231388ce000d572fe3"
+        },
+        "5e4bb08f86f774069619fbbc": {
+            "_id": "5e4bb08f86f774069619fbbc",
+            "_name": "bear_kit_upper_telnik",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultBearLowerSuite",
+                "ShortName": "DefaultBearLowerSuite",
+                "Description": "DefaultBearLowerSuite",
+                "Side": ["Bear"],
+                "AvailableAsDefault": false,
+                "Body": "5e4bb31586f7740695730568",
+                "Hands": "5e4bb1d286f77406a313ec59"
+            },
+            "_proto": "5cd946231388ce000d572fe3"
+        },
+        "5fd3e978e504291efd0040b3": {
+            "_id": "5fd3e978e504291efd0040b3",
+            "_name": "usec_kit_upper_acu",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultUsecUpperSuite",
+                "ShortName": "DefaultUsecUpperSuite",
+                "Description": "DefaultUsecUpperSuite",
+                "Side": ["Usec"],
+                "AvailableAsDefault": false,
+                "Body": "5fd3e9f71b735718c25cd9f8",
+                "Hands": "5fd78519a8c881276c55eae6"
+            },
+            "_proto": "5cde9ec17d6c8b04723cf479"
+        },
+        "5df8e65d86f77412672a1e46": {
+            "_id": "5df8e65d86f77412672a1e46",
+            "_name": "scav_kit_upper_meteor",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "KillaUpperSuite",
+                "ShortName": "KillaUpperSuite",
+                "Description": "KillaUpperSuite",
+                "Side": ["Savage"],
+                "AvailableAsDefault": false,
+                "Body": "5df8a10486f77412672a1e3a",
+                "Hands": "5df8eac086f77412640e2ea7"
+            },
+            "_proto": "5cdea42e7d6c8b0474535dad"
+        },
+        "5f5f46086760b4138443b358": {
+            "_id": "5f5f46086760b4138443b358",
+            "_name": "usec_kit_upper_NightPatrol",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultUsecUpperSuite",
+                "ShortName": "DefaultUsecUpperSuite",
+                "Description": "DefaultUsecUpperSuite",
+                "Side": ["Usec"],
+                "AvailableAsDefault": false,
+                "Body": "5f5e4075df4f3100376a8138",
+                "Hands": "5f5f3fc66bdad616ad46d62f"
+            },
+            "_proto": "5cde9ec17d6c8b04723cf479"
+        },
+        "6038b24cd6505c1ec64a44a0": {
+            "_id": "6038b24cd6505c1ec64a44a0",
+            "_name": "usec_kit_upper_beltstaff",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultUsecUpperSuite",
+                "ShortName": "DefaultUsecUpperSuite",
+                "Description": "DefaultUsecUpperSuite",
+                "Side": ["Usec"],
+                "AvailableAsDefault": false,
+                "Body": "6033a35f80ae5e2f970ba6bb",
+                "Hands": "6034d33392ec1c31037959dc"
+            },
+            "_proto": "5cde9ec17d6c8b04723cf479"
+        },
+        "619bf78a64927e572d0d5855": {
+            "_id": "619bf78a64927e572d0d5855",
+            "_name": "usec_kit_upper_cereum",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultUsecUpperSuite",
+                "ShortName": "DefaultUsecUpperSuite",
+                "Description": "DefaultUsecUpperSuite",
+                "Side": ["Usec"],
+                "AvailableAsDefault": false,
+                "Body": "618109c96d7ca35d076b3363",
+                "Hands": "618d1a5574bb2d036a049ea9"
+            },
+            "_proto": "5cde9ec17d6c8b04723cf479"
+        },
+        "5d4da10986f77450fc65edc3": {
+            "_id": "5d4da10986f77450fc65edc3",
+            "_name": "usec_kit_upper_commando",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultUsecUpperSuite",
+                "ShortName": "DefaultUsecUpperSuite",
+                "Description": "DefaultUsecUpperSuite",
+                "Side": ["Usec"],
+                "AvailableAsDefault": false,
+                "Body": "5d4da0cb86f77450fe0a6629",
+                "Hands": "5d4da36686f77421522b35ee"
+            },
+            "_proto": "5cde9ec17d6c8b04723cf479"
+        },
+        "5d1f622186f7744bca3f168c": {
+            "_id": "5d1f622186f7744bca3f168c",
+            "_name": "usec_kit_upper_aggressor",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultUsecUpperSuite",
+                "ShortName": "DefaultUsecUpperSuite",
+                "Description": "DefaultUsecUpperSuite",
+                "Side": ["Usec"],
+                "AvailableAsDefault": false,
+                "Body": "5d1f56c686f7744bcd13459c",
+                "Hands": "5d1f5b0686f7743f8362bcde"
+            },
+            "_proto": "5cde9ec17d6c8b04723cf479"
+        },
+        "5d1f623886f7743014163027": {
+            "_id": "5d1f623886f7743014163027",
+            "_name": "usec_kit_upper_pcsmulticam",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultUsecUpperSuite",
+                "ShortName": "DefaultUsecUpperSuite",
+                "Description": "DefaultUsecUpperSuite",
+                "Side": ["Usec"],
+                "AvailableAsDefault": false,
+                "Body": "5d1f56ff86f7743f8362bcd7",
+                "Hands": "5d1f5b4886f7744bce0ee9f3"
+            },
+            "_proto": "5cde9ec17d6c8b04723cf479"
+        },
+        "5d1f623386f7744bcd135833": {
+            "_id": "5d1f623386f7744bcd135833",
+            "_name": "usec_kit_upper_infiltrator",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultUsecUpperSuite",
+                "ShortName": "DefaultUsecUpperSuite",
+                "Description": "DefaultUsecUpperSuite",
+                "Side": ["Usec"],
+                "AvailableAsDefault": false,
+                "Body": "5d1f56f186f7744bcb0acd1a",
+                "Hands": "5d1f5b3f86f7744bcd1345a2"
+            },
+            "_proto": "5cde9ec17d6c8b04723cf479"
+        },
+        "5e4bb5e486f77406796b7b9e": {
+            "_id": "5e4bb5e486f77406796b7b9e",
+            "_name": "usec_kit_upper_tier_2",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultUsecUpperSuite",
+                "ShortName": "DefaultUsecUpperSuite",
+                "Description": "DefaultUsecUpperSuite",
+                "Side": ["Usec"],
+                "AvailableAsDefault": false,
+                "Body": "5e4bb35286f77406a511c9bc",
+                "Hands": "5e4bb1fe86f774069342dec8"
+            },
+            "_proto": "5cde9ec17d6c8b04723cf479"
+        },
+        "5cd944d01388ce000a659df9": {
+            "_id": "5cd944d01388ce000a659df9",
+            "_name": "Lower",
+            "_parent": "5cd943b21388ce03a44dc2a2",
+            "_type": "Node",
+            "_props": {
+                "Feet": "5cc0869814c02e000a4cad94"
+            }
+        },
+        "5fd3e77be504291efd0040ad": {
+            "_id": "5fd3e77be504291efd0040ad",
+            "_name": "usec_kit_upper_tier3",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultUsecUpperSuite",
+                "ShortName": "DefaultUsecUpperSuite",
+                "Description": "DefaultUsecUpperSuite",
+                "Side": ["Usec"],
+                "AvailableAsDefault": false,
+                "Body": "5fcf63da5c287f01f22bf245",
+                "Hands": "5fd7769cd3d418755f40ea43"
+            },
+            "_proto": "5cde9ec17d6c8b04723cf479"
+        },
+        "5d1f622e86f7744bcc04998c": {
+            "_id": "5d1f622e86f7744bcc04998c",
+            "_name": "usec_kit_upper_flexion",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultUsecUpperSuite",
+                "ShortName": "DefaultUsecUpperSuite",
+                "Description": "DefaultUsecUpperSuite",
+                "Side": ["Usec"],
+                "AvailableAsDefault": false,
+                "Body": "5d1f56e486f7744bce0ee9ed",
+                "Hands": "5d1f5b1986f7744bcd1345a1"
+            },
+            "_proto": "5cde9ec17d6c8b04723cf479"
+        },
+        "5e9dcb9c86f7743e20652f25": {
+            "_id": "5e9dcb9c86f7743e20652f25",
+            "_name": "usec_kit_upper_hoody",
+            "_parent": "5cd944ca1388ce03a44dc2a4",
+            "_type": "Item",
+            "_props": {
+                "Name": "DefaultUsecUpperSuite",
+                "ShortName": "DefaultUsecUpperSuite",
+                "Description": "DefaultUsecUpperSuite",
+                "Side": ["Usec"],
+                "AvailableAsDefault": false,
+                "Body": "5e9da17386f774054b6f79a3",
+                "Hands": "5e9da2a786f774054c19ac94"
+            },
+            "_proto": "5cde9ec17d6c8b04723cf479"
+        },
+        "5fc1221a95572123ae7384a2": {
+            "_id": "5fc1221a95572123ae7384a2",
+            "_name": "Bear_1",
+            "_parent": "5fc100cf95572123ae738483",
+            "_type": "Item",
+            "_props": {
+                "Name": "Bear_1",
+                "ShortName": "Bear_1",
+                "Description": "Bear_1",
+                "Side": ["Bear"],
+                "Prefab": "Bear_1"
+            }
+        },
+        "5fc6155b0b735e7b024c76ec": {
+            "_id": "5fc6155b0b735e7b024c76ec",
+            "_name": "BossGluhar",
+            "_parent": "5fc100cf95572123ae738483",
+            "_type": "Item",
+            "_props": {
+                "Name": "BossGluhar",
+                "ShortName": "BossGluhar",
+                "Description": "BossGluhar",
+                "Side": ["Savage"],
+                "Prefab": "BossGluhar"
+            }
+        },
+        "5cd944ca1388ce03a44dc2a4": {
+            "_id": "5cd944ca1388ce03a44dc2a4",
+            "_name": "Upper",
+            "_parent": "5cd943b21388ce03a44dc2a2",
+            "_type": "Node",
+            "_props": {
+                "Body": "5cc0868e14c02e000c6bea68",
+                "Hands": "5cc086a314c02e000c6bea69"
+            }
+        },
+        "5fc614da00efd824885865c2": {
+            "_id": "5fc614da00efd824885865c2",
+            "_name": "Bear_3",
+            "_parent": "5fc100cf95572123ae738483",
+            "_type": "Item",
+            "_props": {
+                "Name": "Bear_3",
+                "ShortName": "Bear_3",
+                "Description": "Bear_3",
+                "Side": ["Bear"],
+                "Prefab": "Bear_3"
+            }
+        },
+        "5fc50bddb4965a7a2f48c5af": {
+            "_id": "5fc50bddb4965a7a2f48c5af",
+            "_name": "Bear_2",
+            "_parent": "5fc100cf95572123ae738483",
+            "_type": "Item",
+            "_props": {
+                "Name": "Bear_2",
+                "ShortName": "Bear_2",
+                "Description": "Bear_2",
+                "Side": ["Bear"],
+                "Prefab": "Bear_2"
+            }
+        },
+        "5fc615460b735e7b024c76eb": {
+            "_id": "5fc615460b735e7b024c76eb",
+            "_name": "BossBully",
+            "_parent": "5fc100cf95572123ae738483",
+            "_type": "Item",
+            "_props": {
+                "Name": "BossBully",
+                "ShortName": "BossBully",
+                "Description": "BossBully",
+                "Side": ["Savage"],
+                "Prefab": "BossBully"
+            }
+        },
+        "5fc615710b735e7b024c76ed": {
+            "_id": "5fc615710b735e7b024c76ed",
+            "_name": "BossSanitar",
+            "_parent": "5fc100cf95572123ae738483",
+            "_type": "Item",
+            "_props": {
+                "Name": "BossSanitar",
+                "ShortName": "BossSanitar",
+                "Description": "BossSanitar",
+                "Side": ["Savage"],
+                "Prefab": "BossSanitar"
+            }
+        },
+        "5fc6144b0b735e7b024c76e7": {
+            "_id": "5fc6144b0b735e7b024c76e7",
+            "_name": "Scav_6",
+            "_parent": "5fc100cf95572123ae738483",
+            "_type": "Item",
+            "_props": {
+                "Name": "Scav_6",
+                "ShortName": "Scav_6",
+                "Description": "Scav_6",
+                "Side": ["Savage"],
+                "Prefab": "Scav_6"
+            }
+        },
+        "5fc615110b735e7b024c76ea": {
+            "_id": "5fc615110b735e7b024c76ea",
+            "_name": "Usec_3",
+            "_parent": "5fc100cf95572123ae738483",
+            "_type": "Item",
+            "_props": {
+                "Name": "Usec_3",
+                "ShortName": "Usec_3",
+                "Description": "Usec_3",
+                "Side": ["Usec"],
+                "Prefab": "Usec_3"
+            }
+        },
+        "5fc614390b735e7b024c76e6": {
+            "_id": "5fc614390b735e7b024c76e6",
+            "_name": "Scav_5",
+            "_parent": "5fc100cf95572123ae738483",
+            "_type": "Item",
+            "_props": {
+                "Name": "Scav_5",
+                "ShortName": "Scav_5",
+                "Description": "Scav_5",
+                "Side": ["Savage"],
+                "Prefab": "Scav_5"
+            }
+        },
+        "5fc614130b735e7b024c76e4": {
+            "_id": "5fc614130b735e7b024c76e4",
+            "_name": "Scav_3",
+            "_parent": "5fc100cf95572123ae738483",
+            "_type": "Item",
+            "_props": {
+                "Name": "Scav_3",
+                "ShortName": "Scav_3",
+                "Description": "Scav_3",
+                "Side": ["Savage"],
+                "Prefab": "Scav_3"
+            }
+        },
+        "5fc613c80b735e7b024c76e2": {
+            "_id": "5fc613c80b735e7b024c76e2",
+            "_name": "Scav_1",
+            "_parent": "5fc100cf95572123ae738483",
+            "_type": "Item",
+            "_props": {
+                "Name": "Scav_1",
+                "ShortName": "Scav_1",
+                "Description": "Scav_1",
+                "Side": ["Savage"],
+                "Prefab": "Scav_1"
+            }
+        },
+        "5fc613e10b735e7b024c76e3": {
+            "_id": "5fc613e10b735e7b024c76e3",
+            "_name": "Scav_2",
+            "_parent": "5fc100cf95572123ae738483",
+            "_type": "Item",
+            "_props": {
+                "Name": "Scav_2",
+                "ShortName": "Scav_2",
+                "Description": "Scav_2",
+                "Side": ["Savage"],
+                "Prefab": "Scav_2"
+            }
+        },
+        "5fc614f40b735e7b024c76e9": {
+            "_id": "5fc614f40b735e7b024c76e9",
+            "_name": "Usec_2",
+            "_parent": "5fc100cf95572123ae738483",
+            "_type": "Item",
+            "_props": {
+                "Name": "Usec_2",
+                "ShortName": "Usec_2",
+                "Description": "Usec_2",
+                "Side": ["Usec"],
+                "Prefab": "Usec_2"
+            }
+        },
+        "5fc1223595572123ae7384a3": {
+            "_id": "5fc1223595572123ae7384a3",
+            "_name": "Usec_1",
+            "_parent": "5fc100cf95572123ae738483",
+            "_type": "Item",
+            "_props": {
+                "Name": "Usec_1",
+                "ShortName": "Usec_1",
+                "Description": "Usec_1",
+                "Side": ["Usec"],
+                "Prefab": "Usec_1"
+            }
+        },
+        "5fc614290b735e7b024c76e5": {
+            "_id": "5fc614290b735e7b024c76e5",
+            "_name": "Scav_4",
+            "_parent": "5fc100cf95572123ae738483",
+            "_type": "Item",
+            "_props": {
+                "Name": "Scav_4",
+                "ShortName": "Scav_4",
+                "Description": "Scav_4",
+                "Side": ["Savage"],
+                "Prefab": "Scav_4"
+            }
+        },
+        "5cd943c31388ce000a659df5": {
+            "_id": "5cd943c31388ce000a659df5",
+            "_name": "BodyParts",
+            "_parent": "5cbdb4a2e2b501000d352ae2",
+            "_type": "Node",
+            "_props": {
+                "BodyPart": "Head",
+                "Prefab": {
+                    "path": "",
+                    "rcid": ""
+                },
+                "WatchPrefab": {
+                    "path": "",
+                    "rcid": ""
+                },
+                "IntegratedArmorVest": false,
+                "WatchPosition": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                },
+                "WatchRotation": {
+                    "x": 0,
+                    "y": 0,
+                    "z": 0
+                }
+            }
+        },
+        "5cd943b21388ce03a44dc2a2": {
+            "_id": "5cd943b21388ce03a44dc2a2",
+            "_name": "Suits",
+            "_parent": "5cbdb4a2e2b501000d352ae2",
+            "_type": "Node",
+            "_props": {
+                "AvailableAsDefault": false
+            }
+        },
+        "5fc100cf95572123ae738483": {
+            "_id": "5fc100cf95572123ae738483",
+            "_name": "Voice",
+            "_parent": "5cbdb4a2e2b501000d352ae2",
+            "_type": "Node",
+            "_props": {
+                "Name": "Voice",
+                "ShortName": "Voice",
+                "Description": "Voice",
+                "Side": [],
+                "Prefab": ""
+            }
+        }
+    }      "Prefab": ""
+            }
+        }
+    },
+    "crc": 2055404279
 }
