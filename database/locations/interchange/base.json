@@ -337,7 +337,7 @@
 	"MaxDistToFreePoint": 200,
 	"MinDistToFreePoint": 50,
 	"MaxBotPerZone": 2,
-	"OpenZones": "ZoneIDEA,ZoneRoad,ZoneCenter,ZoneCenterBot,ZoneOLI,ZoneOLIPark,ZoneGoshan,ZonePowerStation,ZoneTrucks,ZoneIDEAPark",
+	"OpenZones": "ZoneCenter,ZoneCenterBot,ZoneOLI,ZoneIDEA,ZoneRoad,ZoneIDEAPark,ZoneGoshan,ZonePowerStation,ZoneTrucks,ZoneOLIPark",
 	"OcculsionCullingEnabled": true,
 	"GlobalLootChanceModifier": 0.83,
 	"OldSpawn": false,
@@ -359,7 +359,7 @@
 	"BotMarksman": 0,
 	"DisabledScavExits": "scav_NW,scav_SE",
 	"AccessKeys": [],
-	"UnixDateTime": 1624025769,
+	"UnixDateTime": 1636383182,
 	"users_gather_seconds": 0,
 	"users_spawn_seconds_n": 120,
 	"users_spawn_seconds_n2": 200,
@@ -471,7 +471,7 @@
 	"BossLocationSpawn": [
 		{
 			"BossName": "bossKilla",
-			"BossChance": 35,
+			"BossChance": 12,
 			"BossZone": "ZoneCenterBot,ZoneCenter,ZoneOLI,ZoneIDEA,ZoneGoshan,ZoneIDEAPark,ZoneOLIPark",
 			"BossPlayer": false,
 			"BossDifficult": "normal",

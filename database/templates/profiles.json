@@ -26,7 +26,9 @@
 					},
 					"NicknameChangeDate": 0,
 					"IsStreamerModeAvailable": false,
-					"Bans": []
+					"Bans": [],
+					"BannedState": false,
+					"BannedUntil": 0
 				},
 				"Customization": {
 					"Head": "__REPLACEME__",
@@ -2385,7 +2387,9 @@
 					"Points": 0
 				},
 				"Stats": {
-					"SessionCounters": null,
+					"SessionCounters": {
+						"Items": []
+					},
 					"OverallCounters": {
 						"Items": []
 					},
@@ -2763,7 +2767,9 @@
 					},
 					"NicknameChangeDate": 0,
 					"IsStreamerModeAvailable": false,
-					"Bans": []
+					"Bans": [],
+					"BannedState": false,
+					"BannedUntil": 0
 				},
 				"Customization": {
 					"Head": "__REPLACEME__",
@@ -5707,7 +5713,9 @@
 					},
 					"NicknameChangeDate": 0,
 					"IsStreamerModeAvailable": false,
-					"Bans": []
+					"Bans": [],
+					"BannedState": false,
+					"BannedUntil": 0
 				},
 				"Customization": {
 					"Head": "__REPLACEME__",
@@ -9047,7 +9055,9 @@
 					},
 					"NicknameChangeDate": 0,
 					"IsStreamerModeAvailable": false,
-					"Bans": []
+					"Bans": [],
+					"BannedState": false,
+					"BannedUntil": 0
 				},
 				"Customization": {
 					"Head": "__REPLACEME__",
@@ -12496,7 +12506,9 @@
 					},
 					"NicknameChangeDate": 0,
 					"IsStreamerModeAvailable": false,
-					"Bans": []
+					"Bans": [],
+					"BannedState": false,
+					"BannedUntil": 0
 				},
 				"Customization": {
 					"Head": "__REPLACEME__",
@@ -16347,7 +16359,9 @@
 					},
 					"NicknameChangeDate": 0,
 					"IsStreamerModeAvailable": false,
-					"Bans": []
+					"Bans": [],
+					"BannedState": false,
+					"BannedUntil": 0
 				},
 				"Customization": {
 					"Head": "__REPLACEME__",
@@ -20341,7 +20355,9 @@
 					},
 					"NicknameChangeDate": 0,
 					"IsStreamerModeAvailable": false,
-					"Bans": []
+					"Bans": [],
+					"BannedState": false,
+					"BannedUntil": 0
 				},
 				"Customization": {
 					"Head": "__REPLACEME__",
@@ -24808,7 +24824,9 @@
 					},
 					"NicknameChangeDate": 0,
 					"IsStreamerModeAvailable": false,
-					"Bans": []
+					"Bans": [],
+					"BannedState": false,
+					"BannedUntil": 0
 				},
 				"Customization": {
 					"Head": "__REPLACEME__",

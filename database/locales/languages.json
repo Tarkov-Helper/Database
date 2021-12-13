@@ -32,6 +32,10 @@
 		"Name": "Japanese"
 	},
 	{
+		"ShortName": "kr",
+		"Name": "Korean"
+	},
+	{
 		"ShortName": "pl",
 		"Name": "Polish"
 	},
@@ -58,9 +62,5 @@
 	{
 		"ShortName": "ru",
 		"Name": "Русский"
-	},
-	{
-		"ShortName": "kr",
-		"Name": "Korean"
 	}
 ]

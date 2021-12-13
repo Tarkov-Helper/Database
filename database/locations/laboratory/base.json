@@ -73,7 +73,7 @@
 	"MaxDistToFreePoint": 900,
 	"MinDistToFreePoint": 10,
 	"MaxBotPerZone": 0,
-	"OpenZones": "BotZoneMain",
+	"OpenZones": "BotZoneFloor1,BotZoneFloor2",
 	"OcculsionCullingEnabled": true,
 	"GlobalLootChanceModifier": 0.37,
 	"OldSpawn": true,
@@ -97,7 +97,7 @@
 	"AccessKeys": [
 		"5c94bbff86f7747ee735c08f"
 	],
-	"UnixDateTime": 1624091771,
+	"UnixDateTime": 1636383862,
 	"users_gather_seconds": 0,
 	"users_spawn_seconds_n": 120,
 	"users_spawn_seconds_n2": 200,

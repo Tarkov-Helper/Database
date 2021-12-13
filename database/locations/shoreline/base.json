@@ -373,7 +373,7 @@
 	"MaxDistToFreePoint": 300,
 	"MinDistToFreePoint": 85,
 	"MaxBotPerZone": 4,
-	"OpenZones": "ZoneSanatorium,ZonePassFar,ZonePassClose,ZoneTunnel,ZoneStartVillage,ZoneBunker",
+	"OpenZones": "ZoneSanatorium1,ZoneSanatorium2,ZoneIsland,ZoneGasStation,ZoneMeteoStation,ZonePowerStation,ZoneBusStation,ZoneRailWays,ZonePort,ZoneBunkeSniper,ZonePowerStationSniper,ZoneForestTruck,ZoneForestSpawn",
 	"OcculsionCullingEnabled": true,
 	"GlobalLootChanceModifier": 0.3,
 	"OldSpawn": false,
@@ -395,7 +395,7 @@
 	"BotMarksman": 20,
 	"DisabledScavExits": "",
 	"AccessKeys": [],
-	"UnixDateTime": 1624027842,
+	"UnixDateTime": 1636379143,
 	"users_gather_seconds": 0,
 	"users_spawn_seconds_n": 120,
 	"users_spawn_seconds_n2": 200,
@@ -429,7 +429,7 @@
 		{
 			"Name": "Rock Passage",
 			"EntryPoints": "Village,Riverside",
-			"Chance": 50,
+			"Chance": 0,
 			"Id": "",
 			"MinTime": 0,
 			"MaxTime": 0,
@@ -469,6 +469,28 @@
 			"PlayersCount": 0,
 			"ExfiltrationTime": 8,
 			"RequirementTip": ""
+		},
+		{
+			"Name": "Lighthouse_pass",
+			"EntryPoints": "Village,Riverside",
+			"Chance": 100,
+			"Id": "",
+			"MinTime": 0,
+			"MaxTime": 0,
+			"PlayersCount": 0,
+			"ExfiltrationTime": 8,
+			"RequirementTip": ""
+		},
+		{
+			"Name": "Road_at_railbridge",
+			"EntryPoints": "Village",
+			"Chance": 100,
+			"Id": "",
+			"MinTime": 0,
+			"MaxTime": 0,
+			"PlayersCount": 0,
+			"ExfiltrationTime": 8,
+			"RequirementTip": ""
 		}
 	],
 	"DisabledForScav": false,
@@ -487,7 +509,7 @@
 		{
 			"BossName": "bossSanitar",
 			"BossChance": 32,
-			"BossZone": "ZonePort,ZoneSanatorium1,ZoneSanatorium2",
+			"BossZone": "ZonePort,ZoneGreenHouses,ZoneSanatorium1,ZoneGreenHouses,ZoneSanatorium2",
 			"BossPlayer": false,
 			"BossDifficult": "normal",
 			"BossEscortType": "followerSanitar",
@@ -1867,7 +1889,7 @@
 						"y": 0,
 						"z": 0
 					},
-					"Radius": 158.9
+					"Radius": 1500
 				}
 			},
 			"BotZoneName": "ZoneTunnel"
@@ -3808,9 +3830,9 @@
 		{
 			"Id": "823bd6a4-58e2-489e-b557-c64ea6a8cb08",
 			"Position": {
-				"x": 454.62,
+				"x": 446.98,
 				"y": -46.8964081,
-				"z": 243.779984
+				"z": 237.01
 			},
 			"Rotation": 0,
 			"Sides": [
@@ -6436,7 +6458,7 @@
 						"y": 0,
 						"z": 0
 					},
-					"Radius": 212
+					"Radius": 1500
 				}
 			},
 			"BotZoneName": "ZoneTunnel"
