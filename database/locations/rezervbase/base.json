@@ -189,7 +189,7 @@
 			"SpawnPoints": "",
 			"BotSide": "Savage",
 			"BotPreset": "hard",
-			"isPlayers": true,
+			"isPlayers": false,
 			"WildSpawnType": "assault"
 		},
 		{
@@ -208,7 +208,7 @@
 	"limits": [],
 	"AveragePlayTime": 30,
 	"AveragePlayerLevel": 35,
-	"escape_time_limit": 50,
+	"escape_time_limit": 40,
 	"Rules": "Normal",
 	"IsSecret": false,
 	"doors": [],
@@ -262,8 +262,8 @@
 			"Name": "EXFIL_Train",
 			"EntryPoints": "Common",
 			"Chance": 100,
-			"MinTime": 1500,
-			"MaxTime": 2100,
+			"MinTime": 1350,
+			"MaxTime": 1680,
 			"PlayersCount": 0,
 			"ExfiltrationTime": 5,
 			"PassageRequirement": "Train",

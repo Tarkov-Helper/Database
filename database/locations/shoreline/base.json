@@ -381,7 +381,7 @@
 	"BotMax": 13,
 	"BotStart": 20,
 	"BotStop": 2700,
-	"BotMaxTimePlayer": 2000,
+	"BotMaxTimePlayer": 1800,
 	"BotSpawnTimeOnMin": 160,
 	"BotSpawnTimeOnMax": 220,
 	"BotSpawnTimeOffMin": 30,
