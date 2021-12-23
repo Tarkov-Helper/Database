@@ -137,13 +137,10 @@
     },
     "Ice cream cones": {
         "steps": [
-            "For this task, you have to find 3 [[60-round 6L31 5.45x39 magazine for AK-74 and compatibles|60-round 6L31 5.45x39 magazines]]. ",
-            "• These magazines have a chance to spawn in the locked room inside the [[Key ZB-014|ZB-014]] bunker on [[Woods]]. A [[Key ZB-014|ZB-014 key]] is needed to access the room. You can find them on top of the barrels, and sometimes on the floor near the barrels.",
-            "• You can find the magazines inside [[Looting#Searchable Containers|weapon boxes]] and [[wooden crate]]s.",
-            "• [[Scav Raiders]] on [[Reserve]] and [[The Lab]] have a chance to spawn with these magazines, along with [[Killa]], [[Glukhar|Glukhar's]] guards, [[Sanitar|Sanitar's]] guards, and [[Cultists]]. Taking out any of these bosses is very difficult however can sometimes lead to multiple magazines off of a single body.",
-            "• You can also build these magazines in Level 2 Lavatory.",
-            "•  Unlike many other quests, the activation of this quest does not guarantee the required items to spawn in the listed location.",
-            "•  You can also extract from [[Key ZB-014]] if there are green flares near the entrance to the bunker and if it is listed as an available extraction."
+            "• These magazines have a chance to spawn in the locked room inside the [ZB-014](https://escapefromtarkov.fandom.com/wiki/ZB-014_key) bunker on [Woods](https://escapefromtarkov.fandom.com/wiki/Woods). A [ZB-014 key](https://escapefromtarkov.fandom.com/wiki/ZB-014_key) is needed to access the room. You can find them on top of the barrels, and sometimes on the floor near the barrels. Since they are not guaranteed to spawn, you should also consider other ways to obtain them:",
+            "• *You can also find them inside [weapon boxes](https://escapefromtarkov.fandom.com/wiki/Looting#Searchable_Containers) and [wooden crate](https://escapefromtarkov.fandom.com/wiki/wooden_crate)s.",
+            "• *[Scav Raiders](https://escapefromtarkov.fandom.com/wiki/Scav_Raiders) on [Reserve](https://escapefromtarkov.fandom.com/wiki/Reserve) and [The Lab](https://escapefromtarkov.fandom.com/wiki/The_Lab) have a chance to spawn with these magazines, along with [Killa](https://escapefromtarkov.fandom.com/wiki/Killa), [Glukhar's](https://escapefromtarkov.fandom.com/wiki/Glukhar) guards, [Sanitar's](https://escapefromtarkov.fandom.com/wiki/Sanitar) guards and [Cultists](https://escapefromtarkov.fandom.com/wiki/Cultists). Taking out any of these enemies is very difficult, however can reward you with multiple magazines from a single body",
+            "• *It's also possible to craft them at the level 2 Lavatory in your [Hideout](https://escapefromtarkov.fandom.com/wiki/Hideout)"
         ],
         "images": [
             {
@@ -201,7 +198,9 @@
         ]
     },
     "Perfect mediator": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Grenadier": {
@@ -254,12 +253,11 @@
     },
     "The Punisher - Part 4": {
         "steps": [
-            "Only [[Weapons#Shotguns|shotguns]] using [[12x70mm]] can be used for the Scav kills in the Woods part of the quest. ",
-            "•  The [[MP-153 12ga semi-automatic shotgun|MP-153]], [[MP-155 12ga semi-automatic shotgun|MP155]] and [[Saiga 12ga ver. 10 12/76 shotgun|Saiga 12ga]] semi-auto shotguns may be the better choice to use over the pump shotguns like the [[MP-133 12ga shotgun|MP-133]], [[590A1]] and [[Remington Model 870 12ga shotgun|M870]].",
-            "•  Cost-performance wise vs [[Scavs]], the Buckshot shells may be the best to use. However, this would leave the player in a very disadvantageous state against well-armed and armored players.",
-            "•  Bosses, such as [[Shturman]] and his guards, count as Scav kills.",
-            "•  The [[Bars A-2607- 95x18]] knives are very commonly carried by [[Scavs]]. Be careful which knives you collect as the [[Bars A-2607- Damascus]] knife looks very similar but has a grey handle. ",
-            "•  PMCs on [[Shoreline]] can commonly be found passing by the gas station/marina and the hydroelectric power station, as well as inside of the health resort. [[Scavs]] on [[Woods]] can commonly be found in the areas marked with a red X on the map below.",
+            "• The [MP-153](https://escapefromtarkov.fandom.com/wiki/MP-153_12ga_semi-automatic_shotgun), [MP155](https://escapefromtarkov.fandom.com/wiki/MP-155_12ga_semi-automatic_shotgun) and [Saiga 12ga](https://escapefromtarkov.fandom.com/wiki/Saiga_12ga_ver.10_12/76_semi-automatic_shotgun) semi-auto shotguns may be the better choice to use over the pump shotguns like the [MP-133](https://escapefromtarkov.fandom.com/wiki/MP-133_12ga_pump-action_shotgun), [590A1](https://escapefromtarkov.fandom.com/wiki/590A1) and [M870](https://escapefromtarkov.fandom.com/wiki/Remington_Model_870_12ga_pump-action_shotgun).",
+            "• Cost-performance wise vs [Scavs](https://escapefromtarkov.fandom.com/wiki/Scavs), the Buckshot shells may be the best to use. However, this would leave the player in a very disadvantageous state against well-armed and armored players.",
+            "• Bosses, such as [Shturman](https://escapefromtarkov.fandom.com/wiki/Shturman) and his guards, count as Scav kills.",
+            "• The [Bars A-2607 • 95x18 knife](https://escapefromtarkov.fandom.com/wiki/Bars_A-2607_•_95x18_knife) knives are very commonly carried by [Scavs](https://escapefromtarkov.fandom.com/wiki/Scavs). Be careful which knives you collect as the [Bars A-2607 Damascus knife](https://escapefromtarkov.fandom.com/wiki/Bars_A-2607_Damascus_knife) knife looks very similar but has a grey handle. ",
+            "• PMCs on [Shoreline](https://escapefromtarkov.fandom.com/wiki/Shoreline) can commonly be found passing by the gas station/marina and the hydroelectric power station, as well as inside of the health resort. [Scavs](https://escapefromtarkov.fandom.com/wiki/Scavs) on [Woods](https://escapefromtarkov.fandom.com/wiki/Woods) can commonly be found in the areas marked with a red X on the map below.",
             "• You can not use the Shattered mask anymore."
         ],
         "images": [
@@ -285,20 +283,23 @@
     },
     "Shortage": {
         "steps": [
-            "The following areas have a reasonable chance to spawn [[Salewa FIRST AID KIT]]s:",
-            "•  In the south-eastern part of the storage area, there is a car trunk that spawns medical items. The storage room on the opposite side contains a [[Medbag SMU06|Medbag]].",
-            "•  The ambulance in front of the gas station can spawn medical items (and the [[Key to EMERCOM medical unit]] as a bonus).",
-            "•  Mantis has several containers and loose spawns (shelves, tables and beds) that can spawn [[Salewa FIRST AID KIT|Salewas]]. Keep in mind that Mantis is one of the hottest areas on the whole map.",
-            "•  Emercom contains several spawns, but requires the [[Key to EMERCOM medical unit]] to unlock.",
-            "•  The upstairs pharmacy on the opposite side of Techlight as well as the locked storage room (requires power + [[ULTRA medical storage key]]). Same as Mantis: Danger zone!",
-            "•  There are four ambulances along the western side of the map, which can spawn [[Salewa FIRST AID KIT|Salewas]] in the back.",
-            "•  The White Bishop building contains a medical room on the ground floor towards the train tracks.",
-            "•  The second floor of the Black Pawn building has a medical section with a [[Medbag SMU06|Medbag]] and loose spawns.",
-            "•  The forklift near the helicopter in the courtyard has loaded a [[Medical supply crate]].",
-            "•  Inside the White King building there is a  [[Medbag SMU06|Medbag]] in the first room after the stairs outside of the gym with the military tents.",
-            "•  The health resort, while being a high traffic area, contains a large amount of [[Medbag SMU06|Medbags]] and [[Medcase]]s.",
-            "•  There are two ambulances near the tunnel exfil and one directly outside of the resort.",
-            "•  The scav/treasure island (near tunnel exfil, past a beached barge) has a wooden shed that contains two [[Medbag SMU06|Medbags]]."
+            "• [Customs](https://escapefromtarkov.fandom.com/wiki/Customs)",
+            "• In the south-eastern part of the storage area, there is a car trunk that spawns medical items. The storage room on the opposite side contains a [Medbag](https://escapefromtarkov.fandom.com/wiki/Medbag_SMU06).",
+            "• The ambulance in front of the gas station can spawn medical items (and the [EMERCOM medical unit key](https://escapefromtarkov.fandom.com/wiki/EMERCOM_medical_unit_key) as a bonus).",
+            "• [Interchange](https://escapefromtarkov.fandom.com/wiki/Interchange)",
+            "• Mantis has several containers and loose spawns (shelves, tables and beds) that can spawn [Salewas](https://escapefromtarkov.fandom.com/wiki/Salewa_first_aid_kit). Keep in mind that Mantis is one of the hottest areas on the whole map.",
+            "• Emercom contains several spawns, but requires the [EMERCOM medical unit key](https://escapefromtarkov.fandom.com/wiki/EMERCOM_medical_unit_key) to unlock.",
+            "• The upstairs pharmacy on the opposite side of Techlight as well as the locked storage room (requires power + [ULTRA medical storage key](https://escapefromtarkov.fandom.com/wiki/ULTRA_medical_storage_key)). Same as Mantis: Danger zone!",
+            "• There are four ambulances along the western side of the map, which can spawn [Salewas](https://escapefromtarkov.fandom.com/wiki/Salewa_first_aid_kit) in the back.",
+            "• [Reserve](https://escapefromtarkov.fandom.com/wiki/Reserve)",
+            "• The White Bishop building contains a medical room on the ground floor towards the train tracks.",
+            "• The second floor of the Black Pawn building has a medical section with a [Medbag](https://escapefromtarkov.fandom.com/wiki/Medbag_SMU06) and loose spawns.",
+            "• The forklift near the helicopter in the courtyard has loaded a [Medical supply crate](https://escapefromtarkov.fandom.com/wiki/Medical_supply_crate).",
+            "• Inside the White King building there is a  [Medbag](https://escapefromtarkov.fandom.com/wiki/Medbag_SMU06) in the first room after the stairs outside of the gym with the military tents.",
+            "• [Shoreline](https://escapefromtarkov.fandom.com/wiki/Shoreline)",
+            "• The health resort, while being a high traffic area, contains a large amount of [Medbags](https://escapefromtarkov.fandom.com/wiki/Medbag_SMU06) and [Medcase](https://escapefromtarkov.fandom.com/wiki/Medcase)s.",
+            "• There are two ambulances near the tunnel exfil and one directly outside of the resort.",
+            "• The scav/treasure island (near tunnel exfil, past a beached barge) has a wooden shed that contains two [Medbags](https://escapefromtarkov.fandom.com/wiki/Medbag_SMU06)."
         ],
         "images": []
     },
@@ -408,9 +409,9 @@
     },
     "General wares": {
         "steps": [
-            "•  A high amount of Tushonka can be found inside the shopping mall on [[Interchange]]. Particularly, the \"Goshan\" (written \"гошан\" on its signs) supermarket stores a very large amount on its shelves. However, this is a hot-spot for players as many wish to take the Tushonka or loot the registers, so it should be approached with care.",
-            "•  Tushonka is also commonly found in \"Ration supply crates\" near tanks on [[Reserve]], however like Goshan, [[Reserve]] is a highly populated map, with many threats, so it should be approached with care.",
-            "•  Tushonka can be crafted in the [[Hideout]] at the Nutrition unit Lvl 1."
+            "• A high amount of Tushonka can be found inside the shopping mall on [Interchange](https://escapefromtarkov.fandom.com/wiki/Interchange). Particularly, the \"Goshan\" (written \"гошан\" on its signs) supermarket stores a very large amount on its shelves. However, this is a hot-spot for players as many wish to take the Tushonka or loot the registers, so it should be approached with care.",
+            "• Tushonka is also commonly found in \"Ration supply crates\" near tanks on (https://escapefromtarkov.fandom.com/wiki/Reserve), however like Goshan, [Reserve][Reserve](https://escapefromtarkov.fandom.com/wiki/Reserve) is a highly populated map, with many threats, so it should be approached with care.",
+            "• Tushonka can be crafted in the [Hideout](https://escapefromtarkov.fandom.com/wiki/Hideout) at the Nutrition unit Lvl 1."
         ],
         "images": [
             {
@@ -425,9 +426,8 @@
     },
     "Car repair": {
         "steps": [
-            "[[Interchange]] is great place to go for this quest:",
-            "•  OLI (home improvement store) very commonly spawns car batteries and spark plugs on its shelves.",
-            "•  Goshan / гошан (grocery store) commonly spawns car batteries on the store shelves located south of the big fire."
+            "• OLI (home improvement store) very commonly spawns car batteries and spark plugs on its shelves.",
+            "• Goshan / гошан (grocery store) commonly spawns car batteries on the store shelves located south of the big fire."
         ],
         "images": []
     },
@@ -494,7 +494,9 @@
         ]
     },
     "Health Care Privacy - Part 4": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Health Care Privacy - Part 5": {
@@ -521,62 +523,23 @@
     },
     "Private clinic": {
         "steps": [
-            "•  In Shoreline",
-            "•  In [[Dead Scav]]s",
-            "•  In [[Ground cache]]s",
-            "•  In [[Medbag SMU06]]",
-            "•  In [[Medcase]]s",
-            "•  In [[Medical supply crate]]s",
-            "•  In [[Plastic suitcase]]s",
-            "•  In [[Sport bag]]s",
-            "•  Everywhere other medical supplies can spawn, examples below:",
-            "•  Inside the orange dome in the Main Working Area of [[The Lab]]:",
-            "• * On top of one of the barrels near the left rear side of the dome from the entrance",
-            "• * On the barrel in front of the forklift",
-            "• * On top of a barrel just to the right of the entrance",
-            "•  In the server room office (B12), next to the leftmost laptop",
-            "•  Inside the round shaped metal box in [[Lab. Green keycard|Laboratory block (G22)]]",
-            "•  On the metal shelf(s) in Quarantine Zone at [[Lab. Blue keycard|Laboratory block (G11)]]",
-            "•  [[Health Resort west wing room 205 key|West wing room 205]] on nightstand ([[Health Resort west wing room 203 key]] allows access to room 205)",
-            "•  [[Health Resort west wing room 216 key|West wing room 216]]",
-            "•  [[Health Resort west wing room 301 key|West wing room 301]] on the top of the white cans (can also be found in the room attached via balcony on desk or on the bed)",
-            "•  [[Health Resort east wing office room 107 key|Office 107 East wing]]",
-            "•  [[Health Resort west wing office room 104 key|West wing room 104]]",
-            "•  [[Health Resort east wing room 110 key with a blue tape|East wing room 110]] ([[Sanitar]]'s office)",
-            "•  [[Health Resort east wing room 222 key|East wing room 222]]",
-            "•  [[Health Resort east wing room 226 key|East wing room 226]] on the shelves in the dresser behind the door",
-            "•  East wing room 227 (top of washer/dryer)",
-            "•  [[Health Resort east wing room 306 key|East wing room 306]]",
-            "•  [[Health Resort east wing room 313 key|East wing room 313]] on the top of boxes ([[Health Resort east wing room 314 key]] allows access to room 313)",
-            "•  [[Health Resort east wing room 328 key|East wing room 328]]",
-            "•  Admin Building, on top of metal cart next to cafeteria tray",
-            "•  In the back of the ambulance outside the front of the resort building",
-            "•  In the [[NecrusPharm pharmacy key|Pharmacy]]",
-            "•  In the [[Key to EMERCOM medical unit|EMERCOM medical unit]]",
-            "•  In the [[ULTRA medical storage key|ULTRA medical storage room]]",
-            "•  Can be found in the back of an ambulance, west entrance to the mall",
-            "•  On tables in the \"Mantis\" Store",
-            "•  On the medical table in the back of Goshan",
-            "•  In [[Buried barrel cache]]s",
-            "•  In [[Dead Scav]]s",
-            "•  In [[Ground cache]]s",
-            "•  In [[Medbag SMU06]]",
-            "•  In [[Medcase]]s",
-            "•  In [[Medical supply crate]]s",
-            "•  In [[Sport bag]]s",
-            "•  In the [[Lab. Green keycard|laboratory block]] on the second floor.",
-            "•  In the [[TerraGroup Labs Arsenal storage room key|Arsenal storage room]].",
-            "•  In any medical loot spawn room the resort such as room 301 West wing and also room 226 east wing.",
-            "•  In [[RB-SMP key|RB-SMP]] on the shelves.",
-            "•  In Mantis and in [[ULTRA medical storage key|ULTRA medical storage]].",
-            "•  In the back of a silver corpse disposal container in the Emercom camp, on and under the small table.",
-            "• On shelves in the Emercom camp.",
-            "•  Under the Bloody stretcher in the USEC camp."
+            "• [LEDX Skin Transilluminator](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) locations",
+            "• In Shoreline",
+            "• In [Dead Scav](https://escapefromtarkov.fandom.com/wiki/Dead_Scav)s",
+            "• In [Ground cache](https://escapefromtarkov.fandom.com/wiki/Ground_cache)s",
+            "• In [Medbag SMU06](https://escapefromtarkov.fandom.com/wiki/Medbag_SMU06)",
+            "• In [Medcase](https://escapefromtarkov.fandom.com/wiki/Medcase)s",
+            "• In [Medical supply crate](https://escapefromtarkov.fandom.com/wiki/Medical_supply_crate)s",
+            "• In [Plastic suitcase](https://escapefromtarkov.fandom.com/wiki/Plastic_suitcase)s",
+            "• In [Sport bag](https://escapefromtarkov.fandom.com/wiki/Sport_bag)s",
+            "• Everywhere other medical supplies can spawn, examples below:"
         ],
         "images": []
     },
     "Athlete": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Supplier": {
@@ -608,14 +571,13 @@
     },
     "What's on the flash drive?": {
         "steps": [
-            "•  The Flash Drive sometimes spawns inside of the tent near the logging camp on [[Woods]] and in [[Dorm room 110 Key|dorm room 110 (locked)]] on the bed on [[Customs]]. It can also be found plugged into the front of [[PC block]]s.",
-            "•  It's also a good idea to search for Flash Drives on [[Interchange]], as it has many computers that may spawn USBs. The Oli, Idea and Goshan offices are good places to look, containing several PCs each. ",
-            "•  They commonly spawn in the [[drawer]]s of filing cabinets as well.",
-            "•  A good way to find Flash Drives is to go to Reserve to the [[RB-KPRL key|RB-KPRL]] Room and the one next to it, as you can find 3 Safes there.",
-            "•  The quest [[Huntsman path - Evil watchman|Evil watchman]] rewards 2 flash drives as a quest reward, which is an option for players who are unable to find flash drives elsewhere.",
-            "•  The easiest way to get Secure Flash drives is to craft them on [[Hideout#Modules .28available.29|Intelligence Center level 2]] (Requires Mechanic Level 2). They will have an attribute \"[[found in raid]]\", and so are suitable for quest completion.",
-            "• * NOTE: If you have completed [[Operation Aquarius - Part 1]] and [[Operation Aquarius - Part 2]] you will not have enough reputation for Skier Level 2 required for Medstation Level 3 to build [[Hideout#Modules .28available.29|Intelligence Center level 2]]. For this you need  to complete other quests that give reputation with him([[Stirrup]], [[Kind of sabotage]], [[Rigged game]], The Punisher - part 3 and 6).",
-            "You must have both flash drives before you can hand them in to [[Skier]]. They cannot be handed in one at a time, unlike many other quests."
+            "• The Flash Drive sometimes spawns inside of the tent near the logging camp on [Woods](https://escapefromtarkov.fandom.com/wiki/Woods) and in [dorm room 110 (locked)](https://escapefromtarkov.fandom.com/wiki/Dorm_room_110_key) on the bed on [Customs](https://escapefromtarkov.fandom.com/wiki/Customs). It can also be found plugged into the front of [PC block](https://escapefromtarkov.fandom.com/wiki/PC_block)s.",
+            "• It's also a good idea to search for Flash Drives on [Interchange](https://escapefromtarkov.fandom.com/wiki/Interchange), as it has many computers that may spawn USBs. The Oli, Idea and Goshan offices are good places to look, containing several PCs each. ",
+            "• They commonly spawn in the [drawer](https://escapefromtarkov.fandom.com/wiki/drawer)s of filing cabinets as well.",
+            "• A good way to find Flash Drives is to go to Reserve to the [RB-KPRL](https://escapefromtarkov.fandom.com/wiki/RB-KPRL_key) Room and the one next to it, as you can find 3 Safes there.",
+            "• The quest [The Huntsman Path • Evil Watchman](https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_•_Evil_Watchman) rewards 2 flash drives as a quest reward, which is an option for players who are unable to find flash drives elsewhere.",
+            "• The easiest way to get Secure Flash drives is to craft them on [Intelligence Center level 2](https://escapefromtarkov.fandom.com/wiki/Hideout#Modules_.28available.29) (Requires Mechanic Level 2). They will have an attribute \"[found in raid](https://escapefromtarkov.fandom.com/wiki/found_in_raid)\", and so are suitable for quest completion.",
+            "• • NOTE: If you have completed [Operation Aquarius • Part 1](https://escapefromtarkov.fandom.com/wiki/Operation_Aquarius_•_Part_1) and [Operation Aquarius - Part 2](https://escapefromtarkov.fandom.com/wiki/Operation_Aquarius_-_Part_2) you will not have enough reputation for Skier Level 2 required for Medstation Level 3 to build [Intelligence Center level 2](https://escapefromtarkov.fandom.com/wiki/Hideout#Modules_.28available.29). For this you need  to complete other quests that give reputation with him([Stirrup](https://escapefromtarkov.fandom.com/wiki/Stirrup), [Kind of sabotage](https://escapefromtarkov.fandom.com/wiki/Kind_of_sabotage), [Rigged game](https://escapefromtarkov.fandom.com/wiki/Rigged_game), The Punisher - part 3 and 6)."
         ],
         "images": [
             {
@@ -820,15 +782,7 @@
     },
     "Lend lease - Part 1": {
         "steps": [
-            "'*Both keys give you access to the joint balcony, so only one of the two keys is required.'",
-            "The 'first controller' can be found in the center console of a black SUV at the checkpoint west of the lumber camp.",
-            "The 'first gyroscope' can be found in an open black box located in the back of a cyan pickup at the lumber camp.",
-            "The 'second controller' can be found near the \"Road to Customs\" extraction. Start by finding the car trailer near the Radar Antenna. You should see it near the railroad tracks.",
-            "Jump onto the trailer and then look at the corner shown in the picture below, facing away from the radar station. You want to start from this corner and run directly straight ahead.",
-            "After a few seconds of running, you should bump right into the box that contains the Controller.",
-            "Another way is to start at the crashed drone near the \"Road to Customs\" extract. Stay right next to the rock nearby, facing the drone, turn a bit right and you can see the wooden box with the second controller in it.",
-            "The 'third controller' is located in the health resort. Head to room 306 in the east wing of the resort. You either need a [[Health Resort east wing room 306 key]] or a [[Health Resort east wing room 308 key]] to gain access to the room. Once inside room 306, go to the balcony where the controller can be found inside of a cardboard box.",
-            "The 'second gyroscope' is also located in the health resort. Head to room 216 in the west wing of the resort. You need a [[Health Resort west wing room 216 key]] to enter it. After entering the room, immediately turn left. There will be a metal cabinet with a slightly opened door in front of you. Look through this door and you'll be able to grab the gyroscope."
+            "No Data"
         ],
         "images": [
             {
@@ -903,7 +857,7 @@
     },
     "Lend lease - Part 2": {
         "steps": [
-            "Both items can be found in [[The Lab]] in the Main Working Area (O11). The processors are found on a pedestal inside a cage with an orange robotic arm and the transmitters on a desk behind it. They can also be crafted in the [[Hideout]] (Intelligence Center lv. 2)."
+            "No Data"
         ],
         "images": [
             {
@@ -1005,7 +959,9 @@
         "images": []
     },
     "Flint": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Bullshit": {
@@ -1036,18 +992,17 @@
     },
     "Setup": {
         "steps": [
-            "•  The kills need to be done with an [[MP-133]], an [[MP-153]] or an [[MP-155]]",
-            "•  Need to wear [[Ushanka ear-flap cap]]",
-            "•  Need to wear [[Scav Vest]]"
+            "• The kills need to be done with an [MP-133](https://escapefromtarkov.fandom.com/wiki/MP-133), an [MP-153](https://escapefromtarkov.fandom.com/wiki/MP-153) or an [MP-155](https://escapefromtarkov.fandom.com/wiki/MP-155)",
+            "• Need to wear [Ushanka ear flap hat](https://escapefromtarkov.fandom.com/wiki/Ushanka_ear_flap_hat)",
+            "• Need to wear [Scav Vest](https://escapefromtarkov.fandom.com/wiki/Scav_Vest)"
         ],
         "images": []
     },
     "Fishing Gear": {
         "steps": [
-            "•  After accepting the quest you will be sent an [[SV-98 bolt-action sniper rifle]] and a [[Leatherman Multitool]].",
-            "•  It is recommended to remove all attachments from the [[SV-98 bolt-action sniper rifle|SV-98]] and insure it when attempting this quest. Only the base weapon itself is required, and the attachments can then be sold.",
-            "•  Place the [[Leatherman Multitool|multitool]] in your secure container so it is not lost if you die during this quest.",
-            "Take these two items with you to [[Shoreline]] and navigate to the small rowboat on the beach by the gas station (pictured below). Once there, go up to the rowboat and hold down your interact key. This will start a countdown of 30 seconds. Once the 30 seconds are up, one of the two items will be removed from your inventory. 'Both items are not removed at the same time.' Repeat this again to place the second item. Once you have placed the second item and extracted, the quest is complete. Extraction does not need to occur in the same raid you place the items in."
+            "• After accepting the quest you will be sent an [SV-98 7.62x54R bolt-action sniper rifle](https://escapefromtarkov.fandom.com/wiki/SV-98_7.62x54R_bolt-action_sniper_rifle) and a [Leatherman Multitool](https://escapefromtarkov.fandom.com/wiki/Leatherman_Multitool).",
+            "• It is recommended to remove all attachments from the [SV-98](https://escapefromtarkov.fandom.com/wiki/SV-98_7.62x54R_bolt-action_sniper_rifle) and insure it when attempting this quest. Only the base weapon itself is required, and the attachments can then be sold.",
+            "• Place the [multitool](https://escapefromtarkov.fandom.com/wiki/Leatherman_Multitool) in your secure container so it is not lost if you die during this quest."
         ],
         "images": [
             {
@@ -1133,7 +1088,7 @@
     },
     "Humanitarian Supplies": {
         "steps": [
-            "•  Keep in mind that Ragman LL2 also has barter-trades for the UNTAR helmet and vest. Purchasing the barter-items needed for these trades could be cheaper than purchasing the armor straight from Peacekeeper or flea market for fresh quality equipment."
+            "• Keep in mind that Ragman LL2 also has barter-trades for the UNTAR helmet and vest. Purchasing the barter-items needed for these trades could be cheaper than purchasing the armor straight from Peacekeeper or flea market for fresh quality equipment."
         ],
         "images": [
             {
@@ -1179,12 +1134,11 @@
     },
     "The Cult - Part 2": {
         "steps": [
-            "The objective of this quest is to plant a [[MS2000 Marker]] at each of the four \"marked\" locations on the maps [[Customs]], [[Woods]], and [[Shoreline]]. These markings look identical to the one shown in the quest banner. These locations are known to have high-value and rare loot, so proceed with caution.",
-            "The first marked spot is located in the \"Marked room\" (dorm room 314) on the third floor of the 3-story dorms on [[Customs]]. The [[Dorm room 314 marked key]] is required to unlock the door. The room is at the end of the hall and easily identified by the lit candle and markings all over and around the door.",
-            "The second and third marked spots are located on [[Woods]]:",
-            "•  One is in the forest west of the lumber camp near the \"Checkpoint\". This spot can easily be located when you go to the \"Checkpoint\", stay at the barrier and line your view up with a big stone south of it. See pictures below.",
-            "•  The other one is located near the [[Cultists]] camp to the north. The Circle itself is north of the church in the backyard of a house located on the map provided.",
-            "The fourth marked spot is located in the \"pig room\" (East Wing Room 321) on the third floor in the health resort on [[Shoreline]]. Like on [[Customs]], the room is easily identified by candles and numerous markings on the door. Inside the room are multiple slaughtered pigs and a [[Dead Scav]] with a pig's head. The spot to plant the [[MS2000 Marker]] surrounds the bathtub with the [[Dead Scav]]."
+            "• [Customs](https://escapefromtarkov.fandom.com/wiki/Customs)",
+            "• [Woods](https://escapefromtarkov.fandom.com/wiki/Woods)",
+            "• One is in the forest west of the lumber camp near the \"Checkpoint\". This spot can easily be located when you go to the \"Checkpoint\", stay at the barrier and line your view up with a big stone south of it. See pictures below.",
+            "• The other one is located near the [Cultists](https://escapefromtarkov.fandom.com/wiki/Cultists) camp to the north. The Circle itself is north of the church in the backyard of a house located on the map provided.",
+            "• [Shoreline](https://escapefromtarkov.fandom.com/wiki/Shoreline)"
         ],
         "images": [
             {
@@ -1230,7 +1184,9 @@
         ]
     },
     "Spa Tour - Part 1": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Spa Tour - Part 2": {
@@ -1254,13 +1210,12 @@
     },
     "Spa Tour - Part 3": {
         "steps": [
-            "If you want to find these items [[Found in raid|in raid]], or search for them in raid while you're crafting them, these are some spawns for these items.",
-            "A great place to find corrugated hose is on the shelves of Oli, the south shop of the ULTRA shopping mall on [[Interchange]]. ",
-            "Both of these items can be found in the the general store in the village on [[Shoreline]].",
-            "•  The general store on Shoreline is located in the southwest corner of the map in the village.<li style=\"display: inline-block;\"><gallery widths=\"300\" heights=\"169\" mode=\"packed\">",
-            "•  While on interchange looking for corrugated hose, you can commonly find wiper fluid and bleach in the Oli logistics room and the adjacent room.",
-            "•  They can also be found in the \"crack house\" or \"medical building\" on [[Customs]], in the intel room",
-            "WD-40 100ml can be found in [[Toolbox|toolboxes]] all over Tarkov."
+            "• [Corrugated hose](https://escapefromtarkov.fandom.com/wiki/Corrugated_hose)",
+            "• [Clin window cleaner](https://escapefromtarkov.fandom.com/wiki/Clin_window_cleaner) and [Ox bleach](https://escapefromtarkov.fandom.com/wiki/Ox_bleach) ",
+            "• The general store on Shoreline is located in the southwest corner of the map in the village.<li style=\"display: inline-block;\"><gallery widths=\"300\" heights=\"169\" mode=\"packed\">",
+            "• While on interchange looking for corrugated hose, you can commonly find wiper fluid and bleach in the Oli logistics room and the adjacent room.",
+            "• They can also be found in the \"crack house\" or \"medical building\" on [Customs](https://escapefromtarkov.fandom.com/wiki/Customs), in the intel room",
+            "• [WD-40 100ml](https://escapefromtarkov.fandom.com/wiki/WD-40_(100ml))"
         ],
         "images": [
             {
@@ -1347,7 +1302,9 @@
         ]
     },
     "Cargo X - Part 2": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Cargo X - Part 3": {
@@ -1370,7 +1327,9 @@
         ]
     },
     "Wet Job - Part 1": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Wet Job - Part 2": {
@@ -1444,11 +1403,15 @@
         ]
     },
     "Wet Job - Part 6": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Psycho Sniper": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "The guide": {
@@ -1458,7 +1421,14 @@
         "images": []
     },
     "Gunsmith - Part 1": {
-        "steps": [],
+        "steps": [
+            "• 60 Durability",
+            "• 47 or greater ergonomics",
+            "• 850 or less recoil",
+            "• 4 or fewer cells of space",
+            "• An extended magazine (a magazine capacity of 6 or greater)",
+            "• Any [tactical device](https://escapefromtarkov.fandom.com/wiki/Weapon_mods#Tactical_combo_devices) (such as the [NcSTAR Tactical blue laser LAM-Module](https://escapefromtarkov.fandom.com/wiki/NcSTAR_Tactical_blue_laser_LAM-Module))"
+        ],
         "images": [
             {
                 "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/76/Gunsmithpart1Modding2.png"
@@ -1475,7 +1445,16 @@
         ]
     },
     "Gunsmith - Part 2": {
-        "steps": [],
+        "steps": [
+            "• 60 Durability",
+            "• 58 or greater ergonomics",
+            "• Less than 550 recoil",
+            "• 100 or greater sighting range",
+            "• 3.5&nbsp;kg or less in weight",
+            "• 6 or fewer cells (<font color=red>Note</font>: You must fold the stock before turning in the gun)",
+            "• [AKS-74U Zenit B-11 handguard](https://escapefromtarkov.fandom.com/wiki/AKS-74U_Zenit_B-11_handguard)",
+            "• [AK-74 5.45x39 6L31 60-round magazine](https://escapefromtarkov.fandom.com/wiki/AK-74_5.45x39_6L31_60-round_magazine)"
+        ],
         "images": [
             {
                 "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ec/Gunsmithpart2Modding2.png"
@@ -1487,9 +1466,14 @@
     },
     "Gunsmith - Part 3": {
         "steps": [
-            "Parts for converting an [[MP5]] into an [[MP5SD]]:",
-            "{|class=\"wikitable\"",
-            "Combine those three pieces, then remove the original [[HK MP5 Upper receiver]] to replace it with the silenced one you just created. Then transfer the stock and sights over from the old receiver as well. The [[HK MP5 Drum Rearsight]] is necessary to meet the sighting range requirement."
+            "• 60 Durability",
+            "• 45 or greater ergonomics",
+            "• 200 or less recoil",
+            "• 200 or greater sighting range",
+            "• 3.8&nbsp;kg or less in weight",
+            "• Any [tactical device](https://escapefromtarkov.fandom.com/wiki/Weapon_mods#Tactical_combo_devices) (such as the [NcSTAR Tactical blue laser LAM-Module](https://escapefromtarkov.fandom.com/wiki/NcSTAR_Tactical_blue_laser_LAM-Module))",
+            "• [MP5 9x19 X Products X-5 50-round drum magazine](https://escapefromtarkov.fandom.com/wiki/MP5_9x19_X_Products_X-5_50-round_drum_magazine)",
+            "• A Silencer"
         ],
         "images": [
             {
@@ -1504,7 +1488,15 @@
         ]
     },
     "Gunsmith - Part 4": {
-        "steps": [],
+        "steps": [
+            "• 60 Durability",
+            "• 47 or greater ergonomics",
+            "• 300 or less recoil",
+            "• 800 or greater sighting range",
+            "• 3.8&nbsp;kg or less in weight",
+            "• A 60-round extended mag",
+            "• A silencer"
+        ],
         "images": [
             {
                 "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fa/Gunsmith4Inspect.png"
@@ -1515,7 +1507,14 @@
         ]
     },
     "Gunsmith - Part 5": {
-        "steps": [],
+        "steps": [
+            "• 60 Durability",
+            "• 40 or greater ergonomics",
+            "• 400 or less recoil",
+            "• 2,000 or greater sighting range",
+            "• 6.3&nbsp;kg or less in weight",
+            "• Any [tactical device](https://escapefromtarkov.fandom.com/wiki/Weapon_mods#Tactical_combo_devices) (such as the [NcSTAR Tactical blue laser LAM-Module](https://escapefromtarkov.fandom.com/wiki/NcSTAR_Tactical_blue_laser_LAM-Module))"
+        ],
         "images": [
             {
                 "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/7/73/Gunsmith-Pt_5_Inspect_View.png"
@@ -1526,7 +1525,14 @@
         ]
     },
     "Gunsmith - Part 6": {
-        "steps": [],
+        "steps": [
+            "• 60 Durability",
+            "• 26 or greater ergonomics",
+            "• 300 or less recoil",
+            "• 1,500 or greater sighting range",
+            "• 6.5&nbsp;kg or less in weight",
+            "• A silencer"
+        ],
         "images": [
             {
                 "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/00/GunSmithPart6Guide2.png"
@@ -1537,7 +1543,14 @@
         ]
     },
     "Gunsmith - Part 7": {
-        "steps": [],
+        "steps": [
+            "• 60 Durability",
+            "• 500 or less recoil",
+            "• 58 or more ergonomics",
+            "• Any [tactical device](https://escapefromtarkov.fandom.com/wiki/Weapon_mods#Tactical_combo_devices) (such as the [NcSTAR Tactical blue laser LAM-Module](https://escapefromtarkov.fandom.com/wiki/NcSTAR_Tactical_blue_laser_LAM-Module))",
+            "• Any [foregrip](https://escapefromtarkov.fandom.com/wiki/Weapon_mods#Foregrips)",
+            "• [M870 Magpul MOE handguard](https://escapefromtarkov.fandom.com/wiki/M870_Magpul_MOE_handguard)"
+        ],
         "images": [
             {
                 "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/22/Gunsmith-Pt_7_Inspect_View.png"
@@ -1551,7 +1564,15 @@
         ]
     },
     "Gunsmith - Part 8": {
-        "steps": [],
+        "steps": [
+            "• 60 Durability",
+            "• 350 or less recoil",
+            "• 40 or more ergonomics",
+            "• 800 or greater sighting range",
+            "• A silencer",
+            "• [Fortis Shift tactical grip](https://escapefromtarkov.fandom.com/wiki/Fortis_Shift_tactical_grip)",
+            "• [AK 7.62x39 Magpul PMAG 30 GEN M3 30-round magazine](https://escapefromtarkov.fandom.com/wiki/AK_7.62x39_Magpul_PMAG_30_GEN_M3_30-round_magazine) (Black)"
+        ],
         "images": [
             {
                 "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f3/Gunsmith-Pt_8_Inspect_View.png"
@@ -1562,7 +1583,17 @@
         ]
     },
     "Gunsmith - Part 9": {
-        "steps": [],
+        "steps": [
+            "• 60 Durability",
+            "• 450 or less recoil",
+            "• 55 or more ergonomics",
+            "• 8 or fewer cells (<font color=\"red\">Note</font>: You must fold the stock before turning in the gun)",
+            "• [AK Zenit RK-3 pistol grip](https://escapefromtarkov.fandom.com/wiki/AK_Zenit_RK-3_pistol_grip)",
+            "• [AKS-74/AKS-74U Zenit PT Lock](https://escapefromtarkov.fandom.com/wiki/AKS-74/AKS-74U_Zenit_PT_Lock) + [AK Zenit PT-3 \"Klassika\" stock](https://escapefromtarkov.fandom.com/wiki/AK_Zenit_PT-3_\"Klassika\"_stock)",
+            "• [AK Zenit B-33 dust cover](https://escapefromtarkov.fandom.com/wiki/AK_Zenit_B-33_dust_cover)",
+            "• [AK Zenit B-10M handguard with B-19 upper handguard mount](https://escapefromtarkov.fandom.com/wiki/AK_Zenit_B-10M_handguard_with_B-19_upper_handguard_mount)",
+            "• [AK Zenit DTK-1 7.62x39 & 5.45x39 muzzle brake & compensator](https://escapefromtarkov.fandom.com/wiki/AK_Zenit_DTK-1_7.62x39_&_5.45x39_muzzle_brake_&_compensator)"
+        ],
         "images": [
             {
                 "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/25/Gunsmith-Pt_9_Inspect_View.png"
@@ -1574,16 +1605,14 @@
     },
     "Gunsmith - Part 10": {
         "steps": [
-            "[[AK-105 5.45x39 assault rifle|AK-105]] specifications:",
-            "•  60 Durability",
-            "•  550 or less recoil",
-            "•  43 or more ergonomics",
-            "•  800 or greater sighting range",
-            "•  4.8&nbsp;kg or less weight",
-            "•  8 or fewer cells (<font color=\"red\">Note</font>: You must fold the stock before turning in the gun)",
-            "•  A silencer",
-            "•  [[60-round 6L31 5.45x39 magazine for AK-74 and compatibles]]",
-            "This is one example of many possible configurations."
+            "• 60 Durability",
+            "• 500 or less recoil",
+            "• 40 or more ergonomics",
+            "• 800 or greater sighting range",
+            "• 4.8 kg or less weight",
+            "• 8 or fewer cells (<font color=\"red\">Note</font>: You must fold the stock before turning in the gun)",
+            "• A silencer",
+            "• [AK-74 5.45x39 6L31 60-round magazine](https://escapefromtarkov.fandom.com/wiki/AK-74_5.45x39_6L31_60-round_magazine)"
         ],
         "images": [
             {
@@ -1598,7 +1627,15 @@
         ]
     },
     "Gunsmith - Part 11": {
-        "steps": [],
+        "steps": [
+            "• 60 Durability",
+            "• 33 or more ergonomics",
+            "• 220 or less recoil",
+            "• [FAB Defense GL-SHOCK buttstock](https://escapefromtarkov.fandom.com/wiki/FAB_Defense_GL-SHOCK_buttstock)",
+            "• [AN/PEQ-15 tactical device](https://escapefromtarkov.fandom.com/wiki/AN/PEQ-15_tactical_device)",
+            "• [NSPU-M night vision scope](https://escapefromtarkov.fandom.com/wiki/NSPU-M_night_vision_scope)",
+            "• [9x39 SR3M.130 30-round magazine](https://escapefromtarkov.fandom.com/wiki/9x39_SR3M.130_30-round_magazine)"
+        ],
         "images": [
             {
                 "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/e/ee/Gunsmith-Pt_11_Inspect_View.png"
@@ -1609,7 +1646,16 @@
         ]
     },
     "Gunsmith - Part 12": {
-        "steps": [],
+        "steps": [
+            "• 60 Durability",
+            "• 42 or more ergonomics",
+            "• 465 or less recoil",
+            "• 500 or greater sighting range",
+            "• 8 or fewer cells (<font color=\"red\">Note</font>: You must fold the stock before turning in the gun)",
+            "• [Rotor 43 5.56x45 muzzle brake](https://escapefromtarkov.fandom.com/wiki/Rotor_43_5.56x45_muzzle_brake)",
+            "• [Magpul AFG grip (Olive Drab)](https://escapefromtarkov.fandom.com/wiki/Magpul_AFG_grip_(Olive_Drab))",
+            "• [Zenit Klesch-2U tactical flashlight](https://escapefromtarkov.fandom.com/wiki/Zenit_Klesch-2U_tactical_flashlight)"
+        ],
         "images": [
             {
                 "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f6/GunsmithPart12Mods.png"
@@ -1620,7 +1666,16 @@
         ]
     },
     "Gunsmith - Part 13": {
-        "steps": [],
+        "steps": [
+            "• 60 Durability",
+            "• 300 or greater sighting range",
+            "• 52 or more ergonomics",
+            "• 4&nbsp;kg or less in weight",
+            "• 250 or less recoil",
+            "• [AR-15 Tactical Dynamics Skeletonized pistol grip](https://escapefromtarkov.fandom.com/wiki/AR-15_Tactical_Dynamics_Skeletonized_pistol_grip)",
+            "• [AR-15 Yankee Hill Annihilator multi-caliber flash hider](https://escapefromtarkov.fandom.com/wiki/AR-15_Yankee_Hill_Annihilator_multi-caliber_flash_hider)",
+            "• [Steiner LAS/TAC 2 tactical flashlight](https://escapefromtarkov.fandom.com/wiki/Steiner_LAS/TAC_2_tactical_flashlight)"
+        ],
         "images": [
             {
                 "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/f9/GunsmithPart13Mods.png"
@@ -1631,7 +1686,19 @@
         ]
     },
     "Gunsmith - Part 14": {
-        "steps": [],
+        "steps": [
+            "• 60 Durability",
+            "• 340 or less recoil",
+            "• 44 or more ergonomics",
+            "• 5&nbsp;kg or less in weight",
+            "• 500 or greater sighting range",
+            "• [AK Magpul MOE AKM handguard (Black)](https://escapefromtarkov.fandom.com/wiki/AK_Magpul_MOE_AKM_handguard_(Black))",
+            "• [Magpul MOE Carbine stock (Black)](https://escapefromtarkov.fandom.com/wiki/Magpul_MOE_Carbine_stock_(Black))",
+            "• [AK Magpul MOE pistol grip](https://escapefromtarkov.fandom.com/wiki/AK_Magpul_MOE_pistol_grip)",
+            "• [AK 7.62x39 Magpul PMAG 30 GEN M3 30-round magazine](https://escapefromtarkov.fandom.com/wiki/AK_7.62x39_Magpul_PMAG_30_GEN_M3_30-round_magazine) (Black)",
+            "• [Magpul M-LOK AFG tactical grip (Black)](https://escapefromtarkov.fandom.com/wiki/Magpul_M-LOK_AFG_tactical_grip_(Black))",
+            "• [Rotor 43 7.62x39 muzzle brake](https://escapefromtarkov.fandom.com/wiki/Rotor_43_7.62x39_muzzle_brake)"
+        ],
         "images": [
             {
                 "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/f/fc/GunsmithPart14Mods.png"
@@ -1642,7 +1709,16 @@
         ]
     },
     "Gunsmith - Part 15": {
-        "steps": [],
+        "steps": [
+            "• 60 Durability",
+            "• 20 or more ergonomics",
+            "• 400 or less recoil",
+            "• 7.3&nbsp;kg or less in weight",
+            "• [M14 Ultimak M8 Forward Optic mount](https://escapefromtarkov.fandom.com/wiki/M14_Ultimak_M8_Forward_Optic_mount)",
+            "• [Nightforce ATACR 7-35x56 riflescope](https://escapefromtarkov.fandom.com/wiki/Nightforce_ATACR_7-35x56_riflescope)",
+            "• [Aimpoint Micro T-1 reflex sight](https://escapefromtarkov.fandom.com/wiki/Aimpoint_Micro_T-1_reflex_sight)",
+            "• [Holosun LS321 Tactical device](https://escapefromtarkov.fandom.com/wiki/Holosun_LS321_Tactical_device)"
+        ],
         "images": [
             {
                 "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/aa/GunsmithPart15Mods.png"
@@ -1654,8 +1730,14 @@
     },
     "Gunsmith - Part 16": {
         "steps": [
-            "{{Ambox",
-            "}}"
+            "• 60 Durability",
+            "• 40 or more ergonomics",
+            "• 250 or less recoil",
+            "• 5&nbsp;kg or less in weight",
+            "• A 60-round extended mag",
+            "• [KAC QDSS NT-4 5.56x45 sound suppressor (Flat Dark Earth)](https://escapefromtarkov.fandom.com/wiki/KAC_QDSS_NT-4_5.56x45_sound_suppressor_(Flat_Dark_Earth))",
+            "• [AR-15 Alexander Arms MK10 handguard](https://escapefromtarkov.fandom.com/wiki/AR-15_Alexander_Arms_MK10_handguard)",
+            "• [Trijicon REAP-IR thermal scope](https://escapefromtarkov.fandom.com/wiki/Trijicon_REAP-IR_thermal_scope)"
         ],
         "images": [
             {
@@ -1721,16 +1803,15 @@
         ]
     },
     "Signal - Part 4": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Scout": {
         "steps": [
-            "All 3 extraction points need to be visited by going near their doors. A [[Factory Emergency Exit Key]] is not needed.",
-            "Doors do not need to be visited in order or in the same raid. Extraction does not need to occur in the same raid.",
-            "'Notes:'",
-            "•  You will always have Gate 0 and Gate 3, but sometimes instead of cellars you will get medical tent gate, visit that instead to get the first extraction point .",
-            "•  The trigger point for the extract at Gate 3 is actually inside the second room, and not at the doorways in middle room.  So you must open the door to the 2nd extract room and enter the room.  You do not have to extract however."
+            "• You will always have Gate 0 and Gate 3, but sometimes instead of cellars you will get medical tent gate, visit that instead to get the first extraction point .",
+            "• The trigger point for the extract at Gate 3 is actually inside the second room, and not at the doorways in middle room.  So you must open the door to the 2nd extract room and enter the room.  You do not have to extract however."
         ],
         "images": [
             {
@@ -1752,7 +1833,9 @@
         ]
     },
     "Insider": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Farming - Part 1": {
@@ -1806,41 +1889,45 @@
     },
     "Farming - Part 4": {
         "steps": [
-            "•  [[CPU Fan]]s can be found inside of electronics stores, but are most commonly found inside of [[PC block]]s.",
-            "• [[Graphics card]]s can be found:",
-            "• * In [[PC block]]s",
-            "• * In [[Sport bag]]s",
-            "• * Inside [[Buried barrel cache]]",
-            "• * Inside [[Ground cache]]",
-            "•  Under the PC desk in the Green Screen room",
-            "•  On the left grocery shelf in Gas Station",
-            "•  On the 1st floor sofa in 3-story dorms",
-            "•  On the table in the unlocked room in Gas Station",
-            "•  On the floor in the middle of the second room inside of Big Red",
-            "•  On ground in little garages between crossroads and trailer park.",
-            "•  On shelves of electronics stores (Texho, Techlight, Rasmussen, Germany)",
-            "•  In the [[Key to EMERCOM medical unit|Emercom medical unit]]",
-            "•  In the Idea office",
-            "•  On the tech shelf in the back of Power Station",
-            "•  In [[Health Resort east wing room 222 key|East wing room 222]], [[Health Resort east wing room 328 key|East wing room 328]], [[Health Resort west wing room 216 key|West wing room 216]], [[Health Resort west wing room 301 key|West wing room 301]] and [[Health Resort east wing office room 107 key|East wing office 107]]",
-            "•  On second floor desks of Admin Building",
-            "•  On the second floor of the weather station, in front of the server bay",
-            "•  In the East wing storage room",
-            "•  On counter top in the south most house in village  (Right in front of tank)",
-            "•  In the \"pumping station\"",
-            "•  In the bottom blue container outside Gate 3 (Two stacked blue containers)",
-            "•  On top of one of the yellow cart by pit",
-            "•  Office hallway shelf",
-            "•  Marked circle",
-            "•  As spawn next to dead scav at Dead Man`s Place camp",
-            "•  On floor of buildings in Village",
-            "•  Can be found on server racks inside multiple buildings",
-            "•  In the shelves of [[RB-AK key|RB-AK]] on second floor of the black bishop building, north of the helicopter",
-            "•  In Black Knight on a desk, 3rd room on the left from main entrance",
-            "•  Can be found on the floor of [[RB-BK marked key|RB-BK]] in the basement of black pawn",
-            "•  Can be found on the floor of [[RB-VO marked key|RB-VO]]",
-            "•  Right side of orange dome, on white boxes next to a white shelf",
-            "•  Right side of orange dome, on the last white table before the stairs that go up to management office."
+            "• [CPU Fan](https://escapefromtarkov.fandom.com/wiki/CPU_Fan)s can be found inside of electronics stores, but are most commonly found inside of [PC block](https://escapefromtarkov.fandom.com/wiki/PC_block)s.",
+            "• [Graphics card](https://escapefromtarkov.fandom.com/wiki/Graphics_card)s can be found:",
+            "• • In [PC block](https://escapefromtarkov.fandom.com/wiki/PC_block)s",
+            "• • In [Sport bag](https://escapefromtarkov.fandom.com/wiki/Sport_bag)s",
+            "• • Inside [Buried barrel cache](https://escapefromtarkov.fandom.com/wiki/Buried_barrel_cache)",
+            "• • Inside [Ground cache](https://escapefromtarkov.fandom.com/wiki/Ground_cache)",
+            "• [Customs](https://escapefromtarkov.fandom.com/wiki/Customs)",
+            "• Under the PC desk in the Green Screen room",
+            "• On the left grocery shelf in Gas Station",
+            "• On the 1st floor sofa in 3-story dorms",
+            "• On the table in the unlocked room in Gas Station",
+            "• On the floor in the middle of the second room inside of Big Red",
+            "• On ground in little garages between crossroads and trailer park.",
+            "• [Interchange](https://escapefromtarkov.fandom.com/wiki/Interchange)",
+            "• On shelves of electronics stores (Texho, Techlight, Rasmussen, Germany)",
+            "• In the [Emercom medical unit](https://escapefromtarkov.fandom.com/wiki/EMERCOM_medical_unit_key)",
+            "• In the Idea office",
+            "• On the tech shelf in the back of Power Station",
+            "• [Shoreline](https://escapefromtarkov.fandom.com/wiki/Shoreline)",
+            "• In [East wing room 222](https://escapefromtarkov.fandom.com/wiki/Health_Resort_east_wing_room_222_key), [East wing room 328](https://escapefromtarkov.fandom.com/wiki/Health_Resort_east_wing_room_328_key), [West wing room 216](https://escapefromtarkov.fandom.com/wiki/Health_Resort_west_wing_room_216_key), [West wing room 301](https://escapefromtarkov.fandom.com/wiki/Health_Resort_west_wing_room_301_key) and [East wing office 107](https://escapefromtarkov.fandom.com/wiki/Health_Resort_east_wing_office_room_107_key)",
+            "• On second floor desks of Admin Building",
+            "• On the second floor of the weather station, in front of the server bay",
+            "• In the East wing storage room",
+            "• On counter top in the south most house in village  (Right in front of tank)",
+            "• [Factory](https://escapefromtarkov.fandom.com/wiki/Factory)",
+            "• In the \"pumping station\"",
+            "• In the bottom blue container outside Gate 3 (Two stacked blue containers)",
+            "• On top of one of the yellow cart by pit",
+            "• Office hallway shelf",
+            "• [Woods](https://escapefromtarkov.fandom.com/wiki/Woods)",
+            "• Marked circle",
+            "• As spawn next to dead scav at Dead Man`s Place camp",
+            "• On floor of buildings in Village",
+            "• [Reserve](https://escapefromtarkov.fandom.com/wiki/Reserve)",
+            "• Can be found on server racks inside multiple buildings",
+            "• In the shelves of [RB-AK](https://escapefromtarkov.fandom.com/wiki/RB-AK_key) on second floor of the black bishop building, north of the helicopter",
+            "• In Black Knight on a desk, 3rd room on the left from main entrance",
+            "• Can be found on the floor of [RB-BK](https://escapefromtarkov.fandom.com/wiki/RB-BK_marked_key) in the basement of black pawn",
+            "• Can be found on the floor of [RB-VO](https://escapefromtarkov.fandom.com/wiki/RB-VO_marked_key)"
         ],
         "images": []
     },
@@ -1855,7 +1942,9 @@
         "images": []
     },
     "A Shooter Born in Heaven": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Only business": {
@@ -1899,18 +1988,9 @@
     },
     "The Blood of War - Part 1": {
         "steps": [
-            "Note that what you have to mark are the orange fuel tanker trucks, 'not military tanks'. The tankers are located outside the mall.",
-            "The markers can be placed in any order over any number of runs. You do not need to place all three markers in the same run.",
-            "After placing a marker, the player must stay alive for 30 seconds or they will have to place another beacon on the tanker.",
-            "As soon as you press the button to place the marker you can move away from the truck. While the timer is counting down you do NOT need to be near the marker - only players can destroy the markers, and it is extremely rare for someone to look for them. Go and hide, as death will result in you losing the marker and having to buy a new one from [[Prapor]].",
-            "•  'Tanker #1:'  Located directly east of the mall on the road (behind Goshan). There are no [[Scavs]] near this tanker so you'll only need to be cautious of players. Check your surroundings before planting the [[MS2000 Marker]] ",
-            "•  'Tanker #2:' Located on the highway to the west (front) of the mall among the tents. There are frequently Scavs in this area, so be cautious.",
-            "•  'Tanker #3:' Located at the power station on the north-east side of the mall (behind IDEA). The tanker is in the parking lot of this station. Just like the highway, [[Scavs]] frequently roam this area so be cautious. ",
-            "After all three markers have been planted and their 30 second activation periods are complete you have completed three of the four tasks of this quest. The final task is to extract. This can be done during any [[Interchange]] PMC raid, not necessarily the one where you planted the [[MS2000 Marker]]s.",
-            "# Trivia",
-            "•  Additional [[MS2000 Marker]]s can be bought from [[Prapor]] if needed.",
-            "•  It is recommended that the player keeps the [[MS2000 Marker]]s in their secure container so they are not lost in the event of their death.",
-            "•  The [[MS2000 Marker]]s will automatically be used out of the players' inventory when needed, similar to how keys work."
+            "• '''Tanker #1:'''  Located directly east of the mall on the road (behind Goshan). There are no [Scavs](https://escapefromtarkov.fandom.com/wiki/Scavs) near this tanker so you'll only need to be cautious of players. Check your surroundings before planting the [MS2000 Marker](https://escapefromtarkov.fandom.com/wiki/MS2000_Marker) ",
+            "• '''Tanker #2:''' Located on the highway to the west (front) of the mall among the tents. There are frequently Scavs in this area, so be cautious.",
+            "• '''Tanker #3:''' Located at the power station on the north-east side of the mall (behind IDEA). The tanker is in the parking lot of this station. Just like the highway, [Scavs](https://escapefromtarkov.fandom.com/wiki/Scavs) frequently roam this area so be cautious. "
         ],
         "images": [
             {
@@ -2034,11 +2114,15 @@
         ]
     },
     "Hot Delivery": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Scavenger": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Make ULTRA Great Again": {
@@ -2079,7 +2163,9 @@
         "images": []
     },
     "Sew it good - Part 2": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Sew it good - Part 3": {
@@ -2091,8 +2177,8 @@
     },
     "Sew it good - Part 4": {
         "steps": [
-            "•  Wartech Gear rigs (TV-109, TV-106) are frequently [[found in raid]] on [[Scavs]].",
-            "•  BlackRock Chest Rigs are frequently found in raid on Reshala's Bodyguards in Customs. They can also be crafted in lavatory."
+            "• Wartech Gear rigs (TV-109, TV-106) are frequently [found in raid](https://escapefromtarkov.fandom.com/wiki/found_in_raid) on [Scavs](https://escapefromtarkov.fandom.com/wiki/Scavs).",
+            "• BlackRock Chest Rigs are frequently found in raid on Reshala's Bodyguards in Customs. They can also be crafted in lavatory."
         ],
         "images": []
     },
@@ -2107,7 +2193,9 @@
         "images": []
     },
     "The Blood of War - Part 2": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "The Blood of War - Part 3": {
@@ -2138,12 +2226,14 @@
     },
     "Living high is not a crime - Part 1": {
         "steps": [
-            "The statues/figurines can commonly be found in the furniture displays throughout the store IDEA on [[Interchange]]. Alternatively, they, along with the [[Roler submariner gold wrist watch]] can be found in [[Safe]]s. They can also be very rarely be found in other containers such as [[Drawer]]s, [[Sport bag]]s, [[Dead Scav]]s, and more."
+            "No Data"
         ],
         "images": []
     },
     "Living high is not a crime - Part 2": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Introduction": {
@@ -2169,11 +2259,9 @@
     },
     "Acquaintance": {
         "steps": [
-            "The [[Provisions]] required for this quest have to be [[found in raid]]. These items can be commonly found in many maps such as [[Reserve]], [[Interchange]], and [[Shoreline]].",
-            "Food can be most easily found in the kitchen wing of the black bishop building. In the locked caged rooms in the underground bunker are many loose food item spawns and [[Ration supply crate]]s. These crates spawn a large amount of food. The number of supply crates in each room is written in red on the map below, as well as the location of the kitchen being circled.",
-            "Lots of food items can be found scattered throughout the admin/theatre building at the resort.",
-            "There is a grocery store called Goshan (red on the map) packed with food. Check all the shelving to find it. A flashlight will be helpful for all the dark corners.",
-            "Packs can spawn at the USEC Camp frequently as well as the camp at the south-east of the lake."
+            "• [Reserve](https://escapefromtarkov.fandom.com/wiki/Reserve) ",
+            "• [Shoreline](https://escapefromtarkov.fandom.com/wiki/Shoreline) ",
+            "• [Interchange](https://escapefromtarkov.fandom.com/wiki/Interchange) "
         ],
         "images": [
             {
@@ -2196,7 +2284,7 @@
     },
     "The survivalist path - Unprotected, but dangerous": {
         "steps": [
-            "This quest takes place on [[Woods]], but before you go there you first need to get your PMC ready. When killing the [[Scavs]] you can't be wearing any [[armor vests]] or [[Chest rigs#Armored|armored chest rigs]] ([[Headwear|helmets]] are allowed). If you want to protect yourself during this quest you can choose to still wear armor, you will only need to remove it before killing a [[Scav]]. To keep yourself safe while doing this quest you should try and remain as far away as possible from the [[Scavs]]. For the highest survivability you should equip a scoped weapon to get kills from afar. "
+            "No Data"
         ],
         "images": [
             {
@@ -2249,14 +2337,14 @@
     },
     "The survivalist path - Wounded beast": {
         "steps": [
-            "•  Dehydration and broken bones give pain.",
+            "• Dehydration and broken bones give pain.",
             "• Using painkillers, morphine and/or similar medication will only suppress the pain, not remove the status effect, and as such kills will still count towards the quest."
         ],
         "images": []
     },
     "The survivalist path - Tough guy": {
         "steps": [
-            "• Do not use any [[Medical]] items while in a raid when the quest is active. If you do you will be required to accept the quest again.",
+            "• Do not use any [Medical](https://escapefromtarkov.fandom.com/wiki/Medical) items while in a raid when the quest is active. If you do you will be required to accept the quest again.",
             "• If you complete the objective to kill the three scavs without healing the task will still fail if you heal before handing it in. In addition, if you complete the objectives but do not click complete with Jaeger, then healing in a later Woods raid will cause failure of the quest.",
             "• Surviving the raid is not necessary for the quest to be completed.",
             "• Off-raid healing does affect this quest.",
@@ -2266,7 +2354,7 @@
     },
     "Courtesy visit": {
         "steps": [
-            "•  All houses are located in the swamp"
+            "• All houses are located in the swamp"
         ],
         "images": [
             {
@@ -2306,17 +2394,17 @@
     },
     "The Tarkov shooter - Part 2": {
         "steps": [
-            "For this quest only hits/kills on [[Scavs]] or PMCs with a [[Weapons#Sniper rifles|bolt-action rifle]] count. You can hit the same target multiple times in the leg(s) and it will still count. For easier headshots on moving scavs, shoot them in the leg(s) first to slow them down.",
-            "Good spots to do the quest include:",
-            "•  The rock west of the northern shoreline bunker to shoot the scavs at the bunker. ",
-            "•  The ridge over the tunnel extract to shoot the scavs on the road.",
-            "•  The hill overlooking the shoreline villas (north-east of the villas), you can get a good angle on the scavs patroling the gardens.",
-            "•  You can shoot the gas station scavs from far away while on the highway leading to it.",
-            "•  Its possible to easily find spots to shoot shoreline's sniper scavs from far away (power station and bunker rock scavs).",
-            "•  Bus station scavs from the resort roof.",
-            "•  Sniper tower south of the road to customs extract to snipe scavs at the extract.",
-            "•  The large rock overlooking the lumber yard from the North side.",
-            "•  Anywhere from the SW to W of the cabin near Outskirts extraction. This cabin frequently has multiple [[Scavs]] around it in the open.",
+            "• [Shoreline](https://escapefromtarkov.fandom.com/wiki/Shoreline)",
+            "• The rock west of the northern shoreline bunker to shoot the scavs at the bunker. ",
+            "• The ridge over the tunnel extract to shoot the scavs on the road.",
+            "• The hill overlooking the shoreline villas (north-east of the villas), you can get a good angle on the scavs patroling the gardens.",
+            "• You can shoot the gas station scavs from far away while on the highway leading to it.",
+            "• Its possible to easily find spots to shoot shoreline's sniper scavs from far away (power station and bunker rock scavs).",
+            "• Bus station scavs from the resort roof.",
+            "• Sniper tower south of the road to customs extract to snipe scavs at the extract.",
+            "• [Woods](https://escapefromtarkov.fandom.com/wiki/Woods)",
+            "• The large rock overlooking the lumber yard from the North side.",
+            "• Anywhere from the SW to W of the cabin near Outskirts extraction. This cabin frequently has multiple [Scavs](https://escapefromtarkov.fandom.com/wiki/Scavs) around it in the open.",
             "• North or South side of the Town location. Multiple scavs spawn at points in the raid and will walk across the road."
         ],
         "images": []
@@ -2345,16 +2433,9 @@
     },
     "The Tarkov shooter - Part 6": {
         "steps": [
-            "Although they don't spawn 100% of the time, Sniper [[Scav]]s can currently be found in the following locations:",
-            "Generally, Customs is the best location to kill sniper scavs as it has the most. Killing them at night for this quest is recommended as you can quickly run down the main road through the map to see all of them under the cover of darkness. In order from left to right:",
-            "1. Construction Sniper. Spawns extremely frequently.<br>",
-            "2. Vacuum distillation tower. Spawns uncommonly.<br>",
-            "3. Warehouse Rooftop Sniper. Spawns about half the time.<br>",
-            "4. Checkpoint Sniper. Spawns about half the time.<br>",
-            "5. Sniper on rocks above Scav checkpoint. Spawns uncommonly.",
-            "1. Mountain Sniper. Spawns extremely frequently. Easily looted by jumping up the back side of the mountain.<br>",
-            "1. Northern Bunker Lookout Sniper. Spawns about half the time.<br>",
-            "2. Power Station Rooftop Sniper. Spawns extremely frequently.<br>"
+            "• [Customs](https://escapefromtarkov.fandom.com/wiki/Customs)",
+            "• [Woods](https://escapefromtarkov.fandom.com/wiki/Woods)",
+            "• [Shoreline](https://escapefromtarkov.fandom.com/wiki/Shoreline)"
         ],
         "images": [
             {
@@ -2375,11 +2456,15 @@
         "images": []
     },
     "The Tarkov shooter - Part 8": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "The survivalist path - Cold blooded": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Colleagues - Part 2": {
@@ -2400,17 +2485,15 @@
     },
     "Colleagues - Part 3": {
         "steps": [
-            "•  You can obtain the stimulants from [[Sanitar]], his followers or even regular scavs"
+            "• You can obtain the stimulants from [Sanitar](https://escapefromtarkov.fandom.com/wiki/Sanitar), his followers or even regular scavs"
         ],
         "images": []
     },
     "The survivalist path - Combat medic": {
         "steps": [
-            "You can raise your Vitality level by:",
-            "•  Taking damage",
-            "•  Bloodloss",
-            "•  Completing the quest [[Ambulance]] (+1 level) ",
-            "You can use a [[eTG-change regenerative stimulant injector]] or a [[Propital regenerative stimulant injector]] and run through fire or obtain a heavy bleed to level up your vitality"
+            "• Taking damage",
+            "• Bloodloss",
+            "• Completing the quest [Ambulance](https://escapefromtarkov.fandom.com/wiki/Ambulance) (+1 level) "
         ],
         "images": []
     },
@@ -2420,8 +2503,7 @@
     },
     "Huntsman path - Secured perimeter": {
         "steps": [
-            "The office area of the Factory is highlighted on this map.",
-            "Only the enemy PMC has to be in the highlighted area for the kill to count towards this quest."
+            "No Data"
         ],
         "images": [
             {
@@ -2449,61 +2531,69 @@
         ]
     },
     "Huntsman path - Woods cleaning": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Huntsman path - Controller": {
         "steps": [
-            "• You do not need to be blinded with flashbang, the target PMCs need to be blinded with the flashbang when you kill them.",
-            "• The [[Zarya stun grenade]] and [[23x75mm \"Zvezda\" flashbang round]] cartridge can both be used to induce the blindness for this quest."
+            "No Data"
         ],
         "images": []
     },
     "Huntsman path - Evil watchman": {
         "steps": [
-            "Kills are counted both inside the buildings of dormitories as well as in the surrounding areas. Kills will still count about 10–15 meters around the buildings as well as between them.",
-            "Both you and the PMC killed must be in the immediate area to contribute to the quest kill counter."
+            "No Data"
         ],
         "images": []
     },
     "Fishing place": {
         "steps": [
-            "•  One quick way to find [[TerraGroup Labs access keycard]]s in raid is to kill and loot any scav [[boss]]"
+            "• One quick way to find [TerraGroup Labs access keycard](https://escapefromtarkov.fandom.com/wiki/TerraGroup_Labs_access_keycard)s in raid is to kill and loot any scav [boss](https://escapefromtarkov.fandom.com/wiki/boss)"
         ],
         "images": []
     },
     "Huntsman path - The trophy": {
         "steps": [
-            "The golden TT must be functional, but does not need to contain all of its original parts, so you can swap the barrel and grips (these must also be [[found in raid]]) out for cheaper alternatives before handing it in."
+            "No Data"
         ],
         "images": []
     },
     "Huntsman path - Justice": {
         "steps": [
-            "The guards wearing a police uniform are [[Reshala]]'s bodyguards."
+            "No Data"
         ],
         "images": []
     },
     "Huntsman path - Sellout": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Huntsman path - Woods keeper": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Huntsman path - Eraser - Part 1": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Huntsman path - Eraser - Part 2": {
         "steps": [
-            "Find and kill 6 [[Scav Raiders]] on [[The Lab]] or [[Reserve]]. [[Scav Bosses]] and their guards do not count."
+            "No Data"
         ],
         "images": []
     },
     "Hunting trip": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Operation Aquarius - Part 1": {
@@ -2554,10 +2644,10 @@
     },
     "Stirrup": {
         "steps": [
-            "•  It is recommended to do this quest passively, as it can be slowly completed as you progress through others.",
-            "•  [[Factory]] is a good location to complete this task as there are a high amount of PMCs that spawn there in a very small area, leading to fast, close-quarters fights.",
-            "•  Be aware that PMC's will likely equip a [[Visors|Visor]] on a CQB-Map, which can only be reliably penetrated by [[5.7x28mm SS190|SS190]] ammo for the [[FN Five-seveN MK2 5.7x28 pistol|Five-Seven]], [[9x21mm BT gzh|BT gzh]] ammo for the [[9x21 Serdyukov automatic pistol SR1MP Gyurza|SR1MP]] and the [[9x19mm AP 6.3]] ammo.",
-            "•  A reliable alternative would be to prepare an ambush with a pistol shooting [[9x19mm RIP|RIP]] ammunition. Hitting 5 shots onto the legs are sure to bring any player down (as it can equip a Stock, a [[GLOCK 18C 9x19 pistol|GLOCK 18]] might be particularly suited for this play style).",
+            "• It is recommended to do this quest passively, as it can be slowly completed as you progress through others.",
+            "• [Factory](https://escapefromtarkov.fandom.com/wiki/Factory) is a good location to complete this task as there are a high amount of PMCs that spawn there in a very small area, leading to fast, close-quarters fights.",
+            "• Be aware that PMC's will likely equip a [Visor](https://escapefromtarkov.fandom.com/wiki/Visors) on a CQB-Map, which can only be reliably penetrated by [SS190](https://escapefromtarkov.fandom.com/wiki/5.7x28mm_SS190) ammo for the [Five-Seven](https://escapefromtarkov.fandom.com/wiki/FN_Five-seveN_MK2_5.7x28_pistol), [BT gzh](https://escapefromtarkov.fandom.com/wiki/9x21mm_BT_gzh) ammo for the [SR1MP](https://escapefromtarkov.fandom.com/wiki/Serdyukov_SR-1MP_Gyurza_9x21_pistol) and the [9x19mm AP 6.3](https://escapefromtarkov.fandom.com/wiki/9x19mm_AP_6.3) ammo.",
+            "• A reliable alternative would be to prepare an ambush with a pistol shooting [RIP](https://escapefromtarkov.fandom.com/wiki/9x19mm_RIP) ammunition. Hitting 5 shots onto the legs are sure to bring any player down (as it can equip a Stock, a [GLOCK 18](https://escapefromtarkov.fandom.com/wiki/Glock_18C_9x19_machine_pistol) might be particularly suited for this play style).",
             "• Killing teammates does not count towards the quest."
         ],
         "images": []
@@ -2568,14 +2658,13 @@
     },
     "Bad habit": {
         "steps": [
-            "All cigarettes can commonly be found inside of:",
-            "•  In [[Buried barrel cache]]s",
-            "•  In [[Dead Scav]]s",
-            "•  In [[Ground cache]]s",
-            "•  In [[Jacket]]s",
-            "•  In [[Plastic suitcase]]s",
-            "•  In [[Ration supply crate]]s",
-            "•  In [[Sport bag]]s"
+            "• In [Buried barrel cache](https://escapefromtarkov.fandom.com/wiki/Buried_barrel_cache)s",
+            "• In [Dead Scav](https://escapefromtarkov.fandom.com/wiki/Dead_Scav)s",
+            "• In [Ground cache](https://escapefromtarkov.fandom.com/wiki/Ground_cache)s",
+            "• In [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)s",
+            "• In [Plastic suitcase](https://escapefromtarkov.fandom.com/wiki/Plastic_suitcase)s",
+            "• In [Ration supply crate](https://escapefromtarkov.fandom.com/wiki/Ration_supply_crate)s",
+            "• In [Sport bag](https://escapefromtarkov.fandom.com/wiki/Sport_bag)s"
         ],
         "images": []
     },
@@ -2609,11 +2698,11 @@
     },
     "Shady Business": {
         "steps": [
-            "• The Flash Drive sometimes spawns inside of the tent near the logging camp on [[Woods]] and in [[Dorm room 110 Key|dorm room 110 (locked)]] on the bed on [[Customs]]. It can also be found plugged into the front of [[PC block]]s.",
-            "• It's also a good idea to search for Flash Drives on [[Interchange]], as it has many computers that may spawn USBs. The Oli, Idea and Goshan offices are good places to look, containing several PCs each. ",
-            "• They commonly spawn in [[drawer]]s as well",
-            "• The quest [[Huntsman path - Evil watchman|Evil watchman]] rewards 2 flash drives as a quest reward, which is an option for players who are unable to find flash drives elsewhere.",
-            "• The easiest way to get Secure Flash drives is to craft them on [[Hideout#Modules .28available.29|Intelligence Center level 2]] (Requires Mechanic Level 3). They will have the \"[[found in raid]]\" mark, being suitable for the quest completion."
+            "• The Flash Drive sometimes spawns inside of the tent near the logging camp on [Woods](https://escapefromtarkov.fandom.com/wiki/Woods) and in [dorm room 110 (locked)](https://escapefromtarkov.fandom.com/wiki/Dorm_room_110_key) on the bed on [Customs](https://escapefromtarkov.fandom.com/wiki/Customs). It can also be found plugged into the front of [PC block](https://escapefromtarkov.fandom.com/wiki/PC_block)s.",
+            "• It's also a good idea to search for Flash Drives on [Interchange](https://escapefromtarkov.fandom.com/wiki/Interchange), as it has many computers that may spawn USBs. The Oli, Idea and Goshan offices are good places to look, containing several PCs each. ",
+            "• They commonly spawn in [drawer](https://escapefromtarkov.fandom.com/wiki/drawer)s as well",
+            "• The quest [The Huntsman Path • Evil Watchman](https://escapefromtarkov.fandom.com/wiki/The_Huntsman_Path_•_Evil_Watchman) rewards 2 flash drives as a quest reward, which is an option for players who are unable to find flash drives elsewhere.",
+            "• The easiest way to get Secure Flash drives is to craft them on [Intelligence Center level 2](https://escapefromtarkov.fandom.com/wiki/Hideout#Modules_.28available.29) (Requires Mechanic Level 3). They will have the \"[found in raid](https://escapefromtarkov.fandom.com/wiki/found_in_raid)\" mark, being suitable for the quest completion."
         ],
         "images": [
             {
@@ -2687,8 +2776,8 @@
     },
     "The survivalist path - Junkie": {
         "steps": [
-            "•  Be under the effect of any [[Stimulators|stimulant]] (both buffs and debuffs) while killing 15 [[Scavs]] on [[Woods]].",
-            "•  [[Provisions]] that gives skill buffs, such as the [[Hot Rod]] or [[Milk]] can be used.",
+            "• Be under the effect of any [stimulant](https://escapefromtarkov.fandom.com/wiki/Stimulators) (both buffs and debuffs) while killing 15 [Scavs](https://escapefromtarkov.fandom.com/wiki/Scavs) on [Woods](https://escapefromtarkov.fandom.com/wiki/Woods).",
+            "• [Provisions](https://escapefromtarkov.fandom.com/wiki/Provisions) that gives skill buffs, such as the [Hot Rod energy drink](https://escapefromtarkov.fandom.com/wiki/Hot_Rod_energy_drink) or [Milk](https://escapefromtarkov.fandom.com/wiki/Milk) can be used.",
             "• Having the Painkiller effect doesn't count."
         ],
         "images": []
@@ -2822,7 +2911,9 @@
         ]
     },
     "Huntsman path - Sadist": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "The bunker - Part 1": {
@@ -2954,7 +3045,9 @@
         "images": []
     },
     "An apple a day - keeps the doctor away": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Hunter": {
@@ -3005,10 +3098,7 @@
     },
     "A fuel matter": {
         "steps": [
-            "•  Additional [[MS2000 Marker]]s can be bought from [[Prapor]] if needed.",
-            "•  It is recommended that the player keeps the [[MS2000 Marker]]s in their secure container so they are not lost in the event of their death.",
-            "•  Other people can steal your [[MS2000 Marker]]s as long as the timer is going, so be careful and hide it if needed.",
-            "• Getting a Survived Raid status is required to complete the quest. This can be done on any subsequent PMC raid after planting all the markers.<br />"
+            "No Data"
         ],
         "images": [
             {
@@ -3055,7 +3145,7 @@
     },
     "Revision": {
         "steps": [
-            "You can do this quest as a \"side quest\" when doing other quests on reserve, you need to go around the maps border and into a locked room so its best to just take your time with it."
+            "No Data"
         ],
         "images": [
             {
@@ -3068,7 +3158,7 @@
     },
     "Classified technologies": {
         "steps": [
-            "Once you have retrieved the package, you must extract from the location and hand it over to [[Peacekeeper]]."
+            "No Data"
         ],
         "images": [
             {
@@ -3132,11 +3222,15 @@
         "images": []
     },
     "Huntsman Path - Factory Chief": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Pest control": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Capturing Outposts": {
@@ -3154,7 +3248,9 @@
         ]
     },
     "Intimidator": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Calibration": {
@@ -3168,7 +3264,9 @@
         "images": []
     },
     "Swift One": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Crisis": {
@@ -3193,6 +3291,11 @@
         "steps": [],
         "images": []
     },
+    "Cleaner": {
+        "steps": [
+            "No Data"
+        ]
+    },
     "Long Line": {
         "steps": [
             "Any of the 3 levels of the mall will count, so long as the kill takes place within the exterior walls.{{Navbox quests}}"
@@ -3200,7 +3303,9 @@
         "images": []
     },
     "Huntsman Path - Relentless": {
-        "steps": [],
+        "steps": [
+            "No Data"
+        ],
         "images": []
     },
     "Booze": {
@@ -3217,6 +3322,14 @@
                 "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/58/CourierMap.png",
                 "text": ""
             }
+        ]
+    },
+    "Special Equipment": {},
+    "Long Road": {},
+    "Corporate Secrets": {},
+    "Seaside Vacation": {
+        "steps": [
+            "No Data"
         ]
     }
 }
