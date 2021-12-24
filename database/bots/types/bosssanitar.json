@@ -41,36 +41,38 @@
       "min": 36,
       "max": 40
     },
-    "BodyParts": {
-      "Head": {
-        "min": 70,
-        "max": 70
-      },
-      "Chest": {
-        "min": 360,
-        "max": 360
-      },
-      "Stomach": {
-        "min": 140,
-        "max": 140
-      },
-      "LeftArm": {
-        "min": 120,
-        "max": 120
-      },
-      "RightArm": {
-        "min": 120,
-        "max": 120
-      },
-      "LeftLeg": {
-        "min": 230,
-        "max": 230
-      },
-      "RightLeg": {
-        "min": 230,
-        "max": 230
+    "BodyParts": [
+      {
+        "Head": {
+          "min": 70,
+          "max": 70
+        },
+        "Chest": {
+          "min": 360,
+          "max": 360
+        },
+        "Stomach": {
+          "min": 140,
+          "max": 140
+        },
+        "LeftArm": {
+          "min": 120,
+          "max": 120
+        },
+        "RightArm": {
+          "min": 120,
+          "max": 120
+        },
+        "LeftLeg": {
+          "min": 230,
+          "max": 230
+        },
+        "RightLeg": {
+          "min": 230,
+          "max": 230
+        }
       }
-    }
+    ]
   },
   "skills": {
     "Common": {
@@ -395,19 +397,19 @@
         "5ed515e03a40a50460332579",
         "5751a25924597722c463c472",
         "544fb25a4bdc2dfb738b4567",
-        "5fca138c2a7b221b2852a5c6",
-        "5e8488fa988a8701445df1e4",
         "5af0454c86f7746bf20992e8",
         "544fb3f34bdc2d03748b456a",
+        "5fca138c2a7b221b2852a5c6",
+        "5e8488fa988a8701445df1e4",
         "590c661e86f7741e566b646a",
         "5c0e534186f7747fa1419867",
         "5c0e531286f7747fa54205c2",
         "5c0e531d86f7747fa23f4d42",
-        "544fb3364bdc2d34748b456a",
         "5e831507ea0a7c419c2f9bd9",
+        "544fb3364bdc2d34748b456a",
         "544fb37f4bdc2dee738b4567",
-        "5755383e24597772cb798966",
         "5af0548586f7743a532b7e99",
+        "5755383e24597772cb798966",
         "544fb45d4bdc2dee738b4568",
         "60098af40accd37ef2175f27",
         "60098ad7c2240c0fe85c570a",

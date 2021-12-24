@@ -135,7 +135,7 @@
 	"MaxBotPerZone": 0,
 	"OpenZones": "",
 	"OcculsionCullingEnabled": true,
-	"GlobalLootChanceModifier": 0.45,
+	"GlobalLootChanceModifier": 0.4,
 	"OldSpawn": true,
 	"NewSpawn": false,
 	"BotMax": 0,
@@ -2534,7 +2534,7 @@
 	"BossLocationSpawn": [
 		{
 			"BossName": "bossTagilla",
-			"BossChance": 19,
+			"BossChance": 23,
 			"BossZone": "BotZone",
 			"BossPlayer": false,
 			"BossDifficult": "normal",

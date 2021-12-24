@@ -198,15 +198,15 @@
 	"GlobalLootChanceModifier": 0.27,
 	"OldSpawn": false,
 	"NewSpawn": true,
-	"BotMax": 19,
-	"BotStart": 19,
+    "BotMax": 15,
+    "BotStart": 60,
 	"BotStop": 1900,
 	"BotMaxTimePlayer": 1500,
 	"BotSpawnTimeOnMin": 160,
 	"BotSpawnTimeOnMax": 220,
 	"BotSpawnTimeOffMin": 30,
 	"BotSpawnTimeOffMax": 40,
-	"BotMaxPlayer": 7,
+    "BotMaxPlayer": 5,
 	"BotEasy": 10,
 	"BotNormal": 50,
 	"BotHard": 40,
@@ -416,7 +416,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -445,7 +445,7 @@
 				"Bot"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 2000,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -533,7 +533,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -765,7 +765,7 @@
 				"Bot"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 2000,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -795,7 +795,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -883,7 +883,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -1000,7 +1000,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -1233,7 +1233,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -1291,7 +1291,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 99999,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -1349,7 +1349,7 @@
 				"Bot"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -1466,7 +1466,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -1583,7 +1583,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -1671,7 +1671,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 9000,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -1730,7 +1730,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -1847,7 +1847,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -1906,7 +1906,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -1936,7 +1936,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -2023,7 +2023,7 @@
 				"Bot"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -2053,7 +2053,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -2141,7 +2141,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -2200,7 +2200,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 9999,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -2375,7 +2375,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -2463,7 +2463,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -2783,7 +2783,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -2929,7 +2929,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -3133,7 +3133,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -3337,7 +3337,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -3396,7 +3396,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -3484,7 +3484,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 9000,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -3920,7 +3920,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -4008,7 +4008,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -4298,7 +4298,7 @@
 				"Bot"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -4473,7 +4473,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -4502,7 +4502,7 @@
 				"Bot"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -4589,7 +4589,7 @@
 				"Bot"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -4909,7 +4909,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -5374,7 +5374,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -5549,7 +5549,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -5636,7 +5636,7 @@
 				"Bot"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -5753,7 +5753,7 @@
 				"Boss"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 4,
+			"DelayToCanSpawnSec": 3600,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {

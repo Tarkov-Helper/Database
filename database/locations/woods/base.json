@@ -312,7 +312,7 @@
 	"MaxBotPerZone": 4,
 	"OpenZones": "ZoneClearVill,ZoneHouse,ZoneScavBase2,ZoneHouse,ZoneWoodCutter,ZoneBigRocks,ZoneRoad,ZoneHighRocks,ZoneMiniHouse,ZoneBigRocks",
 	"OcculsionCullingEnabled": false,
-	"GlobalLootChanceModifier": 0.7,
+	"GlobalLootChanceModifier": 0.9,
 	"OldSpawn": false,
 	"NewSpawn": true,
 	"BotMax": 13,
@@ -480,7 +480,7 @@
 		},
 		{
 			"BossName": "bossKojaniy",
-			"BossChance": 25,
+			"BossChance": 27,
 			"BossZone": "ZoneWoodCutter",
 			"BossPlayer": false,
 			"BossDifficult": "normal",
