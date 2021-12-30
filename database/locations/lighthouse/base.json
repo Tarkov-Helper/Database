@@ -198,15 +198,15 @@
 	"GlobalLootChanceModifier": 0.27,
 	"OldSpawn": false,
 	"NewSpawn": true,
-    "BotMax": 15,
-    "BotStart": 60,
+	"BotMax": 15,
+	"BotStart": 60,
 	"BotStop": 1900,
 	"BotMaxTimePlayer": 1500,
 	"BotSpawnTimeOnMin": 160,
 	"BotSpawnTimeOnMax": 220,
 	"BotSpawnTimeOffMin": 30,
 	"BotSpawnTimeOffMax": 40,
-    "BotMaxPlayer": 5,
+	"BotMaxPlayer": 5,
 	"BotEasy": 10,
 	"BotNormal": 50,
 	"BotHard": 40,
@@ -231,7 +231,8 @@
 		"VisibleDistance": 1.3,
 		"DistToPersueAxemanCoef": 0.7,
 		"DistToSleep": 350,
-		"DistToActivate": 330
+		"DistToActivate": 330,
+		"KhorovodChance": 40
 	},
 	"exits": [
 		{
@@ -445,7 +446,7 @@
 				"Bot"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 3600,
+			"DelayToCanSpawnSec": 2000,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -765,7 +766,7 @@
 				"Bot"
 			],
 			"Infiltration": "",
-			"DelayToCanSpawnSec": 3600,
+			"DelayToCanSpawnSec": 2000,
 			"ColliderParams": {
 				"_parent": "SpawnSphereParams",
 				"_props": {
@@ -5870,6 +5871,19 @@
 			"BossEscortType": "exUsec",
 			"BossEscortDifficult": "normal",
 			"BossEscortAmount": "1",
+			"Time": -1,
+			"TriggerId": "",
+			"TriggerName": ""
+		},
+		{
+			"BossName": "gifter",
+			"BossChance": 100,
+			"BossZone": "Zone_Containers,Zone_Rocks,Zone_Chalet,Zone_Village,Zone_Bridge,Zone_Chalet,Zone_Chalet",
+			"BossPlayer": false,
+			"BossDifficult": "normal",
+			"BossEscortType": "gifter",
+			"BossEscortDifficult": "normal",
+			"BossEscortAmount": "0",
 			"Time": -1,
 			"TriggerId": "",
 			"TriggerName": ""

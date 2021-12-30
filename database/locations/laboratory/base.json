@@ -114,7 +114,8 @@
 		"DistToSleep": 160,
 		"DistToActivate": 140,
 		"MagnetPower": 10,
-		"DistToPersueAxemanCoef": 1
+		"DistToPersueAxemanCoef": 1,
+		"KhorovodChance": 0
 	},
 	"exits": [
 		{

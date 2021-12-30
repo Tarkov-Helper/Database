@@ -394,7 +394,8 @@
 		"DistToActivate": 265,
 		"DistToSleep": 300,
 		"MagnetPower": 44,
-		"DistToPersueAxemanCoef": 1
+		"DistToPersueAxemanCoef": 1,
+		"KhorovodChance": 30
 	},
 	"exits": [
 		{
@@ -546,6 +547,17 @@
 			"BossEscortType": "followerBully",
 			"BossEscortDifficult": "normal",
 			"BossEscortAmount": "4",
+			"Time": -1
+		},
+		{
+			"BossName": "gifter",
+			"BossChance": 100,
+			"BossZone": "ZoneDormitory,ZoneGasStation,ZoneBrige,ZoneCrossRoad,ZoneOldAZS",
+			"BossPlayer": false,
+			"BossDifficult": "normal",
+			"BossEscortType": "gifter",
+			"BossEscortDifficult": "normal",
+			"BossEscortAmount": "0",
 			"Time": -1
 		}
 	],
@@ -6824,35 +6836,6 @@
 				}
 			},
 			"BotZoneName": ""
-		},
-		{
-			"Id": "f37187ac-421c-4d38-8f33-b589ea2fa212",
-			"Position": {
-				"x": 687.829956,
-				"y": 25.829998,
-				"z": 30.3499985
-			},
-			"Rotation": 343.038422,
-			"Sides": [
-				"Savage"
-			],
-			"Categories": [
-				"Bot"
-			],
-			"Infiltration": "",
-			"DelayToCanSpawnSec": 1700,
-			"ColliderParams": {
-				"_parent": "SpawnSphereParams",
-				"_props": {
-					"Center": {
-						"x": 0,
-						"y": 0,
-						"z": 0
-					},
-					"Radius": 117
-				}
-			},
-			"BotZoneName": "ZoneBlockPostSniper3"
 		},
 		{
 			"Id": "f44a3dce-3acb-4e54-af80-49c3c53ebca4",

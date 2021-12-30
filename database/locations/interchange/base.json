@@ -373,7 +373,8 @@
 		"GainSight": 1,
 		"MarksmanAccuratyCoef": 1,
 		"VisibleDistance": 1,
-		"DistToPersueAxemanCoef": 1
+		"DistToPersueAxemanCoef": 1,
+		"KhorovodChance": 30
 	},
 	"exits": [
 		{
@@ -476,6 +477,17 @@
 			"BossPlayer": false,
 			"BossDifficult": "normal",
 			"BossEscortType": "followerBully",
+			"BossEscortDifficult": "normal",
+			"BossEscortAmount": "0",
+			"Time": -1
+		},
+		{
+			"BossName": "gifter",
+			"BossChance": 100,
+			"BossZone": "ZoneCenterBot,ZoneCenter,ZoneOLI,ZoneIDEA,ZoneGoshan,ZoneIDEAPark,ZoneOLIPark",
+			"BossPlayer": false,
+			"BossDifficult": "normal",
+			"BossEscortType": "gifter",
 			"BossEscortDifficult": "normal",
 			"BossEscortAmount": "0",
 			"Time": -1

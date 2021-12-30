@@ -172,7 +172,8 @@
 		"DistToSleep": 150,
 		"DistToActivate": 140,
 		"MagnetPower": 15,
-		"DistToPersueAxemanCoef": 0.9
+		"DistToPersueAxemanCoef": 0.9,
+		"KhorovodChance": 0
 	},
 	"exits": [
 		{
@@ -2544,6 +2545,17 @@
 			"BossPlayer": false,
 			"BossDifficult": "normal",
 			"BossEscortType": "followerBully",
+			"BossEscortDifficult": "normal",
+			"BossEscortAmount": "0",
+			"Time": -1
+		},
+		{
+			"BossName": "gifter",
+			"BossChance": 0,
+			"BossZone": "BotZone",
+			"BossPlayer": false,
+			"BossDifficult": "normal",
+			"BossEscortType": "gifter",
 			"BossEscortDifficult": "normal",
 			"BossEscortAmount": "0",
 			"Time": -1

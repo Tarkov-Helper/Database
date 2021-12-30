@@ -13766,7 +13766,7 @@
             "FirerateReduceMinMult": 0.85,
             "FixSlideOverheat": 170,
             "MaxCOIIncreaseMult": 1.5,
-            "MaxMalfChance": 6,
+            "MaxMalfChance": 7,
             "MaxOverheat": 200,
             "MaxOverheatCoolCoef": 6,
             "MaxWearOnMaxOverheat": 0.7,
@@ -14335,7 +14335,7 @@
             "WeaponSkillRecoilBonusPerLevel": 0.003,
             "WeaponTreatment": {
                 "DurLossReducePerLevel": 0.005,
-                "Filter": ["5422acb9af1c889c16000029"],
+                "Filter": [],
                 "SkillPointsPerRepair": 7,
                 "WearChanceReducePerLevel": 0.01
             }
@@ -14784,5 +14784,5 @@
             "limit": 20
         }
     },
-    "time": 1640216227
+    "time": 1640450515
 }

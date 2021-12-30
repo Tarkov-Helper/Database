@@ -255,7 +255,8 @@
 		"VisibleDistance": 1.3,
 		"DistToPersueAxemanCoef": 1.1,
 		"DistToSleep": 350,
-		"DistToActivate": 330
+		"DistToActivate": 330,
+		"KhorovodChance": 30
 	},
 	"exits": [
 		{
@@ -441,6 +442,20 @@
 			"Time": 3,
 			"TriggerId": "raider_simple_patroling",
 			"TriggerName": "interactObject",
+			"Supports": null
+		},
+		{
+			"BossName": "gifter",
+			"BossChance": 100,
+			"BossZone": "ZoneRailStrorage,ZonePTOR1,ZonePTOR2,ZoneBarrack,ZoneSubStorage",
+			"BossPlayer": false,
+			"BossDifficult": "normal",
+			"BossEscortType": "gifter",
+			"BossEscortDifficult": "normal",
+			"BossEscortAmount": "0",
+			"Time": -1,
+			"TriggerId": "",
+			"TriggerName": "",
 			"Supports": null
 		}
 	],

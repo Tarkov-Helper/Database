@@ -172,7 +172,8 @@
 		"MagnetPower": 15,
 		"DistToSleep": 120,
 		"DistToActivate": 100,
-		"DistToPersueAxemanCoef": 0.9
+		"DistToPersueAxemanCoef": 0.9,
+		"KhorovodChance": 0
 	},
 	"exits": [
 		{
@@ -2552,6 +2553,17 @@
 			"BossEscortType": "sectantWarrior",
 			"BossEscortDifficult": "normal",
 			"BossEscortAmount": "2",
+			"Time": -1
+		},
+		{
+			"BossName": "gifter",
+			"BossChance": 0,
+			"BossZone": "BotZone",
+			"BossPlayer": false,
+			"BossDifficult": "normal",
+			"BossEscortType": "gifter",
+			"BossEscortDifficult": "normal",
+			"BossEscortAmount": "0",
 			"Time": -1
 		}
 	],
