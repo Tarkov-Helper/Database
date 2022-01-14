@@ -54,6 +54,7 @@
         }
     },
     "standingForKill": 0.01,
+    "aggressorBonus": 0.02,
     "health": {
         "Hydration": {
             "min": 100,
@@ -73,28 +74,28 @@
                     "max": 35
                 },
                 "Chest": {
-                    "min": 150,
-                    "max": 150
+                    "min": 85,
+                    "max": 85
                 },
                 "Stomach": {
-                    "min": 120,
-                    "max": 120
+                    "min": 70,
+                    "max": 70
                 },
                 "LeftArm": {
-                    "min": 100,
-                    "max": 100
+                    "min": 60,
+                    "max": 60
                 },
                 "RightArm": {
-                    "min": 100,
-                    "max": 100
+                    "min": 60,
+                    "max": 60
                 },
                 "LeftLeg": {
-                    "min": 110,
-                    "max": 110
+                    "min": 65,
+                    "max": 65
                 },
                 "RightLeg": {
-                    "min": 110,
-                    "max": 110
+                    "min": 65,
+                    "max": 65
                 }
             }
         ]
@@ -3899,7 +3900,23 @@
                 "mod_stock": [
                     "611a31ce5b7ffe001b4649d1"
                 ],
-                "patron_in_weapon": [
+                "patron_in_weapon_000": [
+                    "560d5e524bdc2d25448b4571",
+                    "5d6e6772a4b936088465b17c",
+                    "5d6e67fba4b9361bc73bc779",
+                    "5d6e6806a4b936088465b17e",
+                    "5d6e68dea4b9361bcc29e659",
+                    "5d6e6911a4b9361bd5780d52",
+                    "58820d1224597753c90aeb13",
+                    "5d6e68c4a4b9361b93413f79",
+                    "5d6e68a8a4b9360b6c0d54e2",
+                    "5d6e68e6a4b9361c140bcfe0",
+                    "5d6e68b3a4b9361bca7e50b5",
+                    "5d6e6891a4b9361bd473feea",
+                    "5d6e689ca4b9361bc8618956",
+                    "5d6e68d1a4b93622fe60e845"
+                ],
+                "patron_in_weapon_001": [
                     "560d5e524bdc2d25448b4571",
                     "5d6e6772a4b936088465b17c",
                     "5d6e67fba4b9361bc73bc779",
@@ -7389,7 +7406,7 @@
                 "SCATTERING_HAVE_DAMAGE_COEF": 2,
                 "SCATTERING_DIST_MODIF": 0.45,
                 "SCATTERING_DIST_MODIF_CLOSE": 0.6,
-                "AIMING_TYPE": 2,
+                "AIMING_TYPE": 4,
                 "DIST_TO_SHOOT_TO_CENTER": 3,
                 "DIST_TO_SHOOT_NO_OFFSET": 3,
                 "SHPERE_FRIENDY_FIRE_SIZE": -0.1,
@@ -7404,8 +7421,8 @@
                 "MIN_DAMAGE_TO_GET_HIT_AFFETS": 1,
                 "MAX_AIM_TIME": 1.5,
                 "OFFSET_RECAL_ANYWAY_TIME": 1,
-                "Y_TOP_OFFSET_COEF": 0,
-                "Y_BOTTOM_OFFSET_COEF": 0,
+                "Y_TOP_OFFSET_COEF": 1,
+                "Y_BOTTOM_OFFSET_COEF": 1,
                 "BASE_SHIEF_STATIONARY_GRENADE": 1.1,
                 "XZ_COEF_STATIONARY_GRENADE": 0.8
             },
@@ -7612,13 +7629,13 @@
             },
             "Patrol": {
                 "SPRINT_BETWEEN_CACHED_POINTS": 1,
-                "DEAD_BODY_LOOK_PERIOD": 1,
+                "DEAD_BODY_LOOK_PERIOD": 3,
                 "LOOK_TIME_BASE": 12,
-                "CAN_LOOK_TO_DEADBODIES": false,
+                "CAN_LOOK_TO_DEADBODIES": true,
                 "CAN_CHOOSE_RESERV": false,
                 "TRY_CHOOSE_RESERV_WAY_ON_START": true,
                 "CAN_FRIENDLY_TILT": true,
-                "CAN_HARD_AIM": false,
+                "CAN_HARD_AIM": true,
                 "RESERVE_TIME_STAY": 72,
                 "FRIEND_SEARCH_SEC": 12,
                 "TALK_DELAY": 1.1,
@@ -7654,7 +7671,7 @@
                 "LOOK_ONLY_DANGER_DELTA": 9
             },
             "Mind": {
-				"REVENGE_TO_GROUP": false,
+                "REVENGE_TO_GROUP": false,
                 "DEFAULT_ENEMY_USEC": false,
                 "DEFAULT_ENEMY_BEAR": true,
                 "DEFAULT_ENEMY_SAVAGE": true,
@@ -7666,7 +7683,7 @@
                 "TIME_LEAVE_MAP": 0,
                 "TIME_TO_RUN_TO_COVER_CAUSE_SHOOT_SEC": 15,
                 "DAMAGE_REDUCTION_TIME_SEC": 30,
-                "MIN_DAMAGE_SCARE": 40,
+                "MIN_DAMAGE_SCARE": 30,
                 "CHANCE_TO_RUN_CAUSE_DAMAGE_0_100": 35,
                 "TIME_TO_FORGOR_ABOUT_ENEMY_SEC": 52,
                 "TIME_TO_FIND_ENEMY": 22,
@@ -7680,7 +7697,7 @@
                 "MAX_AGGRO_BOT_DIST_SQR": 10000,
                 "DIST_TO_STOP_RUN_ENEMY": 15,
                 "CAN_TAKE_ITEMS": true,
-				"CAN_TAKE_ANY_ITEM": true,
+                "CAN_TAKE_ANY_ITEM": true,
                 "ENEMY_LOOK_AT_ME_ANG": 15,
                 "MIN_START_AGGRESION_COEF": 1,
                 "MAX_START_AGGRESION_COEF": 3,
@@ -7691,7 +7708,8 @@
                 "FRIEND_DEAD_AGR_LOW": -0.2,
                 "FRIEND_AGR_KILL": 0.2,
                 "LAST_ENEMY_LOOK_TO": 40,
-                "CAN_RECIVE_PLAYER_REQUESTS": true,
+                "CAN_RECEIVE_PLAYER_REQUESTS_BEAR": false,
+                "CAN_RECEIVE_PLAYER_REQUESTS_USEC": true,
                 "CAN_USE_MEDS": true,
                 "SUSPETION_POINT_CHANCE_ADD100": 0,
                 "AMBUSH_WHEN_UNDER_FIRE": true,
@@ -7774,6 +7792,7 @@
                 "KILLA_WAIT_IN_COVER_COEF": 1
             },
             "Core": {
+                "CAN_SHOOT_TO_HEAD": false,
                 "VisibleAngle": 160,
                 "VisibleDistance": 142,
                 "GainSightCoef": 0.1,
@@ -7884,7 +7903,7 @@
                 "SCATTERING_HAVE_DAMAGE_COEF": 1.7,
                 "SCATTERING_DIST_MODIF": 0.45,
                 "SCATTERING_DIST_MODIF_CLOSE": 0.6,
-                "AIMING_TYPE": 2,
+                "AIMING_TYPE": 4,
                 "DIST_TO_SHOOT_TO_CENTER": 3,
                 "DIST_TO_SHOOT_NO_OFFSET": 3,
                 "SHPERE_FRIENDY_FIRE_SIZE": -0.1,
@@ -7899,8 +7918,8 @@
                 "MIN_DAMAGE_TO_GET_HIT_AFFETS": 1,
                 "MAX_AIM_TIME": 1.4,
                 "OFFSET_RECAL_ANYWAY_TIME": 1,
-                "Y_TOP_OFFSET_COEF": 0,
-                "Y_BOTTOM_OFFSET_COEF": 0,
+                "Y_TOP_OFFSET_COEF": 1,
+                "Y_BOTTOM_OFFSET_COEF": 1,
                 "BASE_SHIEF_STATIONARY_GRENADE": 1.1,
                 "XZ_COEF_STATIONARY_GRENADE": 0.8
             },
@@ -8110,13 +8129,13 @@
             },
             "Patrol": {
                 "SPRINT_BETWEEN_CACHED_POINTS": 1,
-                "DEAD_BODY_LOOK_PERIOD": 1,
+                "DEAD_BODY_LOOK_PERIOD": 3,
                 "LOOK_TIME_BASE": 12,
-                "CAN_LOOK_TO_DEADBODIES": false,
+                "CAN_LOOK_TO_DEADBODIES": true,
                 "CAN_CHOOSE_RESERV": false,
                 "TRY_CHOOSE_RESERV_WAY_ON_START": true,
                 "CAN_FRIENDLY_TILT": true,
-                "CAN_HARD_AIM": false,
+                "CAN_HARD_AIM": true,
                 "RESERVE_TIME_STAY": 72,
                 "FRIEND_SEARCH_SEC": 12,
                 "TALK_DELAY": 1.1,
@@ -8152,7 +8171,7 @@
                 "LOOK_ONLY_DANGER_DELTA": 9
             },
             "Mind": {
-				"REVENGE_TO_GROUP": false,
+                "REVENGE_TO_GROUP": false,
                 "DEFAULT_ENEMY_USEC": false,
                 "DEFAULT_ENEMY_BEAR": true,
                 "DEFAULT_ENEMY_SAVAGE": true,
@@ -8164,7 +8183,7 @@
                 "TIME_LEAVE_MAP": 0,
                 "TIME_TO_RUN_TO_COVER_CAUSE_SHOOT_SEC": 15,
                 "DAMAGE_REDUCTION_TIME_SEC": 20,
-                "MIN_DAMAGE_SCARE": 45,
+                "MIN_DAMAGE_SCARE": 30,
                 "CHANCE_TO_RUN_CAUSE_DAMAGE_0_100": 35,
                 "TIME_TO_FORGOR_ABOUT_ENEMY_SEC": 52,
                 "TIME_TO_FIND_ENEMY": 22,
@@ -8178,7 +8197,7 @@
                 "MAX_AGGRO_BOT_DIST_SQR": 10000,
                 "DIST_TO_STOP_RUN_ENEMY": 15,
                 "CAN_TAKE_ITEMS": true,
-				"CAN_TAKE_ANY_ITEM": true,
+                "CAN_TAKE_ANY_ITEM": true,
                 "ENEMY_LOOK_AT_ME_ANG": 15,
                 "MIN_START_AGGRESION_COEF": 1,
                 "MAX_START_AGGRESION_COEF": 3,
@@ -8189,7 +8208,8 @@
                 "FRIEND_DEAD_AGR_LOW": -0.2,
                 "FRIEND_AGR_KILL": 0.2,
                 "LAST_ENEMY_LOOK_TO": 40,
-                "CAN_RECIVE_PLAYER_REQUESTS": true,
+                "CAN_RECEIVE_PLAYER_REQUESTS_BEAR": false,
+                "CAN_RECEIVE_PLAYER_REQUESTS_USEC": true,
                 "CAN_USE_MEDS": true,
                 "SUSPETION_POINT_CHANCE_ADD100": 0,
                 "AMBUSH_WHEN_UNDER_FIRE": true,
@@ -8272,6 +8292,7 @@
                 "KILLA_WAIT_IN_COVER_COEF": 1
             },
             "Core": {
+                "CAN_SHOOT_TO_HEAD": false,
                 "VisibleAngle": 160,
                 "VisibleDistance": 142,
                 "GainSightCoef": 0.1,
@@ -8378,7 +8399,7 @@
                 "SCATTERING_HAVE_DAMAGE_COEF": 2,
                 "SCATTERING_DIST_MODIF": 0.67,
                 "SCATTERING_DIST_MODIF_CLOSE": 0.6,
-                "AIMING_TYPE": 2,
+                "AIMING_TYPE": 4,
                 "DIST_TO_SHOOT_TO_CENTER": 3,
                 "DIST_TO_SHOOT_NO_OFFSET": 3,
                 "SHPERE_FRIENDY_FIRE_SIZE": -0.1,
@@ -8393,8 +8414,8 @@
                 "MIN_DAMAGE_TO_GET_HIT_AFFETS": 1,
                 "MAX_AIM_TIME": 1.5,
                 "OFFSET_RECAL_ANYWAY_TIME": 1,
-                "Y_TOP_OFFSET_COEF": 0,
-                "Y_BOTTOM_OFFSET_COEF": 0,
+                "Y_TOP_OFFSET_COEF": 1,
+                "Y_BOTTOM_OFFSET_COEF": 1,
                 "BASE_SHIEF_STATIONARY_GRENADE": 1.1,
                 "XZ_COEF_STATIONARY_GRENADE": 0.8
             },
@@ -8601,13 +8622,13 @@
             },
             "Patrol": {
                 "SPRINT_BETWEEN_CACHED_POINTS": 1,
-                "DEAD_BODY_LOOK_PERIOD": 1,
+                "DEAD_BODY_LOOK_PERIOD": 3,
                 "LOOK_TIME_BASE": 12,
-                "CAN_LOOK_TO_DEADBODIES": false,
+                "CAN_LOOK_TO_DEADBODIES": true,
                 "CAN_CHOOSE_RESERV": false,
                 "TRY_CHOOSE_RESERV_WAY_ON_START": true,
                 "CAN_FRIENDLY_TILT": true,
-                "CAN_HARD_AIM": false,
+                "CAN_HARD_AIM": true,
                 "RESERVE_TIME_STAY": 72,
                 "FRIEND_SEARCH_SEC": 12,
                 "TALK_DELAY": 1.1,
@@ -8643,7 +8664,7 @@
                 "LOOK_ONLY_DANGER_DELTA": 9
             },
             "Mind": {
-				"REVENGE_TO_GROUP": false,
+                "REVENGE_TO_GROUP": false,
                 "DEFAULT_ENEMY_USEC": false,
                 "DEFAULT_ENEMY_BEAR": true,
                 "DEFAULT_ENEMY_SAVAGE": true,
@@ -8655,7 +8676,7 @@
                 "TIME_LEAVE_MAP": 0,
                 "TIME_TO_RUN_TO_COVER_CAUSE_SHOOT_SEC": 15,
                 "DAMAGE_REDUCTION_TIME_SEC": 20,
-                "MIN_DAMAGE_SCARE": 40,
+                "MIN_DAMAGE_SCARE": 30,
                 "CHANCE_TO_RUN_CAUSE_DAMAGE_0_100": 35,
                 "TIME_TO_FORGOR_ABOUT_ENEMY_SEC": 52,
                 "TIME_TO_FIND_ENEMY": 22,
@@ -8669,7 +8690,7 @@
                 "MAX_AGGRO_BOT_DIST_SQR": 10000,
                 "DIST_TO_STOP_RUN_ENEMY": 15,
                 "CAN_TAKE_ITEMS": true,
-				"CAN_TAKE_ANY_ITEM": true,
+                "CAN_TAKE_ANY_ITEM": true,
                 "ENEMY_LOOK_AT_ME_ANG": 15,
                 "MIN_START_AGGRESION_COEF": 1,
                 "MAX_START_AGGRESION_COEF": 3,
@@ -8680,7 +8701,8 @@
                 "FRIEND_DEAD_AGR_LOW": -0.2,
                 "FRIEND_AGR_KILL": 0.2,
                 "LAST_ENEMY_LOOK_TO": 40,
-                "CAN_RECIVE_PLAYER_REQUESTS": true,
+                "CAN_RECEIVE_PLAYER_REQUESTS_BEAR": false,
+                "CAN_RECEIVE_PLAYER_REQUESTS_USEC": true,
                 "CAN_USE_MEDS": true,
                 "SUSPETION_POINT_CHANCE_ADD100": 0,
                 "AMBUSH_WHEN_UNDER_FIRE": true,
@@ -8763,6 +8785,7 @@
                 "KILLA_WAIT_IN_COVER_COEF": 1
             },
             "Core": {
+                "CAN_SHOOT_TO_HEAD": false,
                 "VisibleAngle": 160,
                 "VisibleDistance": 142,
                 "GainSightCoef": 0.1,
@@ -8869,7 +8892,7 @@
                 "SCATTERING_HAVE_DAMAGE_COEF": 2,
                 "SCATTERING_DIST_MODIF": 0.67,
                 "SCATTERING_DIST_MODIF_CLOSE": 0.6,
-                "AIMING_TYPE": 2,
+                "AIMING_TYPE": 4,
                 "DIST_TO_SHOOT_TO_CENTER": 3,
                 "DIST_TO_SHOOT_NO_OFFSET": 3,
                 "SHPERE_FRIENDY_FIRE_SIZE": -0.1,
@@ -8884,8 +8907,8 @@
                 "MIN_DAMAGE_TO_GET_HIT_AFFETS": 1,
                 "MAX_AIM_TIME": 1.5,
                 "OFFSET_RECAL_ANYWAY_TIME": 1,
-                "Y_TOP_OFFSET_COEF": 0,
-                "Y_BOTTOM_OFFSET_COEF": 0,
+                "Y_TOP_OFFSET_COEF": 1,
+                "Y_BOTTOM_OFFSET_COEF": 1,
                 "BASE_SHIEF_STATIONARY_GRENADE": 1.1,
                 "XZ_COEF_STATIONARY_GRENADE": 0.8
             },
@@ -9092,13 +9115,13 @@
             },
             "Patrol": {
                 "SPRINT_BETWEEN_CACHED_POINTS": 1,
-                "DEAD_BODY_LOOK_PERIOD": 1,
+                "DEAD_BODY_LOOK_PERIOD": 3,
                 "LOOK_TIME_BASE": 12,
-                "CAN_LOOK_TO_DEADBODIES": false,
+                "CAN_LOOK_TO_DEADBODIES": true,
                 "CAN_CHOOSE_RESERV": false,
                 "TRY_CHOOSE_RESERV_WAY_ON_START": true,
                 "CAN_FRIENDLY_TILT": true,
-                "CAN_HARD_AIM": false,
+                "CAN_HARD_AIM": true,
                 "RESERVE_TIME_STAY": 72,
                 "FRIEND_SEARCH_SEC": 12,
                 "TALK_DELAY": 1.1,
@@ -9134,7 +9157,7 @@
                 "LOOK_ONLY_DANGER_DELTA": 9
             },
             "Mind": {
-				"REVENGE_TO_GROUP": false,
+                "REVENGE_TO_GROUP": false,
                 "DEFAULT_ENEMY_USEC": false,
                 "DEFAULT_ENEMY_BEAR": true,
                 "DEFAULT_ENEMY_SAVAGE": true,
@@ -9146,7 +9169,7 @@
                 "TIME_LEAVE_MAP": 0,
                 "TIME_TO_RUN_TO_COVER_CAUSE_SHOOT_SEC": 15,
                 "DAMAGE_REDUCTION_TIME_SEC": 30,
-                "MIN_DAMAGE_SCARE": 40,
+                "MIN_DAMAGE_SCARE": 30,
                 "CHANCE_TO_RUN_CAUSE_DAMAGE_0_100": 35,
                 "TIME_TO_FORGOR_ABOUT_ENEMY_SEC": 52,
                 "TIME_TO_FIND_ENEMY": 22,
@@ -9160,7 +9183,7 @@
                 "MAX_AGGRO_BOT_DIST_SQR": 10000,
                 "DIST_TO_STOP_RUN_ENEMY": 15,
                 "CAN_TAKE_ITEMS": true,
-				"CAN_TAKE_ANY_ITEM": true,
+                "CAN_TAKE_ANY_ITEM": true,
                 "ENEMY_LOOK_AT_ME_ANG": 15,
                 "MIN_START_AGGRESION_COEF": 1,
                 "MAX_START_AGGRESION_COEF": 3,
@@ -9171,7 +9194,8 @@
                 "FRIEND_DEAD_AGR_LOW": -0.2,
                 "FRIEND_AGR_KILL": 0.2,
                 "LAST_ENEMY_LOOK_TO": 40,
-                "CAN_RECIVE_PLAYER_REQUESTS": true,
+                "CAN_RECEIVE_PLAYER_REQUESTS_BEAR": false,
+                "CAN_RECEIVE_PLAYER_REQUESTS_USEC": true,
                 "CAN_USE_MEDS": true,
                 "SUSPETION_POINT_CHANCE_ADD100": 0,
                 "AMBUSH_WHEN_UNDER_FIRE": true,
@@ -9254,6 +9278,7 @@
                 "KILLA_WAIT_IN_COVER_COEF": 1
             },
             "Core": {
+                "CAN_SHOOT_TO_HEAD": false,
                 "VisibleAngle": 180,
                 "VisibleDistance": 150,
                 "GainSightCoef": 0.1,

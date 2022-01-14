@@ -155,7 +155,7 @@
 	"BotMarksman": 0,
 	"DisabledScavExits": "Cellars,Gate 0",
 	"AccessKeys": [],
-	"UnixDateTime": 1636381874,
+	"UnixDateTime": 1636379319,
 	"users_gather_seconds": 0,
 	"users_spawn_seconds_n": 120,
 	"users_spawn_seconds_n2": 180,
@@ -2545,17 +2545,6 @@
 			"BossPlayer": false,
 			"BossDifficult": "normal",
 			"BossEscortType": "followerBully",
-			"BossEscortDifficult": "normal",
-			"BossEscortAmount": "0",
-			"Time": -1
-		},
-		{
-			"BossName": "gifter",
-			"BossChance": 0,
-			"BossZone": "BotZone",
-			"BossPlayer": false,
-			"BossDifficult": "normal",
-			"BossEscortType": "gifter",
 			"BossEscortDifficult": "normal",
 			"BossEscortAmount": "0",
 			"Time": -1

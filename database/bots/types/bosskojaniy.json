@@ -445,9 +445,9 @@
         "5649ed104bdc2d3d1c8b458b",
         "57a349b2245977762b199ec7",
         "57372fc52459776998772ca1",
+        "5913651986f774432f15d132",
         "5737273924597765dd374461",
         "5780cf942459777df90dcb72",
-        "5913651986f774432f15d132",
         "5ad7247386f7747487619dc3",
         "5ad7242b86f7740a6a3abd43",
         "5c1127bdd174af44217ab8b9",
@@ -870,7 +870,9 @@
         "HEAL_DELAY_SEC": 5,
         "HIT_DELAY_WHEN_HAVE_SMT": -1,
         "CAN_TAKE_ITEMS": false,
-        "HIT_DELAY_WHEN_PEACE": -1
+        "HIT_DELAY_WHEN_PEACE": -1,
+        "DEFAULT_ENEMY_USEC": true,
+        "DEFAULT_ENEMY_BEAR": true
       },
       "Boss": {
         "BOSS_DIST_TO_WARNING": 80,
@@ -1354,7 +1356,9 @@
         "HEAL_DELAY_SEC": 5,
         "HIT_DELAY_WHEN_HAVE_SMT": -1,
         "CAN_TAKE_ITEMS": false,
-        "HIT_DELAY_WHEN_PEACE": -1
+        "HIT_DELAY_WHEN_PEACE": -1,
+        "DEFAULT_ENEMY_USEC": true,
+        "DEFAULT_ENEMY_BEAR": true
       },
       "Boss": {
         "BOSS_DIST_TO_WARNING": 80,
@@ -1838,7 +1842,9 @@
         "HEAL_DELAY_SEC": 5,
         "HIT_DELAY_WHEN_HAVE_SMT": -1,
         "CAN_TAKE_ITEMS": false,
-        "HIT_DELAY_WHEN_PEACE": -1
+        "HIT_DELAY_WHEN_PEACE": -1,
+        "DEFAULT_ENEMY_USEC": true,
+        "DEFAULT_ENEMY_BEAR": true
       },
       "Boss": {
         "BOSS_DIST_TO_WARNING": 80,
@@ -2322,7 +2328,9 @@
         "HEAL_DELAY_SEC": 5,
         "HIT_DELAY_WHEN_HAVE_SMT": -1,
         "CAN_TAKE_ITEMS": false,
-        "HIT_DELAY_WHEN_PEACE": -1
+        "HIT_DELAY_WHEN_PEACE": -1,
+        "DEFAULT_ENEMY_USEC": true,
+        "DEFAULT_ENEMY_BEAR": true
       },
       "Boss": {
         "BOSS_DIST_TO_WARNING": 80,

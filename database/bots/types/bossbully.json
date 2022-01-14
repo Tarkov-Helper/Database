@@ -81,7 +81,8 @@
     "equipment": {
       "Headwear": [
         "5aa2b9ede5b5b000137b758b",
-        "60bf74184a63fc79b60c57f6"
+        "60bf74184a63fc79b60c57f6",
+        "5a43943586f77416ad2f06e2"
       ],
       "Earpiece": [],
       "FaceCover": [
@@ -106,7 +107,8 @@
       "SecondPrimaryWeapon": [],
       "Holster": [
         "5b3b713c5acfc4330140bd8d",
-        "602a9740da11d6478d5a06dc"
+        "602a9740da11d6478d5a06dc",
+        "6193a720f8ee7e52e42109ed"
       ],
       "Scabbard": [],
       "Pockets": [
@@ -390,6 +392,42 @@
         "cartridges": [
           "5a3c16fe86f77452b62de32a"
         ]
+      },
+      "6193a720f8ee7e52e42109ed": {
+        "mod_barrel": [
+          "6194f02d9bb3d20b0946d2f0"
+        ],
+        "mod_reciever": [
+          "6194f5a318a3974e5e7421eb"
+        ],
+        "mod_trigger": [
+          "6193d3cded0429009f543e6a"
+        ],
+        "mod_hammer": [
+          "6193d3be7c6c7b169525f0da"
+        ],
+        "mod_catch": [
+          "6193d5d4f8ee7e52e4210a1b"
+        ],
+        "mod_mount_000": [
+          "619624b26db0f2477964e6b0"
+        ],
+        "mod_magazine": [
+          "6193d3149fb0c665d5490e32"
+        ]
+      },
+      "6194f5a318a3974e5e7421eb": {
+        "mod_sight_rear": [
+          "6194f2df645b5d229654ad77"
+        ],
+        "mod_sight_front": [
+          "6194f3286db0f2477964e67d"
+        ]
+      },
+      "6193d3149fb0c665d5490e32": {
+        "cartridges": [
+          "5e81f423763d9f754677bf2e"
+        ]
       }
     },
     "items": {
@@ -425,7 +463,8 @@
         "5a0ee76686f7743698200d5c",
         "5d80c8f586f77440373c4ed0",
         "5780d07a2459777de4559324",
-        "59387a4986f77401cc236e62"
+        "59387a4986f77401cc236e62",
+        "6193d3149fb0c665d5490e32"
       ],
       "Backpack": [
         "5c1d0d6d86f7744bb2683e1f",
@@ -873,7 +912,9 @@
         "HIT_DELAY_WHEN_HAVE_SMT": -1,
         "HIT_DELAY_WHEN_PEACE": -1,
         "CAN_TAKE_ITEMS": false,
-        "TALK_WITH_QUERY": true
+        "TALK_WITH_QUERY": true,
+        "DEFAULT_ENEMY_USEC": true,
+        "DEFAULT_ENEMY_BEAR": true
       },
       "Boss": {
         "BOSS_DIST_TO_WARNING": 34,
@@ -1346,7 +1387,9 @@
         "HIT_DELAY_WHEN_HAVE_SMT": -1,
         "HIT_DELAY_WHEN_PEACE": -1,
         "CAN_TAKE_ITEMS": false,
-        "TALK_WITH_QUERY": true
+        "TALK_WITH_QUERY": true,
+        "DEFAULT_ENEMY_USEC": true,
+        "DEFAULT_ENEMY_BEAR": true
       },
       "Boss": {
         "BOSS_DIST_TO_WARNING": 34,
@@ -1819,7 +1862,9 @@
         "HIT_DELAY_WHEN_HAVE_SMT": -1,
         "HIT_DELAY_WHEN_PEACE": -1,
         "CAN_TAKE_ITEMS": false,
-        "TALK_WITH_QUERY": true
+        "TALK_WITH_QUERY": true,
+        "DEFAULT_ENEMY_USEC": true,
+        "DEFAULT_ENEMY_BEAR": true
       },
       "Boss": {
         "BOSS_DIST_TO_WARNING": 34,
@@ -2292,7 +2337,9 @@
         "HIT_DELAY_WHEN_HAVE_SMT": -1,
         "HIT_DELAY_WHEN_PEACE": -1,
         "CAN_TAKE_ITEMS": false,
-        "TALK_WITH_QUERY": true
+        "TALK_WITH_QUERY": true,
+        "DEFAULT_ENEMY_USEC": true,
+        "DEFAULT_ENEMY_BEAR": true
       },
       "Boss": {
         "BOSS_DIST_TO_WARNING": 34,
@@ -2418,7 +2465,7 @@
       "mod_mount_001": 0,
       "mod_mount_002": 0,
       "mod_tactical": 0,
-      "mod_sight_front": 58,
+      "mod_sight_front": 59,
       "mod_muzzle": 52,
       "mod_launcher": 0,
       "mod_reciever": 100,
