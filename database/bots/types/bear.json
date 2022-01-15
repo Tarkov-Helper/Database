@@ -51,9 +51,10 @@
         "reward": {
             "min": 250,
             "max": 1000
-        }
+        },
+	"standingForKill": 0.01,
+	"aggressorBonus": 0.02
     },
-    "standingForKill": 0.01,
     "health": {
         "Hydration": {
             "min": 100,
