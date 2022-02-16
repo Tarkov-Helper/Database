@@ -472,7 +472,7 @@
   "BossLocationSpawn": [
     {
       "BossName": "bossKilla",
-      "BossChance": 25,
+      "BossChance": 34,
       "BossZone": "ZoneCenterBot,ZoneCenter,ZoneOLI,ZoneIDEA,ZoneGoshan,ZoneIDEAPark,ZoneOLIPark",
       "BossPlayer": false,
       "BossDifficult": "normal",

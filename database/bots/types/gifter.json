@@ -79,38 +79,38 @@
   },
   "inventory": {
     "equipment": {
-      "Headwear": [
-        "5a43957686f7742a2c2f11b0"
-      ],
-      "Earpiece": [],
-      "FaceCover": [
-        "5c1a1e3f2e221602b66cc4c2"
-      ],
-      "ArmorVest": [],
-      "Eyewear": [],
-      "ArmBand": [],
-      "TacticalVest": [
-        "59e7643b86f7742cbf2c109a"
-      ],
-      "Backpack": [
-        "61b9e1aaef9a1b5d6a79899a"
-      ],
-      "FirstPrimaryWeapon": [
-        "574d967124597745970e7c94"
-      ],
-      "SecondPrimaryWeapon": [],
-      "Holster": [
-        "576a581d2459771e7b1bc4f1"
-      ],
-      "Scabbard": [
-        "57e26ea924597715ca604a09"
-      ],
-      "Pockets": [
-        "557ffd194bdc2d28148b457f"
-      ],
-      "SecuredContainer": [
-        "5c0a794586f77461c458f892"
-      ]
+      "Headwear": {
+        "5a43957686f7742a2c2f11b0": 1
+      },
+      "Earpiece": {},
+      "FaceCover": {
+        "5c1a1e3f2e221602b66cc4c2": 1
+      },
+      "ArmorVest": {},
+      "Eyewear": {},
+      "ArmBand": {},
+      "TacticalVest": {
+        "59e7643b86f7742cbf2c109a": 1
+      },
+      "Backpack": {
+        "61b9e1aaef9a1b5d6a79899a": 1
+      },
+      "FirstPrimaryWeapon": {
+        "574d967124597745970e7c94": 1
+      },
+      "SecondPrimaryWeapon": {},
+      "Holster": {
+        "576a581d2459771e7b1bc4f1": 1
+      },
+      "Scabbard": {
+        "57e26ea924597715ca604a09": 1
+      },
+      "Pockets": {
+        "557ffd194bdc2d28148b457f": 1
+      },
+      "SecuredContainer": {
+        "5c0a794586f77461c458f892": 1
+      }
     },
     "mods": {
       "574d967124597745970e7c94": {
@@ -2120,7 +2120,7 @@
       },
       "looseLoot": {
         "min": 1,
-        "max": 6
+        "max": 4
       },
       "magazines": {
         "min": 2,
