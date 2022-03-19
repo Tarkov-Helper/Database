@@ -5,16 +5,16 @@
         "Cellars extraction in the underground ",
         "Medical Tent Gates extraction behind the white TerraGroup tent.",
         "Locked room:",
-        "*[Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)",
+        "[Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)",
         "One [Weapon](https://escapefromtarkov.fandom.com/wiki/Weapon) spawn",
         "Loose loot",
-        "*[Portable bunkhouse key](https://escapefromtarkov.fandom.com/wiki/Portable_bunkhouse_key) spawn location",
+        "[Portable bunkhouse key](https://escapefromtarkov.fandom.com/wiki/Portable_bunkhouse_key) spawn location",
         "- [Customs](https://escapefromtarkov.fandom.com/wiki/Customs)",
         "Guard building:",
         "Four [Drawer](https://escapefromtarkov.fandom.com/wiki/Drawer)s",
         "One [Wooden crate](https://escapefromtarkov.fandom.com/wiki/Wooden_crate)",
         "Loose Loot",
-        "*[TerraGroup Labs Arsenal storage room key](https://escapefromtarkov.fandom.com/wiki/TerraGroup_Labs_Arsenal_storage_room_key) Spawn Location (On shelf under the telephone)",
+        "[TerraGroup Labs Arsenal storage room key](https://escapefromtarkov.fandom.com/wiki/TerraGroup_Labs_Arsenal_storage_room_key) Spawn Location (On shelf under the telephone)",
         "ZB-013 extraction"
     ],
     "5672c92d4bdc2d180f8b4567": [
@@ -41,7 +41,7 @@
         "Loose loot ([Weapon](https://escapefromtarkov.fandom.com/wiki/Weapon), [Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods))"
     ],
     "5780cfa52459777dfb276eb1": [
-        "Two quest items for [Chemical - Part 2](https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_2) ([Sealed letter (TerraGroup)](https://escapefromtarkov.fandom.com/wiki/Sealed_letter_(TerraGroup)) & [Sliderkey Secure Flash drive](https://escapefromtarkov.fandom.com/wiki/Sliderkey_Secure_Flash_drive))",
+        "Two quest items for [Chemical - Part 2](https://escapefromtarkov.fandom.com/wiki/Chemical_-_Part_2) ([Sealed letter with a TG logo](https://escapefromtarkov.fandom.com/wiki/Sealed_letter_with_a_TG_logo) & [Sliderkey Secure Flash drive](https://escapefromtarkov.fandom.com/wiki/Sliderkey_Secure_Flash_drive))",
         "[ZB-014 key](https://escapefromtarkov.fandom.com/wiki/ZB-014_key), on the table",
         "[Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)",
         "[Duffle bag](https://escapefromtarkov.fandom.com/wiki/Duffle_bag)",
@@ -53,8 +53,8 @@
         "x1 [Safe](https://escapefromtarkov.fandom.com/wiki/Safe)",
         "x1 [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)",
         "x1 [Flyye MBSS backpack](https://escapefromtarkov.fandom.com/wiki/Flyye_MBSS_backpack) spawn",
-        "x1 [PACA soft armor](https://escapefromtarkov.fandom.com/wiki/PACA_soft_armor) spawn",
-        "x1 [Folder with Intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawn",
+        "x1 [PACA Soft Armor](https://escapefromtarkov.fandom.com/wiki/PACA_Soft_Armor) spawn",
+        "x1 [Intelligence folder](https://escapefromtarkov.fandom.com/wiki/Intelligence_folder) spawn",
         "Loose loot"
     ],
     "5780d0652459777df90dcb74": [
@@ -70,12 +70,8 @@
     "57a349b2245977762b199ec7": [
         "Loose loot (misc)"
     ],
-    "5913611c86f77479e0084092": [
-        "No Data"
-    ],
-    "5913651986f774432f15d132": [
-        "No Data"
-    ],
+    "5913611c86f77479e0084092": [],
+    "5913651986f774432f15d132": [],
     "59136a4486f774447a1ed172": [
         "1 x Weapon rack",
         "1 x [Weapon box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
@@ -114,12 +110,8 @@
         "One blue standing weapons locker/[Safe](https://escapefromtarkov.fandom.com/wiki/Safe) combo",
         "Loose loot"
     ],
-    "59148f8286f7741b951ea113": [
-        "No Data"
-    ],
-    "591ae8f986f77406f854be45": [
-        "No Data"
-    ],
+    "59148f8286f7741b951ea113": [],
+    "591ae8f986f77406f854be45": [],
     "591afe0186f77431bd616a11": [
         "One [Weapon box (5x5)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x5))",
         "[AK-74 5.45x39 6L31 60-round magazine](https://escapefromtarkov.fandom.com/wiki/AK-74_5.45x39_6L31_60-round_magazine) on top of the barrels, and sometimes on the floor near the barrels",
@@ -191,6 +183,7 @@
         "One [Toolbox](https://escapefromtarkov.fandom.com/wiki/Toolbox)",
         "One [Medcase](https://escapefromtarkov.fandom.com/wiki/Medcase)",
         "One [LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn",
+        "One [Graphics Card](https://escapefromtarkov.fandom.com/wiki/Graphics_card) spawn",
         "Loose loot ([meds](https://escapefromtarkov.fandom.com/wiki/Medical), [food](https://escapefromtarkov.fandom.com/wiki/Provisions))."
     ],
     "5a0ec70e86f7742c0b518fba": [],
@@ -213,12 +206,12 @@
         "One Weapon spawn ([M4A1](https://escapefromtarkov.fandom.com/wiki/M4A1), [M1A](https://escapefromtarkov.fandom.com/wiki/M1A))"
     ],
     "5a0ee4b586f7743698200d22": [
-        "**Room 205: **",
+        "*Room 205: **",
         "One [Medcase](https://escapefromtarkov.fandom.com/wiki/Medcase)",
         "One [Sport Bag](https://escapefromtarkov.fandom.com/wiki/Sport_bag)",
         "Loose loot ([Money](https://escapefromtarkov.fandom.com/wiki/Currency))",
         "One Weapon cabinet",
-        "**Room 206:**",
+        "*Room 206:**",
         "Two [Weapon Box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
         "One [Weapon Box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4))",
         "Rare loose loot",
@@ -230,12 +223,10 @@
     "5a0ee72c86f77436955d3435": [
         "One [Weapon box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
         "One [Weapon box (5x5)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x5))",
-        "**One Rare Loot spawn (Room 209)**",
+        "*One Rare Loot spawn (Room 209)**",
         "One [Medbag](https://escapefromtarkov.fandom.com/wiki/Medbag_SMU06)"
     ],
-    "5a0ee76686f7743698200d5c": [
-        "No Data"
-    ],
+    "5a0ee76686f7743698200d5c": [],
     "5a0eeb1a86f774688b70aa5c": [],
     "5a0eeb8e86f77461257ed71a": [],
     "5a0eebed86f77461230ddb3d": [],
@@ -244,22 +235,22 @@
         "Rare loose Loot ([Bitcoins](https://escapefromtarkov.fandom.com/wiki/Physical_bitcoin), [Gold Chains](https://escapefromtarkov.fandom.com/wiki/Golden_neck_chain) etc...)"
     ],
     "5a0eecf686f7740350630097": [
-        "**Room 313:**",
+        "*Room 313:**",
         "One [Weapon box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
         "One [Medbag SMU06](https://escapefromtarkov.fandom.com/wiki/Medbag_SMU06)",
         "1 x [LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn",
         "Loose Loot ([Meds](https://escapefromtarkov.fandom.com/wiki/Medical), [Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods), [Money](https://escapefromtarkov.fandom.com/wiki/Currency))",
-        "**Room 314:**",
+        "*Room 314:**",
         "One [Weapon Box 5x2](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
         "One Weapon Spawn",
         "Loose Loot ([Meds](https://escapefromtarkov.fandom.com/wiki/Medical), [Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods), [Money](https://escapefromtarkov.fandom.com/wiki/Currency))"
     ],
     "5a0eed4386f77405112912aa": [
-        "**Room 314:**",
+        "*Room 314:**",
         "One [Weapon Box 5x2](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
         "One Weapon Spawn",
         "Loose Loot ([Meds](https://escapefromtarkov.fandom.com/wiki/Medical), [Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods), [Money](https://escapefromtarkov.fandom.com/wiki/Currency))",
-        "**Room 313:**",
+        "*Room 313:**",
         "1x [Weapon box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
         "1x [Medbag SMU06](https://escapefromtarkov.fandom.com/wiki/Medbag_SMU06)",
         "1x [LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn located on the top of the boxes",
@@ -308,42 +299,42 @@
         "One [Armor vest](https://escapefromtarkov.fandom.com/wiki/Armor_vests) spawn"
     ],
     "5a13ef7e86f7741290491063": [
-        "**Room 301:**",
+        "*Room 301:**",
         "Loose loot",
         "1 x [Graphics card](https://escapefromtarkov.fandom.com/wiki/Graphics_card) spawn",
-        "*1 x [LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn on the white crates.",
-        "**Room 304:**",
+        "1 x [LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn on the white crates.",
+        "*Room 304:**",
         "One [Weapon box (5x5)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x5))",
         "Two [PC's](https://escapefromtarkov.fandom.com/wiki/PC_block)",
         "Loose loot (Computer parts, [Meds](https://escapefromtarkov.fandom.com/wiki/Medical), [Money](https://escapefromtarkov.fandom.com/wiki/Currency))",
         "2 x [Graphics card](https://escapefromtarkov.fandom.com/wiki/Graphics_card) spawn",
         "One Weapon Spawn ([SV-98](https://escapefromtarkov.fandom.com/wiki/SV-98))",
-        "*2 x [LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawns on table next to the computer."
+        "2 x [LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawns on table next to the computer."
     ],
     "5a13f24186f77410e57c5626": [
-        "**Room 222:**",
+        "*Room 222:**",
         "One [Weapon Box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
         "One Weapon Rack",
         "One [Grenade Box](https://escapefromtarkov.fandom.com/wiki/Grenade_box)",
         "One [Toolbox](https://escapefromtarkov.fandom.com/wiki/Toolbox)",
         "Rare item spawn",
         "Three weapon spawns (one [RSASS](https://escapefromtarkov.fandom.com/wiki/RSASS), one [SV-98 7.62x54R bolt-action sniper rifle](https://escapefromtarkov.fandom.com/wiki/SV-98_7.62x54R_bolt-action_sniper_rifle) and one [MP5](https://escapefromtarkov.fandom.com/wiki/MP5))",
-        "*One [Physical bitcoin](https://escapefromtarkov.fandom.com/wiki/Physical_bitcoin) spawn (inside of the cardboard box)",
-        "**Room 226:**",
+        "One [Physical bitcoin](https://escapefromtarkov.fandom.com/wiki/Physical_bitcoin) spawn (inside of the cardboard box)",
+        "*Room 226:**",
         "One [Weapon Box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
-        "***One Gun Locker (on Balcony shared with Room 222)**",
+        "**One Gun Locker (on Balcony shared with Room 222)**",
         "Multiple [LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawns",
         "One [MP-153 12ga semi-automatic shotgun](https://escapefromtarkov.fandom.com/wiki/MP-153_12ga_semi-automatic_shotgun) spawn",
-        "*Loose loot ([Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Food](https://escapefromtarkov.fandom.com/wiki/Provisions))"
+        "Loose loot ([Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Food](https://escapefromtarkov.fandom.com/wiki/Provisions))"
     ],
     "5a13f35286f77413ef1436b0": [
-        "**Room 226: **",
-        "*One [Weapon Box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
-        "***One Gun Locker (on Balcony shared with Room 222)**",
+        "*Room 226: **",
+        "One [Weapon Box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
+        "**One Gun Locker (on Balcony shared with Room 222)**",
         "Multiple [LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawns",
         "One [MP-153 12ga semi-automatic shotgun](https://escapefromtarkov.fandom.com/wiki/MP-153_12ga_semi-automatic_shotgun) spawn",
-        "*Loose loot ([Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Food](https://escapefromtarkov.fandom.com/wiki/Provisions), [Medical](https://escapefromtarkov.fandom.com/wiki/Medical))",
-        "**Room 222 :**",
+        "Loose loot ([Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Food](https://escapefromtarkov.fandom.com/wiki/Provisions), [Medical](https://escapefromtarkov.fandom.com/wiki/Medical))",
+        "*Room 222 :**",
         "One [Weapon Box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
         "One Weapon Rack",
         "One [Grenade Box](https://escapefromtarkov.fandom.com/wiki/Grenade_box)",
@@ -357,12 +348,12 @@
         "One Weapon Spawn ([M4A1](https://escapefromtarkov.fandom.com/wiki/M4A1))"
     ],
     "5a144bdb86f7741d374bbde0": [
-        "**Room 205: **",
+        "*Room 205: **",
         "One [Medcase](https://escapefromtarkov.fandom.com/wiki/Medcase)",
         "One [Sport Bag](https://escapefromtarkov.fandom.com/wiki/Sport_bag)",
         "Loose loot ([Money](https://escapefromtarkov.fandom.com/wiki/Currency))",
         "One Weapon cabinet",
-        "**Room 206:**",
+        "*Room 206:**",
         "Two [Weapon Box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
         "One [Weapon Box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4))",
         "Rare loose loot",
@@ -387,7 +378,7 @@
         "Loose loot ([Money](https://escapefromtarkov.fandom.com/wiki/Currency))"
     ],
     "5a145d4786f7744cbb6f4a12": [
-        "**Room 306:**",
+        "*Room 306:**",
         "[DVL-10](https://escapefromtarkov.fandom.com/wiki/LOBAEV_Arms_DVL-10_Saboteur_.308_bolt-action_sniper_rifle) spawn",
         "Possible [LEDX Skin Transilluminator](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn",
         "Four [PC Blocks](https://escapefromtarkov.fandom.com/wiki/PC_block)",
@@ -395,26 +386,26 @@
         "Rare spawn",
         "One [Flyye MBSS backpack](https://escapefromtarkov.fandom.com/wiki/Flyye_MBSS_backpack) spawn",
         "Loose loot ([Money](https://escapefromtarkov.fandom.com/wiki/Currency))",
-        "**Room 308:**",
+        "*Room 308:**",
         "One Weapon Rack ",
         "One Weapon spawn ",
         "One [Medcase](https://escapefromtarkov.fandom.com/wiki/Medcase)",
         "Loose loot ([Money](https://escapefromtarkov.fandom.com/wiki/Currency))"
     ],
     "5a145d7b86f7744cbb6f4a13": [
-        "**Room 308:**",
+        "*Room 308:**",
         "One Weapon Rack ",
         "One Weapon Spawn ",
         "One [Medcase](https://escapefromtarkov.fandom.com/wiki/Medcase)",
-        "*Loose loot ([Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Food](https://escapefromtarkov.fandom.com/wiki/Provisions))",
-        "**Room 306:**",
-        "*[DVL-10](https://escapefromtarkov.fandom.com/wiki/LOBAEV_Arms_DVL-10_Saboteur_.308_bolt-action_sniper_rifle) Spawn",
-        "*Possible [LEDX Skin Transilluminator](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn",
+        "Loose loot ([Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Food](https://escapefromtarkov.fandom.com/wiki/Provisions))",
+        "*Room 306:**",
+        "[DVL-10](https://escapefromtarkov.fandom.com/wiki/LOBAEV_Arms_DVL-10_Saboteur_.308_bolt-action_sniper_rifle) Spawn",
+        "Possible [LEDX Skin Transilluminator](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn",
         "Four [PC Blocks](https://escapefromtarkov.fandom.com/wiki/PC_block)",
         "One [Weapon Box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4))",
         "Rare Spawn",
         "One [Flyye MBSS backpack](https://escapefromtarkov.fandom.com/wiki/Flyye_MBSS_backpack) spawn",
-        "*Loose loot ([Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Food](https://escapefromtarkov.fandom.com/wiki/Provisions))"
+        "Loose loot ([Money](https://escapefromtarkov.fandom.com/wiki/Currency), [Food](https://escapefromtarkov.fandom.com/wiki/Provisions))"
     ],
     "5a145ebb86f77458f1796f05": [
         "One [Weapon Box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
@@ -439,14 +430,13 @@
     ],
     "5ad5d64486f774079b080af8": [
         "Loose [medical loot](https://escapefromtarkov.fandom.com/wiki/Medical) ",
-        "[Hydrogen peroxide](https://escapefromtarkov.fandom.com/wiki/Hydrogen_peroxide)",
-        "[Saline solution](https://escapefromtarkov.fandom.com/wiki/Saline_solution)",
-        "[LEDX Skin Transilluminator](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn"
+        "[Hydrogen peroxide](https://escapefromtarkov.fandom.com/wiki/Hydrogen_peroxide) spawn",
+        "[Saline solution](https://escapefromtarkov.fandom.com/wiki/Saline_solution) spawn",
+        "[LEDX Skin Transilluminator](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawn",
+        "[Ophthalmoscope](https://escapefromtarkov.fandom.com/wiki/Ophthalmoscope) spawn"
     ],
     "5ad5d7d286f77450166e0a89": [],
-    "5ad5db3786f7743568421cce": [
-        "No Data"
-    ],
+    "5ad5db3786f7743568421cce": [],
     "5ad7217186f7746744498875": [
         "The content of 18x [Cash register TAR2-2](https://escapefromtarkov.fandom.com/wiki/Cash_register_TAR2-2)"
     ],
@@ -469,36 +459,16 @@
         "Two loose [Currency](https://escapefromtarkov.fandom.com/wiki/Currency) stacks",
         "A very large amount of loose [Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods) and [Ammunition](https://escapefromtarkov.fandom.com/wiki/Ammunition)."
     ],
-    "5c1d0c5f86f7744bb2683cf0": [
-        "No Data"
-    ],
-    "5c1d0d6d86f7744bb2683e1f": [
-        "No Data"
-    ],
-    "5c1d0dc586f7744baf2e7b79": [
-        "No Data"
-    ],
-    "5c1d0efb86f7744baf2e7b7b": [
-        "No Data"
-    ],
-    "5c1d0f4986f7744bb01837fa": [
-        "No Data"
-    ],
-    "5c1e2a1e86f77431ea0ea84c": [
-        "No Data"
-    ],
-    "5c1e2d1f86f77431e9280bee": [
-        "No Data"
-    ],
-    "5c1e495a86f7743109743dfb": [
-        "No Data"
-    ],
-    "5c1f79a086f7746ed066fb8f": [
-        "No Data"
-    ],
-    "5c94bbff86f7747ee735c08f": [
-        "No Data"
-    ],
+    "5c1d0c5f86f7744bb2683cf0": [],
+    "5c1d0d6d86f7744bb2683e1f": [],
+    "5c1d0dc586f7744baf2e7b79": [],
+    "5c1d0efb86f7744baf2e7b7b": [],
+    "5c1d0f4986f7744bb01837fa": [],
+    "5c1e2a1e86f77431ea0ea84c": [],
+    "5c1e2d1f86f77431e9280bee": [],
+    "5c1e495a86f7743109743dfb": [],
+    "5c1f79a086f7746ed066fb8f": [],
+    "5c94bbff86f7747ee735c08f": [],
     "5d08d21286f774736e7c94c3": [
         "1 x [Common fund stash](https://escapefromtarkov.fandom.com/wiki/Common_fund_stash)"
     ],
@@ -518,7 +488,7 @@
     ],
     "5d80c6c586f77440351beef1": [
         "One [Drawer](https://escapefromtarkov.fandom.com/wiki/Drawer)",
-        "[Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) and [Physical Bitcoin](https://escapefromtarkov.fandom.com/wiki/Physical_bitcoin) spawn on Desk"
+        "[Intelligence folder](https://escapefromtarkov.fandom.com/wiki/Intelligence_folder) and [Physical Bitcoin](https://escapefromtarkov.fandom.com/wiki/Physical_bitcoin) spawn on Desk"
     ],
     "5d80c6fc86f774403a401e3c": [
         "3 Weapon racks ([AK-74N](https://escapefromtarkov.fandom.com/wiki/AK-74N), [AKS-74U](https://escapefromtarkov.fandom.com/wiki/AKS-74U), [AKS-74N](https://escapefromtarkov.fandom.com/wiki/AKS-74N), [AKS-74UB](https://escapefromtarkov.fandom.com/wiki/AKS-74UB), [AKS-74UN](https://escapefromtarkov.fandom.com/wiki/AKS-74UN))",
@@ -538,24 +508,24 @@
         "Loose loot (Building Materials, Tools, and [Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods))",
         "One [Wooden Crate](https://escapefromtarkov.fandom.com/wiki/Wooden_crate)",
         "One [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)",
-        "Can spawn [Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence)",
+        "Can spawn [Intelligence folder](https://escapefromtarkov.fandom.com/wiki/Intelligence_folder)",
         "Can spawn [Old firesteel](https://escapefromtarkov.fandom.com/wiki/Old_firesteel)",
         "Can spawn [FP-100 filter absorber](https://escapefromtarkov.fandom.com/wiki/FP-100_filter_absorber)"
     ],
     "5d80c8f586f77440373c4ed0": [
-        "[Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawn on Desk",
+        "[Intelligence folder](https://escapefromtarkov.fandom.com/wiki/Intelligence_folder) spawn on Desk",
         "One [Drawer](https://escapefromtarkov.fandom.com/wiki/Drawer)",
         "Valuables spawn on shelf"
     ],
     "5d80c93086f7744036212b41": [
         "One [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)",
         "One [Toolbox](https://escapefromtarkov.fandom.com/wiki/Toolbox)",
-        "[Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawns on the desks"
+        "[Intelligence folder](https://escapefromtarkov.fandom.com/wiki/Intelligence_folder) spawns on the desks"
     ],
     "5d80c95986f77440351beef3": [
         "1x [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)",
         "1x [Wooden crate](https://escapefromtarkov.fandom.com/wiki/Wooden_crate)",
-        "One [Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) (on top of the table, left of the wooden crate)",
+        "One [Intelligence folder](https://escapefromtarkov.fandom.com/wiki/Intelligence_folder) (on top of the table, left of the wooden crate)",
         "One [6-STEN-140-M military battery](https://escapefromtarkov.fandom.com/wiki/6-STEN-140-M_military_battery) spawn",
         "Loose loot, ammo"
     ],
@@ -566,7 +536,7 @@
         "Loose loot ([Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods), [Ammunition](https://escapefromtarkov.fandom.com/wiki/Ammunition))",
         "One [Toolbox](https://escapefromtarkov.fandom.com/wiki/Toolbox)",
         "One [Weapon Box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4))",
-        "[Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawn on desk & on cabinets.",
+        "[Intelligence folder](https://escapefromtarkov.fandom.com/wiki/Intelligence_folder) spawn on desk & on cabinets.",
         "[6-STEN-140-M military battery](https://escapefromtarkov.fandom.com/wiki/6-STEN-140-M_military_battery) spawn (On the table to the right of the door.)"
     ],
     "5d80cab086f77440535be201": [
@@ -593,13 +563,13 @@
         "Loose loot ([Tools](https://escapefromtarkov.fandom.com/wiki/Loot))",
         "One [drawer](https://escapefromtarkov.fandom.com/wiki/drawer)",
         "Possible spawn for [6-STEN-140-M military battery](https://escapefromtarkov.fandom.com/wiki/6-STEN-140-M_military_battery)",
-        "[Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawn on the chair beside the desk"
+        "[Intelligence folder](https://escapefromtarkov.fandom.com/wiki/Intelligence_folder) spawn on the chair beside the desk"
     ],
     "5d80ccac86f77470841ff452": [
         "3 Weapon racks ([AK-74N](https://escapefromtarkov.fandom.com/wiki/AK-74N), [AKS-74U](https://escapefromtarkov.fandom.com/wiki/AKS-74U), [AKS-74N](https://escapefromtarkov.fandom.com/wiki/AKS-74N), [AKS-74UB](https://escapefromtarkov.fandom.com/wiki/AKS-74UB), [AKS-74UN](https://escapefromtarkov.fandom.com/wiki/AKS-74UN))",
         "Loose loot ([Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods), [Ammunition](https://escapefromtarkov.fandom.com/wiki/Ammunition))",
         "Two [Drawer](https://escapefromtarkov.fandom.com/wiki/Drawer)s",
-        "[Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawn on ground"
+        "[Intelligence folder](https://escapefromtarkov.fandom.com/wiki/Intelligence_folder) spawn on ground"
     ],
     "5d80ccdd86f77474f7575e02": [
         "Loose loot ([Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods), [Ammunition](https://escapefromtarkov.fandom.com/wiki/Ammunition))",
@@ -614,7 +584,7 @@
     ],
     "5d8e0db586f7744450412a42": [
         "Two [Drawer](https://escapefromtarkov.fandom.com/wiki/Drawer)s",
-        "[Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawns on desk and on top of the two drawers."
+        "[Intelligence folder](https://escapefromtarkov.fandom.com/wiki/Intelligence_folder) spawns on desk and on top of the two drawers."
     ],
     "5d8e0e0e86f774321140eb56": [
         "One Standing Weapon Safe",
@@ -622,13 +592,13 @@
         "One Weapon Cabinet",
         "One [Weapon Box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
         "One small safe under desk",
-        "Two [intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawns, on the desk and on top of the safe"
+        "Two [intelligence](https://escapefromtarkov.fandom.com/wiki/Intelligence_folder) spawns, on the desk and on top of the safe"
     ],
     "5d8e15b686f774445103b190": [
         "One [Weapon box](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x5))",
         "One [Weapon box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4))",
         "One [Weapon box (6x3)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(6x3))",
-        "One [Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence) spawn on the small wooden desk in the corner",
+        "One [Intelligence folder](https://escapefromtarkov.fandom.com/wiki/Intelligence_folder) spawn on the small wooden desk in the corner",
         "Loose [Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods) on the small wooden desk in the corner"
     ],
     "5d8e3ecc86f774414c78d05e": [
@@ -680,15 +650,13 @@
         "1st room",
         "One [Weapon box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
         "One [Weapon box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4))",
-        "*One [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)",
+        "One [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)",
         "2nd room",
         "Two [Weapon box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4)) (At the same location)",
         "One [Wooden crate (5x2)](https://escapefromtarkov.fandom.com/wiki/Wooden_crate)",
-        "*Loose loot ([barter items](https://escapefromtarkov.fandom.com/wiki/barter_items))"
+        "Loose loot ([barter items](https://escapefromtarkov.fandom.com/wiki/barter_items))"
     ],
-    "5e42c71586f7747f245e1343": [
-        "No Data"
-    ],
+    "5e42c71586f7747f245e1343": [],
     "5e42c81886f7742a01529f57": [],
     "5e42c83786f7742a021fdf3c": [],
     "5ede7a8229445733cb4c18e2": [
@@ -701,12 +669,10 @@
     "5ede7b0c6d23e5473e6e8c66": [
         "Loose loot ([Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods), [Ammunition](https://escapefromtarkov.fandom.com/wiki/Ammunition))",
         "Three [Drawer](https://escapefromtarkov.fandom.com/wiki/Drawer)s",
-        "One [Folder with intelligence](https://escapefromtarkov.fandom.com/wiki/Folder_with_intelligence)",
+        "One [Intelligence folder](https://escapefromtarkov.fandom.com/wiki/Intelligence_folder)",
         "Loose military tech items"
     ],
-    "5efde6b4f5448336730dbd61": [
-        "No Data"
-    ],
+    "5efde6b4f5448336730dbd61": [],
     "5eff09cd30a7dc22fd1ddfed": [
         "[PC](https://escapefromtarkov.fandom.com/wiki/PC_block)",
         "Multiple [LEDX](https://escapefromtarkov.fandom.com/wiki/LEDX_Skin_Transilluminator) spawns in the bathroom",
@@ -715,33 +681,44 @@
         "[Plastic suitcase](https://escapefromtarkov.fandom.com/wiki/Plastic_suitcase)",
         "Spawn of [GPU](https://escapefromtarkov.fandom.com/wiki/Graphics_card) left side of the desk"
     ],
+    "61a64428a8c6aa1b795f0ba1": [
+        "1x [Medcase](https://escapefromtarkov.fandom.com/wiki/Medcase)",
+        "1x [Dead Scav](https://escapefromtarkov.fandom.com/wiki/Dead_Scav)",
+        "Many different kinds of loose [loot](https://escapefromtarkov.fandom.com/wiki/loot)"
+    ],
     "61a6444b8c141d68246e2d2f": [
-        "No Data"
+        "1x [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)",
+        "1x [Sport bag](https://escapefromtarkov.fandom.com/wiki/Sport_bag)",
+        "Many different kinds of loose [loot](https://escapefromtarkov.fandom.com/wiki/loot)"
     ],
-    "61a6446f4b5f8b70f451b166": [
-        "No Data"
-    ],
+    "61a6446f4b5f8b70f451b166": [],
     "61a64492ba05ef10d62adcc1": [
-        "One [Weapon box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
-        "One [Weapon box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4))",
-        "One [Weapon box (5x5)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x5))",
-        "Loose [Weapon Mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods)"
+        "1x [Weapon box (5x2)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x2))",
+        "1x [Weapon box (4x4)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(4x4))",
+        "1x [Weapon box (5x5)](https://escapefromtarkov.fandom.com/wiki/Weapon_box_(5x5))",
+        "[Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods)",
+        "Loose [loot](https://escapefromtarkov.fandom.com/wiki/loot)"
     ],
     "61aa5aed32a4743c3453d319": [
-        "No Data"
+        "[Intelligence folder](https://escapefromtarkov.fandom.com/wiki/Intelligence_folder) spawn in front of the seat",
+        "[AK-103 7.62x39 assault rifle](https://escapefromtarkov.fandom.com/wiki/AK-103_7.62x39_assault_rifle) spawn on the seat"
     ],
     "61aa5b518f5e7a39b41416e2": [
-        "No Data"
+        "Valueables",
+        "Electronics",
+        "Stimulators",
+        "Currency"
     ],
     "61aa5b7db225ac1ead7957c1": [
-        "No Data"
+        "Jewelry items"
     ],
     "61aa5ba8018e9821b7368da9": [
-        "No Data"
+        "Jewelry items"
     ],
     "61aa81fcb225ac1ead7957c3": [
-        "Two [Toolbox](https://escapefromtarkov.fandom.com/wiki/Toolbox)es",
-        "Loose weapon parts",
-        "One [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)"
+        "2x [Toolbox](https://escapefromtarkov.fandom.com/wiki/Toolbox)",
+        "[Weapon mods](https://escapefromtarkov.fandom.com/wiki/Weapon_mods)",
+        "1x [Jacket](https://escapefromtarkov.fandom.com/wiki/Jacket)",
+        "Possible spawn of [6-STEN-140-M military battery](https://escapefromtarkov.fandom.com/wiki/6-STEN-140-M_military_battery) (Under the table)"
     ]
 }
