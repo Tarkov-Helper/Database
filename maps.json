@@ -1,14 +1,14 @@
 {
     "thelab": [
         {
-            "name": "In Game",
-            "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0b/TheLabMapFull.png",
-            "author": "Battlestate Games"
-        },
-        {
             "name": "All Floors",
             "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/cf/The_Lab_Map_%28Horizontal%29_%28EN%29.png",
             "author": "FatalBulletHit"
+        },
+        {
+            "name": "In Game",
+            "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/0b/TheLabMapFull.png",
+            "author": "Battlestate Games"
         },
         {
             "name": "Basement",
@@ -30,14 +30,14 @@
     ],
     "woods": [
         {
-            "name": "In Game",
-            "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/84/Woods_Map_0.5.4.823.jpg",
-            "author": "Battlestate Games"
-        },
-        {
             "name": "General",
             "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/0/05/Glory4lyfeWoods_map_v4_marked.png",
             "author": "Jindouz"
+        },
+        {
+            "name": "In Game",
+            "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/8/84/Woods_Map_0.5.4.823.jpg",
+            "author": "Battlestate Games"
         },
         {
             "name": "Stashes",
@@ -71,14 +71,14 @@
     ],
     "reserve": [
         {
+            "name": "General",
+            "link": "https://reemr.se/wp-content/uploads/2022/01/ReserveCardinalNDay.png",
+            "author": "RE3MR"
+        },
+        {
             "name": "In Game",
             "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/42/Reserve_Map_Translated.png",
             "author": "Battlestate Games"
-        },
-        {
-            "name": "General",
-            "link": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/42/3D_Map_by_loweffortsaltbox.png",
-            "author": "Loweffortsaltbox & Re3mr"
         },
         {
             "name": "Keys",
@@ -111,8 +111,13 @@
     "lighthouse": [
         {
             "name": "General",
-            "link": "https://i.imgur.com/JqeiYxi.png",
-            "author": "Jindouz"
+            "link": "https://reemr.se/maps/Lighthouse/re3mrLighthouseVerticalDay.png",
+            "author": "RE3MR"
+        },
+        {
+            "name": "Isometric",
+            "link": "https://reemr.se/maps/Lighthouse/re3mrLighthouseIsometricDay.png",
+            "author": "RE3MR"
         }
     ]
 }
